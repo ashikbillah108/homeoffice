@@ -1,0 +1,24 @@
+\t (00:00:01) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:01)     Journal start - Fri Apr 24 09:56:21 2026
+\t (00:00:01)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=36548 CPUs=20
+\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:05) Design opened: C:/Users/Ashik-iTest/Desktop/20260419/980FY-S071AA-1AH-A10/S071AA-0413-20260423_Power.brd
+\i (00:00:05) trapsize 21238
+\i (00:00:05) trapsize 20857
+\i (00:00:05) trapsize 21303
+\i (00:00:05) trapsize 21238
+\i (00:00:05) trapsize 21238
+\i (00:00:06) placementedit 
+\i (00:00:08) open 
+\i (00:00:14) fillin "C:\Users\Ashik-iTest\Desktop\980NC-STALIT-1A4-A10\SK_BGA102P_0P35MM_STALIT.dra"
+\i (00:00:14) cd "C:\Users\Ashik-iTest\Desktop\980NC-STALIT-1A4-A10"
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 4762
+\i (00:00:14) trapsize 4662
+\i (00:00:14) trapsize 4762
+\i (00:00:14) trapsize 4850
+\i (00:00:14) trapsize 4219
+\i (00:00:14) trapsize 4592
+\t (00:00:14)     Journal end - Fri Apr 24 09:56:34 2026
