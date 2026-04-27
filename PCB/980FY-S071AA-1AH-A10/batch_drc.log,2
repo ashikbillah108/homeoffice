@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : S071AA-0413-20260420.brd                      )
+(    Drawing          : S071AA-0413-20260427.brd                      )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Mon Apr 20 11:24:21 2026                      )
+(    Date/Time        : Mon Apr 27 16:33:05 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,8 +20,8 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  907
+ ..... Total number of DRC errors  986
 
- ..... DRC update completed, total CPU time   0:00:01
+ ..... DRC update completed, total CPU time   0:00:13
  *************************************************************************
 
