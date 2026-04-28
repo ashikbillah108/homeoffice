@@ -1,0 +1,19 @@
+\t (00:00:04) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:04)     Journal start - Mon Apr 27 17:04:31 2026
+\t (00:00:04)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=18388 CPUs=20
+\t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:04) 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/Users/Ashik-iTest/Desktop/20260419/980FY-S071AA-1AH-A10/S071AA-0413-20260427.brd
+\i (00:00:07) trapsize 11280
+\i (00:00:07) trapsize 11078
+\i (00:00:07) trapsize 11315
+\i (00:00:08) trapsize 11280
+\i (00:00:08) trapsize 11280
+\i (00:00:09) placementedit 
+\i (00:00:09) open 
+\i (00:00:14) fillin "C:\Users\Ashik-iTest\Downloads\S071AA-0413-20260427\S071AA-0413-20260427.brd"
+\i (00:00:14) cd "C:\Users\Ashik-iTest\Downloads\S071AA-0413-20260427"
+\t (00:00:14) Opening existing design...
+\i (00:00:15) trapsize 11280
+\t (00:00:15)     Journal end - Mon Apr 27 17:04:42 2026
