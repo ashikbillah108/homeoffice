@@ -40,7 +40,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "1081 721")
+        (Scroll "915 776")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -51,7 +51,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "1081 721")
+        (Scroll "830 776")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -61,8 +61,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "452 811")
+        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
+        (Scroll "30 536")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -73,7 +73,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "1081 721")
+        (Scroll "1425 776")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -84,7 +84,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "1081 721")
+        (Scroll "915 776")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -94,8 +94,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "1081 721")
+        (Placement "44 2 3 -1 -1 -8 -31 0 136 0 39")
+        (Scroll "1425 776")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -106,7 +106,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "1081 721")
+        (Scroll "1425 776")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -128,7 +128,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "729 811")
+        (Scroll "690 811")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -216,7 +216,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "1081 696")
+        (Scroll "1425 776")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -227,11 +227,22 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "1081 696")
+        (Scroll "1425 776")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P0011_S1_DUT")))
+      (Page "P0011_S1_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1778 78 530")
+        (Scroll "47 476")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T13.SLOT13_HDVI")))
   (MPSSessionName "Ashik-iTest"))
