@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : 038NC-GRIFFI-V9A_16_20260510_rip.brd          )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Sun May 10 11:17:30 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\GIT\HOMEOFFICE\PCB\TASK 2\038NC-GRIFFI-V9A_16\allegro'
+Design Directory:            'D:/Git/homeoffice/PCB/Task 2/038NC-GRIFFI-V9A_16'
+Old design name:             'D:/Git/homeoffice/PCB/Task 2/038NC-GRIFFI-V9A_16/038NC-GRIFFI-V9A_16_20260510_rip.brd'
+New design name:             'D:/Git/homeoffice/PCB/Task 2/038NC-GRIFFI-V9A_16/ashik.brd'
+
+CmdLine: netrev.exe -y 1 -i D:\GIT\HOMEOFFICE\PCB\TASK 2\038NC-GRIFFI-V9A_16\allegro D:\Git\homeoffice\PCB\Task 2\038NC-GRIFFI-V9A_16\038NC-GRIFFI-V9A_16_20260510_rip.brd D:\Git\homeoffice\PCB\Task 2\038NC-GRIFFI-V9A_16\ashik
+
+------ Preparing to read pst files ------
+
+Starting to read D:/GIT/HOMEOFFICE/PCB/TASK 2/038NC-GRIFFI-V9A_16/allegro/pstchip.dat 
+   Finished reading D:/GIT/HOMEOFFICE/PCB/TASK 2/038NC-GRIFFI-V9A_16/allegro/pstchip.dat (00:00:00.04)
+Starting to read D:/GIT/HOMEOFFICE/PCB/TASK 2/038NC-GRIFFI-V9A_16/allegro/pstxprt.dat 
+   Finished reading D:/GIT/HOMEOFFICE/PCB/TASK 2/038NC-GRIFFI-V9A_16/allegro/pstxprt.dat (00:00:00.04)
+Starting to read D:/GIT/HOMEOFFICE/PCB/TASK 2/038NC-GRIFFI-V9A_16/allegro/pstxnet.dat 
+   Finished reading D:/GIT/HOMEOFFICE/PCB/TASK 2/038NC-GRIFFI-V9A_16/allegro/pstxnet.dat (00:00:00.07)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  D:/Git/homeoffice/PCB/Task 2/Ashik/LIB/ 
+
+PADPATH =  D:/Git/homeoffice/PCB/Task 2/Ashik/LIB/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on May 10 11:17:30 2026
+   DESIGN NAME : '980NC-GRIFFI-1C4-A10_20260427_V9-A'
+   PACKAGING ON Aug  3 2015 18:16:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:19
+elapsed time  0:00:00
+

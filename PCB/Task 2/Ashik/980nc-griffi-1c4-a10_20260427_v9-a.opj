@@ -18,7 +18,7 @@
       (Path "Design Resources" ".\980nc-griffi-1c4-a10_20260427_v9-a.dsn"
          "SCHEMATIC1")
       (Select "Design Resources" ".\980nc-griffi-1c4-a10_20260427_v9-a.dsn"
-         "SCHEMATIC1" "P0011_S1_DUT"))
+         "SCHEMATIC1" "P0161_S16_DUT"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -28,12 +28,232 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1740 104 556")
-        (Scroll "0 500")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1778 52 470")
+        (Scroll "0 1090")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P0011_S1_DUT")))
-  (MPSSessionName "thene"))
+      (Page "P0011_S1_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1804 78 496")
+        (Scroll "0 1171")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0021_S2_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1830 104 522")
+        (Scroll "0 1110")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0031_S3_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1856 130 548")
+        (Scroll "0 1171")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0041_S4_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1882 156 574")
+        (Scroll "0 1080")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0051_S5_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1908 182 600")
+        (Scroll "0 1171")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0061_S6_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1726 0 418")
+        (Scroll "0 1010")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0071_S7_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1752 26 444")
+        (Scroll "0 1171")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0081_S8_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1778 52 470")
+        (Scroll "0 1000")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0091_S9_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1804 78 496")
+        (Scroll "0 1061")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0101_S10_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1830 104 522")
+        (Scroll "0 960")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0111_S11_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1856 130 548")
+        (Scroll "0 1120")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0121_S12_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1882 156 574")
+        (Scroll "0 1060")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0131_S13_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1908 182 600")
+        (Scroll "0 1100")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0141_S14_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1726 0 418")
+        (Scroll "0 1170")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0151_S15_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1752 26 444")
+        (Scroll "0 1061")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0161_S16_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1778 52 470")
+        (Scroll "452 546")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T04.SLOT4_GX1x"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1804 78 496")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S903_Relay"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1830 104 522")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T00.SLOT0_SDU2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1856 130 548")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T10.SLOT10_HDVI"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1882 156 574")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\ASHIK\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T03.SLOT3_GX1x")))
+  (MPSSessionName "Ashik-iTest"))

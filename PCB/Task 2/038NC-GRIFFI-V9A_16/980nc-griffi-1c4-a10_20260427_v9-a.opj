@@ -1,0 +1,91 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980nc-griffi-1c4-a10_20260427_v9-a.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "D:\Git\homeoffice\PCB\Task 2\038NC-GRIFFI-V9A_16\038NC-GRIFFI-V9A_16_20260510_rip.brd")
+    ("Allegro Netlist Output Board File"
+       "D:\Git\homeoffice\PCB\Task 2\038NC-GRIFFI-V9A_16\ashik")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\980nc-griffi-1c4-a10_20260427_v9-a.dsn")
+      (Path "Design Resources" ".\980nc-griffi-1c4-a10_20260427_v9-a.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\980nc-griffi-1c4-a10_20260427_v9-a.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 413"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1778 78 530")
+        (Scroll "1425 125")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\038NC-GRIFFI-V9A_16\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0011_S1_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1804 104 556")
+        (Scroll "0 790")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\038NC-GRIFFI-V9A_16\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S901.Thermal_sensor"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 130 1830 130 582")
+        (Scroll "0 1150")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\GIT\HOMEOFFICE\PCB\TASK 2\038NC-GRIFFI-V9A_16\980NC-GRIFFI-1C4-A10_20260427_V9-A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S903_Relay")))
+  (MPSSessionName "Ashik-iTest")
+  (ISPCBBASICLICENSE "false"))
