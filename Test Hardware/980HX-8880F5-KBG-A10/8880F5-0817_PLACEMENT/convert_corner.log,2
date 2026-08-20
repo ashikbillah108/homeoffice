@@ -1,0 +1,68 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto-interactive Convert Corner - Aicc                           )
+(                                                                     )
+(    Drawing          : 8880F5-0820_1.brd                             )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Thu Aug 20 10:15:08 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 3 of 23 failed to convert
+
+Cline vertex:xy (-1409.59 584.74)	subclass: TOP	net_name: D32112 
+Cline vertex:xy (-1409.59 728.20)	subclass: TOP	net_name: D32112 
+Cline vertex:xy (-1425.19 578.27)	subclass: TOP	net_name: D32110 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 28 of 170 failed to convert
+
+Cline vertex:xy (-1377.95 643.13)	subclass: TOP	net_name: D32114 
+Cline vertex:xy (-1362.20 649.45)	subclass: TOP	net_name: D32116 
+Cline vertex:xy (1291.37 -1551.15)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1582.67 -1554.06)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1755.90 -1738.11)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1614.17 -816.90)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1299.21 -803.15)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1204.75 -1061.55)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1190.44 -1047.24)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1858.23 -1551.15)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1566.93 -1554.06)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1393.70 -1738.11)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1944.85 -1061.55)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1959.16 -1047.24)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1291.37 811.05)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1582.67 808.14)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1755.90 624.09)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1614.17 1545.30)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1299.21 1559.05)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1204.75 1300.65)	subclass: TOP	net_name: GND 
+Cline vertex:xy (1190.44 1314.96)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1858.23 811.05)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1566.93 808.14)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1393.70 624.09)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1535.43 1545.30)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1850.39 1559.05)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1944.85 1300.65)	subclass: TOP	net_name: GND 
+Cline vertex:xy (-1959.16 1314.96)	subclass: TOP	net_name: GND 
+
+CommandEnd AiCC **************************************************************

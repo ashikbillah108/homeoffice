@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto-interactive Convert Corner - Aicc                           )
+(                                                                     )
+(    Drawing          : 8880F5-0820_1.brd                             )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Thu Aug 20 10:14:56 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 2 of 22 failed to convert
+
+Cline vertex:xy (-1425.19 586.17)	subclass: TOP	net_name: D32110 
+Cline vertex:xy (-1409.45 592.50)	subclass: TOP	net_name: D32112 
+
+CommandEnd AiCC **************************************************************

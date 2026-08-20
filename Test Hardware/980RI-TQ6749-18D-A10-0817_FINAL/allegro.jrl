@@ -1,0 +1,19 @@
+\t (00:00:01) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:01)     Journal start - Thu Aug 20 16:56:16 2026
+\t (00:00:01)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=31932 CPUs=20
+\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:05) Design opened: D:/iTest/Test Hardware/980RI-TQ6749-18D-A10-0817_FINAL/980RI-TQ6749-18D-A10-0820.brd
+\i (00:00:06) trapsize 14209
+\i (00:00:06) trapsize 13954
+\i (00:00:06) trapsize 14253
+\i (00:00:06) trapsize 14376
+\i (00:00:06) trapsize 14376
+\i (00:00:07) generaledit 
+\i (00:00:07) open 
+\i (00:00:13) fillin "D:\iTest\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0820_9.brd"
+\i (00:00:13) cd "D:\iTest\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT"
+\t (00:00:13) Opening existing design...
+\i (00:00:13) trapsize 11059
+\t (00:00:13)     Journal end - Thu Aug 20 16:56:28 2026

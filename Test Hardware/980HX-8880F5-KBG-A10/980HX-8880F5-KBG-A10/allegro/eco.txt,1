@@ -1,0 +1,176 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820.brd            |
+|                                                    Thu Aug 20 09:45:35 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_RX_85DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.26        -1519.6  728.34
+                                                                         D32102
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_RX_85DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.27        -1503.9  728.34
+                                                                         D32104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_RX_85DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.29        -1472.4  728.34
+                                                                         D32106
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_RX_85DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.30        -1456.6  728.34
+                                                                         D32108
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_RX_85DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.32        -1425.1  728.34
+                                                                         D32110
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_RX_85DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.33        -1409.4  728.34
+                                                                         D32112
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_RX_85DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.35        -1377.9  728.34
+                                                                         D32114
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_RX_85DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.36        -1362.2  728.34
+                                                                         D32116
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_RX_85DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.26        1629.92  728.34
+                                                                         D30502
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_RX_85DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.27        1645.67  728.34
+                                                                         D30504
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_RX_85DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.29        1677.16  728.34
+                                                                         D30506
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_RX_85DCH002- pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820.brd            |
+|                                                    Thu Aug 20 09:45:35 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE2.30        1692.91  728.34
+                                                                         D30508
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_RX_85DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.32        1724.41  728.34
+                                                                         D30510
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_RX_85DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.33        1740.15  728.34
+                                                                         D30512
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_RX_85DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.35        1771.65  728.34
+                                                                         D30514
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_RX_85DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.36        1787.40  728.34
+                                                                         D30516
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_RX_85DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.26        -1519.6 -1633.8
+                                                                         D31702
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_RX_85DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.27        -1503.9 -1633.8
+                                                                         D31704
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_RX_85DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.29        -1472.4 -1633.8
+                                                                         D31706
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_RX_85DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.30        -1456.6 -1633.8
+                                                                         D31708
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_RX_85DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.32        -1425.1 -1633.8
+                                                                         D31710
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_RX_85DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.33        -1409.4 -1633.8
+                                                                         D31712
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_RX_85DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.35        -1377.9 -1633.8
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820.brd            |
+|                                                    Thu Aug 20 09:45:35 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                         D31714
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_RX_85DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.36        -1362.2 -1633.8
+                                                                         D31716
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_RX_85DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.26        1629.92 -1633.8
+                                                                         D30102
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_RX_85DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.27        1645.67 -1633.8
+                                                                         D30104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_RX_85DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.29        1677.16 -1633.8
+                                                                         D30106
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_RX_85DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.30        1692.91 -1633.8
+                                                                         D30108
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_RX_85DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.32        1724.41 -1633.8
+                                                                         D30110
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_RX_85DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.33        1740.15 -1633.8
+                                                                         D30112
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_RX_85DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.35        1771.65 -1633.8
+                                                                         D30114
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_RX_85DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.36        1787.40 -1633.8
+                                                                         D30116
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820.brd            |
+|                                                    Thu Aug 20 09:45:35 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      32                                        |
+|                                                                              |
+|   Total ECO changes reported:      32                                        |
+|------------------------------------------------------------------------------|

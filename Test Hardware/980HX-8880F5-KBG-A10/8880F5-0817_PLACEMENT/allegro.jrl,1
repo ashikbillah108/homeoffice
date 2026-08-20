@@ -1,0 +1,148 @@
+\t (00:00:13) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:13)     Journal start - Thu Aug 20 16:56:28 2026
+\t (00:00:13)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=31932 CPUs=20
+\t (00:00:13) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:13) 
+\d (00:00:13) Design opened: D:/iTest/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_9.brd
+\i (00:00:14) generaledit 
+\i (00:00:17) dehilight 
+\i (00:00:18) setwindow form.mini
+\i (00:00:18) FORM mini dhlt_all  
+\t (00:00:18) 48 Net(s) dehighlighted.
+\i (00:00:19) setwindow pcb
+\i (00:00:19) prepopup 552.96 5993.99
+\i (00:00:19) done 
+\i (00:00:19) generaledit 
+\i (00:00:20) assign color 
+\i (00:00:23) tvision 
+\t (00:00:24) Choose items to add to or remove from the group.
+\i (00:00:26) setwindow form.vf_vis
+\i (00:00:26) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:27) FORM vf_vis 3 all_colorvisible YES 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -3826.41 1282.85
+\i (00:00:27) trapsize 22118
+\i (00:00:28) drag_start grid -14354.60 11147.48
+\i (00:00:29) drag_stop 18601.26 -13492.00
+\t (00:00:29) 2113 net(s) added to Timing Vision group.
+\t (00:00:29) Choose items to add to or remove from the group.
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -1172.25 -840.49
+\i (00:00:29) trapsize 11059
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -1172.25 -840.49
+\i (00:00:29) trapsize 5530
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -785.18 -575.07
+\i (00:00:30) trapsize 2765
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -1100.36 -265.42
+\i (00:00:30) trapsize 1382
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -1100.36 -265.42
+\i (00:00:30) trapsize 691
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -1100.36 -265.42
+\i (00:00:31) trapsize 1382
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -1100.35 -265.42
+\i (00:00:31) trapsize 2765
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -1100.35 -265.42
+\i (00:00:31) trapsize 5530
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out -1255.18 -519.76
+\i (00:00:32) trapsize 11059
+\i (00:00:32) prepopup -13574.92 1625.68
+\i (00:00:33) done 
+\i (00:00:33) generaledit 
+\i (00:00:35) zoom fit 
+\i (00:00:35) trapsize 11059
+\i (00:00:39) setwindow form.vf_vis
+\i (00:00:39) FORM vf_vis 1 drc_colorvisible 0 
+\i (00:00:40) FORM vf_vis 3 drc_colorvisible 0 
+\i (00:00:40) FORM vf_vis 5 drc_colorvisible 0 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) prepopup -14708.49 4512.08
+\i (00:00:44) pick grid -8670.26 5153.50
+\t (00:00:44) last pick:  -8670.26 5153.50
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in -7055.65 818.37
+\i (00:00:44) trapsize 5530
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in -7055.64 818.37
+\i (00:00:44) trapsize 2765
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in -7188.35 1216.50
+\i (00:00:45) trapsize 1382
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in -7188.35 1216.50
+\i (00:00:45) trapsize 691
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in -7188.35 1216.51
+\i (00:00:45) trapsize 346
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out -7188.35 1216.51
+\i (00:00:45) trapsize 691
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out -7188.34 1216.50
+\i (00:00:45) trapsize 1382
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out -7188.35 1216.51
+\i (00:00:45) trapsize 2765
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -7188.34 1216.50
+\i (00:00:46) trapsize 5529
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -7188.34 1216.51
+\i (00:00:46) trapsize 11059
+\i (00:00:50) setwindow form.vf_vis
+\i (00:00:50) FORM vf_vis colorview_list Film: L01_TOP 
+\i (00:00:51) FORM vf_vis 2 etch_colorvisible 1 
+\i (00:00:51) FORM vf_vis 2 via_colorvisible 1 
+\i (00:00:52) FORM vf_vis 2 pin_colorvisible 1 
+\i (00:00:52) FORM vf_vis 2 pin_colorvisible 0 
+\i (00:00:53) FORM vf_vis 2 via_colorvisible 0 
+\i (00:00:53) FORM vf_vis 2 etch_colorvisible 0 
+\i (00:00:53) FORM vf_vis 3 etch_colorvisible 1 
+\i (00:00:54) FORM vf_vis 3 via_colorvisible 1 
+\i (00:00:54) FORM vf_vis 3 pin_colorvisible 1 
+\i (00:00:55) FORM vf_vis 6 etch_colorvisible 1 
+\i (00:00:55) FORM vf_vis 5 etch_colorvisible 1 
+\i (00:00:56) FORM vf_vis 6 etch_colorvisible 0 
+\i (00:00:56) FORM vf_vis 5 via_colorvisible 1 
+\i (00:00:57) FORM vf_vis 5 pin_colorvisible 1 
+\i (00:01:00) setwindow form.mini
+\i (00:01:00) FORM mini class BOARD GEOMETRY 
+\i (00:01:02) FORM mini subclass OUTLINE 
+\i (00:01:02) FORM mini subcolor 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom fit 
+\i (00:01:05) trapsize 11059
+\i (00:01:06) save 
+\i (00:01:08) fillin no 
+\i (00:01:14) fillin "8880F5-0820.brd"
+\i (00:01:17) generaledit 
+\i (00:01:21) exit 
+\t (00:01:22)     Journal end - Thu Aug 20 16:57:37 2026

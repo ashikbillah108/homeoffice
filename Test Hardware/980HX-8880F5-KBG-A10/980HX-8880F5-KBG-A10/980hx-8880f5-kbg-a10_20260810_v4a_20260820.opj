@@ -1,0 +1,27 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980hx-8880f5-kbg-a10_20260810_v4a_20260820.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         ".\980hx-8880f5-kbg-a10_20260810_v4a_20260820.dsn")
+      (Path "Design Resources"
+         ".\980hx-8880f5-kbg-a10_20260810_v4a_20260820.dsn" "SCHEMATIC1")
+      (Select "Design Resources"
+         ".\980hx-8880f5-kbg-a10_20260810_v4a_20260820.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 413"))
+      (Tab 0))))

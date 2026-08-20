@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto-interactive Convert Corner - Aicc                           )
+(                                                                     )
+(    Drawing          : 8880F5-0820_1.brd                             )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Thu Aug 20 10:15:44 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 50 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 4 of 182 failed to convert
+
+Cline vertex:xy (1692.91 -1867.53)	subclass: TOP	net_name: D30108 
+Cline vertex:xy (1677.16 -1873.85)	subclass: TOP	net_name: D30106 
+Cline vertex:xy (1724.41 -1776.03)	subclass: TOP	net_name: D30110 
+Cline vertex:xy (1740.15 -1769.70)	subclass: TOP	net_name: D30112 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 2 of 132 failed to convert
+
+Cline vertex:xy (1771.65 643.13)	subclass: TOP	net_name: D30514 
+Cline vertex:xy (1787.40 649.45)	subclass: TOP	net_name: D30516 
+
+CommandEnd AiCC **************************************************************
