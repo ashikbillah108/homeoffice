@@ -1,18 +1,33 @@
-\t (00:00:04) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:04)     Journal start - Thu Aug 20 08:52:22 2026
-\t (00:00:04)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=9096 CPUs=20
-\t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:04) 
-\t (00:00:05) Starting new design...
-\i (00:00:05) trapsize 641
-\i (00:00:05) trapsize 629
-\i (00:00:05) trapsize 643
-\i (00:00:05) trapsize 648
-\i (00:00:06) trapsize 1101
-\i (00:00:06) generaledit 
-\i (00:00:07) open 
-\i (00:00:14) fillin "C:\Users\Ashik-iTest\Downloads\980RI-TQ6749-18D-A10-0819_1\980RI-TQ6749-18D-A10-0819_1.brd"
-\i (00:00:14) cd "C:\Users\Ashik-iTest\Downloads\980RI-TQ6749-18D-A10-0819_1"
-\t (00:00:14) Opening existing design...
-\i (00:00:15) trapsize 14376
-\t (00:00:16)     Journal end - Thu Aug 20 08:52:34 2026
+\t (08:43:08) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (08:43:08)     Journal start - Sat Aug 22 00:58:14 2026
+\t (08:43:08)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=15968 CPUs=16
+\t (08:43:08) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (08:43:08) 
+\d (08:43:08) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/REF_038HX-888005K4R-A100/REF_038HX-888005K4R-A100.brd
+\i (08:43:08) placementedit 
+\i (08:43:08) zoom in 1 
+\i (08:43:08) setwindow pcb
+\i (08:43:08) zoom in 1268.25 -5176.18
+\i (08:43:08) trapsize 7373
+\i (08:43:08) zoom in 1 
+\i (08:43:08) setwindow pcb
+\i (08:43:08) zoom in 1268.25 -5190.93
+\i (08:43:08) trapsize 3687
+\i (08:43:09) zoom in 1 
+\i (08:43:09) setwindow pcb
+\i (08:43:09) zoom in 1268.25 -5190.93
+\i (08:43:09) trapsize 1843
+\i (08:43:10) zoom out 1 
+\i (08:43:10) setwindow pcb
+\i (08:43:10) zoom out 1035.99 -4921.80
+\i (08:43:10) trapsize 3687
+\i (08:43:10) zoom in 1 
+\i (08:43:10) setwindow pcb
+\i (08:43:10) zoom in 4361.42 -4825.94
+\i (08:43:10) trapsize 1843
+\i (08:43:28) open 
+\i (08:43:32) fillin "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0822.brd"
+\i (08:43:32) cd "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT"
+\t (08:43:32) Opening existing design...
+\i (08:43:33) trapsize 3699
+\t (08:43:33)     Journal end - Sat Aug 22 00:58:39 2026
