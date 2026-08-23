@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : 8880F5-0820_1.brd                             )
+(    Drawing          : 8880F5-0823_5.brd                             )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Fri Aug 21 09:33:12 2026                      )
+(    Date/Time        : Sun Aug 23 14:51:03 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,11 +20,11 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  1572
+ ..... Total number of DRC errors  1365
 
 
-WARNING: 3 dynamic shape(s) out of date; checking skipped on these elements.
+WARNING: 5 dynamic shape(s) out of date; checking skipped on these elements.
 
- ..... DRC update completed, total CPU time   0:00:02
+ ..... DRC update completed, total CPU time   0:00:03
  *************************************************************************
 

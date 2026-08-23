@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Aug-20-2026 at 10:42:35 }
+{ Using PSTWRITER 16.6.0 d001Aug-23-2026 at 14:40:07 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "D231.A17" ignored for D231: SCHEMATIC1, T04.GROUP8.U4 (14.10, 3.30). Connecting pin to net "GND".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "D231.B17" ignored for D231: SCHEMATIC1, T04.GROUP8.U4 (14.10, 3.30). Connecting pin to net "GND".
@@ -369,15 +369,15 @@
 #367 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G7UTI8_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G7UTI8_V93K".
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro/pstchip.dat
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro/pstchip.dat
 
-Loading... D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro/pstchip.dat
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro/pstchip.dat
 
-Loading... D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro/pstxprt.dat
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro/pstxprt.dat
 #575 ERROR(SPCODD-575): Reference designator value D101/D501 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
       #575 ERROR(SPCODD-575): Reference designator value D105/D505 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
       #575 ERROR(SPCODD-575): Reference designator value D117/D517 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
       #575 ERROR(SPCODD-575): Reference designator value D121/D521 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
       
-Loading... D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro/pstxnet.dat
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro/pstxnet.dat
 packaging the design view...
