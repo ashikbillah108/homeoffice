@@ -1,411 +1,5861 @@
-\t (00:23:38) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:23:38)     Journal start - Mon Aug 24 09:00:55 2026
-\t (00:23:38)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=8240 CPUs=20
-\t (00:23:38) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:23:38) 
-\d (00:23:38) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/REF_038HX-888005K4R-A100/REF_038HX-888005K4R-A100.brd
-\i (00:23:38) generaledit 
-\i (00:23:40) zoom in 1 
-\i (00:23:40) setwindow pcb
-\i (00:23:40) zoom in 995.42 -3340.18
-\i (00:23:40) trapsize 5530
-\i (00:23:43) setwindow form.vf_vis
-\i (00:23:43) FORM vf_vis colorview_list Film: L03_SIGNAL 
-\i (00:23:44) setwindow pcb
-\i (00:23:44) zoom in 1 
-\i (00:23:44) setwindow pcb
-\i (00:23:44) zoom in -4689.52 -4932.85
-\i (00:23:44) trapsize 2765
-\i (00:23:44) zoom in 1 
-\i (00:23:44) setwindow pcb
-\i (00:23:44) zoom in -2588.07 -3307.00
-\i (00:23:44) trapsize 1383
-\i (00:23:44) zoom in 1 
-\i (00:23:44) setwindow pcb
-\i (00:23:44) zoom in -2588.07 -3307.00
-\i (00:23:44) trapsize 691
-\i (00:23:46) zoom out 1 
-\i (00:23:46) setwindow pcb
-\i (00:23:46) zoom out -2358.57 -3257.23
-\i (00:23:46) trapsize 1383
-\i (00:23:46) zoom out 1 
-\i (00:23:46) setwindow pcb
-\i (00:23:46) zoom out -2358.57 -3257.22
-\i (00:23:46) trapsize 2765
-\i (00:23:47) zoom in 1 
-\i (00:23:47) setwindow pcb
-\i (00:23:47) zoom in -2646.13 -3998.26
-\i (00:23:47) trapsize 1383
-\i (00:23:47) zoom in 1 
-\i (00:23:47) setwindow pcb
-\i (00:23:47) zoom in -2646.13 -3998.26
-\i (00:23:47) trapsize 691
-\i (00:23:47) zoom in 1 
-\i (00:23:47) setwindow pcb
-\i (00:23:47) zoom in -2646.13 -3998.26
-\i (00:23:47) trapsize 346
-\i (00:23:47) zoom out 1 
-\i (00:23:47) setwindow pcb
-\i (00:23:47) zoom out -2646.13 -3998.26
-\i (00:23:47) trapsize 691
-\i (00:23:48) zoom out 1 
-\i (00:23:48) setwindow pcb
-\i (00:23:48) zoom out -2646.13 -3998.26
-\i (00:23:48) trapsize 1383
-\i (00:23:48) zoom out 1 
-\i (00:23:48) setwindow pcb
-\i (00:23:48) zoom out -2646.12 -3998.25
-\i (00:23:48) trapsize 2765
-\i (00:23:49) zoom out 1 
-\i (00:23:49) setwindow pcb
-\i (00:23:49) zoom out -2789.91 -4285.82
-\i (00:23:49) trapsize 5530
-\i (00:23:49) zoom out 1 
-\i (00:23:49) setwindow pcb
-\i (00:23:49) zoom out -2789.90 -4285.82
-\i (00:23:49) trapsize 11060
-\i (00:23:49) zoom in 1 
-\i (00:23:49) setwindow pcb
-\i (00:23:49) zoom in -4271.96 -7338.43
-\i (00:23:49) trapsize 5530
-\i (00:23:49) zoom in 1 
-\i (00:23:49) setwindow pcb
-\i (00:23:49) zoom in -4271.96 -7338.42
-\i (00:23:49) trapsize 2765
-\i (00:23:49) zoom in 1 
-\i (00:23:49) setwindow pcb
-\i (00:23:49) zoom in -4271.96 -7338.42
-\i (00:23:49) trapsize 1383
-\i (00:23:50) zoom in 1 
-\i (00:23:50) setwindow pcb
-\i (00:23:50) zoom in -4363.21 -7086.80
-\i (00:23:50) trapsize 691
-\i (00:23:50) zoom in 1 
-\i (00:23:50) setwindow pcb
-\i (00:23:50) zoom in -4363.20 -7086.80
-\i (00:23:50) trapsize 346
-\i (00:23:50) zoom in 1 
-\i (00:23:50) setwindow pcb
-\i (00:23:50) zoom in -4330.02 -7090.25
-\i (00:23:50) trapsize 173
-\i (00:23:50) zoom in 1 
-\i (00:23:50) setwindow pcb
-\i (00:23:50) zoom in -4330.02 -7090.25
-\i (00:23:50) trapsize 86
-\i (00:23:51) zoom out 1 
-\i (00:23:51) setwindow pcb
-\i (00:23:51) zoom out -4330.02 -7090.24
-\i (00:23:51) trapsize 173
-\i (00:23:51) zoom out 1 
-\i (00:23:51) setwindow pcb
-\i (00:23:51) zoom out -4330.02 -7090.25
-\i (00:23:51) trapsize 346
-\i (00:23:51) zoom out 1 
-\i (00:23:51) setwindow pcb
-\i (00:23:51) zoom out -4330.03 -7090.25
-\i (00:23:51) trapsize 691
-\i (00:23:51) zoom out 1 
-\i (00:23:51) setwindow pcb
-\i (00:23:51) zoom out -4330.02 -7090.24
-\i (00:23:51) trapsize 1383
-\i (00:23:51) zoom out 1 
-\i (00:23:51) setwindow pcb
-\i (00:23:51) zoom out -4330.03 -7090.25
-\i (00:23:51) trapsize 2765
-\i (00:23:51) zoom out 1 
-\i (00:23:51) setwindow pcb
-\i (00:23:51) zoom out -4330.04 -7090.25
-\i (00:23:51) trapsize 5530
-\i (00:23:51) zoom out 1 
-\i (00:23:51) setwindow pcb
-\i (00:23:51) zoom out -4330.04 -7090.24
-\i (00:23:51) trapsize 11060
-\i (00:23:51) zoom out 1 
-\i (00:23:51) setwindow pcb
-\i (00:23:51) zoom out -4330.05 -7090.24
-\i (00:23:51) trapsize 22121
-\i (00:23:51) zoom in 1 
-\i (00:23:51) setwindow pcb
-\i (00:23:51) zoom in -304.07 1802.30
-\i (00:23:51) trapsize 11060
-\i (00:23:52) zoom in 1 
-\i (00:23:52) setwindow pcb
-\i (00:23:52) zoom in -1454.35 -1272.49
-\i (00:23:52) trapsize 5530
-\i (00:23:52) zoom in 1 
-\i (00:23:52) setwindow pcb
-\i (00:23:52) zoom in -1454.35 -1272.49
-\i (00:23:52) trapsize 2765
-\i (00:23:52) zoom in 1 
-\i (00:23:52) setwindow pcb
-\i (00:23:52) zoom in -1465.41 -288.11
-\i (00:23:52) trapsize 1383
-\i (00:23:53) zoom in 1 
-\i (00:23:53) setwindow pcb
-\i (00:23:53) zoom in -1296.74 118.36
-\i (00:23:53) trapsize 691
-\i (00:23:53) zoom in 1 
-\i (00:23:53) setwindow pcb
-\i (00:23:53) zoom in -1296.74 118.36
-\i (00:23:53) trapsize 346
-\i (00:23:53) zoom in 1 
-\i (00:23:53) setwindow pcb
-\i (00:23:53) zoom in -1296.73 118.36
-\i (00:23:53) trapsize 173
-\i (00:23:53) zoom in 1 
-\i (00:23:53) setwindow pcb
-\i (00:23:53) zoom in -1309.17 68.94
-\i (00:23:53) trapsize 86
-\i (00:23:54) zoom out 1 
-\i (00:23:54) setwindow pcb
-\i (00:23:54) zoom out -1309.35 68.94
-\i (00:23:54) trapsize 173
-\i (00:23:54) zoom out 1 
-\i (00:23:54) setwindow pcb
-\i (00:23:54) zoom out -1309.35 68.95
-\i (00:23:54) trapsize 346
-\i (00:23:54) zoom out 1 
-\i (00:23:54) setwindow pcb
-\i (00:23:54) zoom out -1309.35 68.94
-\i (00:23:54) trapsize 691
-\i (00:23:54) zoom out 1 
-\i (00:23:54) setwindow pcb
-\i (00:23:54) zoom out -1309.35 68.95
-\i (00:23:54) trapsize 1383
-\i (00:23:55) zoom out 1 
-\i (00:23:55) setwindow pcb
-\i (00:23:55) zoom out -1309.35 68.94
-\i (00:23:55) trapsize 2765
-\i (00:23:55) zoom out 1 
-\i (00:23:55) setwindow pcb
-\i (00:23:55) zoom out -1447.61 190.61
-\i (00:23:55) trapsize 5530
-\i (00:23:55) zoom out 1 
-\i (00:23:55) setwindow pcb
-\i (00:23:55) zoom out -1447.62 190.62
-\i (00:23:55) trapsize 11060
-\i (00:23:56) zoom in 1 
-\i (00:23:56) setwindow pcb
-\i (00:23:56) zoom in -1668.83 -2353.27
-\i (00:23:56) trapsize 5530
-\i (00:23:58) setwindow form.vf_vis
-\i (00:23:58) FORM vf_vis colorview_list Film: L05_SIGNAL 
-\i (00:23:59) setwindow pcb
-\i (00:23:59) zoom in 1 
-\i (00:23:59) setwindow pcb
-\i (00:23:59) zoom in -3173.04 -4974.57
-\i (00:23:59) trapsize 2765
-\i (00:23:59) zoom in 1 
-\i (00:23:59) setwindow pcb
-\i (00:23:59) zoom in -3173.04 -4974.57
-\i (00:23:59) trapsize 1383
-\i (00:24:00) zoom in 1 
-\i (00:24:00) setwindow pcb
-\i (00:24:00) zoom in -3933.44 -4935.85
-\i (00:24:00) trapsize 691
-\i (00:24:00) zoom out 1 
-\i (00:24:00) setwindow pcb
-\i (00:24:00) zoom out -3491.02 -4709.11
-\i (00:24:00) trapsize 1383
-\i (00:24:00) zoom out 1 
-\i (00:24:00) setwindow pcb
-\i (00:24:00) zoom out -3491.03 -4709.11
-\i (00:24:00) trapsize 2765
-\i (00:24:00) zoom out 1 
-\i (00:24:00) setwindow pcb
-\i (00:24:00) zoom out -3491.02 -4709.11
-\i (00:24:00) trapsize 5530
-\i (00:24:01) zoom in 1 
-\i (00:24:01) setwindow pcb
-\i (00:24:01) zoom in -4309.50 -395.56
-\i (00:24:01) trapsize 2765
-\i (00:24:02) zoom in 1 
-\i (00:24:02) setwindow pcb
-\i (00:24:02) zoom in -4674.49 -1684.09
-\i (00:24:02) trapsize 1383
-\i (00:24:03) zoom out 1 
-\i (00:24:03) setwindow pcb
-\i (00:24:03) zoom out -4646.84 -1637.08
-\i (00:24:03) trapsize 2765
-\i (00:24:03) zoom in 1 
-\i (00:24:03) setwindow pcb
-\i (00:24:03) zoom in -3347.24 -1150.43
-\i (00:24:03) trapsize 1383
-\i (00:24:04) zoom in 1 
-\i (00:24:04) setwindow pcb
-\i (00:24:04) zoom in -3347.24 -1150.43
-\i (00:24:04) trapsize 691
-\i (00:24:05) zoom in 1 
-\i (00:24:05) setwindow pcb
-\i (00:24:05) zoom in -3568.45 -1245.82
-\i (00:24:05) trapsize 346
-\i (00:24:06) zoom out 1 
-\i (00:24:06) setwindow pcb
-\i (00:24:06) zoom out -3568.45 -1245.81
-\i (00:24:06) trapsize 691
-\i (00:24:06) zoom out 1 
-\i (00:24:06) setwindow pcb
-\i (00:24:06) zoom out -3568.45 -1245.82
-\i (00:24:06) trapsize 1383
-\i (00:24:07) zoom in 1 
-\i (00:24:07) setwindow pcb
-\i (00:24:07) zoom in -2033.83 -1541.68
-\i (00:24:07) trapsize 691
-\i (00:24:07) zoom in 1 
-\i (00:24:07) setwindow pcb
-\i (00:24:07) zoom in -2033.83 -1541.68
-\i (00:24:07) trapsize 346
-\i (00:24:08) zoom in 1 
-\i (00:24:08) setwindow pcb
-\i (00:24:08) zoom in -2226.69 -1524.40
-\i (00:24:08) trapsize 173
-\i (00:24:08) zoom in 1 
-\i (00:24:08) setwindow pcb
-\i (00:24:08) zoom in -2226.68 -1524.39
-\i (00:24:08) trapsize 86
-\i (00:24:09) zoom out 1 
-\i (00:24:09) setwindow pcb
-\i (00:24:09) zoom out -2238.26 -1508.49
-\i (00:24:09) trapsize 173
-\i (00:24:09) zoom out 1 
-\i (00:24:09) setwindow pcb
-\i (00:24:09) zoom out -2238.26 -1508.50
-\i (00:24:09) trapsize 346
-\i (00:24:09) zoom out 1 
-\i (00:24:09) setwindow pcb
-\i (00:24:09) zoom out -2238.26 -1508.49
-\i (00:24:09) trapsize 691
-\i (00:24:11) zoom out 1 
-\i (00:24:11) setwindow pcb
-\i (00:24:11) zoom out -2722.16 -1547.21
-\i (00:24:11) trapsize 1383
-\i (00:24:11) zoom out 1 
-\i (00:24:11) setwindow pcb
-\i (00:24:11) zoom out -2722.16 -1547.20
-\i (00:24:11) trapsize 2765
-\i (00:24:11) zoom out 1 
-\i (00:24:11) setwindow pcb
-\i (00:24:11) zoom out -2722.17 -1547.20
-\i (00:24:11) trapsize 5530
-\i (00:24:11) zoom out 1 
-\i (00:24:11) setwindow pcb
-\i (00:24:11) zoom out -2722.17 -1547.19
-\i (00:24:11) trapsize 11060
-\i (00:24:12) zoom in 1 
-\i (00:24:12) setwindow pcb
-\i (00:24:12) zoom in -2279.76 -2896.56
-\i (00:24:12) trapsize 5530
-\i (00:24:12) zoom in 1 
-\i (00:24:12) setwindow pcb
-\i (00:24:12) zoom in -2279.76 -2896.55
-\i (00:24:12) trapsize 2765
-\i (00:24:12) zoom in 1 
-\i (00:24:12) setwindow pcb
-\i (00:24:12) zoom in -1798.63 -3338.96
-\i (00:24:12) trapsize 1383
-\i (00:24:13) zoom in 1 
-\i (00:24:13) setwindow pcb
-\i (00:24:13) zoom in -2824.48 -3706.71
-\i (00:24:13) trapsize 691
-\i (00:24:27) zoom out 1 
-\i (00:24:27) setwindow pcb
-\i (00:24:27) zoom out -2542.44 -3601.64
-\i (00:24:27) trapsize 1383
-\i (00:24:27) zoom out 1 
-\i (00:24:27) setwindow pcb
-\i (00:24:27) zoom out -2545.21 -3601.64
-\i (00:24:27) trapsize 2765
-\i (00:24:27) zoom out 1 
-\i (00:24:27) setwindow pcb
-\i (00:24:27) zoom out -2567.34 -3585.04
-\i (00:24:27) trapsize 5530
-\i (00:24:28) zoom in 1 
-\i (00:24:28) setwindow pcb
-\i (00:24:28) zoom in 1580.29 -4989.71
-\i (00:24:28) trapsize 2765
-\i (00:24:28) zoom in 1 
-\i (00:24:28) setwindow pcb
-\i (00:24:28) zoom in -233.61 -5548.25
-\i (00:24:28) trapsize 1383
-\i (00:24:29) zoom out 1 
-\i (00:24:29) setwindow pcb
-\i (00:24:29) zoom out 377.48 -5045.01
-\i (00:24:29) trapsize 2765
-\i (00:24:30) zoom in 1 
-\i (00:24:30) setwindow pcb
-\i (00:24:30) zoom in 366.42 -4071.69
-\i (00:24:30) trapsize 1383
-\i (00:24:30) zoom out 1 
-\i (00:24:30) setwindow pcb
-\i (00:24:30) zoom out 529.56 -4785.08
-\i (00:24:30) trapsize 2765
-\i (00:24:30) zoom out 1 
-\i (00:24:30) setwindow pcb
-\i (00:24:30) zoom out 529.56 -4785.09
-\i (00:24:30) trapsize 5530
-\i (00:24:30) zoom in 1 
-\i (00:24:30) setwindow pcb
-\i (00:24:30) zoom in 717.58 -2053.17
-\i (00:24:30) trapsize 2765
-\i (00:24:31) zoom in 1 
-\i (00:24:31) setwindow pcb
-\i (00:24:31) zoom in 861.37 -1704.77
-\i (00:24:31) trapsize 1383
-\i (00:24:31) zoom in 1 
-\i (00:24:31) setwindow pcb
-\i (00:24:31) zoom in 908.38 -1668.82
-\i (00:24:31) trapsize 691
-\i (00:24:31) zoom in 1 
-\i (00:24:31) setwindow pcb
-\i (00:24:31) zoom in 908.38 -1668.82
-\i (00:24:31) trapsize 346
-\i (00:24:32) zoom out 1 
-\i (00:24:32) setwindow pcb
-\i (00:24:32) zoom out 908.38 -1668.82
-\i (00:24:32) trapsize 691
-\i (00:24:32) zoom out 1 
-\i (00:24:32) setwindow pcb
-\i (00:24:32) zoom out 908.38 -1668.82
-\i (00:24:32) trapsize 1383
-\i (00:24:32) zoom in 1 
-\i (00:24:32) setwindow pcb
-\i (00:24:32) zoom in 889.01 -1267.87
-\i (00:24:32) trapsize 691
-\i (00:24:32) zoom in 1 
-\i (00:24:32) setwindow pcb
-\i (00:24:32) zoom in 889.01 -1267.87
-\i (00:24:32) trapsize 346
-\i (00:24:33) zoom in 1 
-\i (00:24:33) setwindow pcb
-\i (00:24:33) zoom in 926.34 -1330.08
-\i (00:24:33) trapsize 173
-\i (00:24:53) zoom out 1 
-\i (00:24:53) setwindow pcb
-\i (00:24:53) zoom out 807.10 -1388.49
-\i (00:24:53) trapsize 346
-\i (00:24:53) zoom out 1 
-\i (00:24:53) setwindow pcb
-\i (00:24:53) zoom out 807.10 -1388.48
-\i (00:24:53) trapsize 691
-\i (00:25:14) zoom out 1 
-\i (00:25:14) setwindow pcb
-\i (00:25:14) zoom out 829.22 -1319.36
-\i (00:25:14) trapsize 1383
-\i (00:25:14) zoom out 1 
-\i (00:25:14) setwindow pcb
-\i (00:25:14) zoom out 829.21 -1319.35
-\i (00:25:14) trapsize 2765
-\i (00:25:14) zoom out 1 
-\i (00:25:14) setwindow pcb
-\i (00:25:14) zoom out 829.21 -1319.36
-\i (00:25:14) trapsize 5530
-\i (00:25:14) zoom out 1 
-\i (00:25:14) setwindow pcb
-\i (00:25:14) zoom out 829.20 -1319.35
-\i (00:25:14) trapsize 11060
-\i (00:41:51) open 
-\i (00:41:55) fillin "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0823_RXTX.brd"
-\i (00:41:55) cd "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT"
-\t (00:41:55) Opening existing design...
-\i (00:41:56) trapsize 11059
-\t (00:41:56)     Journal end - Mon Aug 24 09:19:13 2026
+\t (00:10:18) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:10:18)     Journal start - Tue Aug 25 13:07:33 2026
+\t (00:10:18)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=23268 CPUs=20
+\t (00:10:18) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:10:18) 
+\d (00:10:18) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/REF_038HX-888005K4R-A100/REF_038HX-888005K4R-A100.brd
+\i (00:10:18) generaledit 
+\i (00:10:19) zoom in 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom in -537.01 -1299.57
+\i (00:10:19) trapsize 5370
+\i (00:10:19) zoom in 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom in -622.92 107.41
+\i (00:10:19) trapsize 2685
+\i (00:10:31) zoom in 1 
+\i (00:10:31) setwindow pcb
+\i (00:10:31) zoom in 988.11 -306.09
+\i (00:10:31) trapsize 1343
+\i (00:10:32) zoom out 1 
+\i (00:10:32) setwindow pcb
+\i (00:10:32) zoom out 988.11 -306.08
+\i (00:10:32) trapsize 2685
+\i (00:10:33) zoom in 1 
+\i (00:10:33) setwindow pcb
+\i (00:10:33) zoom in 1745.31 -306.09
+\i (00:10:33) trapsize 1343
+\i (00:10:33) zoom in 1 
+\i (00:10:33) setwindow pcb
+\i (00:10:33) zoom in 1745.31 -306.08
+\i (00:10:33) trapsize 671
+\i (00:10:33) zoom in 1 
+\i (00:10:33) setwindow pcb
+\i (00:10:33) zoom in 1745.31 -306.08
+\i (00:10:33) trapsize 336
+\i (00:10:34) zoom in 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom in 1745.31 -306.07
+\i (00:10:34) trapsize 168
+\i (00:10:34) zoom in 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom in 1745.31 -306.07
+\i (00:10:34) trapsize 84
+\i (00:10:34) zoom out 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom out 1745.31 -306.06
+\i (00:10:34) trapsize 168
+\i (00:10:34) zoom out 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom out 1745.30 -306.07
+\i (00:10:34) trapsize 336
+\i (00:10:34) zoom out 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom out 1745.31 -306.06
+\i (00:10:34) trapsize 671
+\i (00:10:35) zoom out 1 
+\i (00:10:35) setwindow pcb
+\i (00:10:35) zoom out 1745.31 -306.07
+\i (00:10:35) trapsize 1343
+\i (00:10:35) zoom out 1 
+\i (00:10:35) setwindow pcb
+\i (00:10:35) zoom out 1745.31 -306.06
+\i (00:10:35) trapsize 2685
+\i (00:10:35) zoom in 1 
+\i (00:10:35) setwindow pcb
+\i (00:10:35) zoom in 2620.64 -639.01
+\i (00:10:35) trapsize 1343
+\i (00:10:35) zoom in 1 
+\i (00:10:35) setwindow pcb
+\i (00:10:35) zoom in 2620.63 -639.01
+\i (00:10:35) trapsize 671
+\i (00:10:36) zoom out 1 
+\i (00:10:36) setwindow pcb
+\i (00:10:36) zoom out 2412.54 -549.05
+\i (00:10:36) trapsize 1343
+\i (00:10:36) zoom out 1 
+\i (00:10:36) setwindow pcb
+\i (00:10:36) zoom out 2366.89 -624.24
+\i (00:10:36) trapsize 2685
+\i (00:10:37) zoom in 1 
+\i (00:10:37) setwindow pcb
+\i (00:10:37) zoom in 2060.79 -221.47
+\i (00:10:37) trapsize 1343
+\i (00:10:39) zoom out 1 
+\i (00:10:39) setwindow pcb
+\i (00:10:39) zoom out 2060.79 -218.78
+\i (00:10:39) trapsize 2685
+\i (00:10:39) zoom out 1 
+\i (00:10:39) setwindow pcb
+\i (00:10:39) zoom out 2060.79 -218.78
+\i (00:10:39) trapsize 5370
+\i (00:14:19) zoom in 1 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) zoom in -259.13 618.97
+\i (00:14:20) trapsize 2685
+\i (00:14:20) zoom in 1 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) zoom in -951.89 371.95
+\i (00:14:20) trapsize 1343
+\i (00:14:20) zoom in 1 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) zoom in -951.89 371.95
+\i (00:14:20) trapsize 671
+\i (00:14:20) zoom in 1 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) zoom in -849.85 589.44
+\i (00:14:20) trapsize 336
+\i (00:14:20) zoom in 1 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) zoom in -849.18 590.11
+\i (00:14:20) trapsize 168
+\i (00:14:21) zoom in 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom in -849.18 590.11
+\i (00:14:21) trapsize 84
+\i (00:14:21) zoom out 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom out -897.18 542.62
+\i (00:14:21) trapsize 168
+\i (00:14:21) zoom out 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom out -897.18 542.63
+\i (00:14:21) trapsize 336
+\i (00:14:21) zoom in 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom in -912.62 481.54
+\i (00:14:21) trapsize 168
+\i (00:14:22) zoom in 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom in -912.62 481.54
+\i (00:14:22) trapsize 84
+\i (00:14:22) zoom out 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom out -912.62 481.54
+\i (00:14:22) trapsize 168
+\i (00:14:22) zoom out 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom out -912.62 481.54
+\i (00:14:22) trapsize 336
+\i (00:14:23) zoom in 1 
+\i (00:14:23) setwindow pcb
+\i (00:14:23) zoom in -907.92 390.25
+\i (00:14:23) trapsize 168
+\i (00:14:58) xdehilite 
+\i (00:14:58) xname_flush 
+\i (00:14:58) done 
+\i (00:14:58) xdehilite 
+\i (00:14:58) xname_flush 
+\i (00:14:58) done 
+\i (00:14:58) xdehilite 
+\i (00:14:58) xname_flush 
+\i (00:14:58) done 
+\i (00:14:58) xdehilite 
+\i (00:14:58) xname_flush 
+\i (00:14:58) done 
+\i (00:14:58) xdehilite 
+\i (00:14:58) xname_flush 
+\i (00:14:58) done 
+\i (00:14:58) xdehilite 
+\i (00:14:58) xname_flush 
+\i (00:14:58) done 
+\i (00:14:59) xdehilite 
+\i (00:14:59) xname_flush 
+\i (00:14:59) done 
+\i (00:14:59) xdehilite 
+\i (00:14:59) xname_flush 
+\i (00:14:59) done 
+\i (00:14:59) xdehilite 
+\i (00:14:59) xname_flush 
+\i (00:14:59) done 
+\i (00:14:59) xdehilite 
+\i (00:14:59) xname_flush 
+\i (00:14:59) done 
+\i (00:14:59) xdehilite 
+\i (00:14:59) xname_flush 
+\i (00:14:59) done 
+\i (00:14:59) xdehilite 
+\i (00:14:59) xname_flush 
+\i (00:14:59) done 
+\i (00:14:59) xdehilite 
+\i (00:14:59) xname_flush 
+\i (00:14:59) done 
+\i (00:15:00) xdehilite 
+\i (00:15:00) xname_flush 
+\i (00:15:00) done 
+\i (00:15:00) xdehilite 
+\i (00:15:00) xname_flush 
+\i (00:15:00) done 
+\i (00:15:00) xdehilite 
+\i (00:15:00) xname_flush 
+\i (00:15:00) done 
+\i (00:15:00) xdehilite 
+\i (00:15:00) xname_flush 
+\i (00:15:00) done 
+\i (00:15:00) xdehilite 
+\i (00:15:00) xname_flush 
+\i (00:15:00) done 
+\i (00:15:00) xdehilite 
+\i (00:15:00) xname_flush 
+\i (00:15:00) done 
+\i (00:15:00) xdehilite 
+\i (00:15:00) xname_flush 
+\i (00:15:00) done 
+\i (00:15:00) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:01) xdehilite 
+\i (00:15:01) xname_flush 
+\i (00:15:01) done 
+\i (00:15:02) xdehilite 
+\i (00:15:02) xname_flush 
+\i (00:15:02) done 
+\i (00:15:02) xdehilite 
+\i (00:15:02) xname_flush 
+\i (00:15:02) done 
+\i (00:15:02) xdehilite 
+\i (00:15:02) xname_flush 
+\i (00:15:02) done 
+\i (00:15:02) xdehilite 
+\i (00:15:02) xname_flush 
+\i (00:15:02) done 
+\i (00:15:02) xdehilite 
+\i (00:15:02) xname_flush 
+\i (00:15:02) done 
+\i (00:15:02) xdehilite 
+\i (00:15:02) xname_flush 
+\i (00:15:02) done 
+\i (00:15:02) xdehilite 
+\i (00:15:02) xname_flush 
+\i (00:15:02) done 
+\i (00:15:02) xdehilite 
+\i (00:15:02) xname_flush 
+\i (00:15:02) done 
+\i (00:15:02) xdehilite 
+\i (00:15:03) xname_flush 
+\i (00:15:03) done 
+\i (00:15:03) xdehilite 
+\i (00:15:03) xname_flush 
+\i (00:15:03) done 
+\i (00:15:03) xdehilite 
+\i (00:15:03) xname_flush 
+\i (00:15:03) done 
+\i (00:15:03) xdehilite 
+\i (00:15:03) xname_flush 
+\i (00:15:03) done 
+\i (00:15:03) xdehilite 
+\i (00:15:03) xname_flush 
+\i (00:15:03) done 
+\i (00:15:03) xdehilite 
+\i (00:15:03) xname_flush 
+\i (00:15:03) done 
+\i (00:15:03) xdehilite 
+\i (00:15:03) xname_flush 
+\i (00:15:03) done 
+\i (00:15:03) xdehilite 
+\i (00:15:03) xname_flush 
+\i (00:15:03) done 
+\i (00:15:04) xdehilite 
+\i (00:15:04) xname_flush 
+\i (00:15:04) done 
+\i (00:15:04) xdehilite 
+\i (00:15:04) xname_flush 
+\i (00:15:04) done 
+\i (00:15:04) xdehilite 
+\i (00:15:04) xname_flush 
+\i (00:15:04) done 
+\i (00:15:04) xdehilite 
+\i (00:15:04) xname_flush 
+\i (00:15:04) done 
+\i (00:15:04) xdehilite 
+\i (00:15:04) xname_flush 
+\i (00:15:04) done 
+\i (00:15:04) xdehilite 
+\i (00:15:04) xname_flush 
+\i (00:15:04) done 
+\i (00:15:04) xdehilite 
+\i (00:15:04) xname_flush 
+\i (00:15:04) done 
+\i (00:15:04) xdehilite 
+\i (00:15:04) xname_flush 
+\i (00:15:04) done 
+\i (00:15:04) xdehilite 
+\i (00:15:05) xname_flush 
+\i (00:15:05) done 
+\i (00:15:05) xdehilite 
+\i (00:15:05) xname_flush 
+\i (00:15:05) done 
+\i (00:15:05) xdehilite 
+\i (00:15:05) xname_flush 
+\i (00:15:05) done 
+\i (00:15:05) xdehilite 
+\i (00:15:05) xname_flush 
+\i (00:15:05) done 
+\i (00:15:05) xdehilite 
+\i (00:15:05) xname_flush 
+\i (00:15:05) done 
+\i (00:15:05) xdehilite 
+\i (00:15:05) xname_flush 
+\i (00:15:05) done 
+\i (00:15:05) xdehilite 
+\i (00:15:05) xname_flush 
+\i (00:15:05) done 
+\i (00:15:05) xdehilite 
+\i (00:15:05) xname_flush 
+\i (00:15:05) done 
+\i (00:15:05) xdehilite 
+\i (00:15:05) xname_flush 
+\i (00:15:05) done 
+\i (00:15:06) xdehilite 
+\i (00:15:06) xname_flush 
+\i (00:15:06) done 
+\i (00:15:06) xdehilite 
+\i (00:15:06) xname_flush 
+\i (00:15:06) done 
+\i (00:15:06) xdehilite 
+\i (00:15:06) xname_flush 
+\i (00:15:06) done 
+\i (00:15:06) xdehilite 
+\i (00:15:06) xname_flush 
+\i (00:15:06) done 
+\i (00:15:06) xdehilite 
+\i (00:15:06) xname_flush 
+\i (00:15:06) done 
+\i (00:15:06) xdehilite 
+\i (00:15:06) xname_flush 
+\i (00:15:06) done 
+\i (00:15:06) xdehilite 
+\i (00:15:06) xname_flush 
+\i (00:15:06) done 
+\i (00:15:06) xdehilite 
+\i (00:15:06) xname_flush 
+\i (00:15:06) done 
+\i (00:15:07) xdehilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:07) xdehilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:07) xdehilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:07) xdehilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:07) xdehilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:07) xdehilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:07) xdehilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:07) xdehilite 
+\i (00:15:07) xname_flush 
+\i (00:15:07) done 
+\i (00:15:08) xdehilite 
+\i (00:15:08) xname_flush 
+\i (00:15:08) done 
+\i (00:15:08) xdehilite 
+\i (00:15:08) xname_flush 
+\i (00:15:08) done 
+\i (00:15:08) xdehilite 
+\i (00:15:08) xname_flush 
+\i (00:15:08) done 
+\i (00:15:08) xdehilite 
+\i (00:15:08) xname_flush 
+\i (00:15:08) done 
+\i (00:15:08) xdehilite 
+\i (00:15:08) xname_flush 
+\i (00:15:08) done 
+\i (00:15:08) xdehilite 
+\i (00:15:08) xname_flush 
+\i (00:15:08) done 
+\i (00:15:08) xdehilite 
+\i (00:15:08) xname_flush 
+\i (00:15:08) done 
+\i (00:15:09) xdehilite 
+\i (00:15:09) xname_flush 
+\i (00:15:09) done 
+\i (00:15:09) xdehilite 
+\i (00:15:09) xname_flush 
+\i (00:15:09) done 
+\i (00:15:09) xdehilite 
+\i (00:15:09) xname_flush 
+\i (00:15:09) done 
+\i (00:15:09) xdehilite 
+\i (00:15:09) xname_flush 
+\i (00:15:09) done 
+\i (00:15:09) xdehilite 
+\i (00:15:09) xname_flush 
+\i (00:15:09) done 
+\i (00:15:09) xdehilite 
+\i (00:15:09) xname_flush 
+\i (00:15:09) done 
+\i (00:15:09) xdehilite 
+\i (00:15:09) xname_flush 
+\i (00:15:09) done 
+\i (00:15:09) xdehilite 
+\i (00:15:09) xname_flush 
+\i (00:15:09) done 
+\i (00:15:09) xdehilite 
+\i (00:15:10) xname_flush 
+\i (00:15:10) done 
+\i (00:15:10) xdehilite 
+\i (00:15:10) xname_flush 
+\i (00:15:10) done 
+\i (00:15:10) xdehilite 
+\i (00:15:10) xname_flush 
+\i (00:15:10) done 
+\i (00:15:10) xdehilite 
+\i (00:15:10) xname_flush 
+\i (00:15:10) done 
+\i (00:15:10) xdehilite 
+\i (00:15:10) xname_flush 
+\i (00:15:10) done 
+\i (00:15:10) xdehilite 
+\i (00:15:10) xname_flush 
+\i (00:15:10) done 
+\i (00:15:10) xdehilite 
+\i (00:15:10) xname_flush 
+\i (00:15:10) done 
+\i (00:15:10) generaledit 
+\i (00:16:21) xhilite 
+\i (00:16:23) xname_flush 
+\i (00:16:23) done 
+\i (00:16:23) generaledit 
+\i (00:16:23) xhilite 
+\i (00:16:23) xname_flush 
+\i (00:16:23) done 
+\i (00:16:23) xhilite 
+\i (00:16:23) xname_flush 
+\i (00:16:23) done 
+\i (00:16:23) xhilite 
+\i (00:16:23) xname_flush 
+\i (00:16:23) done 
+\i (00:16:23) xhilite 
+\i (00:16:23) xname_flush 
+\i (00:16:23) done 
+\i (00:16:24) xhilite 
+\i (00:16:24) xname_flush 
+\i (00:16:24) done 
+\i (00:16:24) xhilite 
+\i (00:16:24) xname_flush 
+\i (00:16:24) done 
+\i (00:16:24) xhilite 
+\i (00:16:24) xname_flush 
+\i (00:16:24) done 
+\i (00:16:24) xhilite 
+\i (00:16:24) xname_flush 
+\i (00:16:24) done 
+\i (00:16:24) xhilite 
+\i (00:16:24) xname_flush 
+\i (00:16:24) done 
+\i (00:16:24) xhilite 
+\i (00:16:24) xname_flush 
+\i (00:16:24) done 
+\i (00:16:24) xhilite 
+\i (00:16:24) xname_flush 
+\i (00:16:24) done 
+\i (00:16:24) xhilite 
+\i (00:16:24) xrefdes R25 
+\i (00:16:24) xname_flush 
+\i (00:16:24) trapsize 168
+\t (00:16:25) Symbol "R25" highlighted.
+\i (00:16:25) done 
+\i (00:16:25) xhilite 
+\i (00:16:25) xrefdes R24 
+\i (00:16:25) xname_flush 
+\i (00:16:25) trapsize 168
+\t (00:16:25) Symbol "R24" highlighted.
+\i (00:16:25) done 
+\i (00:16:25) xhilite 
+\i (00:16:25) xrefdes R26 
+\i (00:16:25) xname_flush 
+\i (00:16:25) trapsize 168
+\t (00:16:25) Symbol "R26" highlighted.
+\i (00:16:25) done 
+\i (00:16:25) xhilite 
+\i (00:16:25) xrefdes K5 
+\i (00:16:25) xname_flush 
+\i (00:16:25) trapsize 699
+\t (00:16:25) Symbol "K5" highlighted.
+\i (00:16:25) done 
+\i (00:16:25) xhilite 
+\i (00:16:25) xrefdes R23 
+\i (00:16:25) xname_flush 
+\i (00:16:25) trapsize 162
+\t (00:16:25) Symbol "R23" highlighted.
+\i (00:16:25) done 
+\i (00:16:25) xhilite 
+\i (00:16:25) xrefdes R20 
+\i (00:16:25) xname_flush 
+\i (00:16:25) trapsize 162
+\t (00:16:25) Symbol "R20" highlighted.
+\i (00:16:25) done 
+\i (00:16:25) xhilite 
+\i (00:16:25) xrefdes R16 
+\i (00:16:25) xname_flush 
+\i (00:16:25) trapsize 162
+\t (00:16:25) Symbol "R16" highlighted.
+\i (00:16:25) done 
+\i (00:16:25) xhilite 
+\i (00:16:25) xname_flush 
+\i (00:16:25) done 
+\i (00:16:26) xhilite 
+\i (00:16:26) xname_flush 
+\i (00:16:26) done 
+\i (00:16:26) xhilite 
+\i (00:16:26) xname_flush 
+\i (00:16:26) done 
+\i (00:16:26) xhilite 
+\i (00:16:26) xname_flush 
+\i (00:16:26) done 
+\i (00:16:26) xhilite 
+\i (00:16:26) xname_flush 
+\i (00:16:26) done 
+\i (00:16:26) xhilite 
+\i (00:16:26) xname_flush 
+\i (00:16:26) done 
+\i (00:16:26) xhilite 
+\i (00:16:26) xname_flush 
+\i (00:16:26) done 
+\i (00:16:26) xhilite 
+\i (00:16:26) xname_flush 
+\i (00:16:26) done 
+\i (00:16:26) xhilite 
+\i (00:16:26) xname_flush 
+\i (00:16:26) done 
+\i (00:16:27) xhilite 
+\i (00:16:27) xname_flush 
+\i (00:16:27) done 
+\i (00:16:27) xhilite 
+\i (00:16:27) xname_flush 
+\i (00:16:27) done 
+\i (00:16:27) xhilite 
+\i (00:16:27) xname_flush 
+\i (00:16:27) done 
+\i (00:16:27) xhilite 
+\i (00:16:27) xname_flush 
+\i (00:16:27) done 
+\i (00:16:27) xhilite 
+\i (00:16:27) xname_flush 
+\i (00:16:27) done 
+\i (00:16:27) xhilite 
+\i (00:16:27) xname_flush 
+\i (00:16:27) done 
+\i (00:16:27) xhilite 
+\i (00:16:27) xname_flush 
+\i (00:16:27) done 
+\i (00:16:27) xhilite 
+\i (00:16:27) xname_flush 
+\i (00:16:27) done 
+\i (00:16:28) xhilite 
+\i (00:16:28) xname_flush 
+\i (00:16:28) done 
+\i (00:16:28) xhilite 
+\i (00:16:28) xname_flush 
+\i (00:16:28) done 
+\i (00:16:28) xhilite 
+\i (00:16:28) xname_flush 
+\i (00:16:28) done 
+\i (00:16:28) xhilite 
+\i (00:16:28) xname_flush 
+\i (00:16:28) done 
+\i (00:16:28) xhilite 
+\i (00:16:28) xname_flush 
+\i (00:16:28) done 
+\i (00:16:28) xhilite 
+\i (00:16:28) xname_flush 
+\i (00:16:28) done 
+\i (00:16:28) xhilite 
+\i (00:16:28) xname_flush 
+\i (00:16:28) done 
+\i (00:16:28) xhilite 
+\i (00:16:28) xname_flush 
+\i (00:16:28) done 
+\i (00:16:29) xhilite 
+\i (00:16:29) xname_flush 
+\i (00:16:29) done 
+\i (00:16:29) xhilite 
+\i (00:16:29) xname_flush 
+\i (00:16:29) done 
+\i (00:16:29) xhilite 
+\i (00:16:29) xname_flush 
+\i (00:16:29) done 
+\i (00:16:29) xhilite 
+\i (00:16:29) xname_flush 
+\i (00:16:29) done 
+\i (00:16:29) xhilite 
+\i (00:16:29) xname_flush 
+\i (00:16:29) done 
+\i (00:16:29) xhilite 
+\i (00:16:29) xname_flush 
+\i (00:16:29) done 
+\i (00:16:30) xhilite 
+\i (00:16:30) xname_flush 
+\i (00:16:30) done 
+\i (00:16:30) xhilite 
+\i (00:16:30) xname_flush 
+\i (00:16:30) done 
+\i (00:16:30) xhilite 
+\i (00:16:30) xname_flush 
+\i (00:16:30) done 
+\i (00:16:30) xhilite 
+\i (00:16:30) xrefdes R17 
+\i (00:16:30) xname_flush 
+\i (00:16:30) trapsize 171
+\t (00:16:30) Symbol "R17" highlighted.
+\i (00:16:30) done 
+\i (00:16:30) xhilite 
+\i (00:16:30) xrefdes K3 
+\i (00:16:30) xname_flush 
+\i (00:16:30) trapsize 699
+\t (00:16:30) Symbol "K3" highlighted.
+\i (00:16:30) done 
+\i (00:16:30) xhilite 
+\i (00:16:30) xrefdes R7 
+\i (00:16:30) xname_flush 
+\i (00:16:30) trapsize 162
+\t (00:16:30) Symbol "R7" highlighted.
+\i (00:16:30) done 
+\i (00:16:31) xhilite 
+\i (00:16:31) xrefdes K4 
+\i (00:16:31) xname_flush 
+\i (00:16:31) trapsize 699
+\t (00:16:31) Symbol "K4" highlighted.
+\i (00:16:31) done 
+\i (00:16:31) xhilite 
+\i (00:16:31) xrefdes R21 
+\i (00:16:31) xname_flush 
+\i (00:16:31) trapsize 171
+\t (00:16:31) Symbol "R21" highlighted.
+\i (00:16:31) done 
+\i (00:16:31) xhilite 
+\i (00:16:31) xrefdes R12 
+\i (00:16:31) xname_flush 
+\i (00:16:31) trapsize 171
+\t (00:16:31) Symbol "R12" highlighted.
+\i (00:16:31) done 
+\i (00:16:31) xhilite 
+\i (00:16:31) xrefdes R22 
+\i (00:16:31) xname_flush 
+\i (00:16:31) trapsize 171
+\t (00:16:31) Symbol "R22" highlighted.
+\i (00:16:31) done 
+\i (00:16:31) xhilite 
+\i (00:16:31) xrefdes R8 
+\i (00:16:31) xname_flush 
+\i (00:16:31) trapsize 171
+\t (00:16:31) Symbol "R8" highlighted.
+\i (00:16:31) done 
+\i (00:16:31) xhilite 
+\i (00:16:31) xrefdes R15 
+\i (00:16:31) xname_flush 
+\i (00:16:31) trapsize 171
+\t (00:16:31) Symbol "R15" highlighted.
+\i (00:16:31) done 
+\i (00:16:31) xhilite 
+\i (00:16:31) xrefdes R19 
+\i (00:16:31) xname_flush 
+\i (00:16:31) trapsize 171
+\t (00:16:31) Symbol "R19" highlighted.
+\i (00:16:31) done 
+\i (00:16:32) xhilite 
+\i (00:16:32) xrefdes R9 
+\i (00:16:32) xname_flush 
+\i (00:16:32) trapsize 171
+\t (00:16:32) Symbol "R9" highlighted.
+\i (00:16:32) done 
+\i (00:16:32) xhilite 
+\i (00:16:32) xrefdes R11 
+\i (00:16:32) xname_flush 
+\i (00:16:32) trapsize 171
+\t (00:16:32) Symbol "R11" highlighted.
+\i (00:16:32) done 
+\i (00:16:32) xhilite 
+\i (00:16:32) xrefdes K1 
+\i (00:16:32) xname_flush 
+\i (00:16:32) trapsize 699
+\t (00:16:32) Symbol "K1" highlighted.
+\i (00:16:32) done 
+\i (00:16:32) xhilite 
+\i (00:16:32) xrefdes R14 
+\i (00:16:32) xname_flush 
+\i (00:16:32) trapsize 171
+\t (00:16:32) Symbol "R14" highlighted.
+\i (00:16:32) done 
+\i (00:16:32) xhilite 
+\i (00:16:32) xrefdes K2 
+\i (00:16:32) xname_flush 
+\i (00:16:32) trapsize 699
+\t (00:16:32) Symbol "K2" highlighted.
+\i (00:16:32) done 
+\i (00:16:32) xhilite 
+\i (00:16:32) xrefdes R13 
+\i (00:16:32) xname_flush 
+\i (00:16:32) trapsize 171
+\t (00:16:32) Symbol "R13" highlighted.
+\i (00:16:32) done 
+\i (00:16:32) xhilite 
+\i (00:16:32) xrefdes R18 
+\i (00:16:32) xname_flush 
+\i (00:16:32) trapsize 171
+\t (00:16:32) Symbol "R18" highlighted.
+\i (00:16:32) done 
+\i (00:16:33) xhilite 
+\i (00:16:33) xrefdes R10 
+\i (00:16:33) xname_flush 
+\i (00:16:33) trapsize 171
+\t (00:16:33) Symbol "R10" highlighted.
+\i (00:16:33) done 
+\i (00:16:33) xhilite 
+\i (00:16:33) xname_flush 
+\i (00:16:33) done 
+\i (00:16:33) xhilite 
+\i (00:16:33) xname_flush 
+\i (00:16:33) done 
+\i (00:16:33) xhilite 
+\i (00:16:33) xname_flush 
+\i (00:16:33) done 
+\i (00:16:33) xhilite 
+\i (00:16:33) xname_flush 
+\i (00:16:33) done 
+\i (00:16:33) xhilite 
+\i (00:16:33) xname_flush 
+\i (00:16:33) done 
+\i (00:16:33) xhilite 
+\i (00:16:33) xname_flush 
+\i (00:16:33) done 
+\i (00:16:34) xhilite 
+\i (00:16:34) xname_flush 
+\i (00:16:34) done 
+\i (00:16:34) xhilite 
+\i (00:16:34) xname_flush 
+\i (00:16:34) done 
+\i (00:16:34) xhilite 
+\i (00:16:34) xname_flush 
+\i (00:16:34) done 
+\i (00:16:34) xhilite 
+\i (00:16:34) xname_flush 
+\i (00:16:34) done 
+\i (00:16:34) xhilite 
+\i (00:16:34) xname_flush 
+\i (00:16:34) done 
+\i (00:16:34) xhilite 
+\i (00:16:34) xname_flush 
+\i (00:16:34) done 
+\i (00:16:34) xhilite 
+\i (00:16:34) xname_flush 
+\i (00:16:34) done 
+\i (00:16:35) xhilite 
+\i (00:16:35) xname_flush 
+\i (00:16:35) done 
+\i (00:16:35) xhilite 
+\i (00:16:35) xname_flush 
+\i (00:16:35) done 
+\i (00:16:35) xhilite 
+\i (00:16:35) xname_flush 
+\i (00:16:35) done 
+\i (00:16:35) xhilite 
+\i (00:16:35) xname_flush 
+\i (00:16:35) done 
+\i (00:16:35) xhilite 
+\i (00:16:35) xname_flush 
+\i (00:16:35) done 
+\i (00:16:35) xhilite 
+\i (00:16:35) xname_flush 
+\i (00:16:35) done 
+\i (00:16:35) xhilite 
+\i (00:16:35) xname_flush 
+\i (00:16:35) done 
+\i (00:16:35) xhilite 
+\i (00:16:36) xname_flush 
+\i (00:16:36) done 
+\i (00:16:36) xhilite 
+\i (00:16:36) xname_flush 
+\i (00:16:36) done 
+\i (00:16:36) xhilite 
+\i (00:16:36) xname_flush 
+\i (00:16:36) done 
+\i (00:16:36) xhilite 
+\i (00:16:36) xname_flush 
+\i (00:16:36) done 
+\i (00:16:36) xhilite 
+\i (00:16:36) xname_flush 
+\i (00:16:36) done 
+\i (00:16:36) xhilite 
+\i (00:16:36) xname_flush 
+\i (00:16:36) done 
+\i (00:16:36) xhilite 
+\i (00:16:36) xname_flush 
+\i (00:16:36) done 
+\i (00:16:36) xhilite 
+\i (00:16:36) xname_flush 
+\i (00:16:36) done 
+\i (00:16:36) xhilite 
+\i (00:16:36) xname_flush 
+\i (00:16:36) done 
+\i (00:16:37) xhilite 
+\i (00:16:37) xname_flush 
+\i (00:16:37) done 
+\i (00:16:37) xdehilite 
+\i (00:16:37) xrefdes R38 
+\i (00:16:37) xname_flush 
+\i (00:16:37) done 
+\i (00:16:37) xdehilite 
+\i (00:16:37) xrefdes R41 
+\i (00:16:37) xname_flush 
+\i (00:16:37) done 
+\i (00:16:37) xdehilite 
+\i (00:16:37) xrefdes K11 
+\i (00:16:37) xname_flush 
+\i (00:16:37) done 
+\i (00:16:37) xdehilite 
+\i (00:16:37) xrefdes R42 
+\i (00:16:37) xname_flush 
+\i (00:16:37) done 
+\i (00:16:37) xdehilite 
+\i (00:16:37) xrefdes K8 
+\i (00:16:37) xname_flush 
+\i (00:16:37) done 
+\i (00:16:37) xdehilite 
+\i (00:16:37) xrefdes R39 
+\i (00:16:37) xname_flush 
+\i (00:16:37) done 
+\i (00:16:37) xdehilite 
+\i (00:16:37) xname_flush 
+\i (00:16:37) done 
+\i (00:16:38) xdehilite 
+\i (00:16:38) xrefdes R40 
+\i (00:16:38) xname_flush 
+\i (00:16:38) done 
+\i (00:16:38) xdehilite 
+\i (00:16:38) xname_flush 
+\i (00:16:38) done 
+\i (00:16:38) xdehilite 
+\i (00:16:38) xname_flush 
+\i (00:16:38) done 
+\i (00:16:38) xdehilite 
+\i (00:16:38) xname_flush 
+\i (00:16:38) done 
+\i (00:16:38) xdehilite 
+\i (00:16:38) xname_flush 
+\i (00:16:38) done 
+\i (00:16:38) xdehilite 
+\i (00:16:38) xname_flush 
+\i (00:16:38) done 
+\i (00:16:38) xdehilite 
+\i (00:16:38) xname_flush 
+\i (00:16:38) done 
+\i (00:16:38) xdehilite 
+\i (00:16:38) xrefdes R28 
+\i (00:16:38) xname_flush 
+\i (00:16:38) done 
+\i (00:16:39) xdehilite 
+\i (00:16:39) xrefdes K6 
+\i (00:16:39) xname_flush 
+\i (00:16:39) done 
+\i (00:16:39) xdehilite 
+\i (00:16:39) xrefdes R33 
+\i (00:16:39) xname_flush 
+\i (00:16:39) done 
+\i (00:16:39) xdehilite 
+\i (00:16:39) xrefdes R29 
+\i (00:16:39) xname_flush 
+\i (00:16:39) done 
+\i (00:16:39) xdehilite 
+\i (00:16:39) xrefdes R31 
+\i (00:16:39) xname_flush 
+\i (00:16:39) done 
+\i (00:16:39) xdehilite 
+\i (00:16:39) xname_flush 
+\i (00:16:39) done 
+\i (00:16:39) xdehilite 
+\i (00:16:39) xname_flush 
+\i (00:16:39) done 
+\i (00:16:39) xdehilite 
+\i (00:16:39) xname_flush 
+\i (00:16:39) done 
+\i (00:16:39) xdehilite 
+\i (00:16:39) xname_flush 
+\i (00:16:39) done 
+\i (00:16:40) xdehilite 
+\i (00:16:40) xname_flush 
+\i (00:16:40) done 
+\i (00:16:40) xdehilite 
+\i (00:16:40) xrefdes R30 
+\i (00:16:40) xname_flush 
+\i (00:16:40) done 
+\i (00:16:40) xdehilite 
+\i (00:16:40) xname_flush 
+\i (00:16:40) done 
+\i (00:16:40) xdehilite 
+\i (00:16:40) xname_flush 
+\i (00:16:40) done 
+\i (00:16:40) xdehilite 
+\i (00:16:40) xrefdes K7 
+\i (00:16:40) xname_flush 
+\i (00:16:40) done 
+\i (00:16:40) xdehilite 
+\i (00:16:40) xname_flush 
+\i (00:16:40) done 
+\i (00:16:40) xdehilite 
+\i (00:16:40) xrefdes R32 
+\i (00:16:40) xname_flush 
+\i (00:16:40) done 
+\i (00:16:40) xdehilite 
+\i (00:16:40) xrefdes R34 
+\i (00:16:40) xname_flush 
+\i (00:16:40) done 
+\i (00:16:40) xdehilite 
+\i (00:16:41) xrefdes R27 
+\i (00:16:41) xname_flush 
+\i (00:16:41) done 
+\i (00:16:41) xdehilite 
+\i (00:16:41) xrefdes R37 
+\i (00:16:41) xname_flush 
+\i (00:16:41) done 
+\i (00:16:41) xdehilite 
+\i (00:16:41) xrefdes K16 
+\i (00:16:41) xname_flush 
+\i (00:16:41) done 
+\i (00:16:41) xdehilite 
+\i (00:16:41) xrefdes R68 
+\i (00:16:41) xname_flush 
+\i (00:16:41) done 
+\i (00:16:41) xdehilite 
+\i (00:16:41) xname_flush 
+\i (00:16:41) done 
+\i (00:16:41) xdehilite 
+\i (00:16:41) xname_flush 
+\i (00:16:41) done 
+\i (00:16:41) xdehilite 
+\i (00:16:41) xname_flush 
+\i (00:16:41) done 
+\i (00:16:41) xdehilite 
+\i (00:16:41) xname_flush 
+\i (00:16:41) done 
+\i (00:16:41) xdehilite 
+\i (00:16:41) xrefdes R67 
+\i (00:16:41) xname_flush 
+\i (00:16:41) done 
+\i (00:16:42) xdehilite 
+\i (00:16:42) xrefdes R69 
+\i (00:16:42) xname_flush 
+\i (00:16:42) done 
+\i (00:16:42) xdehilite 
+\i (00:16:42) xrefdes R70 
+\i (00:16:42) xname_flush 
+\i (00:16:42) done 
+\i (00:16:42) xdehilite 
+\i (00:16:42) xrefdes K28 
+\i (00:16:42) xname_flush 
+\i (00:16:42) done 
+\i (00:16:42) xdehilite 
+\i (00:16:42) xrefdes R83 
+\i (00:16:42) xname_flush 
+\i (00:16:42) done 
+\i (00:16:42) xdehilite 
+\i (00:16:42) xrefdes J5 
+\i (00:16:42) xname_flush 
+\i (00:16:42) done 
+\i (00:16:42) xdehilite 
+\i (00:16:42) xrefdes J4 
+\i (00:16:42) xname_flush 
+\i (00:16:42) done 
+\i (00:16:42) xdehilite 
+\i (00:16:42) xrefdes R84 
+\i (00:16:42) xname_flush 
+\i (00:16:42) done 
+\i (00:16:43) xdehilite 
+\i (00:16:43) xrefdes S1_I2C 
+\i (00:16:43) xname_flush 
+\i (00:16:43) done 
+\i (00:16:43) xdehilite 
+\i (00:16:43) xname_flush 
+\i (00:16:43) done 
+\i (00:16:43) xdehilite 
+\i (00:16:43) xname_flush 
+\i (00:16:43) done 
+\i (00:16:43) xdehilite 
+\i (00:16:43) xname_flush 
+\i (00:16:43) done 
+\i (00:16:43) xdehilite 
+\i (00:16:43) xrefdes R132 
+\i (00:16:43) xname_flush 
+\i (00:16:43) done 
+\i (00:16:44) xdehilite 
+\i (00:16:44) xrefdes R5 
+\i (00:16:44) xname_flush 
+\i (00:16:44) done 
+\i (00:16:44) xdehilite 
+\i (00:16:44) xrefdes R133 
+\i (00:16:44) xname_flush 
+\i (00:16:44) done 
+\i (00:16:44) xdehilite 
+\i (00:16:44) xrefdes TP_XTAL_OUT 
+\i (00:16:44) xname_flush 
+\i (00:16:44) done 
+\i (00:16:44) xdehilite 
+\i (00:16:44) xrefdes K18 
+\i (00:16:44) xname_flush 
+\i (00:16:44) done 
+\i (00:16:44) xdehilite 
+\i (00:16:44) xrefdes R119 
+\i (00:16:44) xname_flush 
+\i (00:16:44) done 
+\i (00:16:45) xdehilite 
+\i (00:16:45) xrefdes R131 
+\i (00:16:45) xname_flush 
+\i (00:16:45) done 
+\i (00:16:45) xdehilite 
+\i (00:16:45) xrefdes R6 
+\i (00:16:45) xname_flush 
+\i (00:16:45) done 
+\i (00:16:45) xdehilite 
+\i (00:16:45) xrefdes R82 
+\i (00:16:45) xname_flush 
+\i (00:16:45) done 
+\i (00:16:45) xdehilite 
+\i (00:16:45) xrefdes R129 
+\i (00:16:45) xname_flush 
+\i (00:16:45) done 
+\i (00:16:45) xdehilite 
+\i (00:16:45) xrefdes R4 
+\i (00:16:45) xname_flush 
+\i (00:16:45) done 
+\i (00:16:45) xdehilite 
+\i (00:16:45) xrefdes TP_AUXVCC 
+\i (00:16:45) xname_flush 
+\i (00:16:45) done 
+\i (00:16:46) xdehilite 
+\i (00:16:46) xrefdes R1 
+\i (00:16:46) xname_flush 
+\i (00:16:46) done 
+\i (00:16:46) xdehilite 
+\i (00:16:46) xrefdes R118 
+\i (00:16:46) xname_flush 
+\i (00:16:46) done 
+\i (00:16:46) xdehilite 
+\i (00:16:46) xrefdes K9 
+\i (00:16:46) xname_flush 
+\i (00:16:46) done 
+\i (00:16:46) xdehilite 
+\i (00:16:46) xrefdes C4 
+\i (00:16:46) xname_flush 
+\i (00:16:46) done 
+\i (00:16:46) xdehilite 
+\i (00:16:46) xrefdes R117 
+\i (00:16:46) xname_flush 
+\i (00:16:46) done 
+\i (00:16:47) xdehilite 
+\i (00:16:47) xrefdes TP_XTAL_IN 
+\i (00:16:47) xname_flush 
+\i (00:16:47) done 
+\i (00:16:47) xdehilite 
+\i (00:16:47) xrefdes R130 
+\i (00:16:47) xname_flush 
+\i (00:16:47) done 
+\i (00:16:47) xdehilite 
+\i (00:16:47) xrefdes C5 
+\i (00:16:47) xname_flush 
+\i (00:16:47) done 
+\i (00:16:47) xdehilite 
+\i (00:16:47) xrefdes SH20 
+\i (00:16:47) xname_flush 
+\i (00:16:47) done 
+\i (00:16:47) xdehilite 
+\i (00:16:47) xrefdes CA19 
+\i (00:16:47) xname_flush 
+\i (00:16:47) done 
+\i (00:16:47) xdehilite 
+\i (00:16:47) xrefdes SH19 
+\i (00:16:47) xname_flush 
+\i (00:16:47) done 
+\i (00:16:47) xdehilite 
+\i (00:16:48) xrefdes K33 
+\i (00:16:48) xname_flush 
+\i (00:16:48) done 
+\i (00:16:48) xdehilite 
+\i (00:16:48) xrefdes C3 
+\i (00:16:48) xname_flush 
+\i (00:16:48) done 
+\i (00:16:48) xdehilite 
+\i (00:16:48) xrefdes R120 
+\i (00:16:48) xname_flush 
+\i (00:16:48) done 
+\i (00:16:48) xdehilite 
+\i (00:16:48) xrefdes R3 
+\i (00:16:48) xname_flush 
+\i (00:16:48) done 
+\i (00:16:48) xdehilite 
+\i (00:16:48) xrefdes CA20 
+\i (00:16:48) xname_flush 
+\i (00:16:48) done 
+\i (00:16:48) xdehilite 
+\i (00:16:48) xrefdes K13 
+\i (00:16:48) xname_flush 
+\i (00:16:48) done 
+\i (00:16:48) xdehilite 
+\i (00:16:48) xrefdes Y1 
+\i (00:16:48) xname_flush 
+\i (00:16:48) done 
+\i (00:16:49) xdehilite 
+\i (00:16:49) xrefdes R2 
+\i (00:16:49) xname_flush 
+\i (00:16:49) done 
+\i (00:16:49) xdehilite 
+\i (00:16:49) xrefdes K12 
+\i (00:16:49) xname_flush 
+\i (00:16:49) done 
+\i (00:16:49) xdehilite 
+\i (00:16:49) xrefdes GND10 
+\i (00:16:49) xname_flush 
+\i (00:16:49) done 
+\i (00:16:49) xdehilite 
+\i (00:16:49) xrefdes Y2 
+\i (00:16:49) xname_flush 
+\i (00:16:49) done 
+\i (00:16:49) xdehilite 
+\i (00:16:49) xrefdes C6 
+\i (00:16:49) xname_flush 
+\i (00:16:49) done 
+\i (00:16:49) xdehilite 
+\i (00:16:49) xname_flush 
+\i (00:16:49) done 
+\i (00:16:50) xdehilite 
+\i (00:16:50) xname_flush 
+\i (00:16:50) done 
+\i (00:16:50) xdehilite 
+\i (00:16:50) xname_flush 
+\i (00:16:50) done 
+\i (00:16:50) xdehilite 
+\i (00:16:50) xrefdes R44 
+\i (00:16:50) xname_flush 
+\i (00:16:50) done 
+\i (00:16:50) xdehilite 
+\i (00:16:50) xrefdes R101 
+\i (00:16:50) xname_flush 
+\i (00:16:50) done 
+\i (00:16:50) xdehilite 
+\i (00:16:50) xname_flush 
+\i (00:16:50) done 
+\i (00:16:50) xdehilite 
+\i (00:16:50) xrefdes R79 
+\i (00:16:50) xname_flush 
+\i (00:16:50) done 
+\i (00:16:50) xdehilite 
+\i (00:16:51) xrefdes R64 
+\i (00:16:51) xname_flush 
+\i (00:16:51) done 
+\i (00:16:51) xdehilite 
+\i (00:16:51) xname_flush 
+\i (00:16:51) done 
+\i (00:16:51) xdehilite 
+\i (00:16:51) xname_flush 
+\i (00:16:51) done 
+\i (00:16:51) xdehilite 
+\i (00:16:51) xrefdes K30 
+\i (00:16:51) xname_flush 
+\i (00:16:51) done 
+\i (00:16:51) xdehilite 
+\i (00:16:51) xname_flush 
+\i (00:16:51) done 
+\i (00:16:51) xdehilite 
+\i (00:16:51) xname_flush 
+\i (00:16:51) done 
+\i (00:16:52) xdehilite 
+\i (00:16:52) xname_flush 
+\i (00:16:52) done 
+\i (00:16:52) xdehilite 
+\i (00:16:54) xname_flush 
+\i (00:16:54) done 
+\i (00:16:54) xhilite 
+\i (00:16:57) xname_flush 
+\i (00:16:57) done 
+\i (00:16:57) xhilite 
+\i (00:16:57) xname_flush 
+\i (00:16:57) done 
+\i (00:16:57) xhilite 
+\i (00:16:57) xname_flush 
+\i (00:16:57) done 
+\i (00:16:57) xhilite 
+\i (00:16:57) xname_flush 
+\i (00:16:57) done 
+\i (00:16:57) xhilite 
+\i (00:16:57) xname_flush 
+\i (00:16:57) done 
+\i (00:16:58) xhilite 
+\i (00:16:58) xname_flush 
+\i (00:16:58) done 
+\i (00:16:58) xhilite 
+\i (00:16:58) xname_flush 
+\i (00:16:58) done 
+\i (00:16:58) xhilite 
+\i (00:16:58) xname_flush 
+\i (00:16:58) done 
+\i (00:16:58) xhilite 
+\i (00:16:58) xname_flush 
+\i (00:16:58) done 
+\i (00:16:58) xhilite 
+\i (00:16:58) xname_flush 
+\i (00:16:58) done 
+\i (00:16:58) xhilite 
+\i (00:16:58) xname_flush 
+\i (00:16:58) done 
+\i (00:16:58) xhilite 
+\i (00:16:58) xname_flush 
+\i (00:16:58) done 
+\i (00:16:59) xhilite 
+\i (00:16:59) xrefdes R25 
+\i (00:16:59) xname_flush 
+\i (00:16:59) trapsize 171
+\t (00:16:59) Symbol "R25" highlighted.
+\i (00:16:59) done 
+\i (00:16:59) xhilite 
+\i (00:16:59) xrefdes R24 
+\i (00:16:59) xname_flush 
+\i (00:16:59) trapsize 171
+\t (00:16:59) Symbol "R24" highlighted.
+\i (00:16:59) done 
+\i (00:16:59) xhilite 
+\i (00:16:59) xrefdes R26 
+\i (00:16:59) xname_flush 
+\i (00:16:59) trapsize 171
+\t (00:16:59) Symbol "R26" highlighted.
+\i (00:16:59) done 
+\i (00:16:59) xhilite 
+\i (00:16:59) xrefdes K5 
+\i (00:16:59) xname_flush 
+\i (00:16:59) trapsize 699
+\t (00:16:59) Symbol "K5" highlighted.
+\i (00:16:59) done 
+\i (00:16:59) xhilite 
+\i (00:16:59) xrefdes R23 
+\i (00:16:59) xname_flush 
+\i (00:16:59) trapsize 162
+\t (00:16:59) Symbol "R23" highlighted.
+\i (00:16:59) done 
+\i (00:16:59) xhilite 
+\i (00:16:59) xrefdes R20 
+\i (00:16:59) xname_flush 
+\i (00:16:59) trapsize 162
+\t (00:16:59) Symbol "R20" highlighted.
+\i (00:16:59) done 
+\i (00:16:59) xhilite 
+\i (00:16:59) xrefdes R16 
+\i (00:16:59) xname_flush 
+\i (00:16:59) trapsize 162
+\t (00:16:59) Symbol "R16" highlighted.
+\i (00:16:59) done 
+\i (00:17:00) xhilite 
+\i (00:17:00) xname_flush 
+\i (00:17:00) done 
+\i (00:17:00) xhilite 
+\i (00:17:00) xname_flush 
+\i (00:17:00) done 
+\i (00:17:00) xhilite 
+\i (00:17:00) xname_flush 
+\i (00:17:00) done 
+\i (00:17:00) xhilite 
+\i (00:17:00) xname_flush 
+\i (00:17:00) done 
+\i (00:17:00) xhilite 
+\i (00:17:00) xname_flush 
+\i (00:17:00) done 
+\i (00:17:00) xhilite 
+\i (00:17:00) xname_flush 
+\i (00:17:00) done 
+\i (00:17:00) xhilite 
+\i (00:17:00) xname_flush 
+\i (00:17:00) done 
+\i (00:17:01) xhilite 
+\i (00:17:01) xname_flush 
+\i (00:17:01) done 
+\i (00:17:01) xhilite 
+\i (00:17:01) xname_flush 
+\i (00:17:01) done 
+\i (00:17:01) xhilite 
+\i (00:17:01) xname_flush 
+\i (00:17:01) done 
+\i (00:17:01) xhilite 
+\i (00:17:01) xname_flush 
+\i (00:17:01) done 
+\i (00:17:01) xhilite 
+\i (00:17:01) xname_flush 
+\i (00:17:01) done 
+\i (00:17:01) xhilite 
+\i (00:17:01) xname_flush 
+\i (00:17:01) done 
+\i (00:17:01) xhilite 
+\i (00:17:01) xname_flush 
+\i (00:17:01) done 
+\i (00:17:01) xhilite 
+\i (00:17:01) xname_flush 
+\i (00:17:01) done 
+\i (00:17:01) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:02) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:02) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:02) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:02) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:02) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:02) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:02) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:02) xhilite 
+\i (00:17:02) xname_flush 
+\i (00:17:02) done 
+\i (00:17:03) xhilite 
+\i (00:17:03) xname_flush 
+\i (00:17:03) done 
+\i (00:17:03) xhilite 
+\i (00:17:03) xname_flush 
+\i (00:17:03) done 
+\i (00:17:03) xhilite 
+\i (00:17:03) xname_flush 
+\i (00:17:03) done 
+\i (00:17:03) xhilite 
+\i (00:17:03) xname_flush 
+\i (00:17:03) done 
+\i (00:17:03) xhilite 
+\i (00:17:03) xname_flush 
+\i (00:17:03) done 
+\i (00:17:03) xhilite 
+\i (00:17:03) xname_flush 
+\i (00:17:03) done 
+\i (00:17:03) xhilite 
+\i (00:17:04) xname_flush 
+\i (00:17:04) done 
+\i (00:17:04) xhilite 
+\i (00:17:04) xname_flush 
+\i (00:17:04) done 
+\i (00:17:04) xhilite 
+\i (00:17:04) xname_flush 
+\i (00:17:04) done 
+\i (00:17:04) xhilite 
+\i (00:17:04) xname_flush 
+\i (00:17:04) done 
+\i (00:17:04) xhilite 
+\i (00:17:04) xrefdes R17 
+\i (00:17:04) xname_flush 
+\i (00:17:04) trapsize 171
+\t (00:17:04) Symbol "R17" highlighted.
+\i (00:17:04) done 
+\i (00:17:04) xhilite 
+\i (00:17:04) xrefdes K3 
+\i (00:17:04) xname_flush 
+\i (00:17:04) trapsize 699
+\t (00:17:04) Symbol "K3" highlighted.
+\i (00:17:04) done 
+\i (00:17:04) xhilite 
+\i (00:17:04) xrefdes R7 
+\i (00:17:04) xname_flush 
+\i (00:17:04) trapsize 162
+\t (00:17:04) Symbol "R7" highlighted.
+\i (00:17:04) done 
+\i (00:17:04) xhilite 
+\i (00:17:04) xrefdes K4 
+\i (00:17:04) xname_flush 
+\i (00:17:04) trapsize 699
+\t (00:17:04) Symbol "K4" highlighted.
+\i (00:17:04) done 
+\i (00:17:05) xhilite 
+\i (00:17:05) xrefdes R21 
+\i (00:17:05) xname_flush 
+\i (00:17:05) trapsize 171
+\t (00:17:05) Symbol "R21" highlighted.
+\i (00:17:05) done 
+\i (00:17:05) xhilite 
+\i (00:17:05) xrefdes R12 
+\i (00:17:05) xname_flush 
+\i (00:17:05) trapsize 171
+\t (00:17:05) Symbol "R12" highlighted.
+\i (00:17:05) done 
+\i (00:17:05) xhilite 
+\i (00:17:05) xrefdes R22 
+\i (00:17:05) xname_flush 
+\i (00:17:05) trapsize 171
+\t (00:17:05) Symbol "R22" highlighted.
+\i (00:17:05) done 
+\i (00:17:05) xhilite 
+\i (00:17:05) xrefdes R8 
+\i (00:17:05) xname_flush 
+\i (00:17:05) trapsize 171
+\t (00:17:05) Symbol "R8" highlighted.
+\i (00:17:05) done 
+\i (00:17:05) xhilite 
+\i (00:17:05) xrefdes R15 
+\i (00:17:05) xname_flush 
+\i (00:17:05) trapsize 171
+\t (00:17:05) Symbol "R15" highlighted.
+\i (00:17:05) done 
+\i (00:17:05) xhilite 
+\i (00:17:05) xrefdes R19 
+\i (00:17:05) xname_flush 
+\i (00:17:05) trapsize 171
+\t (00:17:05) Symbol "R19" highlighted.
+\i (00:17:05) done 
+\i (00:17:06) xhilite 
+\i (00:17:06) xrefdes R9 
+\i (00:17:06) xname_flush 
+\i (00:17:06) trapsize 171
+\t (00:17:06) Symbol "R9" highlighted.
+\i (00:17:06) done 
+\i (00:17:06) xhilite 
+\i (00:17:06) xrefdes R11 
+\i (00:17:06) xname_flush 
+\i (00:17:06) trapsize 171
+\t (00:17:06) Symbol "R11" highlighted.
+\i (00:17:06) done 
+\i (00:17:06) xhilite 
+\i (00:17:06) xrefdes K1 
+\i (00:17:06) xname_flush 
+\i (00:17:06) trapsize 699
+\t (00:17:06) Symbol "K1" highlighted.
+\i (00:17:06) done 
+\i (00:17:06) xhilite 
+\i (00:17:06) xrefdes R14 
+\i (00:17:06) xname_flush 
+\i (00:17:06) trapsize 171
+\t (00:17:06) Symbol "R14" highlighted.
+\i (00:17:06) done 
+\i (00:17:06) xhilite 
+\i (00:17:06) xrefdes K2 
+\i (00:17:06) xname_flush 
+\i (00:17:06) trapsize 699
+\t (00:17:06) Symbol "K2" highlighted.
+\i (00:17:06) done 
+\i (00:17:06) xhilite 
+\i (00:17:06) xrefdes R13 
+\i (00:17:06) xname_flush 
+\i (00:17:06) trapsize 171
+\t (00:17:06) Symbol "R13" highlighted.
+\i (00:17:06) done 
+\i (00:17:06) xhilite 
+\i (00:17:07) xrefdes R18 
+\i (00:17:07) xname_flush 
+\i (00:17:07) trapsize 171
+\t (00:17:07) Symbol "R18" highlighted.
+\i (00:17:07) done 
+\i (00:17:07) xhilite 
+\i (00:17:07) xrefdes R10 
+\i (00:17:07) xname_flush 
+\i (00:17:07) trapsize 171
+\t (00:17:07) Symbol "R10" highlighted.
+\i (00:17:07) done 
+\i (00:17:07) xhilite 
+\i (00:17:07) xname_flush 
+\i (00:17:07) done 
+\i (00:17:07) xhilite 
+\i (00:17:07) xname_flush 
+\i (00:17:07) done 
+\i (00:17:07) xhilite 
+\i (00:17:07) xname_flush 
+\i (00:17:07) done 
+\i (00:17:07) xhilite 
+\i (00:17:07) xname_flush 
+\i (00:17:07) done 
+\i (00:17:07) xhilite 
+\i (00:17:07) xname_flush 
+\i (00:17:07) done 
+\i (00:17:08) xhilite 
+\i (00:17:08) xname_flush 
+\i (00:17:08) done 
+\i (00:17:08) xhilite 
+\i (00:17:08) xname_flush 
+\i (00:17:08) done 
+\i (00:17:08) xhilite 
+\i (00:17:08) xname_flush 
+\i (00:17:08) done 
+\i (00:17:08) xhilite 
+\i (00:17:08) xname_flush 
+\i (00:17:08) done 
+\i (00:17:08) xhilite 
+\i (00:17:08) xname_flush 
+\i (00:17:08) done 
+\i (00:17:08) xhilite 
+\i (00:17:08) xname_flush 
+\i (00:17:08) done 
+\i (00:17:08) xhilite 
+\i (00:17:08) xname_flush 
+\i (00:17:08) done 
+\i (00:17:09) xhilite 
+\i (00:17:09) xname_flush 
+\i (00:17:09) done 
+\i (00:17:09) xhilite 
+\i (00:17:09) xname_flush 
+\i (00:17:09) done 
+\i (00:17:09) xhilite 
+\i (00:17:09) xname_flush 
+\i (00:17:09) done 
+\i (00:17:09) xhilite 
+\i (00:17:09) xname_flush 
+\i (00:17:09) done 
+\i (00:17:09) xhilite 
+\i (00:17:09) xname_flush 
+\i (00:17:09) done 
+\i (00:17:09) xhilite 
+\i (00:17:09) xname_flush 
+\i (00:17:09) done 
+\i (00:17:09) xhilite 
+\i (00:17:09) xname_flush 
+\i (00:17:09) done 
+\i (00:17:10) xhilite 
+\i (00:17:10) xname_flush 
+\i (00:17:10) done 
+\i (00:17:10) xhilite 
+\i (00:17:10) xname_flush 
+\i (00:17:10) done 
+\i (00:17:10) xhilite 
+\i (00:17:10) xname_flush 
+\i (00:17:10) done 
+\i (00:17:10) xhilite 
+\i (00:17:10) xname_flush 
+\i (00:17:10) done 
+\i (00:17:10) xhilite 
+\i (00:17:10) xname_flush 
+\i (00:17:10) done 
+\i (00:17:10) xhilite 
+\i (00:17:10) xname_flush 
+\i (00:17:10) done 
+\i (00:17:10) xhilite 
+\i (00:17:10) xname_flush 
+\i (00:17:10) done 
+\i (00:17:10) xhilite 
+\i (00:17:10) xname_flush 
+\i (00:17:10) done 
+\i (00:17:11) xhilite 
+\i (00:17:11) xname_flush 
+\i (00:17:11) done 
+\i (00:17:11) xhilite 
+\i (00:17:11) xname_flush 
+\i (00:17:11) done 
+\i (00:17:11) xhilite 
+\i (00:17:11) xname_flush 
+\i (00:17:11) done 
+\i (00:17:11) xhilite 
+\i (00:17:11) xname_flush 
+\i (00:17:11) done 
+\i (00:17:12) xhilite 
+\i (00:17:12) xrefdes J3 
+\i (00:17:12) xname_flush 
+\i (00:17:12) trapsize 513
+\t (00:17:12) Symbol "J3" highlighted.
+\i (00:17:12) done 
+\i (00:17:12) xhilite 
+\i (00:17:12) xrefdes R86 
+\i (00:17:12) xname_flush 
+\i (00:17:12) trapsize 257
+\t (00:17:12) Symbol "R86" highlighted.
+\i (00:17:12) done 
+\i (00:17:12) xhilite 
+\i (00:17:12) xrefdes R97 
+\i (00:17:12) xname_flush 
+\i (00:17:12) trapsize 164
+\t (00:17:12) Symbol "R97" highlighted.
+\i (00:17:12) done 
+\i (00:17:12) xhilite 
+\i (00:17:12) xrefdes K15 
+\i (00:17:12) xname_flush 
+\i (00:17:12) trapsize 679
+\t (00:17:12) Symbol "K15" highlighted.
+\i (00:17:12) done 
+\i (00:17:12) xhilite 
+\i (00:17:12) xrefdes U1 
+\i (00:17:12) xname_flush 
+\i (00:17:12) trapsize 679
+\t (00:17:12) Symbol "U1" highlighted.
+\i (00:17:12) done 
+\i (00:17:12) xhilite 
+\i (00:17:12) xrefdes R94 
+\i (00:17:12) xname_flush 
+\i (00:17:12) trapsize 160
+\t (00:17:12) Symbol "R94" highlighted.
+\i (00:17:13) done 
+\i (00:17:13) xhilite 
+\i (00:17:13) xrefdes K14 
+\i (00:17:13) xname_flush 
+\i (00:17:13) trapsize 679
+\t (00:17:13) Symbol "K14" highlighted.
+\i (00:17:13) done 
+\i (00:17:13) xhilite 
+\i (00:17:13) xrefdes R88 
+\i (00:17:13) xname_flush 
+\i (00:17:13) trapsize 157
+\t (00:17:13) Symbol "R88" highlighted.
+\i (00:17:13) done 
+\i (00:17:13) xhilite 
+\i (00:17:13) xrefdes K20 
+\i (00:17:13) xname_flush 
+\i (00:17:13) trapsize 694
+\t (00:17:13) Symbol "K20" highlighted.
+\i (00:17:13) done 
+\i (00:17:13) xhilite 
+\i (00:17:13) xrefdes K19 
+\i (00:17:13) xname_flush 
+\i (00:17:13) trapsize 694
+\t (00:17:13) Symbol "K19" highlighted.
+\i (00:17:13) done 
+\i (00:17:13) xhilite 
+\i (00:17:13) xrefdes R98 
+\i (00:17:13) xname_flush 
+\i (00:17:13) trapsize 164
+\t (00:17:13) Symbol "R98" highlighted.
+\i (00:17:13) done 
+\i (00:17:14) xhilite 
+\i (00:17:14) xrefdes R87 
+\i (00:17:14) xname_flush 
+\i (00:17:14) trapsize 164
+\t (00:17:14) Symbol "R87" highlighted.
+\i (00:17:14) done 
+\i (00:17:14) xhilite 
+\i (00:17:14) xrefdes R89 
+\i (00:17:14) xname_flush 
+\i (00:17:14) trapsize 257
+\t (00:17:14) Symbol "R89" highlighted.
+\i (00:17:14) done 
+\i (00:17:14) xhilite 
+\i (00:17:14) xrefdes R126 
+\i (00:17:14) xname_flush 
+\i (00:17:14) trapsize 346
+\t (00:17:14) Symbol "R126" highlighted.
+\i (00:17:14) done 
+\i (00:17:14) xhilite 
+\i (00:17:14) xrefdes R96 
+\i (00:17:14) xname_flush 
+\i (00:17:14) trapsize 257
+\t (00:17:14) Symbol "R96" highlighted.
+\i (00:17:14) done 
+\i (00:17:14) xhilite 
+\i (00:17:14) xrefdes R95 
+\i (00:17:14) xname_flush 
+\i (00:17:14) trapsize 160
+\t (00:17:14) Symbol "R95" highlighted.
+\i (00:17:14) done 
+\i (00:17:14) xhilite 
+\i (00:17:15) xrefdes C8 
+\i (00:17:15) xname_flush 
+\i (00:17:15) trapsize 135
+\t (00:17:15) Symbol "C8" highlighted.
+\i (00:17:15) done 
+\i (00:17:15) xhilite 
+\i (00:17:15) xrefdes R125 
+\i (00:17:15) xname_flush 
+\i (00:17:15) trapsize 346
+\t (00:17:15) Symbol "R125" highlighted.
+\i (00:17:15) done 
+\i (00:17:15) xhilite 
+\i (00:17:15) xrefdes R92 
+\i (00:17:15) xname_flush 
+\i (00:17:15) trapsize 167
+\t (00:17:15) Symbol "R92" highlighted.
+\i (00:17:15) done 
+\i (00:17:15) xhilite 
+\i (00:17:15) xrefdes R99 
+\i (00:17:15) xname_flush 
+\i (00:17:15) trapsize 167
+\t (00:17:15) Symbol "R99" highlighted.
+\i (00:17:15) done 
+\i (00:17:15) xhilite 
+\i (00:17:15) xrefdes R127 
+\i (00:17:15) xname_flush 
+\i (00:17:15) trapsize 416
+\t (00:17:15) Symbol "R127" highlighted.
+\i (00:17:15) done 
+\i (00:17:15) xhilite 
+\i (00:17:15) xrefdes R90 
+\i (00:17:15) xname_flush 
+\i (00:17:15) trapsize 167
+\t (00:17:15) Symbol "R90" highlighted.
+\i (00:17:15) done 
+\i (00:17:15) xhilite 
+\i (00:17:15) xrefdes R93 
+\i (00:17:15) xname_flush 
+\i (00:17:15) trapsize 257
+\t (00:17:15) Symbol "R93" highlighted.
+\i (00:17:15) done 
+\i (00:17:16) xhilite 
+\i (00:17:16) xrefdes R128 
+\i (00:17:16) xname_flush 
+\i (00:17:16) trapsize 420
+\t (00:17:16) Symbol "R128" highlighted.
+\i (00:17:16) done 
+\i (00:17:16) xhilite 
+\i (00:17:16) xrefdes R91 
+\i (00:17:16) xname_flush 
+\i (00:17:16) trapsize 167
+\t (00:17:16) Symbol "R91" highlighted.
+\i (00:17:16) done 
+\i (00:17:16) xhilite 
+\i (00:17:16) xrefdes C9 
+\i (00:17:16) xname_flush 
+\i (00:17:16) trapsize 132
+\t (00:17:16) Symbol "C9" highlighted.
+\i (00:17:16) done 
+\i (00:17:16) xhilite 
+\i (00:17:16) xrefdes J2 
+\i (00:17:16) xname_flush 
+\i (00:17:16) trapsize 585
+\t (00:17:16) Symbol "J2" highlighted.
+\i (00:17:16) done 
+\i (00:17:16) xhilite 
+\i (00:17:16) xrefdes U2 
+\i (00:17:16) xname_flush 
+\i (00:17:16) trapsize 652
+\t (00:17:16) Symbol "U2" highlighted.
+\i (00:17:16) done 
+\i (00:17:16) xhilite 
+\i (00:17:16) xname_flush 
+\i (00:17:16) done 
+\i (00:17:17) xhilite 
+\i (00:17:17) xname_flush 
+\i (00:17:17) done 
+\i (00:17:17) xhilite 
+\i (00:17:17) xname_flush 
+\i (00:17:17) done 
+\i (00:17:17) xhilite 
+\i (00:17:17) xname_flush 
+\i (00:17:17) done 
+\i (00:17:17) xhilite 
+\i (00:17:17) xname_flush 
+\i (00:17:17) done 
+\i (00:17:17) xhilite 
+\i (00:17:17) xname_flush 
+\i (00:17:17) done 
+\i (00:17:17) xhilite 
+\i (00:17:17) xname_flush 
+\i (00:17:17) done 
+\i (00:17:17) xhilite 
+\i (00:17:17) xname_flush 
+\i (00:17:17) done 
+\i (00:17:18) xhilite 
+\i (00:17:18) xname_flush 
+\i (00:17:18) done 
+\i (00:17:18) xhilite 
+\i (00:17:18) xname_flush 
+\i (00:17:18) done 
+\i (00:17:18) xhilite 
+\i (00:17:18) xname_flush 
+\i (00:17:18) done 
+\i (00:17:18) xhilite 
+\i (00:17:18) xname_flush 
+\i (00:17:18) done 
+\i (00:17:18) xhilite 
+\i (00:17:18) xname_flush 
+\i (00:17:18) done 
+\i (00:17:18) xhilite 
+\i (00:17:18) xname_flush 
+\i (00:17:18) done 
+\i (00:17:18) xhilite 
+\i (00:17:19) xname_flush 
+\i (00:17:19) done 
+\i (00:17:19) xhilite 
+\i (00:17:19) xname_flush 
+\i (00:17:19) done 
+\i (00:17:19) xhilite 
+\i (00:17:19) xname_flush 
+\i (00:17:19) done 
+\i (00:17:19) xhilite 
+\i (00:17:19) xname_flush 
+\i (00:17:19) done 
+\i (00:17:19) xhilite 
+\i (00:17:19) xname_flush 
+\i (00:17:19) done 
+\i (00:17:19) xhilite 
+\i (00:17:19) xname_flush 
+\i (00:17:19) done 
+\i (00:17:19) xhilite 
+\i (00:17:19) xname_flush 
+\i (00:17:19) done 
+\i (00:17:20) xhilite 
+\i (00:17:20) xname_flush 
+\i (00:17:20) done 
+\i (00:17:20) xhilite 
+\i (00:17:20) xname_flush 
+\i (00:17:20) done 
+\i (00:17:20) xhilite 
+\i (00:17:20) xname_flush 
+\i (00:17:20) done 
+\i (00:17:20) xhilite 
+\i (00:17:20) xname_flush 
+\i (00:17:20) done 
+\i (00:17:20) xhilite 
+\i (00:17:20) xname_flush 
+\i (00:17:20) done 
+\i (00:17:20) xhilite 
+\i (00:17:20) xname_flush 
+\i (00:17:20) done 
+\i (00:17:20) xhilite 
+\i (00:17:20) xname_flush 
+\i (00:17:20) done 
+\i (00:17:21) xhilite 
+\i (00:17:21) xname_flush 
+\i (00:17:21) done 
+\i (00:17:21) xhilite 
+\i (00:17:21) xname_flush 
+\i (00:17:21) done 
+\i (00:17:21) xhilite 
+\i (00:17:21) xname_flush 
+\i (00:17:21) done 
+\i (00:17:21) xhilite 
+\i (00:17:21) xname_flush 
+\i (00:17:21) done 
+\i (00:17:21) xhilite 
+\i (00:17:21) xname_flush 
+\i (00:17:21) done 
+\i (00:17:21) xhilite 
+\i (00:17:21) xname_flush 
+\i (00:17:21) done 
+\i (00:17:21) xhilite 
+\i (00:17:21) xrefdes UF1 
+\i (00:17:21) xname_flush 
+\i (00:17:21) done 
+\i (00:17:21) xhilite 
+\i (00:17:22) xrefdes UF2 
+\i (00:17:22) xname_flush 
+\i (00:17:22) done 
+\i (00:17:22) xhilite 
+\i (00:17:23) xname_flush 
+\i (00:17:23) done 
+\i (00:17:23) xhilite 
+\i (00:17:23) xname_flush 
+\i (00:17:23) done 
+\i (00:17:23) xhilite 
+\i (00:17:23) xname_flush 
+\i (00:17:23) done 
+\i (00:17:23) xhilite 
+\i (00:17:23) xname_flush 
+\i (00:17:23) done 
+\i (00:17:23) xhilite 
+\i (00:17:23) xname_flush 
+\i (00:17:23) done 
+\i (00:17:23) xhilite 
+\i (00:17:23) xname_flush 
+\i (00:17:23) done 
+\i (00:17:24) xhilite 
+\i (00:17:24) xname_flush 
+\i (00:17:24) done 
+\i (00:17:24) xhilite 
+\i (00:17:24) xname_flush 
+\i (00:17:24) done 
+\i (00:17:24) xhilite 
+\i (00:17:24) xname_flush 
+\i (00:17:24) done 
+\i (00:17:24) xhilite 
+\i (00:17:24) xname_flush 
+\i (00:17:24) done 
+\i (00:17:24) xhilite 
+\i (00:17:24) xname_flush 
+\i (00:17:24) done 
+\i (00:17:24) xhilite 
+\i (00:17:24) xname_flush 
+\i (00:17:24) done 
+\i (00:17:24) xhilite 
+\i (00:17:24) xname_flush 
+\i (00:17:24) done 
+\i (00:17:25) xhilite 
+\i (00:17:25) xname_flush 
+\i (00:17:25) done 
+\i (00:17:25) xhilite 
+\i (00:17:25) xname_flush 
+\i (00:17:25) done 
+\i (00:17:25) xhilite 
+\i (00:17:25) xname_flush 
+\i (00:17:25) done 
+\i (00:17:25) xhilite 
+\i (00:17:25) xname_flush 
+\i (00:17:25) done 
+\i (00:17:25) xhilite 
+\i (00:17:25) xname_flush 
+\i (00:17:25) done 
+\i (00:17:25) xhilite 
+\i (00:17:25) xname_flush 
+\i (00:17:25) done 
+\i (00:17:25) xhilite 
+\i (00:17:25) xname_flush 
+\i (00:17:25) done 
+\i (00:17:25) xhilite 
+\i (00:17:25) xname_flush 
+\i (00:17:25) done 
+\i (00:17:26) xhilite 
+\i (00:17:26) xname_flush 
+\i (00:17:26) done 
+\i (00:17:26) xhilite 
+\i (00:17:26) xname_flush 
+\i (00:17:26) done 
+\i (00:17:26) xhilite 
+\i (00:17:26) xname_flush 
+\i (00:17:26) done 
+\i (00:17:26) xhilite 
+\i (00:17:26) xname_flush 
+\i (00:17:26) done 
+\i (00:17:26) xhilite 
+\i (00:17:26) xname_flush 
+\i (00:17:26) done 
+\i (00:17:26) xhilite 
+\i (00:17:26) xname_flush 
+\i (00:17:26) done 
+\i (00:17:26) xhilite 
+\i (00:17:26) xname_flush 
+\i (00:17:26) done 
+\i (00:17:26) xhilite 
+\i (00:17:26) xname_flush 
+\i (00:17:26) done 
+\i (00:17:26) xhilite 
+\i (00:17:27) xname_flush 
+\i (00:17:27) done 
+\i (00:17:27) xhilite 
+\i (00:17:27) xrefdes CC23 
+\i (00:17:27) xname_flush 
+\i (00:17:27) trapsize 346
+\t (00:17:27) Symbol "Cc23" highlighted.
+\i (00:17:27) done 
+\i (00:17:27) xhilite 
+\i (00:17:27) xrefdes SH27 
+\i (00:17:27) xname_flush 
+\i (00:17:27) trapsize 170
+\t (00:17:27) Symbol "Sh27" highlighted.
+\i (00:17:27) done 
+\i (00:17:27) xhilite 
+\i (00:17:27) xrefdes SH7 
+\i (00:17:27) xname_flush 
+\i (00:17:27) trapsize 257
+\t (00:17:27) Symbol "Sh7" highlighted.
+\i (00:17:27) done 
+\i (00:17:27) xhilite 
+\i (00:17:27) xrefdes GND12 
+\i (00:17:27) xname_flush 
+\i (00:17:27) trapsize 277
+\t (00:17:27) Symbol "Gnd12" highlighted.
+\i (00:17:27) done 
+\i (00:17:27) xhilite 
+\i (00:17:27) xrefdes GND5 
+\i (00:17:27) xname_flush 
+\i (00:17:27) trapsize 190
+\t (00:17:27) Symbol "Gnd5" highlighted.
+\i (00:17:27) done 
+\i (00:17:27) xhilite 
+\i (00:17:27) xrefdes CA15 
+\i (00:17:27) xname_flush 
+\i (00:17:27) trapsize 307
+\t (00:17:27) Symbol "Ca15" highlighted.
+\i (00:17:27) done 
+\i (00:17:27) xhilite 
+\i (00:17:27) xrefdes SH11 
+\i (00:17:27) xname_flush 
+\i (00:17:27) trapsize 170
+\t (00:17:27) Symbol "Sh11" highlighted.
+\i (00:17:27) done 
+\i (00:17:28) xhilite 
+\i (00:17:28) xrefdes GND4 
+\i (00:17:28) xname_flush 
+\i (00:17:28) trapsize 466
+\t (00:17:28) Symbol "Gnd4" highlighted.
+\i (00:17:28) done 
+\i (00:17:28) xhilite 
+\i (00:17:28) xrefdes CC19 
+\i (00:17:28) xname_flush 
+\i (00:17:28) trapsize 466
+\t (00:17:28) Symbol "Cc19" highlighted.
+\i (00:17:28) done 
+\i (00:17:28) xhilite 
+\i (00:17:28) xrefdes CA35 
+\i (00:17:28) xname_flush 
+\i (00:17:28) trapsize 274
+\t (00:17:28) Symbol "Ca35" highlighted.
+\i (00:17:28) done 
+\i (00:17:28) xhilite 
+\i (00:17:28) xrefdes SH8 
+\i (00:17:28) xname_flush 
+\i (00:17:28) trapsize 274
+\t (00:17:28) Symbol "Sh8" highlighted.
+\i (00:17:28) done 
+\i (00:17:28) xhilite 
+\i (00:17:28) xrefdes CC41 
+\i (00:17:28) xname_flush 
+\i (00:17:28) trapsize 170
+\t (00:17:28) Symbol "Cc41" highlighted.
+\i (00:17:28) done 
+\i (00:17:28) xhilite 
+\i (00:17:28) xrefdes CC22 
+\i (00:17:28) xname_flush 
+\i (00:17:28) trapsize 470
+\t (00:17:28) Symbol "Cc22" highlighted.
+\i (00:17:28) done 
+\i (00:17:28) xhilite 
+\i (00:17:28) xname_flush 
+\i (00:17:28) done 
+\i (00:17:28) xhilite 
+\i (00:17:28) xrefdes CD18 
+\i (00:17:28) xname_flush 
+\i (00:17:28) trapsize 403
+\t (00:17:28) Symbol "Cd18" highlighted.
+\i (00:17:28) done 
+\i (00:17:29) xhilite 
+\i (00:17:29) xrefdes CD22 
+\i (00:17:29) xname_flush 
+\i (00:17:29) trapsize 1257
+\t (00:17:29) Symbol "Cd22" highlighted.
+\i (00:17:29) done 
+\i (00:17:29) xhilite 
+\i (00:17:29) xrefdes TP_AVDD18_RX 
+\i (00:17:29) xname_flush 
+\i (00:17:29) trapsize 431
+\t (00:17:29) Symbol "Tp_Avdd18_Rx" highlighted.
+\i (00:17:29) done 
+\i (00:17:29) xhilite 
+\i (00:17:29) xrefdes SH28 
+\i (00:17:29) xname_flush 
+\i (00:17:29) trapsize 170
+\t (00:17:29) Symbol "Sh28" highlighted.
+\i (00:17:29) done 
+\i (00:17:29) xhilite 
+\i (00:17:29) xrefdes CC29 
+\i (00:17:29) xname_flush 
+\i (00:17:29) trapsize 352
+\t (00:17:29) Symbol "Cc29" highlighted.
+\i (00:17:29) done 
+\i (00:17:29) xhilite 
+\i (00:17:29) xrefdes K39 
+\i (00:17:29) xname_flush 
+\i (00:17:29) trapsize 915
+\t (00:17:29) Symbol "K39" highlighted.
+\i (00:17:29) done 
+\i (00:17:29) xhilite 
+\i (00:17:29) xrefdes GND7 
+\i (00:17:29) xname_flush 
+\i (00:17:29) trapsize 212
+\t (00:17:29) Symbol "Gnd7" highlighted.
+\i (00:17:29) done 
+\i (00:17:29) xhilite 
+\i (00:17:29) xrefdes GND13 
+\i (00:17:29) xname_flush 
+\i (00:17:29) trapsize 266
+\t (00:17:29) Symbol "Gnd13" highlighted.
+\i (00:17:29) done 
+\i (00:17:29) xhilite 
+\i (00:17:30) xrefdes SH1 
+\i (00:17:30) xname_flush 
+\i (00:17:30) trapsize 132
+\t (00:17:30) Symbol "Sh1" highlighted.
+\i (00:17:30) done 
+\i (00:17:30) xhilite 
+\i (00:17:30) xrefdes TP_PLL_M_VDD33 
+\i (00:17:30) xname_flush 
+\i (00:17:30) trapsize 510
+\t (00:17:30) Symbol "Tp_Pll_M_Vdd33" highlighted.
+\i (00:17:30) done 
+\i (00:17:30) xhilite 
+\i (00:17:30) xrefdes CA12 
+\i (00:17:30) xname_flush 
+\i (00:17:30) trapsize 318
+\t (00:17:30) Symbol "Ca12" highlighted.
+\i (00:17:30) done 
+\i (00:17:30) xhilite 
+\i (00:17:30) xrefdes K31 
+\i (00:17:30) xname_flush 
+\i (00:17:30) trapsize 929
+\t (00:17:30) Symbol "K31" highlighted.
+\i (00:17:30) done 
+\i (00:17:30) xhilite 
+\i (00:17:30) xrefdes CD4 
+\i (00:17:30) xname_flush 
+\i (00:17:30) trapsize 199
+\t (00:17:30) Symbol "Cd4" highlighted.
+\i (00:17:30) done 
+\i (00:17:30) xhilite 
+\i (00:17:30) xrefdes CA25 
+\i (00:17:30) xname_flush 
+\i (00:17:30) trapsize 227
+\t (00:17:30) Symbol "Ca25" highlighted.
+\i (00:17:30) done 
+\i (00:17:30) xhilite 
+\i (00:17:30) xrefdes CA18 
+\i (00:17:30) xname_flush 
+\i (00:17:30) trapsize 346
+\t (00:17:30) Symbol "Ca18" highlighted.
+\i (00:17:30) done 
+\i (00:17:30) xhilite 
+\i (00:17:30) xrefdes GND14 
+\i (00:17:30) xname_flush 
+\i (00:17:30) trapsize 432
+\t (00:17:30) Symbol "Gnd14" highlighted.
+\i (00:17:30) done 
+\i (00:17:31) xhilite 
+\i (00:17:31) xrefdes CA36 
+\i (00:17:31) xname_flush 
+\i (00:17:31) trapsize 293
+\t (00:17:31) Symbol "Ca36" highlighted.
+\i (00:17:31) done 
+\i (00:17:31) xhilite 
+\i (00:17:31) xrefdes SH5 
+\i (00:17:31) xname_flush 
+\i (00:17:31) trapsize 132
+\t (00:17:31) Symbol "Sh5" highlighted.
+\i (00:17:31) done 
+\i (00:17:31) xhilite 
+\i (00:17:31) xrefdes TP_AVDD11_RX 
+\i (00:17:31) xname_flush 
+\i (00:17:31) trapsize 760
+\t (00:17:31) Symbol "Tp_Avdd11_Rx" highlighted.
+\i (00:17:31) done 
+\i (00:17:31) xhilite 
+\i (00:17:31) xrefdes CC31 
+\i (00:17:31) xname_flush 
+\i (00:17:31) trapsize 315
+\t (00:17:31) Symbol "Cc31" highlighted.
+\i (00:17:31) done 
+\i (00:17:31) xhilite 
+\i (00:17:31) xrefdes CC1 
+\i (00:17:31) xname_flush 
+\i (00:17:31) trapsize 315
+\t (00:17:31) Symbol "Cc1" highlighted.
+\i (00:17:31) done 
+\i (00:17:31) xhilite 
+\i (00:17:31) xrefdes CD25 
+\i (00:17:31) xname_flush 
+\i (00:17:31) trapsize 235
+\t (00:17:31) Symbol "Cd25" highlighted.
+\i (00:17:31) done 
+\i (00:17:31) xhilite 
+\i (00:17:31) xrefdes TP_VDD_TXREG_33_T 
+\i (00:17:31) xname_flush 
+\i (00:17:31) trapsize 982
+\t (00:17:31) Symbol "Tp_Vdd_Txreg_33_T" highlighted.
+\i (00:17:31) done 
+\i (00:17:31) xhilite 
+\i (00:17:31) xrefdes CC38 
+\i (00:17:31) xname_flush 
+\i (00:17:31) trapsize 181
+\t (00:17:31) Symbol "Cc38" highlighted.
+\i (00:17:31) done 
+\i (00:17:32) xhilite 
+\i (00:17:32) xrefdes SH14 
+\i (00:17:32) xname_flush 
+\i (00:17:32) trapsize 346
+\t (00:17:32) Symbol "Sh14" highlighted.
+\i (00:17:32) done 
+\i (00:17:32) xhilite 
+\i (00:17:32) xrefdes CD14 
+\i (00:17:32) xname_flush 
+\i (00:17:32) trapsize 1009
+\t (00:17:32) Symbol "Cd14" highlighted.
+\i (00:17:32) done 
+\i (00:17:32) xhilite 
+\i (00:17:32) xrefdes TP_VDD_IO_33 
+\i (00:17:32) xname_flush 
+\i (00:17:32) trapsize 788
+\t (00:17:32) Symbol "Tp_Vdd_Io_33" highlighted.
+\i (00:17:32) done 
+\i (00:17:32) xhilite 
+\i (00:17:32) xrefdes CA38 
+\i (00:17:32) xname_flush 
+\i (00:17:32) trapsize 274
+\t (00:17:32) Symbol "Ca38" highlighted.
+\i (00:17:32) done 
+\i (00:17:32) xhilite 
+\i (00:17:32) xrefdes CA27 
+\i (00:17:32) xname_flush 
+\i (00:17:32) trapsize 173
+\t (00:17:32) Symbol "Ca27" highlighted.
+\i (00:17:32) done 
+\i (00:17:32) xhilite 
+\i (00:17:32) xrefdes CA1 
+\i (00:17:32) xname_flush 
+\i (00:17:32) trapsize 332
+\t (00:17:32) Symbol "Ca1" highlighted.
+\i (00:17:32) done 
+\i (00:17:33) xhilite 
+\i (00:17:33) xrefdes SH3 
+\i (00:17:33) xname_flush 
+\i (00:17:33) trapsize 132
+\t (00:17:33) Symbol "Sh3" highlighted.
+\i (00:17:33) done 
+\i (00:17:33) xhilite 
+\i (00:17:33) xrefdes CD1 
+\i (00:17:33) xname_flush 
+\i (00:17:33) trapsize 276
+\t (00:17:33) Symbol "Cd1" highlighted.
+\i (00:17:33) done 
+\i (00:17:33) xhilite 
+\i (00:17:33) xrefdes CA39 
+\i (00:17:33) xname_flush 
+\i (00:17:33) trapsize 293
+\t (00:17:33) Symbol "Ca39" highlighted.
+\i (00:17:33) done 
+\i (00:17:33) xhilite 
+\i (00:17:33) xrefdes CD15 
+\i (00:17:33) xname_flush 
+\i (00:17:33) trapsize 403
+\t (00:17:33) Symbol "Cd15" highlighted.
+\i (00:17:33) done 
+\i (00:17:33) xhilite 
+\i (00:17:33) xrefdes CD9 
+\i (00:17:33) xname_flush 
+\i (00:17:33) trapsize 311
+\t (00:17:33) Symbol "Cd9" highlighted.
+\i (00:17:33) done 
+\i (00:17:33) xhilite 
+\i (00:17:33) xrefdes CA31 
+\i (00:17:33) xname_flush 
+\i (00:17:33) trapsize 234
+\t (00:17:33) Symbol "Ca31" highlighted.
+\i (00:17:33) done 
+\i (00:17:34) xhilite 
+\i (00:17:34) xrefdes SH15 
+\i (00:17:34) xname_flush 
+\i (00:17:34) trapsize 346
+\t (00:17:34) Symbol "Sh15" highlighted.
+\i (00:17:34) done 
+\i (00:17:34) xhilite 
+\i (00:17:34) xrefdes CD6 
+\i (00:17:34) xname_flush 
+\i (00:17:34) trapsize 922
+\t (00:17:34) Symbol "Cd6" highlighted.
+\i (00:17:34) done 
+\i (00:17:34) xhilite 
+\i (00:17:34) xrefdes TP_AVDD11_XTAL 
+\i (00:17:34) xname_flush 
+\i (00:17:34) trapsize 922
+\t (00:17:34) Symbol "Tp_Avdd11_Xtal" highlighted.
+\i (00:17:34) done 
+\i (00:17:34) xhilite 
+\i (00:17:34) xrefdes CD16 
+\i (00:17:34) xname_flush 
+\i (00:17:34) trapsize 1010
+\t (00:17:34) Symbol "Cd16" highlighted.
+\i (00:17:34) done 
+\i (00:17:34) xhilite 
+\i (00:17:34) xrefdes CC15 
+\i (00:17:34) xname_flush 
+\i (00:17:34) trapsize 352
+\t (00:17:34) Symbol "Cc15" highlighted.
+\i (00:17:34) done 
+\i (00:17:34) xhilite 
+\i (00:17:34) xrefdes CC30 
+\i (00:17:34) xname_flush 
+\i (00:17:34) trapsize 470
+\t (00:17:34) Symbol "Cc30" highlighted.
+\i (00:17:34) done 
+\i (00:17:35) xhilite 
+\i (00:17:35) xrefdes CC42 
+\i (00:17:35) xname_flush 
+\i (00:17:35) trapsize 170
+\t (00:17:35) Symbol "Cc42" highlighted.
+\i (00:17:35) done 
+\i (00:17:35) xhilite 
+\i (00:17:35) xrefdes GND8 
+\i (00:17:35) xname_flush 
+\i (00:17:35) trapsize 438
+\t (00:17:35) Symbol "Gnd8" highlighted.
+\i (00:17:35) done 
+\i (00:17:35) xhilite 
+\i (00:17:35) xname_flush 
+\i (00:17:35) done 
+\i (00:17:35) xhilite 
+\i (00:17:35) xrefdes CA33 
+\i (00:17:35) xname_flush 
+\i (00:17:35) trapsize 318
+\t (00:17:35) Symbol "Ca33" highlighted.
+\i (00:17:35) done 
+\i (00:17:35) xhilite 
+\i (00:17:35) xrefdes CC17 
+\i (00:17:35) xname_flush 
+\i (00:17:35) trapsize 346
+\t (00:17:35) Symbol "Cc17" highlighted.
+\i (00:17:35) done 
+\i (00:17:35) xhilite 
+\i (00:17:35) xrefdes CA4 
+\i (00:17:35) xname_flush 
+\i (00:17:35) trapsize 293
+\t (00:17:35) Symbol "Ca4" highlighted.
+\i (00:17:35) done 
+\i (00:17:36) xhilite 
+\i (00:17:36) xname_flush 
+\i (00:17:36) done 
+\i (00:17:36) xhilite 
+\i (00:17:36) xname_flush 
+\i (00:17:36) done 
+\i (00:17:36) xhilite 
+\i (00:17:36) xrefdes CC16 
+\i (00:17:36) xname_flush 
+\i (00:17:36) trapsize 195
+\t (00:17:36) Symbol "Cc16" highlighted.
+\i (00:17:36) done 
+\i (00:17:36) xhilite 
+\i (00:17:36) xrefdes SH17 
+\i (00:17:36) xname_flush 
+\i (00:17:36) trapsize 346
+\t (00:17:36) Symbol "Sh17" highlighted.
+\i (00:17:36) done 
+\i (00:17:36) xhilite 
+\i (00:17:36) xrefdes CC11 
+\i (00:17:36) xname_flush 
+\i (00:17:36) trapsize 346
+\t (00:17:36) Symbol "Cc11" highlighted.
+\i (00:17:36) done 
+\i (00:17:36) xhilite 
+\i (00:17:36) xrefdes CC4 
+\i (00:17:36) xname_flush 
+\i (00:17:36) trapsize 257
+\t (00:17:36) Symbol "Cc4" highlighted.
+\i (00:17:36) done 
+\i (00:17:37) xhilite 
+\i (00:17:37) xrefdes SH12 
+\i (00:17:37) xname_flush 
+\i (00:17:37) trapsize 170
+\t (00:17:37) Symbol "Sh12" highlighted.
+\i (00:17:37) done 
+\i (00:17:37) xhilite 
+\i (00:17:37) xrefdes CA21 
+\i (00:17:37) xname_flush 
+\i (00:17:37) trapsize 180
+\t (00:17:37) Symbol "Ca21" highlighted.
+\i (00:17:37) done 
+\i (00:17:37) xhilite 
+\i (00:17:37) xrefdes CC36 
+\i (00:17:37) xname_flush 
+\i (00:17:37) trapsize 470
+\t (00:17:37) Symbol "Cc36" highlighted.
+\i (00:17:37) done 
+\i (00:17:37) xhilite 
+\i (00:17:41) xname_flush 
+\i (00:17:41) done 
+\i (00:17:41) xhilite 
+\i (00:17:41) xname_flush 
+\i (00:17:41) done 
+\i (00:17:41) xhilite 
+\i (00:17:41) xname_flush 
+\i (00:17:41) done 
+\i (00:17:41) xhilite 
+\i (00:17:41) xname_flush 
+\i (00:17:41) done 
+\i (00:17:41) xhilite 
+\i (00:17:41) xname_flush 
+\i (00:17:41) done 
+\i (00:17:41) xhilite 
+\i (00:17:41) xname_flush 
+\i (00:17:41) done 
+\i (00:17:42) xhilite 
+\i (00:17:42) xname_flush 
+\i (00:17:42) done 
+\i (00:17:42) xhilite 
+\i (00:17:42) xname_flush 
+\i (00:17:42) done 
+\i (00:17:42) xhilite 
+\i (00:17:42) xname_flush 
+\i (00:17:42) done 
+\i (00:17:42) xhilite 
+\i (00:17:42) xname_flush 
+\i (00:17:42) done 
+\i (00:17:42) xhilite 
+\i (00:17:42) xname_flush 
+\i (00:17:42) done 
+\i (00:17:42) xhilite 
+\i (00:17:42) xname_flush 
+\i (00:17:42) done 
+\i (00:17:42) xhilite 
+\i (00:17:43) xname_flush 
+\i (00:17:43) done 
+\i (00:17:43) xhilite 
+\i (00:17:43) xname_flush 
+\i (00:17:43) done 
+\i (00:17:43) xhilite 
+\i (00:17:43) xname_flush 
+\i (00:17:43) done 
+\i (00:17:43) xhilite 
+\i (00:17:43) xname_flush 
+\i (00:17:43) done 
+\i (00:17:43) xhilite 
+\i (00:17:43) xname_flush 
+\i (00:17:43) done 
+\i (00:17:43) xhilite 
+\i (00:17:43) xname_flush 
+\i (00:17:43) done 
+\i (00:17:43) xhilite 
+\i (00:17:43) xname_flush 
+\i (00:17:43) done 
+\i (00:17:44) xhilite 
+\i (00:17:44) xname_flush 
+\i (00:17:44) done 
+\i (00:17:44) xhilite 
+\i (00:17:44) xname_flush 
+\i (00:17:44) done 
+\i (00:17:44) xhilite 
+\i (00:17:44) xname_flush 
+\i (00:17:44) done 
+\i (00:17:44) xhilite 
+\i (00:17:44) xname_flush 
+\i (00:17:44) done 
+\i (00:17:44) xhilite 
+\i (00:17:44) xname_flush 
+\i (00:17:44) done 
+\i (00:17:44) xhilite 
+\i (00:17:44) xname_flush 
+\i (00:17:44) done 
+\i (00:17:44) xhilite 
+\i (00:17:44) xname_flush 
+\i (00:17:44) done 
+\i (00:17:45) xhilite 
+\i (00:17:45) xname_flush 
+\i (00:17:45) done 
+\i (00:17:45) xhilite 
+\i (00:17:45) xname_flush 
+\i (00:17:45) done 
+\i (00:17:45) xhilite 
+\i (00:17:45) xname_flush 
+\i (00:17:45) done 
+\i (00:17:45) xhilite 
+\i (00:17:45) xname_flush 
+\i (00:17:45) done 
+\i (00:17:45) xhilite 
+\i (00:17:45) xname_flush 
+\i (00:17:45) done 
+\i (00:17:45) xhilite 
+\i (00:17:45) xname_flush 
+\i (00:17:45) done 
+\i (00:17:45) xhilite 
+\i (00:17:45) xname_flush 
+\i (00:17:45) done 
+\i (00:17:45) xhilite 
+\i (00:17:46) xname_flush 
+\i (00:17:46) done 
+\i (00:17:46) xhilite 
+\i (00:17:46) xname_flush 
+\i (00:17:46) done 
+\i (00:17:46) xhilite 
+\i (00:17:46) xname_flush 
+\i (00:17:46) done 
+\i (00:17:46) xhilite 
+\i (00:17:46) xname_flush 
+\i (00:17:46) done 
+\i (00:17:46) xhilite 
+\i (00:17:46) xname_flush 
+\i (00:17:46) done 
+\i (00:17:46) xhilite 
+\i (00:17:46) xname_flush 
+\i (00:17:46) done 
+\i (00:17:46) xhilite 
+\i (00:17:46) xname_flush 
+\i (00:17:46) done 
+\i (00:17:46) xhilite 
+\i (00:17:46) xname_flush 
+\i (00:17:46) done 
+\i (00:17:47) xhilite 
+\i (00:17:47) xname_flush 
+\i (00:17:47) done 
+\i (00:17:47) xhilite 
+\i (00:17:47) xname_flush 
+\i (00:17:47) done 
+\i (00:17:47) xhilite 
+\i (00:17:47) xname_flush 
+\i (00:17:47) done 
+\i (00:17:47) xhilite 
+\i (00:17:47) xname_flush 
+\i (00:17:47) done 
+\i (00:17:47) xhilite 
+\i (00:17:47) xname_flush 
+\i (00:17:47) done 
+\i (00:17:47) xhilite 
+\i (00:17:47) xname_flush 
+\i (00:17:47) done 
+\i (00:17:48) xhilite 
+\i (00:17:48) xname_flush 
+\i (00:17:48) done 
+\i (00:17:48) xhilite 
+\i (00:17:48) xname_flush 
+\i (00:17:48) done 
+\i (00:17:48) xhilite 
+\i (00:17:48) xname_flush 
+\i (00:17:48) done 
+\i (00:17:48) xhilite 
+\i (00:17:48) xname_flush 
+\i (00:17:48) done 
+\i (00:17:48) xhilite 
+\i (00:17:48) xname_flush 
+\i (00:17:48) done 
+\i (00:17:48) xhilite 
+\i (00:17:48) xname_flush 
+\i (00:17:48) done 
+\i (00:17:48) xhilite 
+\i (00:17:48) xname_flush 
+\i (00:17:48) done 
+\i (00:17:49) xhilite 
+\i (00:17:49) xname_flush 
+\i (00:17:49) done 
+\i (00:17:49) xhilite 
+\i (00:17:49) xname_flush 
+\i (00:17:49) done 
+\i (00:17:49) xhilite 
+\i (00:17:49) xname_flush 
+\i (00:17:49) done 
+\i (00:17:49) xhilite 
+\i (00:17:49) xname_flush 
+\i (00:17:49) done 
+\i (00:17:49) xhilite 
+\i (00:17:49) xname_flush 
+\i (00:17:49) done 
+\i (00:17:49) xhilite 
+\i (00:17:49) xname_flush 
+\i (00:17:49) done 
+\i (00:17:49) xhilite 
+\i (00:17:49) xname_flush 
+\i (00:17:49) done 
+\i (00:17:50) xhilite 
+\i (00:17:50) xname_flush 
+\i (00:17:50) done 
+\i (00:17:50) xhilite 
+\i (00:17:50) xname_flush 
+\i (00:17:50) done 
+\i (00:17:50) xhilite 
+\i (00:17:50) xname_flush 
+\i (00:17:50) done 
+\i (00:17:50) xhilite 
+\i (00:17:50) xname_flush 
+\i (00:17:50) done 
+\i (00:17:50) xhilite 
+\i (00:17:50) xname_flush 
+\i (00:17:50) done 
+\i (00:17:51) xhilite 
+\i (00:17:51) xname_flush 
+\i (00:17:51) done 
+\i (00:17:51) xhilite 
+\i (00:17:51) xname_flush 
+\i (00:17:51) done 
+\i (00:17:51) xhilite 
+\i (00:17:51) xname_flush 
+\i (00:17:51) done 
+\i (00:17:51) xhilite 
+\i (00:17:51) xname_flush 
+\i (00:17:51) done 
+\i (00:17:51) xhilite 
+\i (00:17:51) xname_flush 
+\i (00:17:51) done 
+\i (00:17:51) xhilite 
+\i (00:17:51) xname_flush 
+\i (00:17:51) done 
+\i (00:17:51) xhilite 
+\i (00:17:51) xname_flush 
+\i (00:17:51) done 
+\i (00:17:52) xhilite 
+\i (00:17:52) xname_flush 
+\i (00:17:52) done 
+\i (00:17:52) xhilite 
+\i (00:17:52) xname_flush 
+\i (00:17:52) done 
+\i (00:17:52) xhilite 
+\i (00:17:52) xname_flush 
+\i (00:17:52) done 
+\i (00:17:52) xhilite 
+\i (00:17:52) xname_flush 
+\i (00:17:52) done 
+\i (00:17:52) xhilite 
+\i (00:17:52) xname_flush 
+\i (00:17:52) done 
+\i (00:17:52) xhilite 
+\i (00:17:52) xname_flush 
+\i (00:17:52) done 
+\i (00:17:53) xhilite 
+\i (00:17:53) xname_flush 
+\i (00:17:53) done 
+\i (00:17:53) xhilite 
+\i (00:17:53) xname_flush 
+\i (00:17:53) done 
+\i (00:17:53) xhilite 
+\i (00:17:53) xname_flush 
+\i (00:17:53) done 
+\i (00:17:53) xhilite 
+\i (00:17:53) xname_flush 
+\i (00:17:53) done 
+\i (00:17:53) xhilite 
+\i (00:17:53) xname_flush 
+\i (00:17:53) done 
+\i (00:17:53) xhilite 
+\i (00:17:53) xname_flush 
+\i (00:17:53) done 
+\i (00:17:53) xhilite 
+\i (00:17:53) xname_flush 
+\i (00:17:53) done 
+\i (00:17:53) xhilite 
+\i (00:17:54) xname_flush 
+\i (00:17:54) done 
+\i (00:17:54) xhilite 
+\i (00:17:54) xname_flush 
+\i (00:17:54) done 
+\i (00:17:54) xhilite 
+\i (00:17:54) xname_flush 
+\i (00:17:54) done 
+\i (00:17:54) xhilite 
+\i (00:17:54) xname_flush 
+\i (00:17:54) done 
+\i (00:17:54) xhilite 
+\i (00:17:54) xname_flush 
+\i (00:17:54) done 
+\i (00:17:54) xhilite 
+\i (00:17:54) xname_flush 
+\i (00:17:54) done 
+\i (00:17:54) xhilite 
+\i (00:17:54) xname_flush 
+\i (00:17:54) done 
+\i (00:17:54) xhilite 
+\i (00:17:55) xname_flush 
+\i (00:17:55) done 
+\i (00:17:55) xhilite 
+\i (00:17:55) xname_flush 
+\i (00:17:55) done 
+\i (00:17:55) xhilite 
+\i (00:17:55) xname_flush 
+\i (00:17:55) done 
+\i (00:17:55) xhilite 
+\i (00:17:55) xname_flush 
+\i (00:17:55) done 
+\i (00:17:55) xhilite 
+\i (00:17:55) xname_flush 
+\i (00:17:55) done 
+\i (00:17:55) xhilite 
+\i (00:17:55) xname_flush 
+\i (00:17:55) done 
+\i (00:17:55) xhilite 
+\i (00:17:55) xname_flush 
+\i (00:17:55) done 
+\i (00:17:55) xhilite 
+\i (00:17:55) xname_flush 
+\i (00:17:55) done 
+\i (00:17:56) xhilite 
+\i (00:17:56) xname_flush 
+\i (00:17:56) done 
+\i (00:17:56) xhilite 
+\i (00:17:56) xname_flush 
+\i (00:17:56) done 
+\i (00:17:56) xhilite 
+\i (00:17:56) xname_flush 
+\i (00:17:56) done 
+\i (00:17:56) xhilite 
+\i (00:17:56) xname_flush 
+\i (00:17:56) done 
+\i (00:17:56) xhilite 
+\i (00:17:56) xname_flush 
+\i (00:17:56) done 
+\i (00:17:56) xhilite 
+\i (00:17:56) xname_flush 
+\i (00:17:56) done 
+\i (00:17:56) xhilite 
+\i (00:17:56) xname_flush 
+\i (00:17:56) done 
+\i (00:17:57) xhilite 
+\i (00:17:57) xname_flush 
+\i (00:17:57) done 
+\i (00:17:57) xhilite 
+\i (00:17:57) xname_flush 
+\i (00:17:57) done 
+\i (00:17:57) xhilite 
+\i (00:17:57) xname_flush 
+\i (00:17:57) done 
+\i (00:17:57) xhilite 
+\i (00:17:57) xname_flush 
+\i (00:17:57) done 
+\i (00:17:57) xhilite 
+\i (00:17:57) xname_flush 
+\i (00:17:57) done 
+\i (00:17:57) xhilite 
+\i (00:17:57) xname_flush 
+\i (00:17:57) done 
+\i (00:17:57) xhilite 
+\i (00:17:58) xname_flush 
+\i (00:17:58) done 
+\i (00:17:58) xhilite 
+\i (00:17:58) xname_flush 
+\i (00:17:58) done 
+\i (00:17:58) xhilite 
+\i (00:17:58) xname_flush 
+\i (00:17:58) done 
+\i (00:17:58) xhilite 
+\i (00:17:58) xname_flush 
+\i (00:17:58) done 
+\i (00:17:58) xhilite 
+\i (00:17:58) xname_flush 
+\i (00:17:58) done 
+\i (00:17:58) xhilite 
+\i (00:17:58) xname_flush 
+\i (00:17:58) done 
+\i (00:17:58) xhilite 
+\i (00:17:58) xname_flush 
+\i (00:17:58) done 
+\i (00:17:59) xhilite 
+\i (00:17:59) xname_flush 
+\i (00:17:59) done 
+\i (00:17:59) xhilite 
+\i (00:17:59) xname_flush 
+\i (00:17:59) done 
+\i (00:17:59) xhilite 
+\i (00:17:59) xname_flush 
+\i (00:17:59) done 
+\i (00:17:59) xhilite 
+\i (00:17:59) xname_flush 
+\i (00:17:59) done 
+\i (00:17:59) xhilite 
+\i (00:17:59) xname_flush 
+\i (00:17:59) done 
+\i (00:17:59) xhilite 
+\i (00:17:59) xname_flush 
+\i (00:17:59) done 
+\i (00:17:59) xhilite 
+\i (00:18:00) xname_flush 
+\i (00:18:00) done 
+\i (00:18:00) xhilite 
+\i (00:18:00) xname_flush 
+\i (00:18:00) done 
+\i (00:18:00) xhilite 
+\i (00:18:00) xname_flush 
+\i (00:18:00) done 
+\i (00:18:00) xhilite 
+\i (00:18:00) xname_flush 
+\i (00:18:00) done 
+\i (00:18:00) xhilite 
+\i (00:18:00) xname_flush 
+\i (00:18:00) done 
+\i (00:18:00) xhilite 
+\i (00:18:00) xname_flush 
+\i (00:18:00) done 
+\i (00:18:00) xhilite 
+\i (00:18:00) xname_flush 
+\i (00:18:00) done 
+\i (00:18:00) xhilite 
+\i (00:18:01) xname_flush 
+\i (00:18:01) done 
+\i (00:18:01) xhilite 
+\i (00:18:01) xrefdes 2R87 
+\i (00:18:01) xname_flush 
+\i (00:18:01) trapsize 203
+\t (00:18:01) Symbol "2R87" highlighted.
+\i (00:18:01) done 
+\i (00:18:01) xhilite 
+\i (00:18:01) xrefdes 2R93 
+\i (00:18:01) xname_flush 
+\i (00:18:01) trapsize 346
+\t (00:18:01) Symbol "2R93" highlighted.
+\i (00:18:01) done 
+\i (00:18:01) xhilite 
+\i (00:18:01) xrefdes 2R90 
+\i (00:18:01) xname_flush 
+\i (00:18:01) trapsize 192
+\t (00:18:01) Symbol "2R90" highlighted.
+\i (00:18:01) done 
+\i (00:18:01) xhilite 
+\i (00:18:01) xrefdes 2R94 
+\i (00:18:01) xname_flush 
+\i (00:18:01) trapsize 203
+\t (00:18:01) Symbol "2R94" highlighted.
+\i (00:18:01) done 
+\i (00:18:01) xhilite 
+\i (00:18:01) xrefdes 2R89 
+\i (00:18:01) xname_flush 
+\i (00:18:01) trapsize 346
+\t (00:18:01) Symbol "2R89" highlighted.
+\i (00:18:01) done 
+\i (00:18:02) xhilite 
+\i (00:18:02) xrefdes 2R128 
+\i (00:18:02) xname_flush 
+\i (00:18:02) trapsize 507
+\t (00:18:02) Symbol "2R128" highlighted.
+\i (00:18:02) done 
+\i (00:18:02) xhilite 
+\i (00:18:02) xrefdes 2K14 
+\i (00:18:02) xname_flush 
+\i (00:18:02) trapsize 681
+\t (00:18:02) Symbol "2K14" highlighted.
+\i (00:18:02) done 
+\i (00:18:02) xhilite 
+\i (00:18:02) xrefdes 2R96 
+\i (00:18:02) xname_flush 
+\i (00:18:02) trapsize 346
+\t (00:18:02) Symbol "2R96" highlighted.
+\i (00:18:02) done 
+\i (00:18:02) xhilite 
+\i (00:18:02) xrefdes 2R86 
+\i (00:18:02) xname_flush 
+\i (00:18:02) trapsize 346
+\t (00:18:02) Symbol "2R86" highlighted.
+\i (00:18:02) done 
+\i (00:18:02) xhilite 
+\i (00:18:02) xrefdes 2C9 
+\i (00:18:02) xname_flush 
+\i (00:18:02) trapsize 192
+\t (00:18:02) Symbol "2C9" highlighted.
+\i (00:18:02) done 
+\i (00:18:02) xhilite 
+\i (00:18:02) xrefdes 2R88 
+\i (00:18:02) xname_flush 
+\i (00:18:02) trapsize 203
+\t (00:18:02) Symbol "2R88" highlighted.
+\i (00:18:03) done 
+\i (00:18:03) xhilite 
+\i (00:18:03) xrefdes 2R126 
+\i (00:18:03) xname_flush 
+\i (00:18:03) trapsize 435
+\t (00:18:03) Symbol "2R126" highlighted.
+\i (00:18:03) done 
+\i (00:18:03) xhilite 
+\i (00:18:03) xrefdes 2R95 
+\i (00:18:03) xname_flush 
+\i (00:18:03) trapsize 203
+\t (00:18:03) Symbol "2R95" highlighted.
+\i (00:18:03) done 
+\i (00:18:03) xhilite 
+\i (00:18:03) xrefdes 2R91 
+\i (00:18:03) xname_flush 
+\i (00:18:03) trapsize 203
+\t (00:18:03) Symbol "2R91" highlighted.
+\i (00:18:03) done 
+\i (00:18:03) xhilite 
+\i (00:18:03) xrefdes 2J3 
+\i (00:18:03) xname_flush 
+\i (00:18:03) trapsize 513
+\t (00:18:03) Symbol "2J3" highlighted.
+\i (00:18:03) done 
+\i (00:18:03) xhilite 
+\i (00:18:03) xrefdes 2J2 
+\i (00:18:03) xname_flush 
+\i (00:18:03) trapsize 513
+\t (00:18:03) Symbol "2J2" highlighted.
+\i (00:18:03) done 
+\i (00:18:04) xhilite 
+\i (00:18:04) xrefdes 2R125 
+\i (00:18:04) xname_flush 
+\i (00:18:04) trapsize 435
+\t (00:18:04) Symbol "2R125" highlighted.
+\i (00:18:04) done 
+\i (00:18:04) xhilite 
+\i (00:18:04) xrefdes 2K20 
+\i (00:18:04) xname_flush 
+\i (00:18:04) trapsize 673
+\t (00:18:04) Symbol "2K20" highlighted.
+\i (00:18:04) done 
+\i (00:18:04) xhilite 
+\i (00:18:04) xrefdes 2R97 
+\i (00:18:04) xname_flush 
+\i (00:18:04) trapsize 192
+\t (00:18:04) Symbol "2R97" highlighted.
+\i (00:18:04) done 
+\i (00:18:04) xhilite 
+\i (00:18:04) xrefdes 2C8 
+\i (00:18:04) xname_flush 
+\i (00:18:04) trapsize 192
+\t (00:18:04) Symbol "2C8" highlighted.
+\i (00:18:04) done 
+\i (00:18:04) xhilite 
+\i (00:18:04) xrefdes 2U2 
+\i (00:18:04) xname_flush 
+\i (00:18:04) trapsize 563
+\t (00:18:04) Symbol "2U2" highlighted.
+\i (00:18:04) done 
+\i (00:18:04) xhilite 
+\i (00:18:04) xrefdes 2R99 
+\i (00:18:04) xname_flush 
+\i (00:18:04) trapsize 192
+\t (00:18:04) Symbol "2R99" highlighted.
+\i (00:18:04) done 
+\i (00:18:04) xhilite 
+\i (00:18:04) xrefdes 2K15 
+\i (00:18:04) xname_flush 
+\i (00:18:04) trapsize 681
+\t (00:18:04) Symbol "2K15" highlighted.
+\i (00:18:04) done 
+\i (00:18:05) xhilite 
+\i (00:18:05) xrefdes 2K19 
+\i (00:18:05) xname_flush 
+\i (00:18:05) trapsize 681
+\t (00:18:05) Symbol "2K19" highlighted.
+\i (00:18:05) done 
+\i (00:18:05) xhilite 
+\i (00:18:05) xrefdes 2UF2 
+\i (00:18:05) xname_flush 
+\i (00:18:05) done 
+\i (00:18:05) xhilite 
+\i (00:18:05) xrefdes 2R92 
+\i (00:18:05) xname_flush 
+\i (00:18:05) trapsize 192
+\t (00:18:05) Symbol "2R92" highlighted.
+\i (00:18:05) done 
+\i (00:18:05) xhilite 
+\i (00:18:05) xrefdes 2UF1 
+\i (00:18:05) xname_flush 
+\i (00:18:05) done 
+\i (00:18:05) xhilite 
+\i (00:18:05) xrefdes 2U1 
+\i (00:18:05) xname_flush 
+\i (00:18:05) trapsize 666
+\t (00:18:05) Symbol "2U1" highlighted.
+\i (00:18:05) done 
+\i (00:18:05) xhilite 
+\i (00:18:06) xrefdes 2R98 
+\i (00:18:06) xname_flush 
+\i (00:18:06) trapsize 192
+\t (00:18:06) Symbol "2R98" highlighted.
+\i (00:18:06) done 
+\i (00:18:06) xhilite 
+\i (00:18:06) xrefdes 2R127 
+\i (00:18:06) xname_flush 
+\i (00:18:06) trapsize 503
+\t (00:18:06) Symbol "2R127" highlighted.
+\i (00:18:06) done 
+\i (00:18:06) xhilite 
+\i (00:18:08) xname_flush 
+\i (00:18:08) done 
+\i (00:18:08) xhilite 
+\i (00:18:08) xname_flush 
+\i (00:18:08) done 
+\i (00:18:08) xhilite 
+\i (00:18:08) xname_flush 
+\i (00:18:08) done 
+\i (00:18:08) xhilite 
+\i (00:18:08) xname_flush 
+\i (00:18:08) done 
+\i (00:18:08) xhilite 
+\i (00:18:08) xname_flush 
+\i (00:18:08) done 
+\i (00:18:09) xhilite 
+\i (00:18:09) xname_flush 
+\i (00:18:09) done 
+\i (00:18:09) xhilite 
+\i (00:18:09) xname_flush 
+\i (00:18:09) done 
+\i (00:18:09) xhilite 
+\i (00:18:09) xname_flush 
+\i (00:18:09) done 
+\i (00:18:09) xhilite 
+\i (00:18:09) xname_flush 
+\i (00:18:09) done 
+\i (00:18:09) xhilite 
+\i (00:18:09) xname_flush 
+\i (00:18:09) done 
+\i (00:18:09) xhilite 
+\i (00:18:09) xname_flush 
+\i (00:18:09) done 
+\i (00:18:09) xhilite 
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:10) xhilite 
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:10) xhilite 
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:10) xhilite 
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:10) xhilite 
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:10) xhilite 
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:10) xhilite 
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:11) xhilite 
+\i (00:18:11) xname_flush 
+\i (00:18:11) done 
+\i (00:18:11) xhilite 
+\i (00:18:11) xname_flush 
+\i (00:18:11) done 
+\i (00:18:11) xhilite 
+\i (00:18:11) xname_flush 
+\i (00:18:11) done 
+\i (00:18:11) xhilite 
+\i (00:18:11) xname_flush 
+\i (00:18:11) done 
+\i (00:18:11) xhilite 
+\i (00:18:11) xname_flush 
+\i (00:18:11) done 
+\i (00:18:11) xhilite 
+\i (00:18:11) xname_flush 
+\i (00:18:11) done 
+\i (00:18:12) xhilite 
+\i (00:18:12) xname_flush 
+\i (00:18:12) done 
+\i (00:18:12) xhilite 
+\i (00:18:12) xname_flush 
+\i (00:18:12) done 
+\i (00:18:12) xhilite 
+\i (00:18:12) xname_flush 
+\i (00:18:12) done 
+\i (00:18:12) xhilite 
+\i (00:18:12) xname_flush 
+\i (00:18:12) done 
+\i (00:18:12) xhilite 
+\i (00:18:12) xname_flush 
+\i (00:18:12) done 
+\i (00:18:12) xhilite 
+\i (00:18:12) xname_flush 
+\i (00:18:12) done 
+\i (00:18:12) xhilite 
+\i (00:18:12) xname_flush 
+\i (00:18:12) done 
+\i (00:18:12) xhilite 
+\i (00:18:12) xname_flush 
+\i (00:18:12) done 
+\i (00:18:13) xhilite 
+\i (00:18:13) xname_flush 
+\i (00:18:13) done 
+\i (00:18:13) xhilite 
+\i (00:18:13) xname_flush 
+\i (00:18:13) done 
+\i (00:18:13) xhilite 
+\i (00:18:13) xname_flush 
+\i (00:18:13) done 
+\i (00:18:13) xhilite 
+\i (00:18:13) xname_flush 
+\i (00:18:13) done 
+\i (00:18:13) xhilite 
+\i (00:18:13) xname_flush 
+\i (00:18:13) done 
+\i (00:18:13) xhilite 
+\i (00:18:13) xname_flush 
+\i (00:18:13) done 
+\i (00:18:13) xhilite 
+\i (00:18:13) xname_flush 
+\i (00:18:13) done 
+\i (00:18:14) xhilite 
+\i (00:18:14) xname_flush 
+\i (00:18:14) done 
+\i (00:18:14) xhilite 
+\i (00:18:14) xname_flush 
+\i (00:18:14) done 
+\i (00:18:14) xhilite 
+\i (00:18:14) xname_flush 
+\i (00:18:14) done 
+\i (00:18:14) xhilite 
+\i (00:18:14) xname_flush 
+\i (00:18:14) done 
+\i (00:18:14) xhilite 
+\i (00:18:14) xname_flush 
+\i (00:18:14) done 
+\i (00:18:14) xhilite 
+\i (00:18:14) xname_flush 
+\i (00:18:14) done 
+\i (00:18:14) xhilite 
+\i (00:18:15) xname_flush 
+\i (00:18:15) done 
+\i (00:18:15) xhilite 
+\i (00:18:15) xname_flush 
+\i (00:18:15) done 
+\i (00:18:15) xhilite 
+\i (00:18:15) xname_flush 
+\i (00:18:15) done 
+\i (00:18:15) xhilite 
+\i (00:18:15) xname_flush 
+\i (00:18:15) done 
+\i (00:18:15) xhilite 
+\i (00:18:15) xname_flush 
+\i (00:18:15) done 
+\i (00:18:15) xhilite 
+\i (00:18:15) xname_flush 
+\i (00:18:15) done 
+\i (00:18:15) xhilite 
+\i (00:18:15) xname_flush 
+\i (00:18:15) done 
+\i (00:18:16) xhilite 
+\i (00:18:16) xname_flush 
+\i (00:18:16) done 
+\i (00:18:16) xhilite 
+\i (00:18:16) xname_flush 
+\i (00:18:16) done 
+\i (00:18:16) xhilite 
+\i (00:18:16) xname_flush 
+\i (00:18:16) done 
+\i (00:18:16) xhilite 
+\i (00:18:16) xname_flush 
+\i (00:18:16) done 
+\i (00:18:16) xhilite 
+\i (00:18:16) xname_flush 
+\i (00:18:16) done 
+\i (00:18:16) xhilite 
+\i (00:18:16) xrefdes 2CA23 
+\i (00:18:16) xname_flush 
+\i (00:18:16) trapsize 213
+\t (00:18:16) Symbol "2Ca23" highlighted.
+\i (00:18:16) done 
+\i (00:18:16) xhilite 
+\i (00:18:16) xrefdes 2CC7 
+\i (00:18:16) xname_flush 
+\i (00:18:16) trapsize 339
+\t (00:18:16) Symbol "2Cc7" highlighted.
+\i (00:18:16) done 
+\i (00:18:17) xhilite 
+\i (00:18:17) xrefdes 2GND6 
+\i (00:18:17) xname_flush 
+\i (00:18:17) trapsize 226
+\t (00:18:17) Symbol "2Gnd6" highlighted.
+\i (00:18:17) done 
+\i (00:18:17) xhilite 
+\i (00:18:17) xrefdes 2CD19 
+\i (00:18:17) xname_flush 
+\i (00:18:17) trapsize 274
+\t (00:18:17) Symbol "2Cd19" highlighted.
+\i (00:18:17) done 
+\i (00:18:17) xhilite 
+\i (00:18:17) xrefdes 2GND11 
+\i (00:18:17) xname_flush 
+\i (00:18:17) trapsize 387
+\t (00:18:17) Symbol "2Gnd11" highlighted.
+\i (00:18:17) done 
+\i (00:18:17) xhilite 
+\i (00:18:17) xrefdes 2TP_PLL_M_VDD33 
+\i (00:18:17) xname_flush 
+\i (00:18:17) trapsize 843
+\t (00:18:17) Symbol "2Tp_Pll_M_Vdd33" highlighted.
+\i (00:18:17) done 
+\i (00:18:17) xhilite 
+\i (00:18:17) xrefdes 2CC37 
+\i (00:18:17) xname_flush 
+\i (00:18:17) trapsize 213
+\t (00:18:17) Symbol "2Cc37" highlighted.
+\i (00:18:17) done 
+\i (00:18:17) xhilite 
+\i (00:18:17) xrefdes 2CD6 
+\i (00:18:17) xname_flush 
+\i (00:18:17) trapsize 1005
+\t (00:18:17) Symbol "2Cd6" highlighted.
+\i (00:18:17) done 
+\i (00:18:17) xhilite 
+\i (00:18:18) xrefdes 2CA29 
+\i (00:18:18) xname_flush 
+\i (00:18:18) trapsize 213
+\t (00:18:18) Symbol "2Ca29" highlighted.
+\i (00:18:18) done 
+\i (00:18:18) xhilite 
+\i (00:18:18) xrefdes 2GND5 
+\i (00:18:18) xname_flush 
+\i (00:18:18) trapsize 428
+\t (00:18:18) Symbol "2Gnd5" highlighted.
+\i (00:18:18) done 
+\i (00:18:18) xhilite 
+\i (00:18:18) xrefdes 2CD18 
+\i (00:18:18) xname_flush 
+\i (00:18:18) trapsize 322
+\t (00:18:18) Symbol "2Cd18" highlighted.
+\i (00:18:18) done 
+\i (00:18:18) xhilite 
+\i (00:18:18) xrefdes 2CC1 
+\i (00:18:18) xname_flush 
+\i (00:18:18) trapsize 346
+\t (00:18:18) Symbol "2Cc1" highlighted.
+\i (00:18:18) done 
+\i (00:18:18) xhilite 
+\i (00:18:18) xrefdes 2CC39 
+\i (00:18:18) xname_flush 
+\i (00:18:18) trapsize 213
+\t (00:18:18) Symbol "2Cc39" highlighted.
+\i (00:18:18) done 
+\i (00:18:18) xhilite 
+\i (00:18:18) xrefdes 2CD3 
+\i (00:18:18) xname_flush 
+\i (00:18:18) trapsize 1005
+\t (00:18:18) Symbol "2Cd3" highlighted.
+\i (00:18:18) done 
+\i (00:18:19) xhilite 
+\i (00:18:19) xrefdes 2CA1 
+\i (00:18:19) xname_flush 
+\i (00:18:19) trapsize 325
+\t (00:18:19) Symbol "2Ca1" highlighted.
+\i (00:18:19) done 
+\i (00:18:19) xhilite 
+\i (00:18:19) xrefdes 2CA12 
+\i (00:18:19) xname_flush 
+\i (00:18:19) trapsize 325
+\t (00:18:19) Symbol "2Ca12" highlighted.
+\i (00:18:19) done 
+\i (00:18:19) xhilite 
+\i (00:18:19) xrefdes 2K34 
+\i (00:18:19) xname_flush 
+\i (00:18:19) trapsize 908
+\t (00:18:19) Symbol "2K34" highlighted.
+\i (00:18:19) done 
+\i (00:18:19) xhilite 
+\i (00:18:19) xrefdes 2CC32 
+\i (00:18:19) xname_flush 
+\i (00:18:19) trapsize 435
+\t (00:18:19) Symbol "2Cc32" highlighted.
+\i (00:18:19) done 
+\i (00:18:19) xhilite 
+\i (00:18:19) xrefdes 2SH6 
+\i (00:18:19) xname_flush 
+\i (00:18:19) trapsize 170
+\t (00:18:19) Symbol "2Sh6" highlighted.
+\i (00:18:19) done 
+\i (00:18:19) xhilite 
+\i (00:18:19) xrefdes 2CC26 
+\i (00:18:19) xname_flush 
+\i (00:18:19) trapsize 550
+\t (00:18:19) Symbol "2Cc26" highlighted.
+\i (00:18:19) done 
+\i (00:18:20) xhilite 
+\i (00:18:20) xrefdes 2GND12 
+\i (00:18:20) xname_flush 
+\i (00:18:20) trapsize 264
+\t (00:18:20) Symbol "2Gnd12" highlighted.
+\i (00:18:20) done 
+\i (00:18:20) xhilite 
+\i (00:18:20) xrefdes 2CA24 
+\i (00:18:20) xname_flush 
+\i (00:18:20) trapsize 213
+\t (00:18:20) Symbol "2Ca24" highlighted.
+\i (00:18:20) done 
+\i (00:18:20) xhilite 
+\i (00:18:20) xrefdes 2TP_AVDD18_RX 
+\i (00:18:20) xname_flush 
+\i (00:18:20) trapsize 764
+\t (00:18:20) Symbol "2Tp_Avdd18_Rx" highlighted.
+\i (00:18:20) done 
+\i (00:18:20) xhilite 
+\i (00:18:20) xrefdes 2CC31 
+\i (00:18:20) xname_flush 
+\i (00:18:20) trapsize 339
+\t (00:18:20) Symbol "2Cc31" highlighted.
+\i (00:18:20) done 
+\i (00:18:20) xhilite 
+\i (00:18:20) xrefdes 2CA32 
+\i (00:18:20) xname_flush 
+\i (00:18:20) trapsize 339
+\t (00:18:20) Symbol "2Ca32" highlighted.
+\i (00:18:20) done 
+\i (00:18:20) xhilite 
+\i (00:18:20) xrefdes 2CC20 
+\i (00:18:20) xname_flush 
+\i (00:18:20) trapsize 250
+\t (00:18:20) Symbol "2Cc20" highlighted.
+\i (00:18:20) done 
+\i (00:18:21) xhilite 
+\i (00:18:21) xrefdes 2CC13 
+\i (00:18:21) xname_flush 
+\i (00:18:21) trapsize 435
+\t (00:18:21) Symbol "2Cc13" highlighted.
+\i (00:18:21) done 
+\i (00:18:21) xhilite 
+\i (00:18:21) xrefdes 2CA2 
+\i (00:18:21) xname_flush 
+\i (00:18:21) trapsize 311
+\t (00:18:21) Symbol "2Ca2" highlighted.
+\i (00:18:21) done 
+\i (00:18:21) xhilite 
+\i (00:18:21) xrefdes 2CD5 
+\i (00:18:21) xname_flush 
+\i (00:18:21) trapsize 1109
+\t (00:18:21) Symbol "2Cd5" highlighted.
+\i (00:18:21) done 
+\i (00:18:21) xhilite 
+\i (00:18:21) xrefdes 2K36 
+\i (00:18:21) xname_flush 
+\i (00:18:21) trapsize 915
+\t (00:18:21) Symbol "2K36" highlighted.
+\i (00:18:21) done 
+\i (00:18:21) xhilite 
+\i (00:18:21) xrefdes 2TP_VCC3V3 
+\i (00:18:21) xname_flush 
+\i (00:18:21) trapsize 424
+\t (00:18:21) Symbol "2Tp_Vcc3v3" highlighted.
+\i (00:18:21) done 
+\i (00:18:21) xhilite 
+\i (00:18:22) xrefdes 2GND9 
+\i (00:18:22) xname_flush 
+\i (00:18:22) trapsize 222
+\t (00:18:22) Symbol "2Gnd9" highlighted.
+\i (00:18:22) done 
+\i (00:18:22) xhilite 
+\i (00:18:22) xrefdes 2CD22 
+\i (00:18:22) xname_flush 
+\i (00:18:22) trapsize 1183
+\t (00:18:22) Symbol "2Cd22" highlighted.
+\i (00:18:22) done 
+\i (00:18:22) xhilite 
+\i (00:18:22) xrefdes 2CA6 
+\i (00:18:22) xname_flush 
+\i (00:18:22) trapsize 318
+\t (00:18:22) Symbol "2Ca6" highlighted.
+\i (00:18:22) done 
+\i (00:18:22) xhilite 
+\i (00:18:22) xrefdes 2TP_AVDD11_XTAL 
+\i (00:18:22) xname_flush 
+\i (00:18:22) trapsize 794
+\t (00:18:22) Symbol "2Tp_Avdd11_Xtal" highlighted.
+\i (00:18:22) done 
+\i (00:18:22) xhilite 
+\i (00:18:22) xrefdes 2CA9 
+\i (00:18:22) xname_flush 
+\i (00:18:22) trapsize 274
+\t (00:18:22) Symbol "2Ca9" highlighted.
+\i (00:18:22) done 
+\i (00:18:22) xhilite 
+\i (00:18:22) xrefdes 2TP_VDD_TXREG_33_T 
+\i (00:18:22) xname_flush 
+\i (00:18:22) trapsize 678
+\t (00:18:22) Symbol "2Tp_Vdd_Txreg_33_T" highlighted.
+\i (00:18:22) done 
+\i (00:18:22) xhilite 
+\i (00:18:23) xrefdes 2SH3 
+\i (00:18:23) xname_flush 
+\i (00:18:23) trapsize 170
+\t (00:18:23) Symbol "2Sh3" highlighted.
+\i (00:18:23) done 
+\i (00:18:23) xhilite 
+\i (00:18:23) xrefdes 2CC16 
+\i (00:18:23) xname_flush 
+\i (00:18:23) trapsize 213
+\t (00:18:23) Symbol "2Cc16" highlighted.
+\i (00:18:23) done 
+\i (00:18:23) xhilite 
+\i (00:18:23) xrefdes 2SH9 
+\i (00:18:23) xname_flush 
+\i (00:18:23) trapsize 346
+\t (00:18:23) Symbol "2Sh9" highlighted.
+\i (00:18:23) done 
+\i (00:18:23) xhilite 
+\i (00:18:23) xrefdes 2K31 
+\i (00:18:23) xname_flush 
+\i (00:18:23) trapsize 922
+\t (00:18:23) Symbol "2K31" highlighted.
+\i (00:18:23) done 
+\i (00:18:23) xhilite 
+\i (00:18:23) xrefdes 2TP_VDDTXPST_11_T 
+\i (00:18:23) xname_flush 
+\i (00:18:23) trapsize 636
+\t (00:18:23) Symbol "2Tp_Vddtxpst_11_T" highlighted.
+\i (00:18:23) done 
+\i (00:18:24) xhilite 
+\i (00:18:24) xrefdes 2GND3 
+\i (00:18:24) xname_flush 
+\i (00:18:24) trapsize 379
+\t (00:18:24) Symbol "2Gnd3" highlighted.
+\i (00:18:24) done 
+\i (00:18:24) xhilite 
+\i (00:18:24) xrefdes 2TP_VDDC_11 
+\i (00:18:24) xname_flush 
+\i (00:18:24) trapsize 379
+\t (00:18:24) Symbol "2Tp_Vddc_11" highlighted.
+\i (00:18:24) done 
+\i (00:18:24) xhilite 
+\i (00:18:31) xname_flush 
+\i (00:18:31) done 
+\i (00:18:31) xhilite 
+\i (00:18:31) xrefdes SITE3 
+\i (00:18:31) xname_flush 
+\i (00:18:31) done 
+\i (00:18:32) xhilite 
+\i (00:18:32) xrefdes 3R82 
+\i (00:18:32) xname_flush 
+\i (00:18:32) done 
+\i (00:18:32) xhilite 
+\i (00:18:32) xrefdes 3K43 
+\i (00:18:32) xname_flush 
+\i (00:18:32) done 
+\i (00:18:32) xhilite 
+\i (00:18:32) xrefdes 3R66 
+\i (00:18:32) xname_flush 
+\i (00:18:32) done 
+\i (00:18:32) xhilite 
+\i (00:18:32) xrefdes 3R23 
+\i (00:18:32) xname_flush 
+\i (00:18:32) done 
+\i (00:18:32) xhilite 
+\i (00:18:32) xrefdes S3_I2C 
+\i (00:18:32) xname_flush 
+\i (00:18:32) done 
+\i (00:18:33) xhilite 
+\i (00:18:33) xrefdes 3R130 
+\i (00:18:33) xname_flush 
+\i (00:18:33) done 
+\i (00:18:33) xhilite 
+\i (00:18:33) xrefdes 3R44 
+\i (00:18:33) xname_flush 
+\i (00:18:33) done 
+\i (00:18:33) xhilite 
+\i (00:18:33) xrefdes 3K1 
+\i (00:18:33) xname_flush 
+\i (00:18:33) done 
+\i (00:18:33) xhilite 
+\i (00:18:33) xrefdes 3R64 
+\i (00:18:33) xname_flush 
+\i (00:18:33) done 
+\i (00:18:33) xhilite 
+\i (00:18:33) xrefdes 3R129 
+\i (00:18:33) xname_flush 
+\i (00:18:33) done 
+\i (00:18:33) xhilite 
+\i (00:18:33) xrefdes 3R118 
+\i (00:18:33) xname_flush 
+\i (00:18:33) done 
+\i (00:18:34) xhilite 
+\i (00:18:34) xrefdes 3R104 
+\i (00:18:34) xname_flush 
+\i (00:18:34) done 
+\i (00:18:34) xhilite 
+\i (00:18:34) xrefdes 3C3 
+\i (00:18:34) xname_flush 
+\i (00:18:34) done 
+\i (00:18:34) xhilite 
+\i (00:18:34) xrefdes 3K8 
+\i (00:18:34) xname_flush 
+\i (00:18:34) done 
+\i (00:18:34) xhilite 
+\i (00:18:34) xrefdes 3R54 
+\i (00:18:34) xname_flush 
+\i (00:18:34) done 
+\i (00:18:34) xhilite 
+\i (00:18:34) xrefdes 3R73 
+\i (00:18:34) xname_flush 
+\i (00:18:34) done 
+\i (00:18:34) xhilite 
+\i (00:18:34) xrefdes 3Y1 
+\i (00:18:34) xname_flush 
+\i (00:18:34) done 
+\i (00:18:34) xhilite 
+\i (00:18:34) xrefdes 3R19 
+\i (00:18:34) xname_flush 
+\i (00:18:34) done 
+\i (00:18:35) xhilite 
+\i (00:18:35) xrefdes 3K10 
+\i (00:18:35) xname_flush 
+\i (00:18:35) done 
+\i (00:18:35) xhilite 
+\i (00:18:35) xrefdes 3K28 
+\i (00:18:35) xname_flush 
+\i (00:18:35) done 
+\i (00:18:35) xhilite 
+\i (00:18:35) xrefdes 3R22 
+\i (00:18:35) xname_flush 
+\i (00:18:35) done 
+\i (00:18:35) xhilite 
+\i (00:18:35) xrefdes 3K7 
+\i (00:18:35) xname_flush 
+\i (00:18:35) done 
+\i (00:18:35) xhilite 
+\i (00:18:35) xrefdes 3TP_XTAL_OUT 
+\i (00:18:35) xname_flush 
+\i (00:18:35) done 
+\i (00:18:35) xhilite 
+\i (00:18:35) xrefdes 3R52 
+\i (00:18:35) xname_flush 
+\i (00:18:35) done 
+\i (00:18:35) xhilite 
+\i (00:18:35) xrefdes 3K12 
+\i (00:18:35) xname_flush 
+\i (00:18:35) done 
+\i (00:18:36) xhilite 
+\i (00:18:36) xrefdes 3R20 
+\i (00:18:36) xname_flush 
+\i (00:18:36) done 
+\i (00:18:36) xhilite 
+\i (00:18:36) xrefdes 3R30 
+\i (00:18:36) xname_flush 
+\i (00:18:36) done 
+\i (00:18:36) xhilite 
+\i (00:18:36) xrefdes 3K25 
+\i (00:18:36) xname_flush 
+\i (00:18:36) done 
+\i (00:18:36) xhilite 
+\i (00:18:36) xrefdes 3R43 
+\i (00:18:36) xname_flush 
+\i (00:18:36) done 
+\i (00:18:36) xhilite 
+\i (00:18:36) xrefdes 3TP_AUXVCC 
+\i (00:18:36) xname_flush 
+\i (00:18:36) done 
+\i (00:18:36) xhilite 
+\i (00:18:36) xrefdes 3R55 
+\i (00:18:36) xname_flush 
+\i (00:18:36) done 
+\i (00:18:36) xhilite 
+\i (00:18:36) xrefdes 3R100 
+\i (00:18:36) xname_flush 
+\i (00:18:36) done 
+\i (00:18:37) xhilite 
+\i (00:18:37) xrefdes 3R21 
+\i (00:18:37) xname_flush 
+\i (00:18:37) done 
+\i (00:18:37) xhilite 
+\i (00:18:37) xrefdes 3K5 
+\i (00:18:37) xname_flush 
+\i (00:18:37) done 
+\i (00:18:37) xhilite 
+\i (00:18:37) xrefdes 3R28 
+\i (00:18:37) xname_flush 
+\i (00:18:37) done 
+\i (00:18:37) xhilite 
+\i (00:18:37) xrefdes 3R41 
+\i (00:18:37) xname_flush 
+\i (00:18:37) done 
+\i (00:18:37) xhilite 
+\i (00:18:37) xrefdes 3R5 
+\i (00:18:37) xname_flush 
+\i (00:18:37) done 
+\i (00:18:37) xhilite 
+\i (00:18:37) xrefdes 3R103 
+\i (00:18:37) xname_flush 
+\i (00:18:37) done 
+\i (00:18:37) xhilite 
+\i (00:18:38) xrefdes 3C7 
+\i (00:18:38) xname_flush 
+\i (00:18:38) done 
+\i (00:18:38) xhilite 
+\i (00:18:38) xrefdes 3Y2 
+\i (00:18:38) xname_flush 
+\i (00:18:38) done 
+\i (00:18:38) xhilite 
+\i (00:18:38) xrefdes 3R75 
+\i (00:18:38) xname_flush 
+\i (00:18:38) done 
+\i (00:18:38) xhilite 
+\i (00:18:38) xrefdes 3R62 
+\i (00:18:38) xname_flush 
+\i (00:18:38) done 
+\i (00:18:38) xhilite 
+\i (00:18:38) xrefdes 3K4 
+\i (00:18:38) xname_flush 
+\i (00:18:38) done 
+\i (00:18:38) xhilite 
+\i (00:18:38) xrefdes 3R42 
+\i (00:18:38) xname_flush 
+\i (00:18:38) done 
+\i (00:18:38) xhilite 
+\i (00:18:38) xrefdes 3SH20 
+\i (00:18:38) xname_flush 
+\i (00:18:38) done 
+\i (00:18:38) xhilite 
+\i (00:18:39) xrefdes 3R33 
+\i (00:18:39) xname_flush 
+\i (00:18:39) done 
+\i (00:18:39) xhilite 
+\i (00:18:39) xrefdes 3R50 
+\i (00:18:39) xname_flush 
+\i (00:18:39) done 
+\i (00:18:39) xhilite 
+\i (00:18:39) xrefdes 3R47 
+\i (00:18:39) xname_flush 
+\i (00:18:39) done 
+\i (00:18:39) xhilite 
+\i (00:18:39) xrefdes 3R37 
+\i (00:18:39) xname_flush 
+\i (00:18:39) done 
+\i (00:18:39) xhilite 
+\i (00:18:39) xrefdes 3R10 
+\i (00:18:39) xname_flush 
+\i (00:18:39) done 
+\i (00:18:39) xhilite 
+\i (00:18:39) xrefdes S3_RST_N 
+\i (00:18:39) xname_flush 
+\i (00:18:39) done 
+\i (00:18:39) xhilite 
+\i (00:18:39) xrefdes 3K9 
+\i (00:18:39) xname_flush 
+\i (00:18:39) done 
+\i (00:18:40) xhilite 
+\i (00:18:40) xrefdes 3K16 
+\i (00:18:40) xname_flush 
+\i (00:18:40) done 
+\i (00:18:40) xhilite 
+\i (00:18:40) xrefdes 3R85 
+\i (00:18:40) xname_flush 
+\i (00:18:40) done 
+\i (00:18:40) xhilite 
+\i (00:18:40) xrefdes 3CA20 
+\i (00:18:40) xname_flush 
+\i (00:18:40) done 
+\i (00:18:40) xhilite 
+\i (00:18:40) xrefdes 3R63 
+\i (00:18:40) xname_flush 
+\i (00:18:40) done 
+\i (00:18:40) xhilite 
+\i (00:18:40) xrefdes 3R74 
+\i (00:18:40) xname_flush 
+\i (00:18:40) done 
+\i (00:18:40) xhilite 
+\i (00:18:40) xrefdes 3R25 
+\i (00:18:40) xname_flush 
+\i (00:18:40) done 
+\i (00:18:40) xhilite 
+\i (00:18:40) xrefdes 3R56 
+\i (00:18:40) xname_flush 
+\i (00:18:40) done 
+\i (00:18:40) xhilite 
+\i (00:18:40) xrefdes 3R34 
+\i (00:18:40) xname_flush 
+\i (00:18:40) done 
+\i (00:18:41) xhilite 
+\i (00:18:41) xrefdes 3CA19 
+\i (00:18:41) xname_flush 
+\i (00:18:41) done 
+\i (00:18:41) xhilite 
+\i (00:18:41) xrefdes 3R29 
+\i (00:18:41) xname_flush 
+\i (00:18:41) done 
+\i (00:18:41) xhilite 
+\i (00:18:41) xrefdes 3R17 
+\i (00:18:41) xname_flush 
+\i (00:18:41) done 
+\i (00:18:41) xhilite 
+\i (00:18:41) xrefdes 3R67 
+\i (00:18:41) xname_flush 
+\i (00:18:41) done 
+\i (00:18:41) xhilite 
+\i (00:18:41) xrefdes 3K23 
+\i (00:18:41) xname_flush 
+\i (00:18:41) done 
+\i (00:18:41) xhilite 
+\i (00:18:41) xrefdes 3R18 
+\i (00:18:41) xname_flush 
+\i (00:18:41) done 
+\i (00:18:41) xhilite 
+\i (00:18:42) xrefdes 3K13 
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:42) xhilite 
+\i (00:18:42) xrefdes 3K29 
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:42) xhilite 
+\i (00:18:42) xrefdes 3R78 
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:42) xhilite 
+\i (00:18:42) xrefdes 3R60 
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:42) xhilite 
+\i (00:18:42) xrefdes 3R83 
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:42) xhilite 
+\i (00:18:42) xrefdes 3R65 
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:42) xhilite 
+\i (00:18:42) xrefdes 3R119 
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:42) xhilite 
+\i (00:18:42) xrefdes 3R32 
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:43) xhilite 
+\i (00:18:43) xrefdes 3R53 
+\i (00:18:43) xname_flush 
+\i (00:18:43) done 
+\i (00:18:43) xhilite 
+\i (00:18:43) xrefdes 3R71 
+\i (00:18:43) xname_flush 
+\i (00:18:43) done 
+\i (00:18:43) xhilite 
+\i (00:18:43) xrefdes 3J4 
+\i (00:18:43) xname_flush 
+\i (00:18:43) done 
+\i (00:18:43) xhilite 
+\i (00:18:43) xrefdes 3R117 
+\i (00:18:43) xname_flush 
+\i (00:18:43) done 
+\i (00:18:43) xhilite 
+\i (00:18:43) xrefdes 3R101 
+\i (00:18:43) xname_flush 
+\i (00:18:43) done 
+\i (00:18:43) xhilite 
+\i (00:18:43) xrefdes 3R14 
+\i (00:18:43) xname_flush 
+\i (00:18:43) done 
+\i (00:18:43) xhilite 
+\i (00:18:43) xrefdes 3R6 
+\i (00:18:43) xname_flush 
+\i (00:18:43) done 
+\i (00:18:44) xhilite 
+\i (00:18:44) xrefdes 3R4 
+\i (00:18:44) xname_flush 
+\i (00:18:44) done 
+\i (00:18:44) xhilite 
+\i (00:18:44) xrefdes 3R39 
+\i (00:18:44) xname_flush 
+\i (00:18:44) done 
+\i (00:18:44) xhilite 
+\i (00:18:44) xrefdes 3SH19 
+\i (00:18:44) xname_flush 
+\i (00:18:44) done 
+\i (00:18:44) xhilite 
+\i (00:18:44) xrefdes 3R57 
+\i (00:18:44) xname_flush 
+\i (00:18:44) done 
+\i (00:18:44) xhilite 
+\i (00:18:44) xrefdes 3K26 
+\i (00:18:44) xname_flush 
+\i (00:18:44) done 
+\i (00:18:44) xhilite 
+\i (00:18:44) xrefdes 3GND10 
+\i (00:18:44) xname_flush 
+\i (00:18:44) done 
+\i (00:18:44) xhilite 
+\i (00:18:44) xrefdes 3R2 
+\i (00:18:44) xname_flush 
+\i (00:18:44) done 
+\i (00:18:45) xhilite 
+\i (00:18:45) xrefdes 3R11 
+\i (00:18:45) xname_flush 
+\i (00:18:45) done 
+\i (00:18:45) xhilite 
+\i (00:18:45) xrefdes 3R79 
+\i (00:18:45) xname_flush 
+\i (00:18:45) done 
+\i (00:18:45) xhilite 
+\i (00:18:45) xrefdes 3K30 
+\i (00:18:45) xname_flush 
+\i (00:18:45) done 
+\i (00:18:45) xhilite 
+\i (00:18:45) xrefdes 3K24 
+\i (00:18:45) xname_flush 
+\i (00:18:45) done 
+\i (00:18:45) xhilite 
+\i (00:18:45) xrefdes 3K33 
+\i (00:18:45) xname_flush 
+\i (00:18:45) done 
+\i (00:18:45) xhilite 
+\i (00:18:45) xrefdes 3R1 
+\i (00:18:45) xname_flush 
+\i (00:18:45) done 
+\i (00:18:45) xhilite 
+\i (00:18:46) xrefdes 3R16 
+\i (00:18:46) xname_flush 
+\i (00:18:46) done 
+\i (00:18:46) xhilite 
+\i (00:18:46) xrefdes 3R15 
+\i (00:18:46) xname_flush 
+\i (00:18:46) done 
+\i (00:18:46) xhilite 
+\i (00:18:46) xrefdes 3TP_XTAL_IN 
+\i (00:18:46) xname_flush 
+\i (00:18:46) done 
+\i (00:18:46) xhilite 
+\i (00:18:46) xrefdes 3K22 
+\i (00:18:46) xname_flush 
+\i (00:18:46) done 
+\i (00:18:46) xhilite 
+\i (00:18:46) xrefdes 3R8 
+\i (00:18:46) xname_flush 
+\i (00:18:46) done 
+\i (00:18:46) xhilite 
+\i (00:18:47) xname_flush 
+\i (00:18:47) done 
+\i (00:18:48) xhilite 
+\i (00:18:48) xname_flush 
+\i (00:18:48) done 
+\i (00:18:48) xhilite 
+\i (00:18:48) xname_flush 
+\i (00:18:48) done 
+\i (00:18:48) xhilite 
+\i (00:18:48) xname_flush 
+\i (00:18:48) done 
+\i (00:18:48) xhilite 
+\i (00:18:48) xname_flush 
+\i (00:18:48) done 
+\i (00:18:48) xhilite 
+\i (00:18:48) xname_flush 
+\i (00:18:48) done 
+\i (00:18:48) xhilite 
+\i (00:18:48) xname_flush 
+\i (00:18:48) done 
+\i (00:18:48) xhilite 
+\i (00:18:49) xname_flush 
+\i (00:18:49) done 
+\i (00:18:49) xhilite 
+\i (00:18:49) xname_flush 
+\i (00:18:49) done 
+\i (00:18:49) xhilite 
+\i (00:18:49) xname_flush 
+\i (00:18:49) done 
+\i (00:18:49) xhilite 
+\i (00:18:49) xname_flush 
+\i (00:18:49) done 
+\i (00:18:49) xhilite 
+\i (00:18:49) xname_flush 
+\i (00:18:49) done 
+\i (00:18:49) xhilite 
+\i (00:18:49) xname_flush 
+\i (00:18:49) done 
+\i (00:18:49) xhilite 
+\i (00:18:50) xname_flush 
+\i (00:18:50) done 
+\i (00:18:50) xhilite 
+\i (00:18:50) xname_flush 
+\i (00:18:50) done 
+\i (00:18:50) xhilite 
+\i (00:18:50) xname_flush 
+\i (00:18:50) done 
+\i (00:18:50) xhilite 
+\i (00:18:50) xname_flush 
+\i (00:18:50) done 
+\i (00:18:50) xhilite 
+\i (00:18:50) xname_flush 
+\i (00:18:50) done 
+\i (00:18:50) xhilite 
+\i (00:18:50) xname_flush 
+\i (00:18:50) done 
+\i (00:18:50) xhilite 
+\i (00:18:50) xname_flush 
+\i (00:18:50) done 
+\i (00:18:51) xhilite 
+\i (00:18:51) xname_flush 
+\i (00:18:51) done 
+\i (00:18:51) xhilite 
+\i (00:18:51) xname_flush 
+\i (00:18:51) done 
+\i (00:18:51) xhilite 
+\i (00:18:51) xname_flush 
+\i (00:18:51) done 
+\i (00:18:51) xhilite 
+\i (00:18:51) xname_flush 
+\i (00:18:51) done 
+\i (00:18:51) xhilite 
+\i (00:18:51) xname_flush 
+\i (00:18:51) done 
+\i (00:18:51) xhilite 
+\i (00:18:51) xname_flush 
+\i (00:18:51) done 
+\i (00:18:51) xhilite 
+\i (00:18:52) xname_flush 
+\i (00:18:52) done 
+\i (00:18:52) xhilite 
+\i (00:18:52) xname_flush 
+\i (00:18:52) done 
+\i (00:18:52) xhilite 
+\i (00:18:52) xname_flush 
+\i (00:18:52) done 
+\i (00:18:52) xhilite 
+\i (00:18:52) xname_flush 
+\i (00:18:52) done 
+\i (00:18:52) xhilite 
+\i (00:18:52) xname_flush 
+\i (00:18:52) done 
+\i (00:18:52) xhilite 
+\i (00:18:52) xname_flush 
+\i (00:18:52) done 
+\i (00:18:52) xhilite 
+\i (00:18:52) xrefdes 3R93 
+\i (00:18:52) xname_flush 
+\i (00:18:52) done 
+\i (00:18:53) xhilite 
+\i (00:18:53) xname_flush 
+\i (00:18:53) done 
+\i (00:18:53) xhilite 
+\i (00:18:53) xrefdes 3R94 
+\i (00:18:53) xname_flush 
+\i (00:18:53) done 
+\i (00:18:53) xhilite 
+\i (00:18:53) xrefdes 3R87 
+\i (00:18:53) xname_flush 
+\i (00:18:53) done 
+\i (00:18:53) xhilite 
+\i (00:18:53) xrefdes 3R89 
+\i (00:18:53) xname_flush 
+\i (00:18:53) done 
+\i (00:18:53) xhilite 
+\i (00:18:53) xrefdes 3R90 
+\i (00:18:53) xname_flush 
+\i (00:18:53) done 
+\i (00:18:53) xhilite 
+\i (00:18:53) xrefdes 3R96 
+\i (00:18:53) xname_flush 
+\i (00:18:53) done 
+\i (00:18:53) xhilite 
+\i (00:18:53) xrefdes 3R128 
+\i (00:18:53) xname_flush 
+\i (00:18:53) done 
+\i (00:18:54) xhilite 
+\i (00:18:54) xrefdes 3K14 
+\i (00:18:54) xname_flush 
+\i (00:18:54) done 
+\i (00:18:54) xhilite 
+\i (00:18:54) xrefdes 3C9 
+\i (00:18:54) xname_flush 
+\i (00:18:54) done 
+\i (00:18:54) xhilite 
+\i (00:18:54) xrefdes 3R86 
+\i (00:18:54) xname_flush 
+\i (00:18:54) done 
+\i (00:18:54) xhilite 
+\i (00:18:54) xrefdes 3R88 
+\i (00:18:54) xname_flush 
+\i (00:18:54) done 
+\i (00:18:54) xhilite 
+\i (00:18:54) xrefdes 3R126 
+\i (00:18:54) xname_flush 
+\i (00:18:54) done 
+\i (00:18:54) xhilite 
+\i (00:18:54) xrefdes 3R95 
+\i (00:18:54) xname_flush 
+\i (00:18:54) done 
+\i (00:18:54) xhilite 
+\i (00:18:54) xrefdes 3R91 
+\i (00:18:54) xname_flush 
+\i (00:18:54) done 
+\i (00:18:54) xhilite 
+\i (00:18:55) xrefdes 3R125 
+\i (00:18:55) xname_flush 
+\i (00:18:55) done 
+\i (00:18:55) xhilite 
+\i (00:18:55) xrefdes 3J3 
+\i (00:18:55) xname_flush 
+\i (00:18:55) done 
+\i (00:18:55) xhilite 
+\i (00:18:55) xrefdes 3R97 
+\i (00:18:55) xname_flush 
+\i (00:18:55) done 
+\i (00:18:55) xhilite 
+\i (00:18:55) xrefdes 3J2 
+\i (00:18:55) xname_flush 
+\i (00:18:55) done 
+\i (00:18:55) xhilite 
+\i (00:18:55) xrefdes 3K20 
+\i (00:18:55) xname_flush 
+\i (00:18:55) done 
+\i (00:18:55) xhilite 
+\i (00:18:55) xrefdes 3C8 
+\i (00:18:55) xname_flush 
+\i (00:18:55) done 
+\i (00:18:55) xhilite 
+\i (00:18:55) xrefdes 3U2 
+\i (00:18:55) xname_flush 
+\i (00:18:55) done 
+\i (00:18:56) xhilite 
+\i (00:18:56) xrefdes 3K15 
+\i (00:18:56) xname_flush 
+\i (00:18:56) done 
+\i (00:18:56) xhilite 
+\i (00:18:56) xrefdes 3R99 
+\i (00:18:56) xname_flush 
+\i (00:18:56) done 
+\i (00:18:56) xhilite 
+\i (00:18:56) xrefdes 3UF1 
+\i (00:18:56) xname_flush 
+\i (00:18:56) done 
+\i (00:18:56) xhilite 
+\i (00:18:56) xrefdes 3K19 
+\i (00:18:56) xname_flush 
+\i (00:18:56) done 
+\i (00:18:56) xhilite 
+\i (00:18:56) xrefdes 3UF2 
+\i (00:18:56) xname_flush 
+\i (00:18:56) done 
+\i (00:18:56) xhilite 
+\i (00:18:56) xrefdes 3R92 
+\i (00:18:56) xname_flush 
+\i (00:18:56) done 
+\i (00:18:56) xhilite 
+\i (00:18:56) xrefdes 3R127 
+\i (00:18:56) xname_flush 
+\i (00:18:56) done 
+\i (00:18:57) xhilite 
+\i (00:18:57) xrefdes 3U1 
+\i (00:18:57) xname_flush 
+\i (00:18:57) done 
+\i (00:18:57) xhilite 
+\i (00:18:57) xrefdes 3R98 
+\i (00:18:57) xname_flush 
+\i (00:18:57) done 
+\i (00:18:57) xhilite 
+\i (00:19:01) xname_flush 
+\i (00:19:01) done 
+\i (00:19:01) xhilite 
+\i (00:19:01) xname_flush 
+\i (00:19:01) done 
+\i (00:19:01) xhilite 
+\i (00:19:01) xname_flush 
+\i (00:19:01) done 
+\i (00:19:01) xhilite 
+\i (00:19:01) xname_flush 
+\i (00:19:01) done 
+\i (00:19:02) xhilite 
+\i (00:19:02) xname_flush 
+\i (00:19:02) done 
+\i (00:19:02) xhilite 
+\i (00:19:02) xname_flush 
+\i (00:19:02) done 
+\i (00:19:02) xhilite 
+\i (00:19:02) xname_flush 
+\i (00:19:02) done 
+\i (00:19:02) xhilite 
+\i (00:19:02) xname_flush 
+\i (00:19:02) done 
+\i (00:19:02) xhilite 
+\i (00:19:02) xname_flush 
+\i (00:19:02) done 
+\i (00:19:02) xhilite 
+\i (00:19:02) xname_flush 
+\i (00:19:02) done 
+\i (00:19:02) xhilite 
+\i (00:19:03) xname_flush 
+\i (00:19:03) done 
+\i (00:19:03) xhilite 
+\i (00:19:03) xname_flush 
+\i (00:19:03) done 
+\i (00:19:03) xhilite 
+\i (00:19:03) xname_flush 
+\i (00:19:03) done 
+\i (00:19:03) xhilite 
+\i (00:19:03) xname_flush 
+\i (00:19:03) done 
+\i (00:19:03) xhilite 
+\i (00:19:03) xname_flush 
+\i (00:19:03) done 
+\i (00:19:03) xhilite 
+\i (00:19:03) xname_flush 
+\i (00:19:03) done 
+\i (00:19:03) xhilite 
+\i (00:19:03) xname_flush 
+\i (00:19:03) done 
+\i (00:19:04) xhilite 
+\i (00:19:04) xname_flush 
+\i (00:19:04) done 
+\i (00:19:04) xhilite 
+\i (00:19:04) xname_flush 
+\i (00:19:04) done 
+\i (00:19:04) xhilite 
+\i (00:19:04) xname_flush 
+\i (00:19:04) done 
+\i (00:19:04) xhilite 
+\i (00:19:04) xname_flush 
+\i (00:19:04) done 
+\i (00:19:04) xhilite 
+\i (00:19:04) xname_flush 
+\i (00:19:04) done 
+\i (00:19:04) xhilite 
+\i (00:19:04) xname_flush 
+\i (00:19:04) done 
+\i (00:19:05) xhilite 
+\i (00:19:05) xname_flush 
+\i (00:19:05) done 
+\i (00:19:05) xhilite 
+\i (00:19:05) xname_flush 
+\i (00:19:05) done 
+\i (00:19:05) xhilite 
+\i (00:19:05) xname_flush 
+\i (00:19:05) done 
+\i (00:19:05) xhilite 
+\i (00:19:05) xname_flush 
+\i (00:19:05) done 
+\i (00:19:05) xhilite 
+\i (00:19:05) xname_flush 
+\i (00:19:05) done 
+\i (00:19:05) xhilite 
+\i (00:19:05) xname_flush 
+\i (00:19:05) done 
+\i (00:19:06) xhilite 
+\i (00:19:06) xname_flush 
+\i (00:19:06) done 
+\i (00:19:06) xhilite 
+\i (00:19:06) xname_flush 
+\i (00:19:06) done 
+\i (00:19:06) xhilite 
+\i (00:19:06) xname_flush 
+\i (00:19:06) done 
+\i (00:19:06) xhilite 
+\i (00:19:06) xname_flush 
+\i (00:19:06) done 
+\i (00:19:06) xhilite 
+\i (00:19:06) xname_flush 
+\i (00:19:06) done 
+\i (00:19:06) xhilite 
+\i (00:19:06) xname_flush 
+\i (00:19:06) done 
+\i (00:19:07) xhilite 
+\i (00:19:07) xname_flush 
+\i (00:19:07) done 
+\i (00:19:07) xhilite 
+\i (00:19:07) xname_flush 
+\i (00:19:07) done 
+\i (00:19:07) xhilite 
+\i (00:19:07) xname_flush 
+\i (00:19:07) done 
+\i (00:19:07) xhilite 
+\i (00:19:07) xname_flush 
+\i (00:19:07) done 
+\i (00:19:07) xhilite 
+\i (00:19:07) xname_flush 
+\i (00:19:07) done 
+\i (00:19:07) xhilite 
+\i (00:19:07) xname_flush 
+\i (00:19:07) done 
+\i (00:19:08) xhilite 
+\i (00:19:08) xname_flush 
+\i (00:19:08) done 
+\i (00:19:08) xhilite 
+\i (00:19:08) xname_flush 
+\i (00:19:08) done 
+\i (00:19:08) xhilite 
+\i (00:19:08) xname_flush 
+\i (00:19:08) done 
+\i (00:19:08) xhilite 
+\i (00:19:08) xname_flush 
+\i (00:19:08) done 
+\i (00:19:08) xhilite 
+\i (00:19:08) xname_flush 
+\i (00:19:08) done 
+\i (00:19:08) xhilite 
+\i (00:19:09) xrefdes 3GND6 
+\i (00:19:09) xname_flush 
+\i (00:19:09) done 
+\i (00:19:09) xhilite 
+\i (00:19:09) xrefdes 3GND11 
+\i (00:19:09) xname_flush 
+\i (00:19:09) done 
+\i (00:19:09) xhilite 
+\i (00:19:09) xrefdes 3CA23 
+\i (00:19:09) xname_flush 
+\i (00:19:09) done 
+\i (00:19:09) xhilite 
+\i (00:19:09) xrefdes 3CC7 
+\i (00:19:09) xname_flush 
+\i (00:19:09) done 
+\i (00:19:09) xhilite 
+\i (00:19:09) xrefdes 3CC37 
+\i (00:19:09) xname_flush 
+\i (00:19:09) done 
+\i (00:19:09) xhilite 
+\i (00:19:09) xrefdes 3CD19 
+\i (00:19:09) xname_flush 
+\i (00:19:09) done 
+\i (00:19:09) xhilite 
+\i (00:19:09) xrefdes 3CA29 
+\i (00:19:09) xname_flush 
+\i (00:19:09) done 
+\i (00:19:09) xhilite 
+\i (00:19:10) xrefdes 3TP_PLL_M_VDD33 
+\i (00:19:10) xname_flush 
+\i (00:19:10) done 
+\i (00:19:10) xhilite 
+\i (00:19:10) xrefdes 3CD18 
+\i (00:19:10) xname_flush 
+\i (00:19:10) done 
+\i (00:19:10) xhilite 
+\i (00:19:10) xrefdes 3CD6 
+\i (00:19:10) xname_flush 
+\i (00:19:10) done 
+\i (00:19:10) xhilite 
+\i (00:19:10) xrefdes 3CC39 
+\i (00:19:10) xname_flush 
+\i (00:19:10) done 
+\i (00:19:10) xhilite 
+\i (00:19:10) xrefdes 3GND5 
+\i (00:19:10) xname_flush 
+\i (00:19:10) done 
+\i (00:19:10) xhilite 
+\i (00:19:10) xrefdes 3CC1 
+\i (00:19:10) xname_flush 
+\i (00:19:10) done 
+\i (00:19:10) xhilite 
+\i (00:19:10) xrefdes 3CA1 
+\i (00:19:10) xname_flush 
+\i (00:19:10) done 
+\i (00:19:11) xhilite 
+\i (00:19:11) xrefdes 3CD3 
+\i (00:19:11) xname_flush 
+\i (00:19:11) done 
+\i (00:19:11) xhilite 
+\i (00:19:11) xrefdes 3CA12 
+\i (00:19:11) xname_flush 
+\i (00:19:11) done 
+\i (00:19:11) xhilite 
+\i (00:19:11) xrefdes 3K34 
+\i (00:19:11) xname_flush 
+\i (00:19:11) done 
+\i (00:19:11) xhilite 
+\i (00:19:11) xrefdes 3GND12 
+\i (00:19:11) xname_flush 
+\i (00:19:11) done 
+\i (00:19:11) xhilite 
+\i (00:19:11) xrefdes 3CC32 
+\i (00:19:11) xname_flush 
+\i (00:19:11) done 
+\i (00:19:11) xhilite 
+\i (00:19:11) xrefdes 3SH6 
+\i (00:19:11) xname_flush 
+\i (00:19:11) done 
+\i (00:19:11) xhilite 
+\i (00:19:11) xrefdes 3CA24 
+\i (00:19:11) xname_flush 
+\i (00:19:11) done 
+\i (00:19:12) xhilite 
+\i (00:19:12) xrefdes 3CC26 
+\i (00:19:12) xname_flush 
+\i (00:19:12) done 
+\i (00:19:12) xhilite 
+\i (00:19:12) xrefdes 3CA32 
+\i (00:19:12) xname_flush 
+\i (00:19:12) done 
+\i (00:19:12) xhilite 
+\i (00:19:12) xrefdes 3TP_AVDD18_RX 
+\i (00:19:12) xname_flush 
+\i (00:19:12) done 
+\i (00:19:12) xhilite 
+\i (00:19:12) xrefdes 3CC13 
+\i (00:19:12) xname_flush 
+\i (00:19:12) done 
+\i (00:19:12) xhilite 
+\i (00:19:12) xrefdes 3CC31 
+\i (00:19:12) xname_flush 
+\i (00:19:12) done 
+\i (00:19:12) xhilite 
+\i (00:19:12) xrefdes 3CA2 
+\i (00:19:12) xname_flush 
+\i (00:19:12) done 
+\i (00:19:13) xhilite 
+\i (00:19:13) xrefdes 3CC20 
+\i (00:19:13) xname_flush 
+\i (00:19:13) done 
+\i (00:19:13) xhilite 
+\i (00:19:13) xrefdes 3K36 
+\i (00:19:13) xname_flush 
+\i (00:19:13) done 
+\i (00:19:13) xhilite 
+\i (00:19:13) xrefdes 3CD22 
+\i (00:19:13) xname_flush 
+\i (00:19:13) done 
+\i (00:19:13) xhilite 
+\i (00:19:13) xrefdes 3CD5 
+\i (00:19:13) xname_flush 
+\i (00:19:13) done 
+\i (00:19:13) xhilite 
+\i (00:19:13) xrefdes 3CA6 
+\i (00:19:13) xname_flush 
+\i (00:19:13) done 
+\i (00:19:13) xhilite 
+\i (00:19:13) xrefdes 3TP_VCC3V3 
+\i (00:19:13) xname_flush 
+\i (00:19:13) done 
+\i (00:19:14) xhilite 
+\i (00:19:14) xrefdes 3GND9 
+\i (00:19:14) xname_flush 
+\i (00:19:14) done 
+\i (00:19:14) xhilite 
+\i (00:19:14) xrefdes 3TP_VDD_TXREG_33_T 
+\i (00:19:14) xname_flush 
+\i (00:19:14) done 
+\i (00:19:14) xhilite 
+\i (00:19:14) xrefdes 3TP_AVDD11_XTAL 
+\i (00:19:14) xname_flush 
+\i (00:19:14) done 
+\i (00:19:14) xhilite 
+\i (00:19:14) xrefdes 3SH9 
+\i (00:19:14) xname_flush 
+\i (00:19:14) done 
+\i (00:19:14) xhilite 
+\i (00:19:14) xrefdes 3CA9 
+\i (00:19:14) xname_flush 
+\i (00:19:14) done 
+\i (00:19:14) xhilite 
+\i (00:19:14) xrefdes 3CC16 
+\i (00:19:14) xname_flush 
+\i (00:19:14) done 
+\i (00:19:14) xhilite 
+\i (00:19:15) xrefdes 3SH3 
+\i (00:19:15) xname_flush 
+\i (00:19:15) done 
+\i (00:19:15) xhilite 
+\i (00:19:15) xrefdes 3TP_VDDC_11 
+\i (00:19:15) xname_flush 
+\i (00:19:15) done 
+\i (00:19:15) xhilite 
+\i (00:19:15) xrefdes 3K31 
+\i (00:19:15) xname_flush 
+\i (00:19:15) done 
+\i (00:19:15) xhilite 
+\i (00:19:15) xrefdes 3TP_VDDA_33_LV 
+\i (00:19:15) xname_flush 
+\i (00:19:15) done 
+\i (00:19:15) xhilite 
+\i (00:19:15) xrefdes 3TP_VDDTXPST_11_T 
+\i (00:19:15) xname_flush 
+\i (00:19:15) done 
+\i (00:19:15) xhilite 
+\i (00:19:15) xrefdes 3GND3 
+\i (00:19:15) xname_flush 
+\i (00:19:15) done 
+\i (00:19:15) xhilite 
+\i (00:19:16) xrefdes 3CD16 
+\i (00:19:16) xname_flush 
+\i (00:19:16) done 
+\i (00:19:16) xhilite 
+\i (00:19:16) xrefdes 3CA15 
+\i (00:19:16) xname_flush 
+\i (00:19:16) done 
+\i (00:19:16) xhilite 
+\i (00:19:16) xrefdes 3CA17 
+\i (00:19:16) xname_flush 
+\i (00:19:16) done 
+\i (00:19:16) xhilite 
+\i (00:19:16) xrefdes 3CC29 
+\i (00:19:16) xname_flush 
+\i (00:19:16) done 
+\i (00:19:16) xhilite 
+\i (00:19:16) xrefdes 3CA26 
+\i (00:19:16) xname_flush 
+\i (00:19:16) done 
+\i (00:19:16) xhilite 
+\i (00:19:16) xrefdes 3CD25 
+\i (00:19:16) xname_flush 
+\i (00:19:16) done 
+\i (00:19:16) xhilite 
+\i (00:19:16) xrefdes 3CD23 
+\i (00:19:16) xname_flush 
+\i (00:19:16) done 
+\i (00:19:17) xhilite 
+\i (00:19:17) xrefdes 3TP_VDDTXPST_11_B 
+\i (00:19:17) xname_flush 
+\i (00:19:17) done 
+\i (00:19:17) xhilite 
+\i (00:19:17) xrefdes 3GND1 
+\i (00:19:17) xname_flush 
+\i (00:19:17) done 
+\i (00:19:17) xhilite 
+\i (00:19:17) xrefdes 3SH2 
+\i (00:19:17) xname_flush 
+\i (00:19:17) done 
+\i (00:19:17) xdehilite 
+\i (00:19:22) xname_flush 
+\i (00:19:22) done 
+\i (00:19:22) xhilite 
+\i (00:19:35) xname_flush 
+\i (00:19:35) done 
+\i (00:19:35) xhilite 
+\i (00:19:36) xname_flush 
+\i (00:19:36) done 
+\i (00:19:36) xhilite 
+\i (00:19:36) xname_flush 
+\i (00:19:36) done 
+\i (00:19:36) xhilite 
+\i (00:19:36) xname_flush 
+\i (00:19:36) done 
+\i (00:19:36) xhilite 
+\i (00:19:36) xname_flush 
+\i (00:19:36) done 
+\i (00:19:36) xhilite 
+\i (00:19:36) xname_flush 
+\i (00:19:36) done 
+\i (00:19:36) xhilite 
+\i (00:19:36) xname_flush 
+\i (00:19:36) done 
+\i (00:19:37) xhilite 
+\i (00:19:37) xname_flush 
+\i (00:19:37) done 
+\i (00:19:37) xhilite 
+\i (00:19:37) xname_flush 
+\i (00:19:37) done 
+\i (00:19:37) xhilite 
+\i (00:19:37) xname_flush 
+\i (00:19:37) done 
+\i (00:19:37) xhilite 
+\i (00:19:37) xname_flush 
+\i (00:19:37) done 
+\i (00:19:37) xhilite 
+\i (00:19:37) xname_flush 
+\i (00:19:37) done 
+\i (00:19:38) xhilite 
+\i (00:19:38) xname_flush 
+\i (00:19:38) done 
+\i (00:19:38) xhilite 
+\i (00:19:38) xname_flush 
+\i (00:19:38) done 
+\i (00:19:38) xhilite 
+\i (00:19:38) xname_flush 
+\i (00:19:38) done 
+\i (00:19:38) xhilite 
+\i (00:19:38) xname_flush 
+\i (00:19:38) done 
+\i (00:19:38) xhilite 
+\i (00:19:38) xname_flush 
+\i (00:19:38) done 
+\i (00:19:39) xhilite 
+\i (00:19:39) xname_flush 
+\i (00:19:39) done 
+\i (00:19:39) xhilite 
+\i (00:19:39) xname_flush 
+\i (00:19:39) done 
+\i (00:19:39) xhilite 
+\i (00:19:39) xname_flush 
+\i (00:19:39) done 
+\i (00:19:39) xhilite 
+\i (00:19:39) xname_flush 
+\i (00:19:39) done 
+\i (00:19:39) xhilite 
+\i (00:19:39) xname_flush 
+\i (00:19:39) done 
+\i (00:19:39) xhilite 
+\i (00:19:39) xname_flush 
+\i (00:19:39) done 
+\i (00:19:39) xhilite 
+\i (00:19:40) xname_flush 
+\i (00:19:40) done 
+\i (00:19:40) xhilite 
+\i (00:19:40) xname_flush 
+\i (00:19:40) done 
+\i (00:19:40) xhilite 
+\i (00:19:40) xname_flush 
+\i (00:19:40) done 
+\i (00:19:40) xhilite 
+\i (00:19:40) xname_flush 
+\i (00:19:40) done 
+\i (00:19:40) xhilite 
+\i (00:19:40) xname_flush 
+\i (00:19:40) done 
+\i (00:19:40) xhilite 
+\i (00:19:40) xname_flush 
+\i (00:19:40) done 
+\i (00:19:40) xhilite 
+\i (00:19:41) xname_flush 
+\i (00:19:41) done 
+\i (00:19:41) xhilite 
+\i (00:19:41) xname_flush 
+\i (00:19:41) done 
+\i (00:19:41) xhilite 
+\i (00:19:41) xname_flush 
+\i (00:19:41) done 
+\i (00:19:41) xhilite 
+\i (00:19:41) xname_flush 
+\i (00:19:41) done 
+\i (00:19:41) xhilite 
+\i (00:19:41) xname_flush 
+\i (00:19:41) done 
+\i (00:19:41) xhilite 
+\i (00:19:41) xname_flush 
+\i (00:19:41) done 
+\i (00:19:42) xhilite 
+\i (00:19:42) xname_flush 
+\i (00:19:42) done 
+\i (00:19:42) xhilite 
+\i (00:19:42) xname_flush 
+\i (00:19:42) done 
+\i (00:19:42) xhilite 
+\i (00:19:42) xname_flush 
+\i (00:19:42) done 
+\i (00:19:42) xhilite 
+\i (00:19:42) xname_flush 
+\i (00:19:42) done 
+\i (00:19:42) xhilite 
+\i (00:19:42) xname_flush 
+\i (00:19:42) done 
+\i (00:19:42) xhilite 
+\i (00:19:42) xname_flush 
+\i (00:19:42) done 
+\i (00:19:43) xhilite 
+\i (00:19:43) xname_flush 
+\i (00:19:43) done 
+\i (00:19:43) xhilite 
+\i (00:19:43) xname_flush 
+\i (00:19:43) done 
+\i (00:19:43) xhilite 
+\i (00:19:43) xname_flush 
+\i (00:19:43) done 
+\i (00:19:43) xhilite 
+\i (00:19:43) xname_flush 
+\i (00:19:43) done 
+\i (00:19:43) xhilite 
+\i (00:19:43) xname_flush 
+\i (00:19:43) done 
+\i (00:19:44) xhilite 
+\i (00:19:44) xname_flush 
+\i (00:19:44) done 
+\i (00:19:44) xhilite 
+\i (00:19:44) xname_flush 
+\i (00:19:44) done 
+\i (00:19:44) xhilite 
+\i (00:19:44) xname_flush 
+\i (00:19:44) done 
+\i (00:19:44) xhilite 
+\i (00:19:44) xname_flush 
+\i (00:19:44) done 
+\i (00:19:44) xhilite 
+\i (00:19:44) xname_flush 
+\i (00:19:44) done 
+\i (00:19:44) xhilite 
+\i (00:19:45) xname_flush 
+\i (00:19:45) done 
+\i (00:19:45) xhilite 
+\i (00:19:45) xname_flush 
+\i (00:19:45) done 
+\i (00:19:45) xhilite 
+\i (00:19:45) xname_flush 
+\i (00:19:45) done 
+\i (00:19:45) xhilite 
+\i (00:19:45) xname_flush 
+\i (00:19:45) done 
+\i (00:19:45) xhilite 
+\i (00:19:45) xname_flush 
+\i (00:19:45) done 
+\i (00:19:45) xhilite 
+\i (00:19:45) xname_flush 
+\i (00:19:45) done 
+\i (00:19:45) xhilite 
+\i (00:19:45) xname_flush 
+\i (00:19:45) done 
+\i (00:19:46) xhilite 
+\i (00:19:46) xname_flush 
+\i (00:19:46) done 
+\i (00:19:46) xhilite 
+\i (00:19:46) xname_flush 
+\i (00:19:46) done 
+\i (00:19:46) xhilite 
+\i (00:19:46) xname_flush 
+\i (00:19:46) done 
+\i (00:19:46) xhilite 
+\i (00:19:46) xname_flush 
+\i (00:19:46) done 
+\i (00:19:46) xhilite 
+\i (00:19:46) xname_flush 
+\i (00:19:46) done 
+\i (00:19:46) xhilite 
+\i (00:19:46) xname_flush 
+\i (00:19:46) done 
+\i (00:19:47) xhilite 
+\i (00:19:47) xname_flush 
+\i (00:19:47) done 
+\i (00:19:47) xhilite 
+\i (00:19:47) xname_flush 
+\i (00:19:47) done 
+\i (00:19:47) xhilite 
+\i (00:19:47) xname_flush 
+\i (00:19:47) done 
+\i (00:19:47) xhilite 
+\i (00:19:47) xname_flush 
+\i (00:19:47) done 
+\i (00:19:47) xhilite 
+\i (00:19:47) xname_flush 
+\i (00:19:47) done 
+\i (00:19:47) xhilite 
+\i (00:19:47) xname_flush 
+\i (00:19:47) done 
+\i (00:19:47) xhilite 
+\i (00:19:48) xname_flush 
+\i (00:19:48) done 
+\i (00:19:48) xhilite 
+\i (00:19:48) xname_flush 
+\i (00:19:48) done 
+\i (00:19:48) xhilite 
+\i (00:19:48) xname_flush 
+\i (00:19:48) done 
+\i (00:19:48) xhilite 
+\i (00:19:48) xname_flush 
+\i (00:19:48) done 
+\i (00:19:48) xhilite 
+\i (00:19:48) xname_flush 
+\i (00:19:48) done 
+\i (00:19:48) xhilite 
+\i (00:19:48) xname_flush 
+\i (00:19:48) done 
+\i (00:19:48) xhilite 
+\i (00:19:49) xname_flush 
+\i (00:19:49) done 
+\i (00:19:49) xhilite 
+\i (00:19:49) xname_flush 
+\i (00:19:49) done 
+\i (00:19:49) xhilite 
+\i (00:19:49) xname_flush 
+\i (00:19:49) done 
+\i (00:19:49) xhilite 
+\i (00:19:49) xname_flush 
+\i (00:19:49) done 
+\i (00:19:49) xhilite 
+\i (00:19:49) xname_flush 
+\i (00:19:49) done 
+\i (00:19:49) xhilite 
+\i (00:19:49) xname_flush 
+\i (00:19:49) done 
+\i (00:19:49) xhilite 
+\i (00:19:49) xname_flush 
+\i (00:19:49) done 
+\i (00:19:50) xhilite 
+\i (00:19:50) xname_flush 
+\i (00:19:50) done 
+\i (00:19:50) xhilite 
+\i (00:19:50) xname_flush 
+\i (00:19:50) done 
+\i (00:19:50) xhilite 
+\i (00:19:50) xname_flush 
+\i (00:19:50) done 
+\i (00:19:50) xhilite 
+\i (00:19:50) xname_flush 
+\i (00:19:50) done 
+\i (00:19:50) xhilite 
+\i (00:19:50) xname_flush 
+\i (00:19:50) done 
+\i (00:19:50) xhilite 
+\i (00:19:50) xname_flush 
+\i (00:19:50) done 
+\i (00:19:50) xhilite 
+\i (00:19:51) xname_flush 
+\i (00:19:51) done 
+\i (00:19:51) xhilite 
+\i (00:19:51) xname_flush 
+\i (00:19:51) done 
+\i (00:19:51) xhilite 
+\i (00:19:51) xname_flush 
+\i (00:19:51) done 
+\i (00:19:51) xhilite 
+\i (00:19:51) xname_flush 
+\i (00:19:51) done 
+\i (00:19:51) xhilite 
+\i (00:19:51) xname_flush 
+\i (00:19:51) done 
+\i (00:19:51) xhilite 
+\i (00:19:51) xname_flush 
+\i (00:19:51) done 
+\i (00:19:51) xhilite 
+\i (00:19:52) xname_flush 
+\i (00:19:52) done 
+\i (00:19:52) xhilite 
+\i (00:19:52) xname_flush 
+\i (00:19:52) done 
+\i (00:19:52) xhilite 
+\i (00:19:52) xname_flush 
+\i (00:19:52) done 
+\i (00:19:52) xhilite 
+\i (00:19:52) xname_flush 
+\i (00:19:52) done 
+\i (00:19:52) xhilite 
+\i (00:19:52) xname_flush 
+\i (00:19:52) done 
+\i (00:19:52) xhilite 
+\i (00:19:52) xname_flush 
+\i (00:19:52) done 
+\i (00:19:52) xhilite 
+\i (00:19:55) xname_flush 
+\i (00:19:55) done 
+\i (00:19:55) xhilite 
+\i (00:19:55) xrefdes 4R96 
+\i (00:19:55) xname_flush 
+\i (00:19:55) done 
+\i (00:19:55) xhilite 
+\i (00:19:55) xrefdes 4C9 
+\i (00:19:55) xname_flush 
+\i (00:19:55) done 
+\i (00:19:55) xhilite 
+\i (00:19:56) xrefdes 4K14 
+\i (00:19:56) xname_flush 
+\i (00:19:56) done 
+\i (00:19:56) xhilite 
+\i (00:19:56) xrefdes 4R126 
+\i (00:19:56) xname_flush 
+\i (00:19:56) done 
+\i (00:19:56) xhilite 
+\i (00:19:56) xrefdes 4R86 
+\i (00:19:56) xname_flush 
+\i (00:19:56) done 
+\i (00:19:56) xhilite 
+\i (00:19:56) xrefdes 4R88 
+\i (00:19:56) xname_flush 
+\i (00:19:56) done 
+\i (00:19:56) xhilite 
+\i (00:19:56) xrefdes 4R91 
+\i (00:19:56) xname_flush 
+\i (00:19:56) done 
+\i (00:19:56) xhilite 
+\i (00:19:56) xrefdes 4J3 
+\i (00:19:56) xname_flush 
+\i (00:19:56) done 
+\i (00:19:56) xhilite 
+\i (00:19:57) xrefdes 4R95 
+\i (00:19:57) xname_flush 
+\i (00:19:57) done 
+\i (00:19:57) xhilite 
+\i (00:19:57) xrefdes 4J2 
+\i (00:19:57) xname_flush 
+\i (00:19:57) done 
+\i (00:19:57) xhilite 
+\i (00:19:57) xrefdes 4R125 
+\i (00:19:57) xname_flush 
+\i (00:19:57) done 
+\i (00:19:57) xhilite 
+\i (00:19:57) xrefdes 4R97 
+\i (00:19:57) xname_flush 
+\i (00:19:57) done 
+\i (00:19:57) xhilite 
+\i (00:19:57) xrefdes 4C8 
+\i (00:19:57) xname_flush 
+\i (00:19:57) done 
+\i (00:19:57) xhilite 
+\i (00:19:57) xrefdes 4K20 
+\i (00:19:57) xname_flush 
+\i (00:19:57) done 
+\i (00:19:57) xhilite 
+\i (00:19:57) xrefdes 4U2 
+\i (00:19:57) xname_flush 
+\i (00:19:57) done 
+\i (00:19:58) xhilite 
+\i (00:19:58) xrefdes 4R99 
+\i (00:19:58) xname_flush 
+\i (00:19:58) done 
+\i (00:19:58) xhilite 
+\i (00:19:58) xrefdes 4K15 
+\i (00:19:58) xname_flush 
+\i (00:19:58) done 
+\i (00:19:58) xhilite 
+\i (00:19:58) xrefdes 4K19 
+\i (00:19:58) xname_flush 
+\i (00:19:58) done 
+\i (00:19:58) xhilite 
+\i (00:19:58) xrefdes 4R92 
+\i (00:19:58) xname_flush 
+\i (00:19:58) done 
+\i (00:19:58) xhilite 
+\i (00:19:58) xrefdes 4UF1 
+\i (00:19:58) xname_flush 
+\i (00:19:58) done 
+\i (00:19:58) xhilite 
+\i (00:19:58) xrefdes 4U1 
+\i (00:19:58) xname_flush 
+\i (00:19:58) done 
+\i (00:19:59) xhilite 
+\i (00:19:59) xrefdes 4UF2 
+\i (00:19:59) xname_flush 
+\i (00:19:59) done 
+\i (00:19:59) xhilite 
+\i (00:19:59) xrefdes 4R98 
+\i (00:19:59) xname_flush 
+\i (00:19:59) done 
+\i (00:19:59) xhilite 
+\i (00:19:59) xrefdes 4R127 
+\i (00:19:59) xname_flush 
+\i (00:19:59) done 
+\i (00:19:59) xhilite 
+\i (00:19:59) xname_flush 
+\i (00:19:59) done 
+\i (00:19:59) xhilite 
+\i (00:19:59) xname_flush 
+\i (00:19:59) done 
+\i (00:19:59) xhilite 
+\i (00:20:00) xname_flush 
+\i (00:20:00) done 
+\i (00:20:00) xhilite 
+\i (00:20:00) xname_flush 
+\i (00:20:00) done 
+\i (00:20:00) xhilite 
+\i (00:20:00) xname_flush 
+\i (00:20:00) done 
+\i (00:20:00) xhilite 
+\i (00:20:00) xname_flush 
+\i (00:20:00) done 
+\i (00:20:00) xhilite 
+\i (00:20:00) xname_flush 
+\i (00:20:00) done 
+\i (00:20:00) xhilite 
+\i (00:20:00) xname_flush 
+\i (00:20:00) done 
+\i (00:20:01) xhilite 
+\i (00:20:01) xname_flush 
+\i (00:20:01) done 
+\i (00:20:01) xhilite 
+\i (00:20:01) xname_flush 
+\i (00:20:01) done 
+\i (00:20:01) xhilite 
+\i (00:20:01) xname_flush 
+\i (00:20:01) done 
+\i (00:20:01) xhilite 
+\i (00:20:01) xname_flush 
+\i (00:20:01) done 
+\i (00:20:01) xhilite 
+\i (00:20:01) xname_flush 
+\i (00:20:01) done 
+\i (00:20:01) xhilite 
+\i (00:20:01) xname_flush 
+\i (00:20:01) done 
+\i (00:20:01) xhilite 
+\i (00:20:02) xname_flush 
+\i (00:20:02) done 
+\i (00:20:02) xhilite 
+\i (00:20:02) xname_flush 
+\i (00:20:02) done 
+\i (00:20:02) xhilite 
+\i (00:20:02) xname_flush 
+\i (00:20:02) done 
+\i (00:20:02) xhilite 
+\i (00:20:02) xname_flush 
+\i (00:20:02) done 
+\i (00:20:02) xhilite 
+\i (00:20:02) xname_flush 
+\i (00:20:02) done 
+\i (00:20:02) xhilite 
+\i (00:20:02) xname_flush 
+\i (00:20:02) done 
+\i (00:20:03) xhilite 
+\i (00:20:03) xname_flush 
+\i (00:20:03) done 
+\i (00:20:03) xhilite 
+\i (00:20:03) xname_flush 
+\i (00:20:03) done 
+\i (00:20:03) xhilite 
+\i (00:20:03) xname_flush 
+\i (00:20:03) done 
+\i (00:20:03) xhilite 
+\i (00:20:03) xname_flush 
+\i (00:20:03) done 
+\i (00:20:03) xhilite 
+\i (00:20:03) xname_flush 
+\i (00:20:03) done 
+\i (00:20:03) xhilite 
+\i (00:20:03) xname_flush 
+\i (00:20:03) done 
+\i (00:20:04) xhilite 
+\i (00:20:04) xname_flush 
+\i (00:20:04) done 
+\i (00:20:04) xhilite 
+\i (00:20:04) xname_flush 
+\i (00:20:04) done 
+\i (00:20:04) xhilite 
+\i (00:20:04) xname_flush 
+\i (00:20:04) done 
+\i (00:20:04) xhilite 
+\i (00:20:04) xname_flush 
+\i (00:20:04) done 
+\i (00:20:04) xhilite 
+\i (00:20:04) xname_flush 
+\i (00:20:04) done 
+\i (00:20:04) xhilite 
+\i (00:20:04) xname_flush 
+\i (00:20:04) done 
+\i (00:20:05) xhilite 
+\i (00:20:05) xname_flush 
+\i (00:20:05) done 
+\i (00:20:05) xhilite 
+\i (00:20:05) xname_flush 
+\i (00:20:05) done 
+\i (00:20:05) xhilite 
+\i (00:20:05) xrefdes 4R93 
+\i (00:20:05) xname_flush 
+\i (00:20:05) done 
+\i (00:20:05) xhilite 
+\i (00:20:05) xrefdes 4R87 
+\i (00:20:05) xname_flush 
+\i (00:20:05) done 
+\i (00:20:05) xhilite 
+\i (00:20:05) xrefdes 4R90 
+\i (00:20:05) xname_flush 
+\i (00:20:05) done 
+\i (00:20:05) xhilite 
+\i (00:20:05) xrefdes 4R94 
+\i (00:20:05) xname_flush 
+\i (00:20:05) done 
+\i (00:20:06) xhilite 
+\i (00:20:06) xrefdes 4R128 
+\i (00:20:06) xname_flush 
+\i (00:20:06) done 
+\i (00:20:06) xhilite 
+\i (00:20:06) xrefdes 4R89 
+\i (00:20:06) xname_flush 
+\i (00:20:06) done 
+\i (00:20:06) xhilite 
+\i (00:20:14) xname_flush 
+\i (00:20:14) done 
+\i (00:20:14) xhilite 
+\i (00:20:14) xname_flush 
+\i (00:20:14) done 
+\i (00:20:14) xhilite 
+\i (00:20:14) xname_flush 
+\i (00:20:14) done 
+\i (00:20:14) xhilite 
+\i (00:20:14) xname_flush 
+\i (00:20:14) done 
+\i (00:20:15) xhilite 
+\i (00:20:15) xname_flush 
+\i (00:20:15) done 
+\i (00:20:15) xhilite 
+\i (00:20:15) xname_flush 
+\i (00:20:15) done 
+\i (00:20:15) xhilite 
+\i (00:20:15) xname_flush 
+\i (00:20:15) done 
+\i (00:20:15) xhilite 
+\i (00:20:15) xname_flush 
+\i (00:20:15) done 
+\i (00:20:15) xhilite 
+\i (00:20:15) xname_flush 
+\i (00:20:15) done 
+\i (00:20:16) xhilite 
+\i (00:20:16) xname_flush 
+\i (00:20:16) done 
+\i (00:20:16) xhilite 
+\i (00:20:16) xname_flush 
+\i (00:20:16) done 
+\i (00:20:16) xhilite 
+\i (00:20:16) xname_flush 
+\i (00:20:16) done 
+\i (00:20:16) xhilite 
+\i (00:20:16) xname_flush 
+\i (00:20:16) done 
+\i (00:20:16) xhilite 
+\i (00:20:16) xname_flush 
+\i (00:20:16) done 
+\i (00:20:17) xhilite 
+\i (00:20:17) xname_flush 
+\i (00:20:17) done 
+\i (00:20:17) xhilite 
+\i (00:20:17) xname_flush 
+\i (00:20:17) done 
+\i (00:20:17) xhilite 
+\i (00:20:17) xname_flush 
+\i (00:20:17) done 
+\i (00:20:17) xhilite 
+\i (00:20:17) xname_flush 
+\i (00:20:17) done 
+\i (00:20:17) xhilite 
+\i (00:20:17) xname_flush 
+\i (00:20:17) done 
+\i (00:20:17) xhilite 
+\i (00:20:18) xname_flush 
+\i (00:20:18) done 
+\i (00:20:18) xhilite 
+\i (00:20:18) xname_flush 
+\i (00:20:18) done 
+\i (00:20:18) xhilite 
+\i (00:20:18) xname_flush 
+\i (00:20:18) done 
+\i (00:20:18) xhilite 
+\i (00:20:18) xname_flush 
+\i (00:20:18) done 
+\i (00:20:18) xhilite 
+\i (00:20:18) xname_flush 
+\i (00:20:18) done 
+\i (00:20:18) xhilite 
+\i (00:20:19) xname_flush 
+\i (00:20:19) done 
+\i (00:20:19) xhilite 
+\i (00:20:19) xname_flush 
+\i (00:20:19) done 
+\i (00:20:19) xhilite 
+\i (00:20:19) xname_flush 
+\i (00:20:19) done 
+\i (00:20:19) xhilite 
+\i (00:20:19) xname_flush 
+\i (00:20:19) done 
+\i (00:20:19) xhilite 
+\i (00:20:19) xname_flush 
+\i (00:20:19) done 
+\i (00:20:19) xhilite 
+\i (00:20:20) xname_flush 
+\i (00:20:20) done 
+\i (00:20:20) xhilite 
+\i (00:20:20) xname_flush 
+\i (00:20:20) done 
+\i (00:20:20) xhilite 
+\i (00:20:20) xname_flush 
+\i (00:20:20) done 
+\i (00:20:20) xhilite 
+\i (00:20:20) xname_flush 
+\i (00:20:20) done 
+\i (00:20:20) xhilite 
+\i (00:20:20) xname_flush 
+\i (00:20:20) done 
+\i (00:20:20) xhilite 
+\i (00:20:20) xname_flush 
+\i (00:20:20) done 
+\i (00:20:21) xhilite 
+\i (00:20:21) xname_flush 
+\i (00:20:21) done 
+\i (00:20:21) xhilite 
+\i (00:20:21) xname_flush 
+\i (00:20:21) done 
+\i (00:20:21) xhilite 
+\i (00:20:21) xname_flush 
+\i (00:20:21) done 
+\i (00:20:21) xhilite 
+\i (00:20:21) xname_flush 
+\i (00:20:21) done 
+\i (00:20:21) xhilite 
+\i (00:20:21) xname_flush 
+\i (00:20:21) done 
+\i (00:20:22) xhilite 
+\i (00:20:22) xname_flush 
+\i (00:20:22) done 
+\i (00:20:22) xhilite 
+\i (00:20:22) xname_flush 
+\i (00:20:22) done 
+\i (00:20:22) xhilite 
+\i (00:20:22) xname_flush 
+\i (00:20:22) done 
+\i (00:20:22) xhilite 
+\i (00:20:22) xname_flush 
+\i (00:20:22) done 
+\i (00:20:22) xhilite 
+\i (00:20:22) xname_flush 
+\i (00:20:22) done 
+\i (00:20:22) xhilite 
+\i (00:20:23) xname_flush 
+\i (00:20:23) done 
+\i (00:20:23) xhilite 
+\i (00:20:23) xname_flush 
+\i (00:20:23) done 
+\i (00:20:23) xhilite 
+\i (00:20:23) xname_flush 
+\i (00:20:23) done 
+\i (00:20:23) xhilite 
+\i (00:20:23) xname_flush 
+\i (00:20:23) done 
+\i (00:20:23) xhilite 
+\i (00:20:23) xname_flush 
+\i (00:20:23) done 
+\i (00:20:23) xhilite 
+\i (00:20:24) xname_flush 
+\i (00:20:24) done 
+\i (00:20:24) xhilite 
+\i (00:20:24) xname_flush 
+\i (00:20:24) done 
+\i (00:20:24) xhilite 
+\i (00:20:24) xname_flush 
+\i (00:20:24) done 
+\i (00:20:24) xhilite 
+\i (00:20:24) xname_flush 
+\i (00:20:24) done 
+\i (00:20:24) xhilite 
+\i (00:20:24) xname_flush 
+\i (00:20:24) done 
+\i (00:20:24) xhilite 
+\i (00:20:24) xname_flush 
+\i (00:20:24) done 
+\i (00:20:25) xhilite 
+\i (00:20:25) xname_flush 
+\i (00:20:25) done 
+\i (00:20:25) xhilite 
+\i (00:20:25) xrefdes 4CC7 
+\i (00:20:25) xname_flush 
+\i (00:20:25) done 
+\i (00:20:25) xhilite 
+\i (00:20:25) xrefdes 4GND6 
+\i (00:20:25) xname_flush 
+\i (00:20:25) done 
+\i (00:20:25) xhilite 
+\i (00:20:25) xrefdes 4GND11 
+\i (00:20:25) xname_flush 
+\i (00:20:25) done 
+\i (00:20:25) xhilite 
+\i (00:20:25) xrefdes 4CA23 
+\i (00:20:25) xname_flush 
+\i (00:20:25) done 
+\i (00:20:25) xhilite 
+\i (00:20:25) xrefdes 4CD19 
+\i (00:20:25) xname_flush 
+\i (00:20:25) done 
+\i (00:20:26) xhilite 
+\i (00:20:26) xrefdes 4TP_PLL_M_VDD33 
+\i (00:20:26) xname_flush 
+\i (00:20:26) done 
+\i (00:20:26) xhilite 
+\i (00:20:26) xrefdes 4CC37 
+\i (00:20:26) xname_flush 
+\i (00:20:26) done 
+\i (00:20:26) xhilite 
+\i (00:20:26) xrefdes 4CD6 
+\i (00:20:26) xname_flush 
+\i (00:20:26) done 
+\i (00:20:26) xhilite 
+\i (00:20:26) xrefdes 4CA29 
+\i (00:20:26) xname_flush 
+\i (00:20:26) done 
+\i (00:20:26) xhilite 
+\i (00:20:26) xrefdes 4GND5 
+\i (00:20:26) xname_flush 
+\i (00:20:26) done 
+\i (00:20:26) xhilite 
+\i (00:20:26) xrefdes 4CD18 
+\i (00:20:26) xname_flush 
+\i (00:20:26) done 
+\i (00:20:27) xhilite 
+\i (00:20:27) xrefdes 4CC1 
+\i (00:20:27) xname_flush 
+\i (00:20:27) done 
+\i (00:20:27) xhilite 
+\i (00:20:27) xrefdes 4CC39 
+\i (00:20:27) xname_flush 
+\i (00:20:27) done 
+\i (00:20:27) xhilite 
+\i (00:20:27) xrefdes 4CD3 
+\i (00:20:27) xname_flush 
+\i (00:20:27) done 
+\i (00:20:27) xhilite 
+\i (00:20:27) xrefdes 4CA1 
+\i (00:20:27) xname_flush 
+\i (00:20:27) done 
+\i (00:20:27) xhilite 
+\i (00:20:27) xrefdes 4K34 
+\i (00:20:27) xname_flush 
+\i (00:20:27) done 
+\i (00:20:27) xhilite 
+\i (00:20:27) xrefdes 4SH6 
+\i (00:20:27) xname_flush 
+\i (00:20:27) done 
+\i (00:20:28) xhilite 
+\i (00:20:28) xrefdes 4CA12 
+\i (00:20:28) xname_flush 
+\i (00:20:28) done 
+\i (00:20:28) xhilite 
+\i (00:20:28) xrefdes 4CC26 
+\i (00:20:28) xname_flush 
+\i (00:20:28) done 
+\i (00:20:28) xhilite 
+\i (00:20:28) xrefdes 4GND12 
+\i (00:20:28) xname_flush 
+\i (00:20:28) done 
+\i (00:20:28) xhilite 
+\i (00:20:28) xrefdes 4CC32 
+\i (00:20:28) xname_flush 
+\i (00:20:28) done 
+\i (00:20:28) xhilite 
+\i (00:20:28) xrefdes 4TP_AVDD18_RX 
+\i (00:20:28) xname_flush 
+\i (00:20:28) done 
+\i (00:20:28) xhilite 
+\i (00:20:29) xrefdes 4CA24 
+\i (00:20:29) xname_flush 
+\i (00:20:29) done 
+\i (00:20:29) xhilite 
+\i (00:20:29) xrefdes 4CC31 
+\i (00:20:29) xname_flush 
+\i (00:20:29) done 
+\i (00:20:29) xhilite 
+\i (00:20:29) xrefdes 4CA32 
+\i (00:20:29) xname_flush 
+\i (00:20:29) done 
+\i (00:20:29) xhilite 
+\i (00:20:29) xrefdes 4CC20 
+\i (00:20:29) xname_flush 
+\i (00:20:29) done 
+\i (00:20:29) xhilite 
+\i (00:20:29) xrefdes 4CC13 
+\i (00:20:29) xname_flush 
+\i (00:20:29) done 
+\i (00:20:29) xhilite 
+\i (00:20:29) xrefdes 4CA2 
+\i (00:20:29) xname_flush 
+\i (00:20:29) done 
+\i (00:20:30) xhilite 
+\i (00:20:30) xrefdes 4K36 
+\i (00:20:30) xname_flush 
+\i (00:20:30) done 
+\i (00:20:30) xhilite 
+\i (00:20:30) xrefdes 4CD5 
+\i (00:20:30) xname_flush 
+\i (00:20:30) done 
+\i (00:20:30) xhilite 
+\i (00:20:30) xrefdes 4TP_VCC3V3 
+\i (00:20:30) xname_flush 
+\i (00:20:30) done 
+\i (00:20:30) xhilite 
+\i (00:20:30) xrefdes 4GND9 
+\i (00:20:30) xname_flush 
+\i (00:20:30) done 
+\i (00:20:30) xhilite 
+\i (00:20:30) xrefdes 4CD22 
+\i (00:20:30) xname_flush 
+\i (00:20:30) done 
+\i (00:20:30) xhilite 
+\i (00:20:30) xrefdes 4TP_AVDD11_XTAL 
+\i (00:20:30) xname_flush 
+\i (00:20:30) done 
+\i (00:20:31) xhilite 
+\i (00:20:31) xrefdes 4CA6 
+\i (00:20:31) xname_flush 
+\i (00:20:31) done 
+\i (00:20:31) xhilite 
+\i (00:20:31) xrefdes 4CA9 
+\i (00:20:31) xname_flush 
+\i (00:20:31) done 
+\i (00:20:31) xhilite 
+\i (00:20:31) xrefdes 4TP_VDD_TXREG_33_T 
+\i (00:20:31) xname_flush 
+\i (00:20:31) done 
+\i (00:20:31) xhilite 
+\i (00:20:31) xrefdes 4CC16 
+\i (00:20:31) xname_flush 
+\i (00:20:31) done 
+\i (00:20:31) xhilite 
+\i (00:20:31) xrefdes 4SH9 
+\i (00:20:31) xname_flush 
+\i (00:20:31) done 
+\i (00:20:31) xhilite 
+\i (00:20:31) xrefdes 4K31 
+\i (00:20:31) xname_flush 
+\i (00:20:31) done 
+\i (00:20:32) xhilite 
+\i (00:20:32) xrefdes 4SH3 
+\i (00:20:32) xname_flush 
+\i (00:20:32) done 
+\i (00:20:32) xhilite 
+\i (00:20:32) xrefdes 4TP_VDDC_11 
+\i (00:20:32) xname_flush 
+\i (00:20:32) done 
+\i (00:20:32) xhilite 
+\i (00:20:32) xrefdes 4GND3 
+\i (00:20:32) xname_flush 
+\i (00:20:32) done 
+\i (00:20:32) xhilite 
+\i (00:20:32) xrefdes 4CA15 
+\i (00:20:32) xname_flush 
+\i (00:20:32) done 
+\i (00:20:32) xdehilite 
+\i (00:20:32) xname_flush 
+\i (00:20:32) done 
+\i (00:20:32) xdehilite 
+\i (00:20:32) xname_flush 
+\i (00:20:32) done 
+\i (00:20:32) xdehilite 
+\i (00:20:33) xname_flush 
+\i (00:20:33) done 
+\i (00:20:33) xdehilite 
+\i (00:20:33) xname_flush 
+\i (00:20:33) done 
+\i (00:20:33) xdehilite 
+\i (00:20:33) xname_flush 
+\i (00:20:33) done 
+\i (00:20:33) xdehilite 
+\i (00:20:33) xname_flush 
+\i (00:20:33) done 
+\i (00:20:33) xdehilite 
+\i (00:20:33) xname_flush 
+\i (00:20:33) done 
+\i (00:20:33) xdehilite 
+\i (00:20:33) xname_flush 
+\i (00:20:33) done 
+\i (00:20:33) xdehilite 
+\i (00:20:33) xname_flush 
+\i (00:20:33) done 
+\i (00:20:34) xdehilite 
+\i (00:20:34) xname_flush 
+\i (00:20:34) done 
+\i (00:20:34) xdehilite 
+\i (00:20:34) xname_flush 
+\i (00:20:34) done 
+\i (00:20:34) xdehilite 
+\i (00:20:34) xname_flush 
+\i (00:20:34) done 
+\i (00:20:34) xdehilite 
+\i (00:20:34) xname_flush 
+\i (00:20:34) done 
+\i (00:20:34) xdehilite 
+\i (00:20:34) xname_flush 
+\i (00:20:34) done 
+\i (00:20:34) xdehilite 
+\i (00:20:34) xname_flush 
+\i (00:20:34) done 
+\i (00:20:35) xdehilite 
+\i (00:20:35) xname_flush 
+\i (00:20:35) done 
+\i (00:20:35) xdehilite 
+\i (00:20:35) xname_flush 
+\i (00:20:35) done 
+\i (00:20:35) xdehilite 
+\i (00:20:35) xname_flush 
+\i (00:20:35) done 
+\i (00:20:35) xdehilite 
+\i (00:20:35) xname_flush 
+\i (00:20:35) done 
+\i (00:20:35) xdehilite 
+\i (00:20:35) xname_flush 
+\i (00:20:35) done 
+\i (00:20:35) xdehilite 
+\i (00:20:36) xname_flush 
+\i (00:20:36) done 
+\i (00:20:36) xdehilite 
+\i (00:20:36) xname_flush 
+\i (00:20:36) done 
+\i (00:20:36) xdehilite 
+\i (00:20:36) xname_flush 
+\i (00:20:36) done 
+\i (00:20:36) xdehilite 
+\i (00:20:36) xname_flush 
+\i (00:20:36) done 
+\i (00:20:36) xdehilite 
+\i (00:20:36) xname_flush 
+\i (00:20:36) done 
+\i (00:20:36) xdehilite 
+\i (00:20:36) xname_flush 
+\i (00:20:36) done 
+\i (00:20:36) xdehilite 
+\i (00:20:37) xname_flush 
+\i (00:20:37) done 
+\i (00:20:37) xdehilite 
+\i (00:20:37) xname_flush 
+\i (00:20:37) done 
+\i (00:20:37) xdehilite 
+\i (00:20:37) xname_flush 
+\i (00:20:37) done 
+\i (00:20:37) xdehilite 
+\i (00:20:37) xname_flush 
+\i (00:20:37) done 
+\i (00:20:37) xdehilite 
+\i (00:20:37) xname_flush 
+\i (00:20:37) done 
+\i (00:20:37) xdehilite 
+\i (00:20:37) xname_flush 
+\i (00:20:37) done 
+\i (00:20:37) xdehilite 
+\i (00:20:37) xname_flush 
+\i (00:20:37) done 
+\i (00:20:38) xdehilite 
+\i (00:20:38) xname_flush 
+\i (00:20:38) done 
+\i (00:20:38) xdehilite 
+\i (00:20:38) xname_flush 
+\i (00:20:38) done 
+\i (00:20:38) xdehilite 
+\i (00:20:38) xname_flush 
+\i (00:20:38) done 
+\i (00:20:38) xdehilite 
+\i (00:20:38) xname_flush 
+\i (00:20:38) done 
+\i (00:20:38) xdehilite 
+\i (00:20:38) xname_flush 
+\i (00:20:38) done 
+\i (00:20:38) xdehilite 
+\i (00:20:38) xname_flush 
+\i (00:20:38) done 
+\i (00:20:39) xdehilite 
+\i (00:20:39) xname_flush 
+\i (00:20:39) done 
+\i (00:20:39) xdehilite 
+\i (00:20:39) xname_flush 
+\i (00:20:39) done 
+\i (00:20:39) xdehilite 
+\i (00:20:39) xname_flush 
+\i (00:20:39) done 
+\i (00:20:39) xdehilite 
+\i (00:20:39) xname_flush 
+\i (00:20:39) done 
+\i (00:20:39) xdehilite 
+\i (00:20:39) xname_flush 
+\i (00:20:39) done 
+\i (00:20:39) xdehilite 
+\i (00:20:40) xname_flush 
+\i (00:20:40) done 
+\i (00:20:40) xdehilite 
+\i (00:20:40) xname_flush 
+\i (00:20:40) done 
+\i (00:20:40) xdehilite 
+\i (00:20:40) xname_flush 
+\i (00:20:40) done 
+\i (00:20:40) xdehilite 
+\i (00:20:40) xname_flush 
+\i (00:20:40) done 
+\i (00:20:40) xdehilite 
+\i (00:20:40) xname_flush 
+\i (00:20:40) done 
+\i (00:20:40) xdehilite 
+\i (00:20:40) xname_flush 
+\i (00:20:40) done 
+\i (00:20:40) xdehilite 
+\i (00:20:41) xname_flush 
+\i (00:20:41) done 
+\i (00:20:41) xdehilite 
+\i (00:20:41) xname_flush 
+\i (00:20:41) done 
+\i (00:20:41) xdehilite 
+\i (00:20:41) xname_flush 
+\i (00:20:41) done 
+\i (00:20:41) xdehilite 
+\i (00:20:41) xname_flush 
+\i (00:20:41) done 
+\i (00:20:41) xdehilite 
+\i (00:20:41) xname_flush 
+\i (00:20:41) done 
+\i (00:20:41) xdehilite 
+\i (00:20:41) xname_flush 
+\i (00:20:41) done 
+\i (00:20:42) xdehilite 
+\i (00:20:42) xname_flush 
+\i (00:20:42) done 
+\i (00:20:42) xdehilite 
+\i (00:20:42) xname_flush 
+\i (00:20:42) done 
+\i (00:20:42) xdehilite 
+\i (00:20:42) xname_flush 
+\i (00:20:42) done 
+\i (00:20:42) xdehilite 
+\i (00:20:42) xname_flush 
+\i (00:20:42) done 
+\i (00:20:42) xdehilite 
+\i (00:20:42) xname_flush 
+\i (00:20:42) done 
+\i (00:20:42) xdehilite 
+\i (00:20:42) xname_flush 
+\i (00:20:42) done 
+\i (00:20:43) xdehilite 
+\i (00:20:43) xname_flush 
+\i (00:20:43) done 
+\i (00:20:43) xdehilite 
+\i (00:20:43) xname_flush 
+\i (00:20:43) done 
+\i (00:20:43) xdehilite 
+\i (00:20:43) xname_flush 
+\i (00:20:43) done 
+\i (00:20:43) xdehilite 
+\i (00:20:43) xname_flush 
+\i (00:20:43) done 
+\i (00:20:43) xdehilite 
+\i (00:20:43) xname_flush 
+\i (00:20:43) done 
+\i (00:20:43) xdehilite 
+\i (00:20:43) xname_flush 
+\i (00:20:43) done 
+\i (00:20:44) xdehilite 
+\i (00:20:44) xname_flush 
+\i (00:20:44) done 
+\i (00:20:44) xdehilite 
+\i (00:20:44) xname_flush 
+\i (00:20:44) done 
+\i (00:20:44) xdehilite 
+\i (00:20:44) xname_flush 
+\i (00:20:44) done 
+\i (00:20:44) xdehilite 
+\i (00:20:44) xname_flush 
+\i (00:20:44) done 
+\i (00:20:44) xdehilite 
+\i (00:20:44) xname_flush 
+\i (00:20:44) done 
+\i (00:20:44) xdehilite 
+\i (00:20:44) xname_flush 
+\i (00:20:44) done 
+\i (00:20:45) xdehilite 
+\i (00:20:45) xname_flush 
+\i (00:20:45) done 
+\i (00:20:45) xdehilite 
+\i (00:20:45) xname_flush 
+\i (00:20:45) done 
+\i (00:20:45) xdehilite 
+\i (00:20:45) xname_flush 
+\i (00:20:45) done 
+\i (00:20:45) xdehilite 
+\i (00:20:45) xname_flush 
+\i (00:20:45) done 
+\i (00:20:45) xdehilite 
+\i (00:20:45) xname_flush 
+\i (00:20:45) done 
+\i (00:20:45) xdehilite 
+\i (00:20:45) xname_flush 
+\i (00:20:45) done 
+\i (00:20:46) xdehilite 
+\i (00:20:46) xname_flush 
+\i (00:20:46) done 
+\i (00:20:46) xdehilite 
+\i (00:20:46) xname_flush 
+\i (00:20:46) done 
+\i (00:20:46) xdehilite 
+\i (00:20:46) xname_flush 
+\i (00:20:46) done 
+\i (00:20:46) xdehilite 
+\i (00:20:46) xname_flush 
+\i (00:20:46) done 
+\i (00:20:46) xdehilite 
+\i (00:20:46) xname_flush 
+\i (00:20:46) done 
+\i (00:20:46) xdehilite 
+\i (00:20:46) xname_flush 
+\i (00:20:46) done 
+\i (00:20:46) xdehilite 
+\i (00:20:46) xname_flush 
+\i (00:20:46) done 
+\i (00:20:47) xdehilite 
+\i (00:20:47) xname_flush 
+\i (00:20:47) done 
+\i (00:20:47) xdehilite 
+\i (00:20:47) xname_flush 
+\i (00:20:47) done 
+\i (00:20:47) xdehilite 
+\i (00:20:47) xname_flush 
+\i (00:20:47) done 
+\i (00:20:47) xdehilite 
+\i (00:20:47) xname_flush 
+\i (00:20:47) done 
+\i (00:20:47) xdehilite 
+\i (00:20:47) xname_flush 
+\i (00:20:47) done 
+\i (00:20:47) xdehilite 
+\i (00:20:47) xname_flush 
+\i (00:20:47) done 
+\i (00:20:48) xdehilite 
+\i (00:20:48) xname_flush 
+\i (00:20:48) done 
+\i (00:20:48) xdehilite 
+\i (00:20:48) xname_flush 
+\i (00:20:48) done 
+\i (00:20:48) xdehilite 
+\i (00:20:48) xname_flush 
+\i (00:20:48) done 
+\i (00:20:48) xdehilite 
+\i (00:20:48) xname_flush 
+\i (00:20:48) done 
+\i (00:20:48) xdehilite 
+\i (00:20:48) xname_flush 
+\i (00:20:48) done 
+\i (00:20:48) xdehilite 
+\i (00:20:48) xname_flush 
+\i (00:20:48) done 
+\i (00:20:48) xdehilite 
+\i (00:20:48) xname_flush 
+\i (00:20:48) done 
+\i (00:20:49) xdehilite 
+\i (00:20:49) xrefdes 3K18 
+\i (00:20:49) xname_flush 
+\i (00:20:49) done 
+\i (00:20:49) xdehilite 
+\i (00:20:49) xname_flush 
+\i (00:20:49) done 
+\i (00:20:49) xdehilite 
+\i (00:20:49) xname_flush 
+\i (00:20:49) done 
+\i (00:20:49) xdehilite 
+\i (00:20:49) xname_flush 
+\i (00:20:49) done 
+\i (00:20:49) xdehilite 
+\i (00:20:49) xname_flush 
+\i (00:20:49) done 
+\i (00:20:49) xdehilite 
+\i (00:20:49) xname_flush 
+\i (00:20:49) done 
+\i (00:20:50) xdehilite 
+\i (00:20:50) xname_flush 
+\i (00:20:50) done 
+\i (00:20:50) xdehilite 
+\i (00:20:50) xname_flush 
+\i (00:20:50) done 
+\i (00:20:50) xdehilite 
+\i (00:20:50) xname_flush 
+\i (00:20:50) done 
+\i (00:20:50) xdehilite 
+\i (00:20:50) xname_flush 
+\i (00:20:50) done 
+\i (00:20:50) xdehilite 
+\i (00:20:50) xname_flush 
+\i (00:20:50) done 
+\i (00:20:50) xdehilite 
+\i (00:20:50) xname_flush 
+\i (00:20:50) done 
+\i (00:20:50) xdehilite 
+\i (00:20:51) xname_flush 
+\i (00:20:51) done 
+\i (00:20:51) xdehilite 
+\i (00:20:51) xname_flush 
+\i (00:20:51) done 
+\i (00:20:51) xdehilite 
+\i (00:20:51) xname_flush 
+\i (00:20:51) done 
+\i (00:20:51) xdehilite 
+\i (00:20:51) xname_flush 
+\i (00:20:51) done 
+\i (00:20:51) xdehilite 
+\i (00:20:51) xname_flush 
+\i (00:20:51) done 
+\i (00:20:51) xdehilite 
+\i (00:20:51) xname_flush 
+\i (00:20:51) done 
+\i (00:20:51) xdehilite 
+\i (00:20:52) xname_flush 
+\i (00:20:52) done 
+\i (00:20:52) xdehilite 
+\i (00:20:52) xname_flush 
+\i (00:20:52) done 
+\i (00:20:52) xdehilite 
+\i (00:20:52) xname_flush 
+\i (00:20:52) done 
+\i (00:20:52) xdehilite 
+\i (00:20:52) xname_flush 
+\i (00:20:52) done 
+\i (00:20:52) xdehilite 
+\i (00:20:52) xname_flush 
+\i (00:20:52) done 
+\i (00:20:52) xdehilite 
+\i (00:20:52) xname_flush 
+\i (00:20:52) done 
+\i (00:20:52) xdehilite 
+\i (00:20:52) xname_flush 
+\i (00:20:52) done 
+\i (00:20:53) xdehilite 
+\i (00:20:53) xname_flush 
+\i (00:20:53) done 
+\i (00:20:53) xdehilite 
+\i (00:20:53) xname_flush 
+\i (00:20:53) done 
+\i (00:20:53) xdehilite 
+\i (00:20:53) xname_flush 
+\i (00:20:53) done 
+\i (00:20:53) xdehilite 
+\i (00:20:53) xname_flush 
+\i (00:20:53) done 
+\i (00:20:53) xdehilite 
+\i (00:20:53) xname_flush 
+\i (00:20:53) done 
+\i (00:20:53) xdehilite 
+\i (00:20:53) xname_flush 
+\i (00:20:53) done 
+\i (00:20:53) xdehilite 
+\i (00:20:54) xname_flush 
+\i (00:20:54) done 
+\i (00:20:54) xdehilite 
+\i (00:20:54) xname_flush 
+\i (00:20:54) done 
+\i (00:20:54) xdehilite 
+\i (00:20:54) xname_flush 
+\i (00:20:54) done 
+\i (00:20:54) xdehilite 
+\i (00:20:54) xname_flush 
+\i (00:20:54) done 
+\i (00:20:54) xdehilite 
+\i (00:20:54) xname_flush 
+\i (00:20:54) done 
+\i (00:20:54) xdehilite 
+\i (00:20:54) xname_flush 
+\i (00:20:54) done 
+\i (00:20:54) xdehilite 
+\i (00:20:54) xname_flush 
+\i (00:20:54) done 
+\i (00:20:55) xdehilite 
+\i (00:20:55) xname_flush 
+\i (00:20:55) done 
+\i (00:20:55) xdehilite 
+\i (00:20:55) xname_flush 
+\i (00:20:55) done 
+\i (00:20:55) xdehilite 
+\i (00:20:55) xname_flush 
+\i (00:20:55) done 
+\i (00:20:55) xdehilite 
+\i (00:20:55) xname_flush 
+\i (00:20:55) done 
+\i (00:20:55) xdehilite 
+\i (00:20:55) xname_flush 
+\i (00:20:55) done 
+\i (00:20:55) xdehilite 
+\i (00:20:55) xname_flush 
+\i (00:20:55) done 
+\i (00:20:56) xdehilite 
+\i (00:20:56) xname_flush 
+\i (00:20:56) done 
+\i (00:20:56) xdehilite 
+\i (00:20:56) xname_flush 
+\i (00:20:56) done 
+\i (00:20:56) xdehilite 
+\i (00:20:56) xname_flush 
+\i (00:20:56) done 
+\i (00:20:56) xdehilite 
+\i (00:20:56) xname_flush 
+\i (00:20:56) done 
+\i (00:20:56) xdehilite 
+\i (00:20:56) xname_flush 
+\i (00:20:56) done 
+\i (00:20:56) xdehilite 
+\i (00:20:56) xname_flush 
+\i (00:20:56) done 
+\i (00:20:56) xdehilite 
+\i (00:20:57) xname_flush 
+\i (00:20:57) done 
+\i (00:20:57) xdehilite 
+\i (00:20:57) xname_flush 
+\i (00:20:57) done 
+\i (00:20:57) xdehilite 
+\i (00:20:57) xname_flush 
+\i (00:20:57) done 
+\i (00:20:57) xdehilite 
+\i (00:20:57) xname_flush 
+\i (00:20:57) done 
+\i (00:20:57) xdehilite 
+\i (00:20:57) xname_flush 
+\i (00:20:57) done 
+\i (00:20:57) xdehilite 
+\i (00:20:57) xname_flush 
+\i (00:20:57) done 
+\i (00:20:57) xdehilite 
+\i (00:20:57) xname_flush 
+\i (00:20:57) done 
+\i (00:20:58) xdehilite 
+\i (00:20:58) xname_flush 
+\i (00:20:58) done 
+\i (00:20:58) xdehilite 
+\i (00:20:58) xname_flush 
+\i (00:20:58) done 
+\i (00:20:58) xdehilite 
+\i (00:20:58) xname_flush 
+\i (00:20:58) done 
+\i (00:20:58) xdehilite 
+\i (00:20:58) xname_flush 
+\i (00:20:58) done 
+\i (00:20:58) xdehilite 
+\i (00:20:58) xname_flush 
+\i (00:20:58) done 
+\i (00:20:58) xdehilite 
+\i (00:20:59) xname_flush 
+\i (00:20:59) done 
+\i (00:20:59) xdehilite 
+\i (00:20:59) xname_flush 
+\i (00:20:59) done 
+\i (00:20:59) xdehilite 
+\i (00:20:59) xname_flush 
+\i (00:20:59) done 
+\i (00:20:59) xdehilite 
+\i (00:20:59) xname_flush 
+\i (00:20:59) done 
+\i (00:20:59) xdehilite 
+\i (00:20:59) xname_flush 
+\i (00:20:59) done 
+\i (00:20:59) xdehilite 
+\i (00:20:59) xname_flush 
+\i (00:20:59) done 
+\i (00:20:59) xdehilite 
+\i (00:21:00) xname_flush 
+\i (00:21:00) done 
+\i (00:21:00) xdehilite 
+\i (00:21:00) xname_flush 
+\i (00:21:00) done 
+\i (00:21:00) xdehilite 
+\i (00:21:00) xname_flush 
+\i (00:21:00) done 
+\i (00:21:00) xdehilite 
+\i (00:21:00) xname_flush 
+\i (00:21:00) done 
+\i (00:21:00) xdehilite 
+\i (00:21:00) xname_flush 
+\i (00:21:00) done 
+\i (00:21:00) xdehilite 
+\i (00:21:00) xname_flush 
+\i (00:21:00) done 
+\i (00:21:00) xdehilite 
+\i (00:21:00) xname_flush 
+\i (00:21:00) done 
+\i (00:21:01) xdehilite 
+\i (00:21:01) xname_flush 
+\i (00:21:01) done 
+\i (00:21:01) xdehilite 
+\i (00:21:01) xname_flush 
+\i (00:21:01) done 
+\i (00:21:01) xdehilite 
+\i (00:21:01) xname_flush 
+\i (00:21:01) done 
+\i (00:21:01) xdehilite 
+\i (00:21:01) xname_flush 
+\i (00:21:01) done 
+\i (00:21:01) xdehilite 
+\i (00:21:01) xname_flush 
+\i (00:21:01) done 
+\i (00:21:01) xdehilite 
+\i (00:21:01) xname_flush 
+\i (00:21:01) done 
+\i (00:21:02) xdehilite 
+\i (00:21:02) xname_flush 
+\i (00:21:02) done 
+\i (00:21:02) xdehilite 
+\i (00:21:02) xname_flush 
+\i (00:21:02) done 
+\i (00:21:02) xdehilite 
+\i (00:21:02) xname_flush 
+\i (00:21:02) done 
+\i (00:21:02) xdehilite 
+\i (00:21:02) xname_flush 
+\i (00:21:02) done 
+\i (00:21:02) xdehilite 
+\i (00:21:02) xname_flush 
+\i (00:21:02) done 
+\i (00:21:02) xdehilite 
+\i (00:21:02) xname_flush 
+\i (00:21:02) done 
+\i (00:21:03) xdehilite 
+\i (00:21:03) xname_flush 
+\i (00:21:03) done 
+\i (00:21:03) xdehilite 
+\i (00:21:03) xname_flush 
+\i (00:21:03) done 
+\i (00:21:03) xdehilite 
+\i (00:21:03) xname_flush 
+\i (00:21:03) done 
+\i (00:21:03) xdehilite 
+\i (00:21:03) xname_flush 
+\i (00:21:03) done 
+\i (00:21:03) xdehilite 
+\i (00:21:03) xname_flush 
+\i (00:21:03) done 
+\i (00:21:03) xdehilite 
+\i (00:21:04) xname_flush 
+\i (00:21:04) done 
+\i (00:21:04) xdehilite 
+\i (00:21:04) xname_flush 
+\i (00:21:04) done 
+\i (00:21:04) xdehilite 
+\i (00:21:04) xname_flush 
+\i (00:21:04) done 
+\i (00:21:04) xdehilite 
+\i (00:21:04) xname_flush 
+\i (00:21:04) done 
+\i (00:21:04) xdehilite 
+\i (00:21:04) xname_flush 
+\i (00:21:04) done 
+\i (00:21:04) xdehilite 
+\i (00:21:04) xname_flush 
+\i (00:21:04) done 
+\i (00:21:05) xdehilite 
+\i (00:21:05) xname_flush 
+\i (00:21:05) done 
+\i (00:21:05) xdehilite 
+\i (00:21:05) xname_flush 
+\i (00:21:05) done 
+\i (00:21:05) xdehilite 
+\i (00:21:05) xname_flush 
+\i (00:21:05) done 
+\i (00:21:05) generaledit 
+\i (00:21:11) zoom out 1 
+\i (00:21:11) setwindow pcb
+\i (00:21:11) zoom out -4571.97 301.80
+\i (00:21:11) trapsize 758
+\i (00:21:11) zoom out 1 
+\i (00:21:11) setwindow pcb
+\i (00:21:11) zoom out -4571.97 301.80
+\i (00:21:11) trapsize 1516
+\i (00:21:12) zoom out 1 
+\i (00:21:12) setwindow pcb
+\i (00:21:12) zoom out -4571.98 301.80
+\i (00:21:12) trapsize 3032
+\i (00:21:12) zoom out 1 
+\i (00:21:12) setwindow pcb
+\i (00:21:12) zoom out -4571.97 301.79
+\i (00:21:12) trapsize 6064
+\i (00:21:13) open 
+\e (00:21:13) Do you want to save the changes you made to REF_038HX-888005K4R-A100.brd?
+\i (00:21:14) fillin no 
+\i (00:21:19) fillin "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0824_updates.brd"
+\i (00:21:19) cd "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT"
+\t (00:21:19) Opening existing design...
+\i (00:21:19) trapsize 11059
+\t (00:21:20)     Journal end - Tue Aug 25 13:18:35 2026

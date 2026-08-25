@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : 8880F5-0823_4.brd                             )
+(    Drawing          : 8880F5-0825_3.brd                             )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Sun Aug 23 14:40:11 2026                      )
+(    Date/Time        : Tue Aug 25 17:37:10 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,10 +19,10 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro'
 Design Directory:            'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT'
-Old design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0823_4.brd'
-New design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0823_5.brd'
+Old design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0825_3.brd'
+New design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0825_4.brd'
 
-CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0823_4.brd D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0823_5.brd
+CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0825_3.brd D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0825_4.brd
 
 ------ Preparing to read pst files ------
 
@@ -48,8 +48,8 @@ PADPATH =  D:/iTest/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/LIB
 ------ Summary Statistics ------
 
 
-netrev run on Aug 23 14:40:11 2026
-   DESIGN NAME : '980HX-8880F5-KBG-A10_20260810_V4A_20260820'
+netrev run on Aug 25 17:37:10 2026
+   DESIGN NAME : '980HX-8880F5-KBG-A10_20260810_V4A'
    PACKAGING ON Aug  3 2015 18:16:55
 
    COMPILE 'logic'
@@ -73,6 +73,6 @@ netrev run on Aug 23 14:40:11 2026
  No oversight detected
  No warning detected
 
-cpu time      0:14:11
-elapsed time  0:00:08
+cpu time      0:05:56
+elapsed time  0:00:03
 

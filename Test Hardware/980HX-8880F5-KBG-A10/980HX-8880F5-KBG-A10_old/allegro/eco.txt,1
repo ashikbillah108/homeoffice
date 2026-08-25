@@ -1,0 +1,734 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_ELVRX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 R103.2          -3102.5 1129.23
+                                                                         D12502
+                                 SITE1.6         -1834.6  728.34
+                                                                         D12502
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 R102.1          -3102.5 1174.24
+                                                                         D12504
+                                 SITE1.5         -1850.3  728.34
+                                                                         D12504
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 R46.2           -3637.4 1129.23
+                                                                         D12506
+                                 SITE1.8         -1803.1  728.34
+                                                                         D12506
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 R45.1           -3637.4 1174.24
+                                                                         D12508
+                                 SITE1.7         -1818.8  728.34
+                                                                         D12508
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 R52.2           -4422.5  589.23
+                                                                         D12613
+                                 SITE1.10        -1771.6  728.34
+                                                                         D12613
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 R51.1           -4422.5  634.24
+                                                                         D12615
+                                 SITE1.9         -1787.4  728.34
+                                                                         D12615
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 R54.2           -4957.4  589.23
+                                                                         D12614
+                                 SITE1.12        -1740.1  728.34
+                                                                         D12614
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 R53.1           -4957.4  634.24
+                                                                         D12616
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE1.11        -1755.9  728.34
+                                                                         D12616
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH005+ pins MOVED FROM this net (to net name listed on right)
+                                 R48.2           -3762.5  589.23
+                                                                         D12610
+                                 SITE1.14        -1708.6  728.34
+                                                                         D12610
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH005- pins MOVED FROM this net (to net name listed on right)
+                                 R47.1           -3762.5  634.24
+                                                                         D12612
+                                 SITE1.13        -1724.4  728.34
+                                                                         D12612
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH006+ pins MOVED FROM this net (to net name listed on right)
+                                 R50.2           -4297.4  589.23
+                                                                         D12609
+                                 SITE1.16        -1677.1  728.34
+                                                                         D12609
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_ELVRX_100DCH006- pins MOVED FROM this net (to net name listed on right)
+                                 R49.1           -4297.4  634.24
+                                                                         D12611
+                                 SITE1.15        -1692.9  728.34
+                                                                         D12611
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 R56.2           -3112.5 1669.23
+                                                                         D12505
+                                 SITE1.168       -2027.5  968.50
+                                                                         D12505
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 R55.1           -3112.5 1714.24
+                                                                         D12507
+                                 SITE1.167       -2027.5  984.25
+                                                                         D12507
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 R58.2           -3647.4 1669.23
+                                                                         D12501
+                                 SITE1.170       -2027.5  937.01
+                                                                         D12501
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_OLVRX_100DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 R57.1           -3647.4 1714.24
+                                                                         D12503
+                                 SITE1.169       -2027.5  952.75
+                                                                         D12503
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 R105.2          -4422.5 1129.23
+                                                                         D12513
+                                 SITE1.172       -2027.5  905.51
+                                                                         D12513
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 R104.1          -4422.5 1174.24
+                                                                         D12515
+                                 SITE1.171       -2027.5  921.26
+                                                                         D12515
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 R62.2           -4297.4 1129.23
+                                                                         D12510
+                                 SITE1.174       -2027.5  874.01
+                                                                         D12510
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 R61.1           -4297.4 1174.24
+                                                                         D12512
+                                 SITE1.173       -2027.5  889.76
+                                                                         D12512
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH005+ pins MOVED FROM this net (to net name listed on right)
+                                 R66.2           -4957.4 1129.23
+                                                                         D12514
+                                 SITE1.176       -2027.5  842.52
+                                                                         D12514
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH005- pins MOVED FROM this net (to net name listed on right)
+                                 R65.1           -4957.4 1174.24
+                                                                         D12516
+                                 SITE1.175       -2027.5  858.27
+                                                                         D12516
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH006+ pins MOVED FROM this net (to net name listed on right)
+                                 R60.2           -3762.5 1129.23
+                                                                         D12509
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE1.2         -1897.6  728.34
+                                                                         D12509
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_OLVRX_100DCH006- pins MOVED FROM this net (to net name listed on right)
+                                 R59.1           -3762.5 1174.24
+                                                                         D12511
+                                 SITE1.1         -1913.3  728.34
+                                                                         D12511
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 2R103.2         3370.77  817.48
+                                                                         D11306
+                                 SITE2.6         1314.96  728.34
+                                                                         D11306
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 2R102.1         3325.76  817.48
+                                                                         D11308
+                                 SITE2.5         1299.21  728.34
+                                                                         D11308
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 2R46.2          3370.77  282.52
+                                                                         D11302
+                                 SITE2.8         1346.45  728.34
+                                                                         D11302
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 2R45.1          3325.76  282.52
+                                                                         D11304
+                                 SITE2.7         1330.71  728.34
+                                                                         D11304
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 2R52.2          3910.77 1467.48
+                                                                         D10913
+                                 SITE2.10        1377.95  728.34
+                                                                         D10913
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 2R51.1          3865.76 1467.48
+                                                                         D10915
+                                 SITE2.9         1362.20  728.34
+                                                                         D10915
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S2_ELVRX_100DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 2R54.2          3910.77  932.52
+                                                                         D10914
+                                 SITE2.12        1409.45  728.34
+                                                                         D10914
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 2R53.1          3865.76  932.52
+                                                                         D10916
+                                 SITE2.11        1393.70  728.34
+                                                                         D10916
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH005+ pins MOVED FROM this net (to net name listed on right)
+                                 2R48.2          3910.77  827.48
+                                                                         D10909
+                                 SITE2.14        1440.94  728.34
+                                                                         D10909
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH005- pins MOVED FROM this net (to net name listed on right)
+                                 2R47.1          3865.76  827.48
+                                                                         D10911
+                                 SITE2.13        1425.19  728.34
+                                                                         D10911
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH006+ pins MOVED FROM this net (to net name listed on right)
+                                 2R50.2          3910.77  292.52
+                                                                         D11305
+                                 SITE2.16        1472.44  728.34
+                                                                         D11305
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_ELVRX_100DCH006- pins MOVED FROM this net (to net name listed on right)
+                                 2R49.1          3865.76  292.52
+                                                                         D11307
+                                 SITE2.15        1456.69  728.34
+                                                                         D11307
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 2R56.2          4440.77  837.48
+                                                                         D10902
+                                 SITE2.168       1122.04  968.50
+                                                                         D10902
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 2R55.1          4395.76  837.48
+                                                                         D10904
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE2.167       1122.04  984.25
+                                                                         D10904
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 2R58.2          4440.77  302.52
+                                                                         D10906
+                                 SITE2.170       1122.04  937.01
+                                                                         D10906
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 2R57.1          4395.76  302.52
+                                                                         D10908
+                                 SITE2.169       1122.04  952.75
+                                                                         D10908
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 2R105.2         3640.77  207.48
+                                                                         D11301
+                                 SITE2.172       1122.04  905.51
+                                                                         D11301
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 2R104.1         3595.76  207.48
+                                                                         D11303
+                                 SITE2.171       1122.04  921.26
+                                                                         D11303
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 2R62.2          4170.77 -317.48
+                                                                         D10905
+                                 SITE2.174       1122.04  874.01
+                                                                         D10905
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 2R61.1          4125.76 -317.48
+                                                                         D10907
+                                 SITE2.173       1122.04  889.76
+                                                                         D10907
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH005+ pins MOVED FROM this net (to net name listed on right)
+                                 2R66.2          3640.77 -327.48
+                                                                         D10901
+                                 SITE2.176       1122.04  842.52
+                                                                         D10901
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S2_OLVRX_100DCH005- pins MOVED FROM this net (to net name listed on right)
+                                 2R65.1          3595.76 -327.48
+                                                                         D10903
+                                 SITE2.175       1122.04  858.27
+                                                                         D10903
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH006+ pins MOVED FROM this net (to net name listed on right)
+                                 2R60.2          4170.77  217.48
+                                                                         D10910
+                                 SITE2.2         1251.97  728.34
+                                                                         D10910
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_OLVRX_100DCH006- pins MOVED FROM this net (to net name listed on right)
+                                 2R59.1          4125.76  217.48
+                                                                         D10912
+                                 SITE2.1         1236.22  728.34
+                                                                         D10912
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 3R103.2         -3092.5 -2620.7
+                                                                         D13014
+                                 SITE3.6         -1834.6 -1633.8
+                                                                         D13014
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 3R102.1         -3092.5 -2575.7
+                                                                         D13016
+                                 SITE3.5         -1850.3 -1633.8
+                                                                         D13016
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 3R46.2          -3627.4 -2620.7
+                                                                         D12913
+                                 SITE3.8         -1803.1 -1633.8
+                                                                         D12913
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 3R45.1          -3627.4 -2575.7
+                                                                         D12915
+                                 SITE3.7         -1818.8 -1633.8
+                                                                         D12915
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 3R52.2          -3762.5 -2630.7
+                                                                         D13010
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE3.10        -1771.6 -1633.8
+                                                                         D13010
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 3R51.1          -3762.5 -2585.7
+                                                                         D13012
+                                 SITE3.9         -1787.4 -1633.8
+                                                                         D13012
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 3R54.2          -4297.4 -2630.7
+                                                                         D12909
+                                 SITE3.12        -1740.1 -1633.8
+                                                                         D12909
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 3R53.1          -4297.4 -2585.7
+                                                                         D12911
+                                 SITE3.11        -1755.9 -1633.8
+                                                                         D12911
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH005+ pins MOVED FROM this net (to net name listed on right)
+                                 3R48.2          -4422.5 -3150.7
+                                                                         D13013
+                                 SITE3.14        -1708.6 -1633.8
+                                                                         D13013
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH005- pins MOVED FROM this net (to net name listed on right)
+                                 3R47.1          -4422.5 -3105.7
+                                                                         D13015
+                                 SITE3.13        -1724.4 -1633.8
+                                                                         D13015
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH006+ pins MOVED FROM this net (to net name listed on right)
+                                 3R50.2          -4957.4 -3150.7
+                                                                         D13009
+                                 SITE3.16        -1677.1 -1633.8
+                                                                         D13009
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_ELVRX_100DCH006- pins MOVED FROM this net (to net name listed on right)
+                                 3R49.1          -4957.4 -3105.7
+                                                                         D13011
+                                 SITE3.15        -1692.9 -1633.8
+                                                                         D13011
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S3_OLVRX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 3R56.2          -3092.5 -2090.7
+                                                                         D12914
+                                 SITE3.168       -2027.5 -1393.7
+                                                                         D12914
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 3R55.1          -3092.5 -2045.7
+                                                                         D12916
+                                 SITE3.167       -2027.5 -1377.9
+                                                                         D12916
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 3R58.2          -3627.4 -2090.7
+                                                                         D12902
+                                 SITE3.170       -2027.5 -1425.1
+                                                                         D12902
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 3R57.1          -3627.4 -2045.7
+                                                                         D12904
+                                 SITE3.169       -2027.5 -1409.4
+                                                                         D12904
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 3R105.2         -3092.5 -1560.7
+                                                                         D12905
+                                 SITE3.172       -2027.5 -1456.6
+                                                                         D12905
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 3R104.1         -3092.5 -1515.7
+                                                                         D12907
+                                 SITE3.171       -2027.5 -1440.9
+                                                                         D12907
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 3R62.2          -4297.4 -2090.7
+                                                                         D12906
+                                 SITE3.174       -2027.5 -1488.1
+                                                                         D12906
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 3R61.1          -4297.4 -2045.7
+                                                                         D12908
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE3.173       -2027.5 -1472.4
+                                                                         D12908
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH005+ pins MOVED FROM this net (to net name listed on right)
+                                 3R66.2          -3627.4 -1560.7
+                                                                         D12903
+                                 SITE3.176       -2027.5 -1519.6
+                                                                         D12903
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH005- pins MOVED FROM this net (to net name listed on right)
+                                 3R65.1          -3627.4 -1515.7
+                                                                         D12901
+                                 SITE3.175       -2027.5 -1503.9
+                                                                         D12901
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH006+ pins MOVED FROM this net (to net name listed on right)
+                                 3R60.2          -3762.5 -2090.7
+                                                                         D12910
+                                 SITE3.2         -1897.6 -1633.8
+                                                                         D12910
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_OLVRX_100DCH006- pins MOVED FROM this net (to net name listed on right)
+                                 3R59.1          -3762.5 -2045.7
+                                                                         D12912
+                                 SITE3.1         -1913.3 -1633.8
+                                                                         D12912
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 4R103.2         3767.48 -760.77
+                                                                         D10803
+                                 SITE4.6         1314.96 -1633.8
+                                                                         D10803
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 4R102.1         3767.48 -715.76
+                                                                         D10801
+                                 SITE4.5         1299.21 -1633.8
+                                                                         D10801
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 4R46.2          3232.52 -760.77
+                                                                         D10413
+                                 SITE4.8         1346.45 -1633.8
+                                                                         D10413
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S4_ELVRX_100DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 4R45.1          3232.52 -715.76
+                                                                         D10415
+                                 SITE4.7         1330.71 -1633.8
+                                                                         D10415
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 4R52.2          2607.48 -3280.7
+                                                                         D10414
+                                 SITE4.10        1377.95 -1633.8
+                                                                         D10414
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 4R51.1          2607.48 -3235.7
+                                                                         D10416
+                                 SITE4.9         1362.20 -1633.8
+                                                                         D10416
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 4R54.2          2072.52 -3280.7
+                                                                         D10410
+                                 SITE4.12        1409.45 -1633.8
+                                                                         D10410
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 4R53.1          2072.52 -3235.7
+                                                                         D10412
+                                 SITE4.11        1393.70 -1633.8
+                                                                         D10412
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH005+ pins MOVED FROM this net (to net name listed on right)
+                                 4R48.2          4417.48 -760.77
+                                                                         D10814
+                                 SITE4.14        1440.94 -1633.8
+                                                                         D10814
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH005- pins MOVED FROM this net (to net name listed on right)
+                                 4R47.1          4417.48 -715.76
+                                                                         D10816
+                                 SITE4.13        1425.19 -1633.8
+                                                                         D10816
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH006+ pins MOVED FROM this net (to net name listed on right)
+                                 4R50.2          3882.52 -760.77
+                                                                         D10802
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE4.16        1472.44 -1633.8
+                                                                         D10802
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_ELVRX_100DCH006- pins MOVED FROM this net (to net name listed on right)
+                                 4R49.1          3882.52 -715.76
+                                                                         D10804
+                                 SITE4.15        1456.69 -1633.8
+                                                                         D10804
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 4R56.2          4120.77 -932.52
+                                                                         D10810
+                                 SITE4.168       1122.04 -1393.7
+                                                                         D10810
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 4R55.1          4075.76 -932.52
+                                                                         D10812
+                                 SITE4.167       1122.04 -1377.9
+                                                                         D10812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 4R58.2          4120.77 -1467.4
+                                                                         D10806
+                                 SITE4.170       1122.04 -1425.1
+                                                                         D10806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 4R57.1          4075.76 -1467.4
+                                                                         D10808
+                                 SITE4.169       1122.04 -1409.4
+                                                                         D10808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 4R105.2         3600.77 -1592.5
+                                                                         D10409
+                                 SITE4.172       1122.04 -1456.6
+                                                                         D10409
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 4R104.1         3555.76 -1592.5
+                                                                         D10411
+                                 SITE4.171       1122.04 -1440.9
+                                                                         D10411
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S4_OLVRX_100DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 4R62.2          4650.77 -1467.4
+                                                                         D10813
+                                 SITE4.174       1122.04 -1488.1
+                                                                         D10813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 4R61.1          4605.76 -1467.4
+                                                                         D10815
+                                 SITE4.173       1122.04 -1472.4
+                                                                         D10815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH005+ pins MOVED FROM this net (to net name listed on right)
+                                 4R66.2          3600.77 -2127.4
+                                                                         D10807
+                                 SITE4.176       1122.04 -1519.6
+                                                                         D10807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH005- pins MOVED FROM this net (to net name listed on right)
+                                 4R65.1          3555.76 -2127.4
+                                                                         D10805
+                                 SITE4.175       1122.04 -1503.9
+                                                                         D10805
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH006+ pins MOVED FROM this net (to net name listed on right)
+                                 4R60.2          4650.77 -932.52
+                                                                         D10809
+                                 SITE4.2         1251.97 -1633.8
+                                                                         D10809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_OLVRX_100DCH006- pins MOVED FROM this net (to net name listed on right)
+                                 4R59.1          4605.76 -932.52
+                                                                         D10811
+                                 SITE4.1         1236.22 -1633.8
+                                                                         D10811
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  D:.../980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0820_2.brd          |
+|                                                    Thu Aug 20 10:42:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     192                                        |
+|                                                                              |
+|   Total ECO changes reported:     192                                        |
+|------------------------------------------------------------------------------|

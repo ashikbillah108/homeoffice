@@ -7,16 +7,15 @@
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (NoModify)
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory" "allegro")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Input Board File"
-       "D:\iTest\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0820_2.brd")
+       "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0825_3.brd")
     ("Allegro Netlist Output Board File"
-       "D:\iTest\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0820_3.brd")
+       "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0825_4.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -27,7 +26,8 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "TRUE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
+    (Netlist_TAB "0")
+    (NoModify))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -39,97 +39,30 @@
       (Type "Report")
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
-  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\980hx-8880f5-kbg-a10_20260810_v4a.dsn")
       (Path "Design Resources" ".\980hx-8880f5-kbg-a10_20260810_v4a.dsn"
          "SCHEMATIC1")
-      (Path "Outputs")
-      (Select "Design Resources" ".\980hx-8880f5-kbg-a10_20260810_v4a.dsn"
-         "SCHEMATIC1" "X01-Assign_Rule"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 413"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 413"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1769 52 373")
-        (Scroll "379 197")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 399")
+        (Scroll "137 202")
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P0011_S1_DUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1795 78 399")
-        (Scroll "0 607")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "T05.GROUP4.U5"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1821 104 425")
-        (Scroll "1207 628")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "T01.GROUP1.U2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1847 130 451")
-        (Scroll "0 127")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "T02.GROUP2.U3"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1873 156 477")
-        (Scroll "-8 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "X01-Assign_Rule"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1717 0 321")
-        (Scroll "379 197")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P0031_S3_DUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1743 26 347")
-        (Scroll "309 257")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P0041_S4_DUT")))
-  (ISPCBBASICLICENSE "false"))
+      (Page "P0031_S3_DUT")))
+  (MPSSessionName "Ashik-iTest")
+  (PartMRUSelector))
