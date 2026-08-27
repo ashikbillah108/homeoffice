@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : 8880F5-0827_4.brd                             )
+(    Drawing          : 8880F5-0827_nomatch.brd                       )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Thu Aug 27 05:56:53 2026                      )
+(    Date/Time        : Thu Aug 27 13:00:31 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,19 +19,19 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro'
 Design Directory:            'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT'
-Old design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0827_4.brd'
-New design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0827_5.brd'
+Old design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0827_nomatch.brd'
+New design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/8880F5-0827_chassign.brd'
 
-CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0827_4.brd D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0827_5.brd
+CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\allegro D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0827_nomatch.brd D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0827_chassign.brd
 
 ------ Preparing to read pst files ------
 
 Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/980HX-8880F5-KBG-A10/allegro/pstchip.dat 
-   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/980HX-8880F5-KBG-A10/allegro/pstchip.dat (00:00:00.07)
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/980HX-8880F5-KBG-A10/allegro/pstchip.dat (00:00:00.03)
 Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/980HX-8880F5-KBG-A10/allegro/pstxprt.dat 
    Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/980HX-8880F5-KBG-A10/allegro/pstxprt.dat (00:00:00.03)
 Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/980HX-8880F5-KBG-A10/allegro/pstxnet.dat 
-   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/980HX-8880F5-KBG-A10/allegro/pstxnet.dat (00:00:00.05)
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/980HX-8880F5-KBG-A10/allegro/pstxnet.dat (00:00:00.04)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -40,16 +40,16 @@ Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/980HX-88
 MODULEPATH =  . 
            C:/Cadence/SPB_16.6/share/local/pcb/modules 
 
-PSMPATH =  D:/iTest/Test Hardware/Live/Latest Bash/BRD/LIB/ 
+PSMPATH =  D:/iTest/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/LIB/ 
 
-PADPATH =  D:/iTest/Test Hardware/Live/Latest Bash/BRD/LIB/ 
+PADPATH =  D:/iTest/Test Hardware/980HX-8880F5-KBG-A10/8880F5-0817_PLACEMENT/LIB/ 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Aug 27 5:56:53 2026
-   DESIGN NAME : '980HX-8880F5-KBG-A10_20260810_V4A'
+netrev run on Aug 27 13:00:31 2026
+   DESIGN NAME : '980HX-8880F5-KBG-A10_20260810_V4A_20260827'
    PACKAGING ON Aug  3 2015 18:16:55
 
    COMPILE 'logic'
@@ -73,6 +73,6 @@ netrev run on Aug 27 5:56:53 2026
  No oversight detected
  No warning detected
 
-cpu time      0:13:58
-elapsed time  0:00:08
+cpu time      0:23:12
+elapsed time  0:00:14
 
