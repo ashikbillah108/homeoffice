@@ -13,9 +13,9 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Input Board File"
-       "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0825_3.brd")
+       "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0827_4.brd")
     ("Allegro Netlist Output Board File"
-       "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0825_4.brd")
+       "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\8880F5-0817_PLACEMENT\8880F5-0827_5.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -46,23 +46,211 @@
       (Path "Design Resources" ".\980hx-8880f5-kbg-a10_20260810_v4a.dsn")
       (Path "Design Resources" ".\980hx-8880f5-kbg-a10_20260810_v4a.dsn"
          "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\980hx-8880f5-kbg-a10_20260810_v4a.dsn"
+         "SCHEMATIC1" "P0043_S4_POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 413"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 275"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 399")
-        (Scroll "137 202")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1382 0 200")
+        (Scroll "959 869")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P0031_S3_DUT")))
-  (MPSSessionName "Ashik-iTest")
+      (Page "P0011_S1_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1408 26 226")
+        (Scroll "-87 348")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0012_S1_FLASH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 252")
+        (Scroll "632 1104")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0013_S1_POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1460 78 278")
+        (Scroll "959 869")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0021_S2_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1382 0 200")
+        (Scroll "-87 348")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0022_S2_FLASH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1408 26 226")
+        (Scroll "959 869")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0031_S3_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 252")
+        (Scroll "585 1046")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0023_S2_POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1460 78 278")
+        (Scroll "-87 348")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0032_S3_FLASH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1382 0 200")
+        (Scroll "632 1104")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0033_S3_POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1408 26 226")
+        (Scroll "959 869")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0041_S4_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 252")
+        (Scroll "-87 348")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0042_S4_FLASH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1460 78 278")
+        (Scroll "632 1104")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0043_S4_POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1382 0 200")
+        (Scroll "501 822")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T02.GROUP2.U3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1408 26 226")
+        (Scroll "1028 730")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T01.GROUP1.U2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 252")
+        (Scroll "1018 730")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T03.GROUP3.U1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1460 78 278")
+        (Scroll "493 780")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T05.GROUP4.U5"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1382 0 200")
+        (Scroll "-87 510")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S9999_MISC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1408 26 226")
+        (Scroll "873 730")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10\980HX-8880F5-KBG-A10_20260810_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T04.GROUP8.U4")))
   (PartMRUSelector))
