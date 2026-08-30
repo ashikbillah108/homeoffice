@@ -1,123 +1,20 @@
-\t (00:00:18) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:18)     Journal start - Thu Aug 27 19:02:33 2026
-\t (00:00:18)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=16100 CPUs=20
-\t (00:00:18) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:18) 
-\d (00:00:18) Design opened: D:/iTest/homeoffice/Test Hardware/980RI-TQ6749-18D-A10-0817_FINAL/980RI-TQ6749-18D-A10-0820_updates/980RI-TQ6749-18D-A10-0820/980RI-TQ6749-18D-A10-0825/TQ_Files/980RI-TQ6749-18D-A10-0827_ZARIF.brd
-\i (00:00:18) placementedit 
-\i (00:00:20) flipdesign 
-\i (00:00:21) zoom out 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom out 7755.12 679.61
-\i (00:00:21) trapsize 872
-\i (00:00:21) zoom out 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom out 7755.11 679.61
-\i (00:00:21) trapsize 1744
-\i (00:00:21) zoom out 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom out 7755.11 679.60
-\i (00:00:21) trapsize 3488
-\i (00:00:21) zoom out 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom out 7755.12 679.61
-\i (00:00:21) trapsize 6975
-\i (00:00:22) zoom out 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom out 7755.11 679.60
-\i (00:00:22) trapsize 13950
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in -670.96 1349.23
-\i (00:00:22) trapsize 6975
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in -670.96 1349.23
-\i (00:00:22) trapsize 3488
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -22.27 1691.02
-\i (00:00:23) trapsize 1744
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -22.27 1691.02
-\i (00:00:23) trapsize 872
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out -168.75 1753.80
-\i (00:00:24) trapsize 1744
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out -168.76 1753.80
-\i (00:00:24) trapsize 3488
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out -168.75 1753.80
-\i (00:00:24) trapsize 6975
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out 54.45 1307.40
-\i (00:00:24) trapsize 13950
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out 1198.38 637.77
-\i (00:00:24) trapsize 27901
-\i (00:00:30) setwindow form.vf_vis
-\i (00:00:30) FORM vf_vis colorview_list Film: TOP 
-\i (00:00:32) FORM vf_vis all_all_visible YES 
-\i (00:00:33) FORM vf_vis all_all_visible NO 
-\i (00:00:34) FORM vf_vis 1 all_colorvisible YES 
-\i (00:00:35) FORM vf_vis all_all_visible YES 
-\i (00:00:37) setwindow pcb
-\i (00:00:37) zoom in 1 
-\i (00:00:37) setwindow pcb
-\i (00:00:37) zoom in 1365.78 -980.48
-\i (00:00:37) trapsize 13950
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 1142.57 -1008.37
-\i (00:00:38) trapsize 27901
-\i (00:00:40) zoom fit 
-\i (00:00:40) trapsize 13956
-\i (00:00:45) reports 'Etch Length by Net Report' 
-\i (00:00:47) reports "Etch Length by Net Report"
-\i (00:00:47) placementedit 
-\i (00:00:50) setwindow text
-\i (00:00:50) close 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) prepopup 16132.79 7689.59
-\i (00:00:51) pick grid 16886.39 7968.70
-\t (00:00:51) last pick:  16886.39 7968.70
-\i (00:00:54) add connect 
-\t (00:00:55) Pick first element.
-\i (00:00:55) pick grid 18616.90 4423.96
-\t (00:00:55) last pick:  18616.90 4423.96
-\t (00:00:55) last pick:  18616.90 4423.96
-\i (00:00:55) prepopup 17919.12 8303.64
-\i (00:00:56) done 
-\i (00:00:56) placementedit 
-\i (00:00:57) save 
-\i (00:00:57) fillin no 
-\i (00:01:08) fillin "980RI-TQ6749-18D-A10-0827.brd"
-\i (00:01:09) placementedit 
-\i (00:01:13) reports 'Etch Length by Net Report' 
-\i (00:01:15) reports "Etch Length by Net Report"
-\i (00:01:15) placementedit 
-\i (00:01:56) setwindow text
-\i (00:01:56) close 
-\i (00:02:00) setwindow pcb
-\i (00:02:00) reports 'Etch Length by Layer and Width Report' 
-\i (00:02:00) reports "Etch Length by Layer and Width Report"
-\i (00:02:01) placementedit 
-\i (00:02:50) setwindow text
-\i (00:02:50) close 
-\i (00:02:51) setwindow pcb
-\i (00:02:51) trapsize 20114
-\i (00:02:52) trapsize 13956
-\i (00:02:53) zoom fit 
-\i (00:02:53) trapsize 13956
-\i (00:02:55) prepopup 19565.89 7438.39
-\i (00:02:56) pick grid 19565.89 8136.17
-\t (00:02:56) last pick:  19565.89 8136.17
-\i (00:02:56) exit 
-\t (00:02:56)     Journal end - Thu Aug 27 19:05:11 2026
+\t (00:00:04) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:04)     Journal start - Sun Aug 30 10:31:36 2026
+\t (00:00:04)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=17536 CPUs=20
+\t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:04) 
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 641
+\i (00:00:06) trapsize 629
+\i (00:00:06) trapsize 643
+\i (00:00:06) trapsize 648
+\i (00:00:06) trapsize 1069
+\i (00:00:06) placementedit 
+\i (00:00:08) open 
+\e (00:00:08) Do you want to save the changes you made to 980RI-TQ6749-18D-A10-0827.brd?
+\i (00:00:09) fillin no 
+\i (00:00:22) fillin "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\20260828\8880F5-0828_updatesclosed.brd"
+\i (00:00:22) cd "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\20260828"
+\t (00:00:22) Opening existing design...
+\i (00:00:23) trapsize 11289
+\t (00:00:23)     Journal end - Sun Aug 30 10:31:55 2026
