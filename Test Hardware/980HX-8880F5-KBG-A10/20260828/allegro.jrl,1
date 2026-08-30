@@ -1,0 +1,46 @@
+\t (00:00:03) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:03)     Journal start - Fri Aug 28 18:35:36 2026
+\t (00:00:03)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=7644 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 837
+\i (00:00:07) trapsize 817
+\i (00:00:07) trapsize 840
+\i (00:00:07) trapsize 850
+\i (00:00:07) trapsize 1468
+\i (00:00:08) placementedit 
+\i (00:00:09) open 
+\e (00:00:09) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:10) fillin no 
+\i (00:00:16) fillin "8880F5-0827_updates.brd"
+\t (00:00:16) Opening existing design...
+\i (00:00:17) trapsize 14741
+\d (00:00:17) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/20260828/8880F5-0827_updates.brd
+\i (00:00:18) placementedit 
+\i (00:00:21) dlib 
+\i (00:00:22) setwindow form.dlib
+\i (00:00:22) FORM dlib nodepend YES 
+\i (00:00:23) FORM dlib browse_export  
+\i (00:00:32) fillin "LIB"
+\i (00:00:34) FORM dlib execute  
+\t (00:00:34) Starting Cadence export libraries...
+\i (00:00:57) FORM dlib cancel  
+\i (00:00:57) setwindow pcb
+\i (00:00:57) placementedit 
+\i (00:01:00) enved 
+\i (00:01:01) placementedit 
+\i (00:01:03) setwindow form.prfedit
+\i (00:01:03) FORM prfedit treelist  Library Paths 
+\i (00:01:05) FORM prfedit padpath  
+\i (00:01:15) FORM prfedit psmpath  
+\i (00:01:18) FORM prfedit apply  
+\i (00:01:19) FORM prfedit done  
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom fit 
+\i (00:01:23) trapsize 14796
+\i (00:01:24) save 
+\i (00:01:24) fillin yes 
+\i (00:01:25) placementedit 
+\i (00:01:26) exit 
+\t (00:01:26)     Journal end - Fri Aug 28 18:36:59 2026
