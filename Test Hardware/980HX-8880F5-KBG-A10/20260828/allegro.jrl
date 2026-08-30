@@ -1,45 +1,25 @@
 \t (00:00:01) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:01)     Journal start - Sun Aug 30 17:59:08 2026
-\t (00:00:01)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=16940 CPUs=20
+\t (00:00:01)     Journal start - Sun Aug 30 18:08:18 2026
+\t (00:00:01)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=12208 CPUs=20
 \t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
 \t (00:00:01) 
-\t (00:00:04) Opening existing design...
-\d (00:00:05) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/20260828/8880F5-0830_1.brd
-\i (00:00:05) trapsize 10382
-\i (00:00:05) trapsize 10196
-\i (00:00:05) trapsize 10414
-\i (00:00:05) trapsize 10504
-\i (00:00:05) trapsize 10736
-\i (00:00:05) trapsize 10736
-\i (00:00:06) placementedit 
-\i (00:00:07) open 
-\i (00:00:09) fillin "8880F5-0830_1.brd"
-\t (00:00:09) Opening existing design...
-\i (00:00:09) trapsize 10736
-\d (00:00:10) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/20260828/8880F5-0830_1.brd
-\i (00:00:10) placementedit 
-\i (00:00:12) setwindow form.vf_vis
-\i (00:00:12) FORM vf_vis all_drc_visible YES 
-\i (00:00:13) FORM vf_vis all_all_visible YES 
-\i (00:00:14) FORM vf_vis all_drc_visible NO 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) tvision 
-\t (00:00:20) Choose items to add to or remove from the group.
-\i (00:00:21) drag_start grid -14933.62 -6409.32
-\i (00:00:21) drag_stop 10853.98 5056.60
-\t (00:00:23) 1780 net(s) added to Timing Vision group.
-\t (00:00:23) Choose items to add to or remove from the group.
-\i (00:00:24) prepopup 13688.26 3703.88
-\i (00:00:24) done 
-\i (00:00:24) placementedit 
-\i (00:00:27) setwindow form.vf_vis
-\i (00:00:27) FORM vf_vis all_drc_visible YES 
-\i (00:00:31) setwindow pcb
-\i (00:00:31) zoom fit 
-\i (00:00:31) trapsize 10736
-\i (00:00:32) save 
-\i (00:00:33) fillin no 
-\i (00:00:35) fillin "8880F5-0830.brd"
-\i (00:00:38) placementedit 
-\i (00:00:44) exit 
-\t (00:00:45)     Journal end - Sun Aug 30 17:59:52 2026
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 641
+\i (00:00:04) trapsize 629
+\i (00:00:04) trapsize 643
+\i (00:00:04) trapsize 648
+\i (00:00:04) trapsize 662
+\i (00:00:04) trapsize 1069
+\i (00:00:05) placementedit 
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 13856.6 8981.1
+\i (00:00:06) trapsize 1069
+\i (00:00:08) open 
+\e (00:00:08) Do you want to save the changes you made to 8880F5-0830.brd?
+\i (00:00:08) fillin no 
+\i (00:00:53) fillin "C:\Users\Ashik-iTest\Pictures\Screenshots\8880F5-0830\8880F5-0830.brd"
+\i (00:00:53) cd "C:\Users\Ashik-iTest\Pictures\Screenshots\8880F5-0830"
+\t (00:00:53) Opening existing design...
+\i (00:00:53) trapsize 10736
+\t (00:00:53)     Journal end - Sun Aug 30 18:09:10 2026
