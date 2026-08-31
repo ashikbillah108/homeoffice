@@ -1,0 +1,39 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/F5_Files/8880F5-0830_2.brd         |
+|                                                    Mon Aug 31 14:52:39 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_AVDD11_RX net RENAMED (to net name listed on right)           S1_DPS_F_005 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AVDD11_XTAL net RENAMED (to net name listed on right)           S1_DPS_F_008 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AVDD18_RX net RENAMED (to net name listed on right)           S1_DPS_F_004 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_AVDD11_RX net RENAMED (to net name listed on right)           S2_DPS_F_005 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_AVDD11_XTAL net RENAMED (to net name listed on right)           S2_DPS_F_008 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_AVDD18_RX net RENAMED (to net name listed on right)           S2_DPS_F_004 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_AVDD11_RX net RENAMED (to net name listed on right)           S3_DPS_F_005 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_AVDD11_XTAL net RENAMED (to net name listed on right)           S3_DPS_F_008 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_AVDD18_RX net RENAMED (to net name listed on right)           S3_DPS_F_004 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_AVDD11_RX net RENAMED (to net name listed on right)           S4_DPS_F_005 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_AVDD11_XTAL net RENAMED (to net name listed on right)           S4_DPS_F_008 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_AVDD18_RX net RENAMED (to net name listed on right)           S4_DPS_F_004 
+|------------------------------------------------------------------------------|
+|       Nets changed          :      12                                        |
+|                                                                              |
+|   Total ECO changes reported:      12                                        |
+|------------------------------------------------------------------------------|

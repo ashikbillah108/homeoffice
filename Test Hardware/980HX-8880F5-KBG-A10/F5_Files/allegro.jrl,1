@@ -1,0 +1,43 @@
+\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:00)     Journal start - Mon Aug 31 14:52:40 2026
+\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=7100 CPUs=20
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -mpssession Ashik-iTest D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\F5_Files\8880F5-0831.brd
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_Files/8880F5-0831.brd
+\i (00:00:04) trapsize 10382
+\i (00:00:04) trapsize 10196
+\i (00:00:04) trapsize 10414
+\i (00:00:04) trapsize 10504
+\i (00:00:04) trapsize 10736
+\i (00:00:04) trapsize 10736
+\i (00:00:05) placementedit 
+\i (00:00:07) setwindow form.vf_vis
+\i (00:00:07) FORM vf_vis 11 etch_colorvisible 1 
+\i (00:00:07) FORM vf_vis 11 etch_colorvisible 0 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) rats net 
+\i (00:00:17) setwindow form.find
+\i (00:00:17) FORM find name_type Net 
+\i (00:00:19) FORM find find_by_name  
+\i (00:00:24) setwindow form.findname
+\i (00:00:24) FORM findname namefilter *dps_f_* 
+\i (00:00:25) FORM findname all_right  
+\i (00:00:26) FORM findname select  
+\t (00:00:26) Ratsnest shown for net S1_DPS_F_001
+\t (00:00:26) Ratsnest shown for net S1_DPS_F_002
+\i (00:00:27) FORM findname select  
+\t (00:00:27) Ratsnest shown for net S1_DPS_F_001
+\t (00:00:27) Ratsnest shown for net S1_DPS_F_002
+\i (00:00:28) FORM findname done  
+\i (00:00:29) setwindow pcb
+\i (00:00:29) prepopup -15835.43 6860.23
+\i (00:00:30) done 
+\i (00:00:30) placementedit 
+\i (00:00:32) unrats all 
+\i (00:00:32) placementedit 
+\i (00:00:33) save 
+\i (00:00:34) fillin yes 
+\i (00:00:35) placementedit 
+\i (00:00:40) exit 
+\t (00:00:40)     Journal end - Mon Aug 31 14:53:20 2026

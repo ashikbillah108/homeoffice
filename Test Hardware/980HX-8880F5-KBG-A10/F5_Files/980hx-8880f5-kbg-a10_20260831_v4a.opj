@@ -1,0 +1,81 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980hx-8880f5-kbg-a10_20260831_v4a.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\F5_Files\8880F5-0830_2.brd")
+    ("Allegro Netlist Output Board File"
+       "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\F5_Files\8880F5-0831.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "TRUE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (NoModify))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\980hx-8880f5-kbg-a10_20260831_v4a.dsn")
+      (Path "Design Resources" ".\980hx-8880f5-kbg-a10_20260831_v4a.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\980hx-8880f5-kbg-a10_20260831_v4a.dsn"
+         "SCHEMATIC1" "P0013_S1_POWER"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 409"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1717 52 504")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\F5_FILES\980HX-8880F5-KBG-A10_20260831_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0011_S1_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1743 78 530")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\F5_FILES\980HX-8880F5-KBG-A10_20260831_V4A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0013_S1_POWER")))
+  (MPSSessionName "Ashik-iTest"))

@@ -1,0 +1,276 @@
+\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:00)     Journal start - Mon Aug 31 15:42:20 2026
+\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=5024 CPUs=20
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:04) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_Files/8880F5-0831.brd
+\i (00:00:04) trapsize 10382
+\i (00:00:04) trapsize 10196
+\i (00:00:04) trapsize 10414
+\i (00:00:04) trapsize 10504
+\i (00:00:04) trapsize 10736
+\i (00:00:04) trapsize 10736
+\i (00:00:05) placementedit 
+\i (00:00:15) setwindow form.vf_vis
+\i (00:00:15) FORM vf_vis 11 all_colorvisible YES 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) assign color 
+\i (00:00:26) xNet S1_Dps_F_002 
+\i (00:00:26) xname_flush 
+\i (00:00:26) trapsize 2116
+\t (00:00:27) Net "S1_Dps_F_002" assigned color.
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -6054.28 1213.46
+\i (00:00:27) trapsize 4233
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -6054.28 1213.45
+\i (00:00:28) trapsize 8465
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out -6054.28 1213.46
+\i (00:00:28) trapsize 16931
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -6054.28 1213.46
+\i (00:00:28) trapsize 8465
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -6054.28 1213.46
+\i (00:00:28) trapsize 4233
+\i (00:00:33) prepopup -5529.42 3101.27
+\i (00:00:33) oops 
+\i (00:00:38) xNet S1_M_Dps_F_001 
+\i (00:00:38) xname_flush 
+\i (00:00:38) trapsize 2159
+\t (00:00:38) Net "S1_M_Dps_F_001" assigned color.
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -5134.19 1179.90
+\i (00:00:39) trapsize 4317
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -5134.21 1179.91
+\i (00:00:39) trapsize 8634
+\i (00:00:47) xNet S1_Dps_F_007 
+\i (00:00:47) xname_flush 
+\i (00:00:47) trapsize 1407
+\t (00:00:47) Net "S1_Dps_F_007" assigned color.
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out -3153.72 2028.81
+\i (00:00:47) trapsize 2814
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out -3153.73 2028.80
+\i (00:00:47) trapsize 5628
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out -3153.72 2028.80
+\i (00:00:47) trapsize 11257
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out -3153.72 2028.80
+\i (00:00:48) trapsize 22514
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in -3378.86 2344.00
+\i (00:00:48) trapsize 11257
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in -3378.86 2344.00
+\i (00:00:48) trapsize 5628
+\i (00:00:49) prepopup -3502.68 3447.17
+\i (00:00:50) cancel 
+\i (00:00:50) placementedit 
+\i (00:00:51) setwindow form.vf_vis
+\i (00:00:51) FORM vf_vis 11 all_colorvisible NO 
+\i (00:00:53) FORM vf_vis 13 all_colorvisible YES 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) assign color 
+\i (00:01:17) xNet S1_Dps_F_011 
+\i (00:01:17) xname_flush 
+\i (00:01:17) trapsize 1372
+\t (00:01:17) Net "S1_Dps_F_011" assigned color.
+\i (00:01:26) xNet S1_Dps_F_006 
+\i (00:01:26) xname_flush 
+\i (00:01:26) trapsize 1550
+\t (00:01:26) Net "S1_Dps_F_006" assigned color.
+\i (00:01:27) prepopup -2049.01 2014.27
+\i (00:01:28) cancel 
+\i (00:01:28) placementedit 
+\i (00:01:29) setwindow form.vf_vis
+\i (00:01:29) FORM vf_vis 13 all_colorvisible NO 
+\i (00:01:30) FORM vf_vis 15 all_colorvisible YES 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out -2600.97 2029.78
+\i (00:01:32) trapsize 3101
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out -2600.98 2029.77
+\i (00:01:32) trapsize 6202
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out -2600.97 2029.78
+\i (00:01:32) trapsize 12404
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out -2600.98 2029.78
+\i (00:01:32) trapsize 24807
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in -5131.33 -2534.80
+\i (00:01:32) trapsize 12404
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in -5131.33 -2534.80
+\i (00:01:32) trapsize 6202
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in -3072.30 -116.07
+\i (00:01:33) trapsize 3101
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out -3090.91 -320.73
+\i (00:01:33) trapsize 6202
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out -3090.91 -345.53
+\i (00:01:33) trapsize 12404
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in -2991.67 2308.87
+\i (00:01:34) trapsize 6202
+\i (00:02:03) assign color 
+\i (00:02:05) xNet S1_Dps_F_012 
+\i (00:02:05) xname_flush 
+\i (00:02:06) trapsize 1386
+\t (00:02:06) Net "S1_Dps_F_012" assigned color.
+\i (00:02:15) xNet S1_Dps_F_008 
+\i (00:02:15) xname_flush 
+\i (00:02:15) trapsize 1338
+\t (00:02:15) Net "S1_Dps_F_008" assigned color.
+\i (00:02:16) prepopup -3799.28 1658.70
+\i (00:02:17) cancel 
+\i (00:02:17) placementedit 
+\i (00:02:21) setwindow form.vf_vis
+\i (00:02:21) FORM vf_vis 15 all_colorvisible NO 
+\i (00:02:23) FORM vf_vis 20 all_colorvisible YES 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out -3296.27 1878.10
+\i (00:02:24) trapsize 2676
+\i (00:02:24) zoom out 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out -3296.26 1878.11
+\i (00:02:24) trapsize 5351
+\i (00:02:24) zoom out 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out -3296.26 1878.10
+\i (00:02:24) trapsize 10702
+\i (00:02:24) zoom in 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom in -2054.76 1107.53
+\i (00:02:24) trapsize 5351
+\i (00:02:27) assign color 
+\i (00:02:38) xNet S1_Dps_F_009 
+\i (00:02:38) xname_flush 
+\i (00:02:38) trapsize 818
+\t (00:02:38) Net "S1_Dps_F_009" assigned color.
+\i (00:02:39) xNet S1_Dps_F_010 
+\i (00:02:39) xname_flush 
+\i (00:02:39) trapsize 887
+\t (00:02:39) Net "S1_Dps_F_010" assigned color.
+\i (00:02:40) prepopup -3759.67 2153.51
+\i (00:02:41) cancel 
+\i (00:02:41) placementedit 
+\i (00:02:42) setwindow form.vf_vis
+\i (00:02:42) FORM vf_vis 20 all_colorvisible NO 
+\i (00:02:43) FORM vf_vis 22 all_colorvisible YES 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) assign color 
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out -2940.42 2229.76
+\i (00:02:59) trapsize 1773
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out -2940.42 2229.76
+\i (00:02:59) trapsize 3547
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out -2940.41 2229.76
+\i (00:02:59) trapsize 7093
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out -2940.42 2229.77
+\i (00:02:59) trapsize 14186
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in -2855.31 839.51
+\i (00:02:59) trapsize 7093
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in -2855.30 839.51
+\i (00:02:59) trapsize 3547
+\i (00:03:02) xNet S1_Dps_F_004 
+\i (00:03:02) xname_flush 
+\i (00:03:02) trapsize 1589
+\t (00:03:02) Net "S1_Dps_F_004" assigned color.
+\i (00:03:03) xNet S1_Dps_F_005 
+\i (00:03:03) xname_flush 
+\i (00:03:03) trapsize 1803
+\t (00:03:03) Net "S1_Dps_F_005" assigned color.
+\i (00:03:04) prepopup -4067.18 1598.10
+\i (00:03:05) cancel 
+\i (00:03:05) placementedit 
+\i (00:03:13) setwindow form.vf_vis
+\i (00:03:13) FORM vf_vis 22 all_colorvisible NO 
+\i (00:03:14) FORM vf_vis 24 all_colorvisible YES 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) show measure 
+\i (00:03:17) assign color 
+\i (00:03:18) zoom out 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom out -2905.79 1399.73
+\i (00:03:18) trapsize 3607
+\i (00:03:18) zoom out 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom out -2905.79 1399.72
+\i (00:03:18) trapsize 7214
+\i (00:03:18) zoom out 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom out -2905.78 1399.72
+\i (00:03:18) trapsize 14427
+\i (00:03:18) zoom in 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in -3194.32 -995.19
+\i (00:03:18) trapsize 7214
+\i (00:03:18) zoom in 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in -3194.32 -995.18
+\i (00:03:18) trapsize 3607
+\i (00:03:22) xrefdes Sh1 
+\i (00:03:22) xname_flush 
+\i (00:03:22) trapsize 122
+\t (00:03:22) Symbol "Sh1" assigned color.
+\i (00:03:25) prepopup -7815.33 2334.04
+\i (00:03:26) oops 
+\i (00:03:28) xNet S1_Dps_F_002 
+\i (00:03:28) xname_flush 
+\i (00:03:28) trapsize 2116
+\t (00:03:28) Net "S1_Dps_F_002" assigned color.
+\i (00:03:29) xNet S1_Dps_F_003 
+\i (00:03:29) xname_flush 
+\i (00:03:29) trapsize 2708
+\t (00:03:29) Net "S1_Dps_F_003" assigned color.
+\i (00:03:30) prepopup -6241.02 2031.37
+\i (00:03:30) cancel 
+\i (00:03:31) placementedit 
+\i (00:03:31) exit 
+\t (00:03:31)     Journal end - Mon Aug 31 15:45:51 2026
