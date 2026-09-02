@@ -1,0 +1,357 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Wed Sep 02 13:05:33 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_PowerUpdates/8880F5-0902_PowerUpdate.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  SQ040_060_026 being dumped.
+
+  SQ064_060_041 being dumped.
+
+  SQ070_050_028 being dumped.
+
+  SQ060_042_028 being dumped.
+
+  FD_RD040_M100 being dumped.
+
+  030X070H being dumped.
+
+  024X070H being dumped.
+
+  RD070_B being dumped.
+
+  RD064_B being dumped.
+
+  037X045H being dumped.
+
+  032X100V being dumped.
+
+  043X100V being dumped.
+
+  032X124V being dumped.
+
+  032X071V being dumped.
+
+  030X075V being dumped.
+
+  052X072V being dumped.
+
+  044X054V being dumped.
+
+  SQ064_B being dumped.
+
+  045X075V being dumped.
+
+  048X056V being dumped.
+
+  079X098V being dumped.
+
+  VRD020_012_S22 being dumped.
+
+  VRD022_012_S24 being dumped.
+
+  RD060_040 being dumped.
+
+  SHORT_1 being dumped.
+
+  SQ060_040 being dumped.
+
+  PG_SC_NPTH126 being dumped.
+
+  SK_3X0P28MM_V being dumped.
+
+  0402_SQ024 being dumped.
+
+  SK_OB0P28X3MMV being dumped.
+
+  VRD022_012 being dumped.
+
+  012X014V_M014X016 being dumped.
+
+  RD060_050_070_012 being dumped.
+
+  RD060_050_070_028 being dumped.
+
+  RD050_036_064_026 being dumped.
+
+  RD_220_118 being dumped.
+
+  PG_93K_NPTH6MM being dumped.
+
+  SQ060_050_070_028 being dumped.
+
+  SQ050_036_064_026 being dumped.
+
+  SK_VRD024_012P01 being dumped.
+
+  RD002 being dumped.
+
+  PG_RD070_B being dumped.
+
+  TP040 being dumped.
+
+  SQ060 being dumped.
+
+  SQ035 being dumped.
+
+  SK_NPTH064 being dumped.
+
+  PG_SQ070_B being dumped.
+
+  SK_SQ8_MM being dumped.
+
+  TP040_014P01 being dumped.
+
+  SK_SQ7P1MM being dumped.
+
+  M5_RD434_276 being dumped.
+
+  M3_RD276_169 being dumped.
+
+  RD040_060_026 being dumped.
+
+  RD064_060_041 being dumped.
+
+  RD060_050_028 being dumped.
+
+  M5_RD398_276 being dumped.
+
+  RD070_050_028 being dumped.
+
+  RD060_042_028 being dumped.
+
+  RD060_028_016 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  p_sq024 being dumped.
+
+  m_sq028 being dumped.
+
+  ate_clearance being dumped.
+
+  p_sh being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  thrr4x042x028x015x0 being dumped.
+
+  thrr4x058x044x020x0 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  pg_vg93k_f_hsm_g3d117_517_nd being dumped.
+
+  dip8_300x100_rlpin being dumped.
+
+  socket_code being dumped.
+
+  code_a being dumped.
+
+  pg_vg93k_f_g1dps1 being dumped.
+
+  pg_vg93k_f_g2dps2 being dumped.
+
+  pg_vg93k_f_g3dps3 being dumped.
+
+  pg_vg93k_f_g1uti2 being dumped.
+
+  pg_vg93k_f_g3uti1 being dumped.
+
+  pg_vg93k_f_g8dps8 being dumped.
+
+  pg_vg93k_f_g2uti3 being dumped.
+
+  so8_215x127mm being dumped.
+
+  pg_vg93k_f_g4uti5 being dumped.
+
+  pg_vg93k_f_g5uti6 being dumped.
+
+  pg_vg93k_f_g8uti4 being dumped.
+
+  pg_vg93k_f_g6uti7 being dumped.
+
+  pg_vg93k_f_g7uti8 being dumped.
+
+  pg_vg93k_f_fulloutline being dumped.
+
+  pg_vg93k_pf_dps32_g8d225 being dumped.
+
+  pg_vg93k_pf_dps32_g8d425 being dumped.
+
+  rl_necub2_5v being dumped.
+
+  pg_vg93k_pf_dps32_g8d229 being dumped.
+
+  pg_vg93k_pf_dps32_g8d429 being dumped.
+
+  socket_base_140x140_565100 being dumped.
+
+  led_0805 being dumped.
+
+  tpl_040_014_tb being dumped.
+
+  logo_kt_ksmt being dumped.
+
+  tp_040_t being dumped.
+
+  pcb_code being dumped.
+
+  fd_040_v2 being dumped.
+
+  jp_2p_100 being dumped.
+
+  jp_3p_100 being dumped.
+
+  logo_hx_himax being dumped.
+
+  pg_vg93k_f_pssl_g2d313_nd being dumped.
+
+  pg_vg93k_f_pssl_g2d309_nd being dumped.
+
+  rl_g6k2frt_8p_5v_gr being dumped.
+
+  xtal_3p2x2p5mm_4p_txc_0201 being dumped.
+
+  c0201 being dumped.
+
+  c0402 being dumped.
+
+  c0603 being dumped.
+
+  c1206 being dumped.
+
+  chip_code being dumped.
+
+  c0805 being dumped.
+
+  r0402 being dumped.
+
+  default_short_small being dumped.
+
+  r0603 being dumped.
+
+  xtal_2x2p5mm_4p being dumped.
+
+  rl_necua2_5v_v3 being dumped.
+
+  jp_4p_100_r90_v1 being dumped.
+
+  sk_lqfp176p_0p4mm_jg_hx8880 being dumped.
+
+  fb0805 being dumped.
+
+  rl_necec2_10p_5v being dumped.
+
+  pg_vg93k_f_g1d102 being dumped.
+
+  pg_vg93k_f_g2d110 being dumped.
+
+  pg_vg93k_f_g1d103 being dumped.
+
+  pg_vg93k_f_g2d111 being dumped.
+
+  pg_vg93k_f_g1d301 being dumped.
+
+  pg_vg93k_f_g1d104 being dumped.
+
+  pg_vg93k_f_g2d112 being dumped.
+
+  pg_vg93k_f_g3d120 being dumped.
+
+  pg_vg93k_f_g1d302 being dumped.
+
+  pg_vg93k_f_g2d113 being dumped.
+
+  pg_vg93k_f_g1d106 being dumped.
+
+  pg_vg93k_f_g2d114 being dumped.
+
+  pg_vg93k_f_g3d122 being dumped.
+
+  pg_vg93k_f_g4d130 being dumped.
+
+  pg_vg93k_f_g1d107 being dumped.
+
+  pg_vg93k_f_g2d115 being dumped.
+
+  pg_vg93k_f_g3d123 being dumped.
+
+  pg_vg93k_f_g4d131 being dumped.
+
+  pg_vg93k_f_g1d305 being dumped.
+
+  pg_vg93k_f_g3d321 being dumped.
+
+  pg_vg93k_f_g1d108 being dumped.
+
+  pg_vg93k_f_g2d116 being dumped.
+
+  pg_vg93k_f_g3d124 being dumped.
+
+  pg_vg93k_f_g4d132 being dumped.
+
+  pg_vg93k_f_g1d306 being dumped.
+
+  pg_vg93k_f_g3d322 being dumped.
+
+  pg_vg93k_f_g2d109 being dumped.
+
+  pg_vg93k_f_g4d125 being dumped.
+
+  pg_vg93k_f_g3d118 being dumped.
+
+  pg_vg93k_f_g4d126 being dumped.
+
+  pg_vg93k_f_g3d119 being dumped.
+
+  pg_vg93k_f_g4d127 being dumped.
+
+  pg_vg93k_f_g8d231 being dumped.
+
+  pg_vg93k_f_hsm_g1d101_501_nd being dumped.
+
+  pg_vg93k_f_g3d317 being dumped.
+
+  pg_vg93k_f_g4d128 being dumped.
+
+  pg_vg93k_f_g3d318 being dumped.
+
+  pg_vg93k_f_g4d129 being dumped.
+
+  pg_vg93k_f_g8d431 being dumped.
+
+  pg_vg93k_f_hsm_g3d121_521_nd being dumped.
+
+  pg_vg93k_f_hsm_g1d105_505_nd being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               59
+Number of package symbols dumped:         93
+Number of shape symbols dumped:            4
+Number of flash symbols dumped:            2
+
+Total number of symbols dumped:           99
+*****************************************************
+
