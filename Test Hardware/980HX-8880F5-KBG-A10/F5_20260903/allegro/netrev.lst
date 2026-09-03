@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : 8880F5-0903_Test.brd                          )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Thu Sep 03 14:10:25 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\F5_20260903\allegro'
+Design Directory:            'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_20260903'
+Old design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_20260903/8880F5-0903_Test.brd'
+New design name:             'D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_20260903/8880F5-0903_Test_1.brd'
+
+CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\F5_20260903\allegro D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\F5_20260903\8880F5-0903_Test.brd D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\F5_20260903\8880F5-0903_Test_1.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/F5_20260903/allegro/pstchip.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/F5_20260903/allegro/pstchip.dat (00:00:00.03)
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/F5_20260903/allegro/pstxprt.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/F5_20260903/allegro/pstxprt.dat (00:00:00.03)
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/F5_20260903/allegro/pstxnet.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980HX-8880F5-KBG-A10/F5_20260903/allegro/pstxnet.dat (00:00:00.04)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_20260903/LIB/ 
+
+PADPATH =  D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_20260903/LIB/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Sep 3 14:10:25 2026
+   DESIGN NAME : '980HX-8880F5-KBG-A10_20260831_V4A'
+   PACKAGING ON Aug  3 2015 18:16:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:20:27
+elapsed time  0:00:12
+
