@@ -1,0 +1,48 @@
+\t (00:00:03) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:03)     Journal start - Sun Sep 06 09:02:11 2026
+\t (00:00:03)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=15220 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:06) Opening existing design...
+\d (00:00:08) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_20260905/8880F5-0906_1.brd
+\i (00:00:10) trapsize 14572
+\i (00:00:10) trapsize 14232
+\i (00:00:10) trapsize 14630
+\i (00:00:10) trapsize 14796
+\i (00:00:10) trapsize 14796
+\i (00:00:12) generaledit 
+\i (00:00:15) open 
+\i (00:00:17) fillin "8880F5-0906_1.brd"
+\t (00:00:17) Opening existing design...
+\i (00:00:18) trapsize 14796
+\d (00:00:18) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/F5_20260905/8880F5-0906_1.brd
+\i (00:00:19) generaledit 
+\i (00:00:20) dehilight 
+\i (00:00:22) setwindow form.mini
+\i (00:00:22) FORM mini dhlt_all  
+\t (00:00:22) Net "Csdps429p9" dehighlighted.
+\t (00:00:22) Net "Csdps425p14" dehighlighted.
+\t (00:00:22) Net "Csdps429p6" dehighlighted.
+\t (00:00:22) Net "Ut1_Up5v" dehighlighted.
+\t (00:00:22) Net "Csdps425p7" dehighlighted.
+\i (00:00:23) setwindow pcb
+\i (00:00:23) prepopup 12813.14 4808.62
+\i (00:00:23) done 
+\i (00:00:23) generaledit 
+\i (00:00:26) setwindow form.vf_vis
+\i (00:00:26) FORM vf_vis all_all_visible YES 
+\i (00:00:27) FORM vf_vis all_drc_visible NO 
+\i (00:00:30) FORM vf_vis all_plan_visible NO 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) save 
+\i (00:00:34) fillin no 
+\i (00:00:39) fillin "8880F5-0906_updates.brd"
+\i (00:00:39) generaledit 
+\i (00:00:45) reports 'Etch Length by Net Report' 
+\i (00:01:24) reports "Etch Length by Net Report"
+\i (00:01:25) generaledit 
+\i (00:01:41) setwindow text
+\i (00:01:41) close 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) exit 
+\t (00:01:43)     Journal end - Sun Sep 06 09:03:50 2026

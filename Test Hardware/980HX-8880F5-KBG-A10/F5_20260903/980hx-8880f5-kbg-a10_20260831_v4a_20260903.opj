@@ -1,0 +1,62 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980hx-8880f5-kbg-a10_20260831_v4a_20260903.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         ".\980hx-8880f5-kbg-a10_20260831_v4a_20260903.dsn")
+      (Path "Design Resources"
+         ".\980hx-8880f5-kbg-a10_20260831_v4a_20260903.dsn" "SCHEMATIC1")
+      (Select "Design Resources"
+         ".\980hx-8880f5-kbg-a10_20260831_v4a_20260903.dsn" "SCHEMATIC1"
+         "P0011_S1_DUT"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 275"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 366")
+        (Scroll "0 1218")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\F5_20260903\980HX-8880F5-KBG-A10_20260831_V4A_20260903.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0021_S2_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 392")
+        (Scroll "0 1494")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\F5_20260903\980HX-8880F5-KBG-A10_20260831_V4A_20260903.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0013_S1_POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 418")
+        (Scroll "0 1236")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980HX-8880F5-KBG-A10\F5_20260903\980HX-8880F5-KBG-A10_20260831_V4A_20260903.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0011_S1_DUT"))))
