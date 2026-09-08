@@ -1,0 +1,250 @@
+\t (00:00:01) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:01)     Journal start - Tue Sep 08 14:39:06 2026
+\t (00:00:01)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=31852 CPUs=20
+\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:05) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/20260908/8880F5-0908_2.brd
+\i (00:00:05) trapsize 10382
+\i (00:00:05) trapsize 10196
+\i (00:00:05) trapsize 10414
+\i (00:00:05) trapsize 10504
+\i (00:00:05) trapsize 10736
+\i (00:00:05) trapsize 10736
+\i (00:00:06) placementedit 
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -7676.16 -10.74
+\i (00:00:08) trapsize 5368
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -7676.16 -10.73
+\i (00:00:08) trapsize 2684
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -7676.15 -10.73
+\i (00:00:08) trapsize 1342
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -7262.82 120.79
+\i (00:00:09) trapsize 671
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -7262.82 122.14
+\i (00:00:09) trapsize 335
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -7075.61 157.71
+\i (00:00:09) trapsize 168
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -7075.61 157.71
+\i (00:00:10) trapsize 84
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -7075.61 157.71
+\i (00:00:10) trapsize 42
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -7075.61 157.72
+\i (00:00:10) trapsize 84
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -7075.61 157.71
+\i (00:00:10) trapsize 168
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -7075.60 157.72
+\i (00:00:10) trapsize 335
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -7075.59 157.72
+\i (00:00:10) trapsize 671
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -7075.60 157.72
+\i (00:00:10) trapsize 1342
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -7075.60 157.71
+\i (00:00:10) trapsize 2684
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -7075.60 157.72
+\i (00:00:10) trapsize 5368
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -7075.60 157.71
+\i (00:00:10) trapsize 10736
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -7075.59 157.72
+\i (00:00:10) trapsize 21472
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -7075.59 157.72
+\i (00:00:11) trapsize 42944
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 1017.23 -2504.80
+\i (00:00:11) trapsize 21472
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 1017.24 -2504.80
+\i (00:00:11) trapsize 10736
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 5762.53 308.02
+\i (00:00:12) trapsize 5368
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 5762.53 308.02
+\i (00:00:12) trapsize 2684
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 6540.89 -1361.42
+\i (00:00:13) trapsize 1342
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 6546.26 -1361.42
+\i (00:00:13) trapsize 671
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 5306.26 -1232.58
+\i (00:00:13) trapsize 335
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 5306.93 -1235.26
+\i (00:00:13) trapsize 168
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 5542.79 -1216.47
+\i (00:00:14) trapsize 335
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 5542.79 -1216.46
+\i (00:00:14) trapsize 671
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 5542.79 -1216.47
+\i (00:00:14) trapsize 1342
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 5542.79 -1216.47
+\i (00:00:14) trapsize 2684
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 5639.41 -1200.36
+\i (00:00:14) trapsize 5368
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 5639.41 -1200.36
+\i (00:00:14) trapsize 10736
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 5639.41 -1200.36
+\i (00:00:14) trapsize 21472
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -4581.21 -899.76
+\i (00:00:16) trapsize 10736
+\i (00:00:20) open 
+\i (00:00:24) fillin "8880F5-0908_2.brd"
+\t (00:00:24) Opening existing design...
+\i (00:00:24) trapsize 10736
+\d (00:00:25) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/20260908/8880F5-0908_2.brd
+\i (00:00:25) placementedit 
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 6688.46 -891.08
+\i (00:00:26) trapsize 5368
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 6688.46 -891.07
+\i (00:00:26) trapsize 2684
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 6688.46 -891.07
+\i (00:00:26) trapsize 1342
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 5290.11 -1226.56
+\i (00:00:26) trapsize 671
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 5290.11 -1226.56
+\i (00:00:26) trapsize 335
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 5290.11 -1226.56
+\i (00:00:27) trapsize 168
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 5379.36 -1212.47
+\i (00:00:27) trapsize 84
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 5379.36 -1212.46
+\i (00:00:27) trapsize 42
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 5379.36 -1212.46
+\i (00:00:28) trapsize 84
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 5379.36 -1212.46
+\i (00:00:28) trapsize 168
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 5379.36 -1212.47
+\i (00:00:28) trapsize 335
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 5379.36 -1212.47
+\i (00:00:29) trapsize 671
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 5379.35 -1212.47
+\i (00:00:29) trapsize 1342
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 5379.36 -1212.46
+\i (00:00:29) trapsize 2684
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 5379.35 -1212.46
+\i (00:00:29) trapsize 5368
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 6742.82 -1588.22
+\i (00:00:30) trapsize 2684
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 6710.62 -1013.85
+\i (00:00:30) trapsize 5368
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 6710.61 -1013.85
+\i (00:00:30) trapsize 10736
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 226.10 -6854.20
+\i (00:00:31) trapsize 5368
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 2137.10 -5372.63
+\i (00:00:31) trapsize 10736
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 2137.11 -5372.64
+\i (00:00:31) trapsize 21472
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in -3230.87 -6231.51
+\i (00:00:32) trapsize 10736
+\i (00:00:38) open 
+\i (00:00:42) fillin "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\Final\8880F5-0908_2.brd"
+\i (00:00:42) cd "D:\iTest\homeoffice\Test Hardware\980HX-8880F5-KBG-A10\Final"
+\t (00:00:42) Opening existing design...
+\i (00:00:43) trapsize 10736
+\t (00:00:43)     Journal end - Tue Sep 08 14:39:48 2026

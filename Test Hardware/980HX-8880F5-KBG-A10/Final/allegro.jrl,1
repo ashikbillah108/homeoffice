@@ -1,0 +1,38 @@
+\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:00)     Journal start - Tue Sep 08 14:45:50 2026
+\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=23884 CPUs=20
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd
+\i (00:00:04) trapsize 10382
+\i (00:00:04) trapsize 10196
+\i (00:00:04) trapsize 10414
+\i (00:00:04) trapsize 10504
+\i (00:00:04) trapsize 10736
+\i (00:00:04) trapsize 10736
+\i (00:00:04) placementedit 
+\i (00:00:09) dlib 
+\i (00:00:10) setwindow form.dlib
+\i (00:00:10) FORM dlib nodepend YES 
+\i (00:00:11) FORM dlib browse_export  
+\i (00:00:17) fillin "LIB"
+\i (00:00:18) FORM dlib execute  
+\t (00:00:18) Starting Cadence export libraries...
+\i (00:00:26) FORM dlib cancel  
+\i (00:00:26) setwindow pcb
+\i (00:00:26) placementedit 
+\i (00:00:28) enved 
+\i (00:00:29) placementedit 
+\i (00:00:30) setwindow form.prfedit
+\i (00:00:30) FORM prfedit treelist  Library Paths 
+\i (00:00:32) FORM prfedit padpath  
+\i (00:00:39) FORM prfedit psmpath  
+\i (00:00:42) FORM prfedit apply  
+\i (00:00:43) FORM prfedit done  
+\i (00:00:44) setwindow pcb
+\i (00:00:44) save 
+\i (00:00:45) fillin yes 
+\i (00:00:46) placementedit 
+\i (00:00:46) exit 
+\t (00:00:46)     Journal end - Tue Sep 08 14:46:37 2026
