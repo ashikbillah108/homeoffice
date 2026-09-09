@@ -2,1349 +2,611 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S1_AUX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
-                                 K9.2            -2727.0  835.75
-                                                                         D12405
+  S1_DCH041    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.159       -2027.5 1110.23
+                                                                         D12609
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_AUX_100DCH001- pins MOVED FROM this net (to net name listed on right)
-                                 K9.7            -2852.9  835.75
-                                                                         D12407
+  S1_DCH042    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.160       -2027.5 1094.49
+                                                                         D12605
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_AUX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
-                                 C3.2            -4180.3 -3290.0
-                                                                         D12402
+  S1_DCH043    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.161       -2027.5 1078.74
+                                                                         D12607
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_AUX_100DCH002- pins MOVED FROM this net (to net name listed on right)
-                                 C4.2            -4319.6 -3290.0
-                                                                         D12404
+  S1_DCH044    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.163       -2027.5 1047.24
+                                                                         D13012
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH001 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.18        -1645.6  728.34
-                                                                         D31701
+  S1_DCH045    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.164       -2027.5 1031.49
+                                                                         D13105
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH002 pins MOVED FROM this net (to net name listed on right)
-                                 K10.3           -7120.8  827.01
-                                                                         D31803
-                                 S1_RST_N.1      -6890.0  700.00
-                                                                         D31803
-                                 SITE1.19        -1629.9  728.34
-                                                                         D31803
+  S1_DCH046    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.165       -2027.5 1015.75
+                                                                         D13107
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH003 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.24        -1551.1  728.34
-                                                                         D31715
+  S1_DCH047    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.166       -2027.5 1000.00
+                                                                         D13014
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH004 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.40        -1299.2  728.34
-                                                                         D31713
+  S1_DCH048    pins MOVED FROM this net (to net name listed on right)
+                                 K18.7           -2432.1 2454.23
+                                                                         D12615
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH005 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.45        -1122.0  842.52
-                                                                         D31816
+  S1_DCH049    pins MOVED FROM this net (to net name listed on right)
+                                 K18.2           -2432.1 2245.57
+                                                                         D12613
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH006 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.46        -1122.0  858.27
-                                                                         D31815
+  S1_SCAN_DCH008 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.48        -1122.0  889.76
+                                                                         D13007
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH007 pins MOVED FROM this net (to net name listed on right)
+  S1_SCAN_DCH012 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.52        -1122.0  952.75
+                                                                         D12616
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_SCAN_DCH013 pins MOVED FROM this net (to net name listed on right)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 SITE1.47        -1122.0  874.01
-                                                                         D31811
+                                 SITE1.53        -1122.0  968.50
+                                                                         D13001
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH009 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.49        -1122.0  905.51
-                                                                         D31814
+  S1_SCAN_DCH016 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.56        -1122.0 1015.75
+                                                                         D12614
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH010 pins MOVED FROM this net (to net name listed on right)
-                                 J4.2            -7560.0  660.00
-                                                                         D31805
-                                 K28.3           -7570.8  827.01
-                                                                         D31805
-                                 S1_I2C.1        -8970.0 -220.00
-                                                                         D31805
-                                 SITE1.50        -1122.0  921.26
-                                                                         D31805
+  S1_SCAN_DCH017 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.57        -1122.0 1031.49
+                                                                         D13003
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH011 pins MOVED FROM this net (to net name listed on right)
-                                 J5.2            -7560.0 1120.00
-                                                                         D31807
-                                 K28.6           -7570.8  952.99
-                                                                         D31807
-                                 S1_I2C.2        -8870.0 -220.00
-                                                                         D31807
-                                 SITE1.51        -1122.0  937.01
-                                                                         D31807
+  S1_SCAN_DCH018 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.58        -1122.0 1047.24
+                                                                         D13013
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH014 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.54        -1122.0  984.25
-                                                                         D31813
+  S1_SCAN_DCH019 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.59        -1122.0 1062.99
+                                                                         D13015
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH015 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.55        -1122.0 1000.00
-                                                                         D31809
+  S1_SCAN_DCH020 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.60        -1122.0 1078.74
+                                                                         D12611
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH022 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.65        -1122.0 1157.48
-                                                                         D31812
+  S1_SCAN_DCH021 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.61        -1122.0 1094.49
+                                                                         D13005
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH023 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.66        -1122.0 1173.23
-                                                                         D31709
+  S1_SCAN_DCH024 pins MOVED FROM this net (to net name listed on right)
+                                 K13.3           -6509.1  652.99
+                                                                         D12501
+                                 SITE1.67        -1122.0 1188.97
+                                                                         D12501
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH027 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.70        -1122.0 1236.22
+  S1_SCAN_DCH025 pins MOVED FROM this net (to net name listed on right)
+                                 K13.6           -6509.1  527.01
+                                                                         D12502
+                                 SITE1.68        -1122.0 1204.72
+                                                                         D12502
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_SCAN_DCH026 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.69        -1122.0 1220.47
+                                                                         D12601
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_SCAN_DCH031 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.149       -2027.5 1267.71
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                                                         D31810
+                                                                         D11515
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH028 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.77        -1122.0 1346.45
-                                                                         D31711
+  S1_SCAN_DCH032 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.150       -2027.5 1251.97
+                                                                         D11516
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH029 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.118       -1692.9 1633.86
-                                                                         D31703
+  S1_SCAN_DCH033 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.151       -2027.5 1236.22
+                                                                         D11614
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH030 pins MOVED FROM this net (to net name listed on right)
-                                 R118.1          -2359.1 1210.86
-                                                                         D31806
-                                 SITE1.148       -2027.5 1283.46
-                                                                         D31806
+  S1_SCAN_DCH034 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.152       -2027.5 1220.47
+                                                                         D11616
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH035 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.153       -2027.5 1204.72
-                                                                         D31804
+  S1_SCAN_DCH050 pins MOVED FROM this net (to net name listed on right)
+                                 K15.2           -6584.4    6.29
+                                                                         D13004
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH036 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.154       -2027.5 1188.97
-                                                                         D31707
+  S1_SCAN_DCH051 pins MOVED FROM this net (to net name listed on right)
+                                 K15.7           -6584.4 -119.69
+                                                                         D13006
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH037 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.155       -2027.5 1173.23
-                                                                         D31801
+  S1_SCAN_DCH052 pins MOVED FROM this net (to net name listed on right)
+                                 K14.2           -7055.7  302.99
+                                                                         D12512
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH038 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.156       -2027.5 1157.48
-                                                                         D31802
+  S1_SCAN_DCH053 pins MOVED FROM this net (to net name listed on right)
+                                 K14.7           -7055.7  177.01
+                                                                         D12514
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH039 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.157       -2027.5 1141.73
-                                                                         D31808
+  S2_DCH041    pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.159       1122.04 1110.23
+                                                                         D12706
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_PS9G_DCH040 pins MOVED FROM this net (to net name listed on right)
-                                 SITE1.158       -2027.5 1125.98
-                                                                         D31705
+  S2_DCH042    pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.160       1122.04 1094.49
+                                                                         D12704
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_001   pins MOVED FROM this net (to net name listed on right)
-                                 K1.8            2092.36 2922.52
-                                                                      UT3_URW06
-                                 K2.8            1562.36 2922.52
-                                                                      UT3_URW06
+  S2_DCH043    pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.161       1122.04 1078.74
+                                                                         D12702
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DCH044    pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.163       1122.04 1047.24
+                                                                         D11514
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S1_RLY_003   pins MOVED FROM this net (to net name listed on right)
-                                 K3.8            1032.36 2922.52
-                                                                      UT4_URW03
-                                 K4.8              97.64 2577.48
-                                                                      UT4_URW03
+  S2_DCH045    pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.164       1122.04 1031.49
+                                                                         D11513
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_005   pins MOVED FROM this net (to net name listed on right)
-                                 K5.8             512.36 2922.52
-                                                                      UT4_URW01
-                                 K6.8              -7.64 2922.52
-                                                                      UT4_URW01
+  S2_DCH046    pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.165       1122.04 1015.75
+                                                                         D11511
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_007   pins MOVED FROM this net (to net name listed on right)
-                                 K7.8            -537.64 2922.52
-                                                                      UT4_URW05
+  S2_DCH047    pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.166       1122.04 1000.00
+                                                                         D11509
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_008   pins MOVED FROM this net (to net name listed on right)
-                                 K8.8            -1067.6 2922.52
-                                                                       UT4_UW09
-                                 K11.8           -1587.6 2922.52
-                                                                       UT4_UW09
+  S2_DCH048    pins MOVED FROM this net (to net name listed on right)
+                                 2K18.7           717.42 2454.23
+                                                                         D13011
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_009   pins MOVED FROM this net (to net name listed on right)
-                                 K9.8            -2852.9  961.73
-                                                                      UT4_URW00
+  S2_DCH049    pins MOVED FROM this net (to net name listed on right)
+                                 2K18.2           717.42 2245.57
+                                                                         D13009
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_010   pins MOVED FROM this net (to net name listed on right)
-                                 K10.8           -6908.2  952.99
-                                                                       UT5_UW03
+  S2_SCAN_DCH008 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.48        2027.56  889.76
+                                                                         D12714
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_012   pins MOVED FROM this net (to net name listed on right)
-                                 K12.8           -2852.9 1411.73
-                                                                       UT4_UW11
+  S2_SCAN_DCH012 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.52        2027.56  952.75
+                                                                         D12712
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_013   pins MOVED FROM this net (to net name listed on right)
-                                 K13.8           -6721.7  527.01
-                                                                       UT5_UW07
+  S2_SCAN_DCH013 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.53        2027.56  968.50
+                                                                         D12811
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_014   pins MOVED FROM this net (to net name listed on right)
-                                 K14.8           -7181.7  177.01
-                                                                       UT5_UW09
+  S2_SCAN_DCH016 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.56        2027.56 1015.75
+                                                                         D12710
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_015   pins MOVED FROM this net (to net name listed on right)
-                                 K15.8           -6710.4 -119.69
-                                                                       UT5_UW15
+  S2_SCAN_DCH017 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.57        2027.56 1031.49
+                                                                         D12813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_SCAN_DCH018 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.58        2027.56 1047.24
+                                                                         D12807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_SCAN_DCH019 pins MOVED FROM this net (to net name listed on right)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S1_RLY_016   pins MOVED FROM this net (to net name listed on right)
-                                 K16.8           -1812.3 3227.48
-                                                                       UT4_UW13
-                                 K17.8           -4187.4 1947.64
-                                                                       UT4_UW13
+                                 SITE2.59        2027.56 1062.99
+                                                                         D12809
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_018   pins MOVED FROM this net (to net name listed on right)
-                                 K18.8           -2306.1 2454.23
-                                                                       UT4_UW15
+  S2_SCAN_DCH020 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.60        2027.56 1078.74
+                                                                         D12708
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_019   pins MOVED FROM this net (to net name listed on right)
-                                 K19.8           -7181.7 -122.99
-                                                                       UT5_UW13
+  S2_SCAN_DCH021 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.61        2027.56 1094.49
+                                                                         D12815
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_020   pins MOVED FROM this net (to net name listed on right)
-                                 K20.8           -6711.7  177.01
-                                                                       UT5_UW11
+  S2_SCAN_DCH024 pins MOVED FROM this net (to net name listed on right)
+                                 2K13.3          6419.13  487.01
+                                                                         D11411
+                                 SITE2.67        2027.56 1188.97
+                                                                         D11411
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_021   pins MOVED FROM this net (to net name listed on right)
-                                 K21.8           -3537.4 1947.64
-                                                                       UT4_UW14
-                                 K29.8           -4847.4 1947.64
-                                                                       UT4_UW14
+  S2_SCAN_DCH025 pins MOVED FROM this net (to net name listed on right)
+                                 2K13.6          6419.13  612.99
+                                                                         D11409
+                                 SITE2.68        2027.56 1204.72
+                                                                         D11409
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_022   pins MOVED FROM this net (to net name listed on right)
-                                 K22.8           -3527.4  867.64
-                                                                       UT8_UW04
-                                 K24.8           -4187.4  867.64
-                                                                       UT8_UW04
+  S2_SCAN_DCH026 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.69        2027.56 1220.47
+                                                                         D12801
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_023   pins MOVED FROM this net (to net name listed on right)
-                                 K23.8           -4847.4  327.64
-                                                                       UT8_UW07
+  S2_SCAN_DCH031 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.149       1122.04 1267.71
+                                                                         D11510
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_025   pins MOVED FROM this net (to net name listed on right)
-                                 K25.8           -3527.4 1407.64
-                                                                       UT8_UW02
-                                 K27.8           -4187.4 1407.64
-                                                                       UT8_UW02
+  S2_SCAN_DCH032 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.150       1122.04 1251.97
+                                                                         D11512
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_026   pins MOVED FROM this net (to net name listed on right)
-                                 K26.8           -4847.4  867.64
-                                                                       UT8_UW05
+  S2_SCAN_DCH033 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.151       1122.04 1236.22
+                                                                         D12306
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_028   pins MOVED FROM this net (to net name listed on right)
+  S2_SCAN_DCH034 pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.152       1122.04 1220.47
+                                                                         D12308
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_SCAN_DCH050 pins MOVED FROM this net (to net name listed on right)
+                                 2K15.2          6504.42  183.71
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 K28.8           -7358.2  952.99
-                                                                       UT5_UW01
+                                                                         D10412
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_030   pins MOVED FROM this net (to net name listed on right)
-                                 K30.8           -4847.4 1407.64
-                                                                       UT8_UW03
+  S2_SCAN_DCH051 pins MOVED FROM this net (to net name listed on right)
+                                 2K15.7          6504.42  309.69
+                                                                         D10410
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_031   pins MOVED FROM this net (to net name listed on right)
-                                 K31.12          -3820.0 2700.00
-                                                                       UT4_UW12
+  S2_SCAN_DCH052 pins MOVED FROM this net (to net name listed on right)
+                                 2K14.2          6975.75 -112.99
+                                                                         D10415
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_033   pins MOVED FROM this net (to net name listed on right)
-                                 K33.8           -6721.7  827.01
-                                                                       UT5_UW05
+  S2_SCAN_DCH053 pins MOVED FROM this net (to net name listed on right)
+                                 2K14.7          6975.75   12.99
+                                                                         D10413
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_034   pins MOVED FROM this net (to net name listed on right)
-                                 K34.12          -5100.0 2700.00
-                                                                       UT4_UW08
+  S3_DCH041    pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.159       -2027.5 -1251.9
+                                                                         D12508
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_036   pins MOVED FROM this net (to net name listed on right)
-                                 K36.12          -5100.0 3350.00
-                                                                      UT4_URW02
+  S3_DCH042    pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.160       -2027.5 -1267.7
+                                                                         D12506
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_037   pins MOVED FROM this net (to net name listed on right)
-                                 K37.12          -4450.0 2700.00
-                                                                       UT4_UW10
+  S3_DCH043    pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.161       -2027.5 -1283.4
+                                                                         D12504
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_039   pins MOVED FROM this net (to net name listed on right)
-                                 K39.12          -3820.0 3350.00
-                                                                      UT4_URW06
+  S3_DCH044    pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.163       -2027.5 -1314.9
+                                                                         D13016
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_040   pins MOVED FROM this net (to net name listed on right)
-                                 K40.12          -7350.0 2650.00
-                                                                       UT8_UW11
+  S3_DCH045    pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.164       -2027.5 -1330.7
+                                                                         D13112
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_042   pins MOVED FROM this net (to net name listed on right)
-                                 K42.12          -4450.0 3350.00
-                                                                      UT4_URW04
+  S3_DCH046    pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.165       -2027.5 -1346.4
+                                                                         D13110
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S1_RLY_043   pins MOVED FROM this net (to net name listed on right)
-                                 K43.8           -692.36 2577.48
-                                                                       UT4_UW07
+  S3_DCH047    pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.166       -2027.5 -1362.2
+                                                                         D13108
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_AUX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
-                                 2K9.2            422.59  835.75
+  S3_DCH048    pins MOVED FROM this net (to net name listed on right)
+                                 3K18.7          -2432.1   92.03
+                                                                         D12604
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   7  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                                                         D12413
+  S3_DCH049    pins MOVED FROM this net (to net name listed on right)
+                                 3K18.2          -2432.1 -116.63
+                                                                         D12606
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_AUX_100DCH001- pins MOVED FROM this net (to net name listed on right)
-                                 2K9.7            296.61  835.75
-                                                                         D12415
+  S3_SCAN_DCH008 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.48        -1122.0 -1472.4
+                                                                         D12507
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_AUX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
-                                 2C3.2            -20.31 -3300.0
-                                                                         D12410
+  S3_SCAN_DCH012 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.52        -1122.0 -1409.4
+                                                                         D12509
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_AUX_100DCH002- pins MOVED FROM this net (to net name listed on right)
-                                 2C4.2           -159.69 -3300.0
-                                                                         D12412
+  S3_SCAN_DCH013 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.53        -1122.0 -1393.7
+                                                                         D12608
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH001 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.18        1503.93  728.34
-                                                                         D30507
+  S3_SCAN_DCH016 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.56        -1122.0 -1346.4
+                                                                         D12511
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH002 pins MOVED FROM this net (to net name listed on right)
-                                 2K10.3          7010.87  612.99
-                                                                         D30609
-                                 S2_RST_N.1      6780.00  740.00
-                                                                         D30609
-                                 SITE2.19        1519.68  728.34
-                                                                         D30609
+  S3_SCAN_DCH017 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.57        -1122.0 -1330.7
+                                                                         D12503
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH003 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.24        1598.42  728.34
-                                                                         D30505
+  S3_SCAN_DCH018 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.58        -1122.0 -1314.9
+                                                                         D12612
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH004 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.40        1850.39  728.34
-                                                                         D30503
+  S3_SCAN_DCH019 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.59        -1122.0 -1299.2
+                                                                         D12610
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH005 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.45        2027.56  842.52
-                                                                         D30515
+  S3_SCAN_DCH020 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.60        -1122.0 -1283.4
+                                                                         D12513
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH006 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.46        2027.56  858.27
-                                                                         D30511
+  S3_SCAN_DCH021 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.61        -1122.0 -1267.7
+                                                                         D12505
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH007 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.47        2027.56  874.01
-                                                                         D30610
+  S3_SCAN_DCH024 pins MOVED FROM this net (to net name listed on right)
+                                 3K13.3          -6499.1 -1067.0
+                                                                         D12602
+                                 SITE3.67        -1122.0 -1173.2
+                                                                         D12602
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   8  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S2_PS9G_DCH009 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.49        2027.56  905.51
-                                                                         D30513
+  S3_SCAN_DCH025 pins MOVED FROM this net (to net name listed on right)
+                                 3K13.6          -6499.1 -1192.9
+                                                                         D12603
+                                 SITE3.68        -1122.0 -1157.4
+                                                                         D12603
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH010 pins MOVED FROM this net (to net name listed on right)
-                                 2J4.2           7470.00 1130.00
-                                                                         D30611
-                                 2K28.3          7480.87  962.99
-                                                                         D30611
-                                 S2_I2C.1        8130.00 -440.00
-                                                                         D30611
-                                 SITE2.50        2027.56  921.26
-                                                                         D30611
+  S3_SCAN_DCH026 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.69        -1122.0 -1141.7
+                                                                         D12510
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH011 pins MOVED FROM this net (to net name listed on right)
-                                 2J5.2           7470.00  670.00
-                                                                         D30613
-                                 2K28.6          7480.87  837.01
-                                                                         D30613
-                                 S2_I2C.2        8230.00 -440.00
-                                                                         D30613
-                                 SITE2.51        2027.56  937.01
-                                                                         D30613
+  S3_SCAN_DCH031 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.149       -2027.5 -1094.4
+                                                                         D13111
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH014 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.54        2027.56  984.25
-                                                                         D30509
+  S3_SCAN_DCH032 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.150       -2027.5 -1110.2
+                                                                         D13109
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH015 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.55        2027.56 1000.00
-                                                                         D30612
+  S3_SCAN_DCH033 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.151       -2027.5 -1125.9
+                                                                         D12515
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH022 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.65        2027.56 1157.48
-                                                                         D30615
+  S3_SCAN_DCH034 pins MOVED FROM this net (to net name listed on right)
+                                 SITE3.152       -2027.5 -1141.7
+                                                                         D13106
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH023 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.66        2027.56 1173.23
-                                                                         D30614
+  S3_SCAN_DCH050 pins MOVED FROM this net (to net name listed on right)
+                                 3K15.2          -6574.4 -1713.7
+                                                                         D13008
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH027 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.70        2027.56 1236.22
-                                                                         D30616
+  S3_SCAN_DCH051 pins MOVED FROM this net (to net name listed on right)
+                                 3K15.7          -6574.4 -1839.6
+                                                                         D13010
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH028 pins MOVED FROM this net (to net name listed on right)
+  S3_SCAN_DCH052 pins MOVED FROM this net (to net name listed on right)
+                                 3K14.2          -7045.7 -1417.0
+                                                                         D12516
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_SCAN_DCH053 pins MOVED FROM this net (to net name listed on right)
+                                 3K14.7          -7045.7 -1542.9
+                                                                         D13002
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DCH041    pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.159       1122.04 -1251.9
+                                                                         D12709
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   9  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 SITE2.77        2027.56 1346.45
-                                                                         D30501
+  S4_DCH042    pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.160       1122.04 -1267.7
+                                                                         D12711
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH029 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.118       1456.69 1633.86
-                                                                         D30608
+  S4_DCH043    pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.161       1122.04 -1283.4
+                                                                         D12713
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH030 pins MOVED FROM this net (to net name listed on right)
-                                 2R118.1          790.47 1210.86
-                                                                         D30607
-                                 SITE2.148       1122.04 1283.46
-                                                                         D30607
+  S4_DCH044    pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.163       1122.04 -1314.9
+                                                                         D10402
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH035 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.153       1122.04 1204.72
-                                                                         D30605
+  S4_DCH045    pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.164       1122.04 -1330.7
+                                                                         D10408
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH036 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.154       1122.04 1188.97
-                                                                         D30606
+  S4_DCH046    pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.165       1122.04 -1346.4
+                                                                         D10406
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH037 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.155       1122.04 1173.23
-                                                                         D30602
+  S4_DCH047    pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.166       1122.04 -1362.2
+                                                                         D10404
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH038 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.156       1122.04 1157.48
-                                                                         D30601
+  S4_DCH048    pins MOVED FROM this net (to net name listed on right)
+                                 4K18.7           717.42   92.03
+                                                                         D12716
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH039 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.157       1122.04 1141.73
-                                                                         D30603
+  S4_DCH049    pins MOVED FROM this net (to net name listed on right)
+                                 4K18.2           717.42 -116.63
+                                                                         D12715
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_PS9G_DCH040 pins MOVED FROM this net (to net name listed on right)
-                                 SITE2.158       1122.04 1125.98
-                                                                         D30604
+  S4_SCAN_DCH008 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.48        2027.56 -1472.4
+                                                                         D12705
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_001   pins MOVED FROM this net (to net name listed on right)
-                                 2K1.8           4712.36 2932.52
-                                                                       UT3_UW07
-                                 2K2.8           3092.36 1042.52
-                                                                       UT3_UW07
+  S4_SCAN_DCH012 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.52        2027.56 -1409.4
+                                                                         D12703
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_003   pins MOVED FROM this net (to net name listed on right)
-                                 2K3.8           4162.36 1682.52
+  S4_SCAN_DCH013 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.53        2027.56 -1393.7
+                                                                         D12804
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_SCAN_DCH016 pins MOVED FROM this net (to net name listed on right)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  10  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                                                       UT3_UW09
-                                 2K4.8           3092.36 1672.52
-                                                                       UT3_UW09
+                                 SITE4.56        2027.56 -1346.4
+                                                                         D12701
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_005   pins MOVED FROM this net (to net name listed on right)
-                                 2K5.8           4702.36 1682.52
-                                                                      UT3_URW05
-                                 2K6.8           4712.36 2312.52
-                                                                      UT3_URW05
+  S4_SCAN_DCH017 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.57        2027.56 -1330.7
+                                                                         D12802
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_007   pins MOVED FROM this net (to net name listed on right)
-                                 2K7.8           4162.36 2302.52
-                                                                       UT3_UW11
+  S4_SCAN_DCH018 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.58        2027.56 -1314.9
+                                                                         D12808
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_008   pins MOVED FROM this net (to net name listed on right)
-                                 2K8.8           3632.36 2932.52
-                                                                       UT3_UW13
-                                 2K11.8          3632.36 2302.52
-                                                                       UT3_UW13
+  S4_SCAN_DCH019 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.59        2027.56 -1299.2
+                                                                         D12806
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_009   pins MOVED FROM this net (to net name listed on right)
-                                 2K9.8            296.61  961.73
-                                                                       UT1_UW13
+  S4_SCAN_DCH020 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.60        2027.56 -1283.4
+                                                                         D12707
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_010   pins MOVED FROM this net (to net name listed on right)
-                                 2K10.8          6798.27  487.01
-                                                                       UT6_UW06
+  S4_SCAN_DCH021 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.61        2027.56 -1267.7
+                                                                         D12810
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_012   pins MOVED FROM this net (to net name listed on right)
-                                 2K12.8           296.61 1411.73
-                                                                       UT1_UW11
+  S4_SCAN_DCH024 pins MOVED FROM this net (to net name listed on right)
+                                 4K13.3          6419.13 -1222.9
+                                                                         D12308
+                                 SITE4.67        2027.56 -1173.2
+                                                                         D12308
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_013   pins MOVED FROM this net (to net name listed on right)
-                                 2K13.8          6631.73  612.99
-                                                                       UT6_UW04
+  S4_SCAN_DCH025 pins MOVED FROM this net (to net name listed on right)
+                                 4K13.6          6419.13 -1097.0
+                                                                         D12306
+                                 SITE4.68        2027.56 -1157.4
+                                                                         D12306
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_014   pins MOVED FROM this net (to net name listed on right)
-                                 2K14.8          7101.73   12.99
-                                                                       UT6_UW14
+  S4_SCAN_DCH026 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.69        2027.56 -1141.7
+                                                                         D12816
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_015   pins MOVED FROM this net (to net name listed on right)
-                                 2K15.8          6630.40  309.69
-                                                                       UT6_UW08
+  S4_SCAN_DCH031 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.149       1122.04 -1094.4
+                                                                         D10405
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_016   pins MOVED FROM this net (to net name listed on right)
+  S4_SCAN_DCH032 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.150       1122.04 -1110.2
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  11  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 2K16.8          3102.36 2302.52
-                                                                       UT3_UW15
-                                 2K17.8          4162.36 2932.52
-                                                                       UT3_UW15
+                                                                         D10407
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_018   pins MOVED FROM this net (to net name listed on right)
-                                 2K18.8           843.41 2454.23
-                                                                      UT3_URW00
+  S4_SCAN_DCH033 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.151       1122.04 -1125.9
+                                                                         D10403
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_019   pins MOVED FROM this net (to net name listed on right)
-                                 2K19.8          7101.73  312.99
-                                                                       UT6_UW10
+  S4_SCAN_DCH034 pins MOVED FROM this net (to net name listed on right)
+                                 SITE4.152       1122.04 -1141.7
+                                                                         D10401
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_020   pins MOVED FROM this net (to net name listed on right)
-                                 2K20.8          6631.73   12.99
-                                                                       UT6_UW12
+  S4_SCAN_DCH050 pins MOVED FROM this net (to net name listed on right)
+                                 4K15.2          6504.42 -1526.2
+                                                                         D10414
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_021   pins MOVED FROM this net (to net name listed on right)
-                                 2K21.8          3102.36 2932.52
-                                                                       UT3_UW12
-                                 2K29.8          3632.36 1042.52
-                                                                       UT3_UW12
+  S4_SCAN_DCH051 pins MOVED FROM this net (to net name listed on right)
+                                 4K15.7          6504.42 -1400.3
+                                                                         D10416
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_022   pins MOVED FROM this net (to net name listed on right)
-                                 2K22.8          4162.36  412.52
-                                                                       UT2_UW15
-                                 2K24.8          3892.36 -207.48
-                                                                       UT2_UW15
+  S4_SCAN_DCH052 pins MOVED FROM this net (to net name listed on right)
+                                 4K14.2          6975.75 -1822.9
+                                                                         D10411
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_023   pins MOVED FROM this net (to net name listed on right)
-                                 2K23.8          4432.36 -197.48
-                                                                       UT2_UW12
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_025   pins MOVED FROM this net (to net name listed on right)
-                                 2K25.8          4712.36 1042.52
-                                                                      UT2_URW01
-                                 2K27.8          3632.36  402.52
-                                                                      UT2_URW01
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_026   pins MOVED FROM this net (to net name listed on right)
-                                 2K26.8          3092.36  392.52
-                                                                       UT3_UW08
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_028   pins MOVED FROM this net (to net name listed on right)
-                                 2K28.8          7268.27  837.01
+  S4_SCAN_DCH053 pins MOVED FROM this net (to net name listed on right)
+                                 4K14.7          6975.75 -1697.0
+                                                                         D10409
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  12  |
 |------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                                                       UT6_UW02
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_030   pins MOVED FROM this net (to net name listed on right)
-                                 2K30.8          4162.36 1042.52
-                                                                       UT3_UW10
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_031   pins MOVED FROM this net (to net name listed on right)
-                                 2K31.12         6450.00 2750.00
-                                                                       UT7_UW02
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_033   pins MOVED FROM this net (to net name listed on right)
-                                 2K33.8          6631.73  972.99
-                                                                       UT6_UW00
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_034   pins MOVED FROM this net (to net name listed on right)
-                                 2K34.12         7100.00 2100.00
-                                                                       UT7_UW08
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_036   pins MOVED FROM this net (to net name listed on right)
-                                 2K36.12         7100.00 3400.00
-                                                                       UT7_UW04
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_037   pins MOVED FROM this net (to net name listed on right)
-                                 2K37.12         7750.00 2750.00
-                                                                       UT7_UW12
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_039   pins MOVED FROM this net (to net name listed on right)
-                                 2K39.12         6450.00 3400.00
-                                                                       UT7_UW00
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_040   pins MOVED FROM this net (to net name listed on right)
-                                 2K40.12         7100.00 2750.00
-                                                                       UT7_UW06
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_042   pins MOVED FROM this net (to net name listed on right)
-                                 2K42.12         7750.00 3400.00
-                                                                       UT7_UW10
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S2_RLY_043   pins MOVED FROM this net (to net name listed on right)
-                                 2K43.8          3632.36 1672.52
-                                                                       UT3_UW14
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_AUX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
-                                 3K9.2           -2727.0 -1526.4
-                                                                         D12401
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  13  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S3_AUX_100DCH001- pins MOVED FROM this net (to net name listed on right)
-                                 3K9.7           -2852.9 -1526.4
-                                                                         D12403
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_AUX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
-                                 3C3.2           -3860.3 -3290.0
-                                                                         D12406
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_AUX_100DCH002- pins MOVED FROM this net (to net name listed on right)
-                                 3C4.2           -3999.6 -3290.0
-                                                                         D12408
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH001 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.18        -1645.6 -1633.8
-                                                                         D32101
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH002 pins MOVED FROM this net (to net name listed on right)
-                                 3K10.3          -7110.8 -892.99
-                                                                         D32203
-                                 S3_RST_N.1      -6880.0 -1020.0
-                                                                         D32203
-                                 SITE3.19        -1629.9 -1633.8
-                                                                         D32203
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH003 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.24        -1551.1 -1633.8
-                                                                         D32115
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH004 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.40        -1299.2 -1633.8
-                                                                         D32113
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH005 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.45        -1122.0 -1519.6
-                                                                         D32210
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH006 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.46        -1122.0 -1503.9
-                                                                         D32212
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH007 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.47        -1122.0 -1488.1
-                                                                         D32216
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH009 pins MOVED FROM this net (to net name listed on right)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  14  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 SITE3.49        -1122.0 -1456.6
-                                                                         D32109
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH010 pins MOVED FROM this net (to net name listed on right)
-                                 3J4.2           -7550.0 -1060.0
-                                                                         D32205
-                                 3K28.3          -7560.8 -892.99
-                                                                         D32205
-                                 S3_I2C.1        -8470.0 -220.00
-                                                                         D32205
-                                 SITE3.50        -1122.0 -1440.9
-                                                                         D32205
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH011 pins MOVED FROM this net (to net name listed on right)
-                                 3J5.2           -7550.0 -600.00
-                                                                         D32207
-                                 3K28.6          -7560.8 -767.01
-                                                                         D32207
-                                 S3_I2C.2        -8370.0 -220.00
-                                                                         D32207
-                                 SITE3.51        -1122.0 -1425.1
-                                                                         D32207
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH014 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.54        -1122.0 -1377.9
-                                                                         D32214
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH015 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.55        -1122.0 -1362.2
-                                                                         D32215
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH022 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.65        -1122.0 -1204.7
-                                                                         D32209
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH023 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.66        -1122.0 -1188.9
-                                                                         D32213
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH027 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.70        -1122.0 -1125.9
-                                                                         D32211
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH028 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.77        -1122.0 -1015.7
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  15  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                                                         D32111
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH029 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.118       -1692.9 -728.34
-                                                                         D32103
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH030 pins MOVED FROM this net (to net name listed on right)
-                                 3R118.1         -2359.1 -1151.3
-                                                                         D32201
-                                 SITE3.148       -2027.5 -1078.7
-                                                                         D32201
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH035 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.153       -2027.5 -1157.4
-                                                                         D32202
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH036 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.154       -2027.5 -1173.2
-                                                                         D32107
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH037 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.155       -2027.5 -1188.9
-                                                                         D32208
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH038 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.156       -2027.5 -1204.7
-                                                                         D32206
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH039 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.157       -2027.5 -1220.4
-                                                                         D32204
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_PS9G_DCH040 pins MOVED FROM this net (to net name listed on right)
-                                 SITE3.158       -2027.5 -1236.2
-                                                                         D32105
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_001   pins MOVED FROM this net (to net name listed on right)
-                                 3K1.8           -4847.4 -1282.3
-                                                                      UT1_URW02
-                                 3K2.8           -1342.3 -2932.5
-                                                                      UT1_URW02
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_003   pins MOVED FROM this net (to net name listed on right)
-                                 3K3.8           -832.36 -2812.5
-                                                                       UT1_UW09
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  16  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 3K4.8           -312.36 -2332.5
-                                                                       UT1_UW09
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_005   pins MOVED FROM this net (to net name listed on right)
-                                 3K5.8           -3527.4  327.64
-                                                                       UT8_UW06
-                                 3K6.8           -4187.4  327.64
-                                                                       UT8_UW06
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_007   pins MOVED FROM this net (to net name listed on right)
-                                 3K7.8           -4187.4 -202.36
-                                                                       UT1_UW12
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_008   pins MOVED FROM this net (to net name listed on right)
-                                 3K8.8           -4187.4 -752.36
-                                                                       UT1_UW10
-                                 3K11.8          -4847.4 -202.36
-                                                                       UT1_UW10
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_009   pins MOVED FROM this net (to net name listed on right)
-                                 3K9.8           -2852.9 -1400.4
-                                                                       UT8_UW01
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_010   pins MOVED FROM this net (to net name listed on right)
-                                 3K10.8          -6898.2 -767.01
-                                                                       UT5_UW12
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_012   pins MOVED FROM this net (to net name listed on right)
-                                 3K12.8          -2852.9 -950.47
-                                                                       UT8_UW00
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_013   pins MOVED FROM this net (to net name listed on right)
-                                 3K13.8          -6711.7 -1192.9
-                                                                       UT5_UW08
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_014   pins MOVED FROM this net (to net name listed on right)
-                                 3K14.8          -7171.7 -1542.9
-                                                                       UT5_UW06
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_015   pins MOVED FROM this net (to net name listed on right)
-                                 3K15.8          -6700.4 -1839.6
-                                                                       UT5_UW00
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_016   pins MOVED FROM this net (to net name listed on right)
-                                 3K16.8          -3527.4 -202.36
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  17  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                                                       UT1_UW08
-                                 3K17.8          -4847.4 -752.36
-                                                                       UT1_UW08
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_018   pins MOVED FROM this net (to net name listed on right)
-                                 3K18.8          -2306.1   92.03
-                                                                      UT3_URW02
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_019   pins MOVED FROM this net (to net name listed on right)
-                                 3K19.8          -7171.7 -1842.9
-                                                                       UT5_UW02
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_020   pins MOVED FROM this net (to net name listed on right)
-                                 3K20.8          -6701.7 -1542.9
-                                                                       UT5_UW04
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_021   pins MOVED FROM this net (to net name listed on right)
-                                 3K21.8          -3527.4 -752.36
-                                                                      UT1_URW04
-                                 3K29.8          -3517.4 -1282.3
-                                                                      UT1_URW04
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_022   pins MOVED FROM this net (to net name listed on right)
-                                 3K22.8          -4847.4 -2872.3
-                                                                      UT1_URW05
-                                 3K24.8          -4187.4 -2352.3
-                                                                      UT1_URW05
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_023   pins MOVED FROM this net (to net name listed on right)
-                                 3K23.8          -3517.4 -2342.3
-                                                                       UT1_UW07
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_025   pins MOVED FROM this net (to net name listed on right)
-                                 3K25.8          -4847.4 -2352.3
-                                                                      UT1_URW03
-                                 3K27.8          -3517.4 -1812.3
-                                                                      UT1_URW03
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_026   pins MOVED FROM this net (to net name listed on right)
-                                 3K26.8          -4187.4 -1812.3
-                                                                      UT1_URW01
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_028   pins MOVED FROM this net (to net name listed on right)
-                                 3K28.8          -7348.2 -767.01
-                                                                       UT5_UW14
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  18  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S3_RLY_030   pins MOVED FROM this net (to net name listed on right)
-                                 3K30.8          -4847.4 -1812.3
-                                                                      UT1_URW00
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_031   pins MOVED FROM this net (to net name listed on right)
-                                 3K31.12         -6700.0 2650.00
-                                                                       UT8_UW09
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_033   pins MOVED FROM this net (to net name listed on right)
-                                 3K33.8          -6711.7 -892.99
-                                                                       UT5_UW10
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_034   pins MOVED FROM this net (to net name listed on right)
-                                 3K34.12         -8750.0 2650.00
-                                                                       UT8_UW15
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_036   pins MOVED FROM this net (to net name listed on right)
-                                 3K36.12         -8050.0 3300.00
-                                                                       UT8_UW12
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_037   pins MOVED FROM this net (to net name listed on right)
-                                 3K37.12         -8050.0 2650.00
-                                                                       UT8_UW13
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_039   pins MOVED FROM this net (to net name listed on right)
-                                 3K39.12         -6650.0 3300.00
-                                                                       UT8_UW08
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_040   pins MOVED FROM this net (to net name listed on right)
-                                 3K40.12         -8750.0 3300.00
-                                                                       UT8_UW14
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_042   pins MOVED FROM this net (to net name listed on right)
-                                 3K42.12         -7350.0 3300.00
-                                                                       UT8_UW10
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S3_RLY_043   pins MOVED FROM this net (to net name listed on right)
-                                 3K43.8          -4187.4 -1282.3
-                                                                      UT1_URW06
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_AUX_100DCH001+ pins MOVED FROM this net (to net name listed on right)
-                                 4K9.2            422.59 -1526.4
-                                                                         D12409
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_AUX_100DCH001- pins MOVED FROM this net (to net name listed on right)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  19  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 4K9.7            296.61 -1526.4
-                                                                         D12411
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_AUX_100DCH002+ pins MOVED FROM this net (to net name listed on right)
-                                 4C3.2            369.69 -3300.0
-                                                                         D12414
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_AUX_100DCH002- pins MOVED FROM this net (to net name listed on right)
-                                 4C4.2            230.31 -3300.0
-                                                                         D12416
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH001 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.18        1503.93 -1633.8
-                                                                         D30107
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH002 pins MOVED FROM this net (to net name listed on right)
-                                 4K10.3          7010.87 -1097.0
-                                                                         D30209
-                                 S4_RST_N.1      6780.00 -970.00
-                                                                         D30209
-                                 SITE4.19        1519.68 -1633.8
-                                                                         D30209
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH003 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.24        1598.42 -1633.8
-                                                                         D30105
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH004 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.40        1850.39 -1633.8
-                                                                         D30103
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH005 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.45        2027.56 -1519.6
-                                                                         D30113
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH006 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.46        2027.56 -1503.9
-                                                                         D30111
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH007 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.47        2027.56 -1488.1
-                                                                         D30210
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH009 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.49        2027.56 -1456.6
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  20  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                                                         D30115
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH010 pins MOVED FROM this net (to net name listed on right)
-                                 4J4.2           7470.00 -580.00
-                                                                         D30211
-                                 4K28.3          7480.87 -747.01
-                                                                         D30211
-                                 S4_I2C.1        8680.00 -440.00
-                                                                         D30211
-                                 SITE4.50        2027.56 -1440.9
-                                                                         D30211
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH011 pins MOVED FROM this net (to net name listed on right)
-                                 4J5.2           7470.00 -1040.0
-                                                                         D30213
-                                 4K28.6          7480.87 -872.99
-                                                                         D30213
-                                 S4_I2C.2        8780.00 -440.00
-                                                                         D30213
-                                 SITE4.51        2027.56 -1425.1
-                                                                         D30213
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH014 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.54        2027.56 -1377.9
-                                                                         D30109
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH015 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.55        2027.56 -1362.2
-                                                                         D30212
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH022 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.65        2027.56 -1204.7
-                                                                         D30215
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH023 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.66        2027.56 -1188.9
-                                                                         D30214
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH027 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.70        2027.56 -1125.9
-                                                                         D30216
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH028 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.77        2027.56 -1015.7
-                                                                         D30101
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  21  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S4_PS9G_DCH029 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.118       1456.69 -728.34
-                                                                         D30208
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH030 pins MOVED FROM this net (to net name listed on right)
-                                 4R118.1          790.47 -1151.3
-                                                                         D30207
-                                 SITE4.148       1122.04 -1078.7
-                                                                         D30207
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH035 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.153       1122.04 -1157.4
-                                                                         D30205
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH036 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.154       1122.04 -1173.2
-                                                                         D30204
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH037 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.155       1122.04 -1188.9
-                                                                         D30202
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH038 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.156       1122.04 -1204.7
-                                                                         D30201
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH039 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.157       1122.04 -1220.4
-                                                                         D30203
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_PS9G_DCH040 pins MOVED FROM this net (to net name listed on right)
-                                 SITE4.158       1122.04 -1236.2
-                                                                         D30206
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_001   pins MOVED FROM this net (to net name listed on right)
-                                 4K1.8           2182.52 -3002.3
-                                                                      UT3_URW03
-                                 4K2.8           3322.36 -2017.4
-                                                                      UT3_URW03
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_003   pins MOVED FROM this net (to net name listed on right)
-                                 4K3.8           3842.36 -2007.4
-                                                                       UT2_UW07
-                                 4K4.8           4372.36 -2007.4
-                                                                       UT2_UW07
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  22  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S4_RLY_005   pins MOVED FROM this net (to net name listed on right)
-                                 4K5.8           3322.36 -1357.4
-                                                                      UT2_URW05
-                                 4K6.8           3842.36 -1357.4
-                                                                      UT2_URW05
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_007   pins MOVED FROM this net (to net name listed on right)
-                                 4K7.8           4912.52 -1012.3
-                                                                      UT3_URW01
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_008   pins MOVED FROM this net (to net name listed on right)
-                                 4K8.8           4372.36 -1357.4
-                                                                       UT2_UW13
-                                 4K11.8          3342.52 -482.36
-                                                                       UT2_UW13
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_009   pins MOVED FROM this net (to net name listed on right)
-                                 4K9.8            296.61 -1400.4
-                                                                      UT2_URW04
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_010   pins MOVED FROM this net (to net name listed on right)
-                                 4K10.8          6798.27 -1222.9
-                                                                       UT6_UW07
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_012   pins MOVED FROM this net (to net name listed on right)
-                                 4K12.8           296.61 -950.47
-                                                                      UT2_URW06
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_013   pins MOVED FROM this net (to net name listed on right)
-                                 4K13.8          6631.73 -1097.0
-                                                                       UT6_UW05
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_014   pins MOVED FROM this net (to net name listed on right)
-                                 4K14.8          7101.73 -1697.0
-                                                                       UT6_UW15
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_015   pins MOVED FROM this net (to net name listed on right)
-                                 4K15.8          6630.40 -1400.3
-                                                                       UT6_UW09
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_016   pins MOVED FROM this net (to net name listed on right)
-                                 4K16.8          3992.52 -482.36
-                                                                      UT2_URW03
-                                 4K17.8          3362.36 -217.48
-                                                                      UT2_URW03
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  23  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S4_RLY_018   pins MOVED FROM this net (to net name listed on right)
-                                 4K18.8           843.41   92.03
-                                                                      UT3_URW04
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_019   pins MOVED FROM this net (to net name listed on right)
-                                 4K19.8          7101.73 -1397.0
-                                                                       UT6_UW11
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_020   pins MOVED FROM this net (to net name listed on right)
-                                 4K20.8          6631.73 -1697.0
-                                                                       UT6_UW13
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_021   pins MOVED FROM this net (to net name listed on right)
-                                 4K21.8          3842.36 -2667.4
-                                                                       UT2_UW09
-                                 4K29.8          4382.36 -2667.4
-                                                                       UT2_UW09
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_022   pins MOVED FROM this net (to net name listed on right)
-                                 4K22.8          3682.36 -3257.4
-                                                                       UT2_UW11
-                                 4K24.8          4202.36 -3257.4
-                                                                       UT2_UW11
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_023   pins MOVED FROM this net (to net name listed on right)
-                                 4K23.8          4722.36 -3257.4
-                                                                       UT2_UW14
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_025   pins MOVED FROM this net (to net name listed on right)
-                                 4K25.8           550.79 -2700.0
-                                                                      UT2_URW00
-                                 4K27.8          1082.36 -3267.4
-                                                                      UT2_URW00
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_026   pins MOVED FROM this net (to net name listed on right)
-                                 4K26.8          4892.36 -2007.4
-                                                                       UT2_UW10
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_028   pins MOVED FROM this net (to net name listed on right)
-                                 4K28.8          7268.27 -872.99
-                                                                       UT6_UW03
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_030   pins MOVED FROM this net (to net name listed on right)
-                                 4K30.8          4912.36 -2667.4
-                                                                       UT2_UW08
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  24  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  S4_RLY_031   pins MOVED FROM this net (to net name listed on right)
-                                 4K31.12         8400.00 2750.00
-                                                                       UT7_UW13
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_033   pins MOVED FROM this net (to net name listed on right)
-                                 4K33.8          6631.73 -737.01
-                                                                       UT6_UW01
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_034   pins MOVED FROM this net (to net name listed on right)
-                                 4K34.12         9050.00 2100.00
-                                                                       UT7_UW05
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_036   pins MOVED FROM this net (to net name listed on right)
-                                 4K36.12         9050.00 3400.00
-                                                                       UT7_UW09
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_037   pins MOVED FROM this net (to net name listed on right)
-                                 4K37.12         8400.00 2100.00
-                                                                       UT7_UW11
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_039   pins MOVED FROM this net (to net name listed on right)
-                                 4K39.12         8400.00 3400.00
-                                                                       UT7_UW15
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_040   pins MOVED FROM this net (to net name listed on right)
-                                 4K40.12         7750.00 2100.00
-                                                                       UT7_UW14
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_042   pins MOVED FROM this net (to net name listed on right)
-                                 4K42.12         9050.00 2750.00
-                                                                       UT7_UW07
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  S4_RLY_043   pins MOVED FROM this net (to net name listed on right)
-                                 4K43.8           542.36 -3267.4
-                                                                      UT2_URW02
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  25  |
-|------------------------------------------------------------------------------|
-|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_nodsn.brd        |
-|                                                    Tue Sep 08 14:46:57 2026  |
+|  D:.../Test Hardware/980HX-8880F5-KBG-A10/Final/8880F5-0908_update_2.brd     |
+|                                                    Tue Sep 08 23:57:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |------------------------------------------------------------------------------|
-|       Nets changed          :     304                                        |
+|       Nets changed          :     124                                        |
 |                                                                              |
-|   Total ECO changes reported:     304                                        |
+|   Total ECO changes reported:     124                                        |
 |------------------------------------------------------------------------------|

@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Sep-08-2026 at 14:46:53 }
+{ Using PSTWRITER 16.6.0 d001Sep-08-2026 at 23:57:17 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "D231.A17" ignored for D231: SCHEMATIC1, T04.GROUP8.U4 (14.10, 3.30). Connecting pin to net "GND".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "D231.B17" ignored for D231: SCHEMATIC1, T04.GROUP8.U4 (14.10, 3.30). Connecting pin to net "GND".
