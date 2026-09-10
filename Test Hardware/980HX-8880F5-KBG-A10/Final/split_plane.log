@@ -2,13 +2,13 @@
 (                                                                     )
 (    Split Plane Create                                               )
 (                                                                     )
-(    Drawing          : 8880F5-0909_1.brd                             )
+(    Drawing          : 8880F5-0910.brd                               )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Wed Sep 09 00:49:44 2026                      )
+(    Date/Time        : Thu Sep 10 12:36:06 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Creating Dynamic split plane on layer "L26_SIGNAL"
+Creating Dynamic split plane on layer "L18_CBIT"
 
 Split Plane Session Completed.
