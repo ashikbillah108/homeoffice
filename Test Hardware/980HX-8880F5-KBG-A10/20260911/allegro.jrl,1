@@ -1,0 +1,45 @@
+\t (00:00:02) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:02)     Journal start - Sat Sep 12 20:04:09 2026
+\t (00:00:02)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=20196 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:05) Opening existing design...
+\d (00:00:06) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/20260911/8880F5-0912_updates.brd
+\i (00:00:06) trapsize 14784
+\i (00:00:06) trapsize 14439
+\i (00:00:06) trapsize 14843
+\i (00:00:06) trapsize 15011
+\i (00:00:07) trapsize 14796
+\i (00:00:07) trapsize 14796
+\i (00:00:08) generaledit 
+\i (00:00:09) open 
+\i (00:00:11) fillin "8880F5-0912_updates.brd"
+\t (00:00:11) Opening existing design...
+\i (00:00:12) trapsize 14796
+\d (00:00:12) Design opened: D:/iTest/homeoffice/Test Hardware/980HX-8880F5-KBG-A10/20260911/8880F5-0912_updates.brd
+\i (00:00:13) generaledit 
+\i (00:00:15) setwindow form.vf_vis
+\i (00:00:15) FORM vf_vis all_all_visible YES 
+\i (00:00:15) FORM vf_vis all_all_visible NO 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) rats all 
+\i (00:00:17) generaledit 
+\i (00:00:20) show element 
+\i (00:00:23) setwindow form.find
+\i (00:00:23) FORM find clines NO 
+\i (00:00:24) FORM find nets YES 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 325.51 3358.64
+\i (00:00:24) trapsize 29592
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 325.51 3358.64
+\i (00:00:24) trapsize 59183
+\i (00:00:25) drag_start grid -45502.09 21705.40
+\i (00:00:26) drag_stop 97839.33 -42804.16
+\i (00:00:28) exit 
+\e (00:00:28) Do you want to save the changes you made to 8880F5-0912_updates.brd?
+\i (00:00:29) fillin no 
+\t (00:00:29)     Journal end - Sat Sep 12 20:04:36 2026
