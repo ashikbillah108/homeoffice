@@ -1,0 +1,117 @@
+\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:00)     Journal start - Mon Sep 14 14:05:45 2026
+\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=2872 CPUs=20
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 641
+\i (00:00:03) trapsize 629
+\i (00:00:03) trapsize 643
+\i (00:00:03) trapsize 648
+\i (00:00:03) trapsize 662
+\i (00:00:03) trapsize 1069
+\i (00:00:04) generaledit 
+\i (00:00:05) open 
+\i (00:00:09) fillin "038RT-9068CJK8E-A100_0914.brd"
+\t (00:00:09) Opening existing design...
+\i (00:00:11) trapsize 6047
+\d (00:00:11) Design opened: D:/iTest/homeoffice/Test Hardware/CJ/038RT-9068CJK8E-A100_0914.brd
+\i (00:00:11) generaledit 
+\i (00:00:16) dlib 
+\i (00:00:17) setwindow form.dlib
+\i (00:00:17) FORM dlib nodepend YES 
+\i (00:00:18) FORM dlib browse_export  
+\i (00:00:25) fillin "LIB"
+\i (00:00:26) FORM dlib execute  
+\t (00:00:26) Starting Cadence export libraries...
+\i (00:00:45) FORM dlib cancel  
+\i (00:00:45) setwindow pcb
+\i (00:00:45) generaledit 
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out -7520.90 6580.08
+\i (00:00:47) trapsize 12095
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out -7641.85 6604.27
+\i (00:00:47) trapsize 24190
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 7957.79 8587.84
+\i (00:00:49) trapsize 12095
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 7957.80 8587.85
+\i (00:00:49) trapsize 24190
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in -9846.04 7620.24
+\i (00:00:50) trapsize 12095
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in -9846.04 7644.44
+\i (00:00:50) trapsize 6047
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in -9821.85 8986.99
+\i (00:00:51) trapsize 3024
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in -9821.85 8986.99
+\i (00:00:51) trapsize 1512
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out -9939.77 8548.55
+\i (00:00:51) trapsize 3024
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out -9939.78 8548.55
+\i (00:00:52) trapsize 6047
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in -11729.84 8742.08
+\i (00:00:53) trapsize 3024
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in -12425.30 9721.78
+\i (00:00:53) trapsize 1512
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -11711.70 9162.39
+\i (00:01:04) trapsize 3024
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -11711.69 9162.38
+\i (00:01:04) trapsize 6047
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out -8421.85 7940.79
+\i (00:01:05) trapsize 12095
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 4713.31 7142.53
+\i (00:01:06) trapsize 6047
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 226.07 7408.62
+\i (00:01:08) trapsize 12095
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 226.07 7408.62
+\i (00:01:08) trapsize 24190
+\i (00:01:20) enved 
+\i (00:01:20) generaledit 
+\i (00:01:23) setwindow form.prfedit
+\i (00:01:23) FORM prfedit treelist  Library Paths 
+\i (00:01:24) FORM prfedit padpath  
+\i (00:01:48) FORM prfedit psmpath  
+\i (00:01:52) FORM prfedit apply  
+\i (00:01:52) FORM prfedit done  
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom fit 
+\i (00:01:54) trapsize 12216
+\i (00:01:54) save 
+\i (00:01:55) fillin yes 
+\i (00:01:56) generaledit 
+\i (00:02:34) exit 
+\t (00:02:34)     Journal end - Mon Sep 14 14:08:19 2026
