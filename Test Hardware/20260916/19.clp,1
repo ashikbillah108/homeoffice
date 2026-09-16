@@ -1,0 +1,1747 @@
+; Allegro sub-drawing file
+; Created by Allegro PCB Designer (was Performance L); version= 16.6-2015 S060
+
+_clp_lay_drw = axlDesignType(nil)
+_clp_sym = nil
+_clp_pbuf  = nil
+_clp_cinfo = make_clp_coord_info()
+_clp_cinfo->f_rotation = 0.0
+_clp_cinfo->l_origin = '(0.0 0.0)
+_clp_text_orient = make_axlTextOrientation()
+_clp_pin_text = make_axlPinText()
+_clp_cinfo->t_from_units = "mils"
+_clp_cinfo->t_to_units = car(axlDBGetDesignUnits())
+_clp_cinfo->preserve_shape_net = nil
+_clp_cinfo->preserve_via_net = nil
+_clp_cinfo->snapToObject = nil
+_clp_cinfo->createNCLayers = nil
+_clp_group_info = make_clp_group_info()
+_clp_cinfo->group_info = _clp_group_info
+_clp_accuracy =2
+_clpCheckAccuracy(_clp_accuracy _clp_cinfo->t_from_units	 	_clp_cinfo->t_to_units)
+(putprop _clp_cinfo (list (_clpAdjustPt -11766.97:-7496.27 _clp_cinfo)	
+	(_clpAdjustPt 11811.27:7811.27 _clp_cinfo)) 'l_extents)
+(putprop _clp_cinfo (_clpAdjustPt '(0.0 0.0) _clp_cinfo) 'l_zeropt)
+(unless (_clpSelectRotOrg _clp_cinfo)
+	(error "CANCEL"))
+_clp_clip_prop_value = _clpGetClipPropValue()
+
+printf(" 10 percent completed")
+newline()
+
+printf(" 20 percent completed")
+newline()
+
+printf(" 30 percent completed")
+newline()
+
+printf(" 40 percent completed")
+newline()
+
+printf(" 50 percent completed")
+newline()
+
+printf(" 60 percent completed")
+newline()
+
+printf(" 70 percent completed")
+newline()
+
+printf(" 80 percent completed")
+newline()
+
+printf(" 90 percent completed")
+newline()
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4290:6230 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4605:6545 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -10960:6545 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11134.3:6370.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11134.3:6140.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11188.7:6086.53 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11188.7:5817.53 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11192.64:5813.59 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11244.54:5813.59 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4304.3:6224.07 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4610.93:6530.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -10954.07:6530.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11120:6364.77 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11120:6135 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11174.4:6080.6 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11174.4:5817.53 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11170.46:5813.59 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11118.56:5813.59 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4210:6285 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4610:6685 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -10880:6685 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11466.02:6098.98 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11466.02:5817.53 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11469.96:5813.59 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11521.86:5813.59 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4224.3:6279.07 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4615.93:6670.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -10874.07:6670.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11451.72:6093.05 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11451.72:5817.53 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11447.78:5813.59 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11395.88:5813.59 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4135:6390 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4609.3:6864.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7909.07:6864.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8092.85:7048.08 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8092.85:7652.82 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8088.91:7656.76 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8037.01:7656.76 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4149.3:6384.07 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4615.23:6850 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7915:6850 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8107.15:7042.15 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8107.15:7652.82 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8111.09:7656.76 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8162.99:7656.76 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4060:6445 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4549.3:6934.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7784.07:6934.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7842.85:6993.08 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7842.85:7652.82 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7838.91:7656.76 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7787.01:7656.76 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4074.3:6439.07 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4555.23:6920 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7790:6920 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7857.15:6987.15 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7857.15:7652.82 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7861.09:7656.76 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7912.99:7656.76 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3965:6475 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4495:7005 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7605:7005 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7680:7080 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7680:7745 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7665:7760 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7575:7760 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7557.15:7742.15 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7557.15:7707.96 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7561.09:7704.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7612.99:7704.02 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3979.3:6469.07 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4500.93:6990.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7610.93:6990.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7694.3:7074.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7694.3:7750.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7670.93:7774.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7569.07:7774.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7542.85:7748.08 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7542.85:7707.96 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7538.91:7704.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7487.01:7704.02 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3770:6455 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4385:7070 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7345:7070 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7415:7140 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7415:7740 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7395:7760 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7320:7760 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7307.15:7747.15 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7307.15:7707.96 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7311.09:7704.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7362.99:7704.02 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3784.3:6449.07 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4390.93:7055.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7350.93:7055.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7429.3:7134.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7429.3:7745.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7400.93:7774.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7314.07:7774.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7292.85:7753.08 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7292.85:7707.96 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7288.91:7704.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7237.01:7704.02 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3980:-6370 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4190:-6580 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7765:-6580 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8054.09:-6869.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8054.09:-7177.15 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8058.03:-7181.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8109.93:-7181.09 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3965.7:-6375.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4184.07:-6594.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7759.07:-6594.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8039.79:-6875.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8039.79:-7177.15 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8035.85:-7181.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7983.95:-7181.09 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4130.7:-6150.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4319.07:-6339.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8239.07:-6339.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8715.700000000001:-6815.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8715.700000000001:-7265.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8754.07:-7304.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8820.93:-7304.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8854.09:-7271.14 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8854.09:-7232.29 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8858.030000000001:-7228.35 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8909.93:-7228.35 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4145:-6145 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4325:-6325 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8245:-6325 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8730:-6810 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8730:-7260 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8760:-7290 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8815:-7290 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8839.790000000001:-7265.21 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8839.790000000001:-7232.29 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8835.85:-7228.35 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8783.950000000001:-7228.35 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4050.7:-6265.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4199.07:-6414.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8084.07:-6414.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8425.700000000001:-6755.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8425.700000000001:-7250.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8474.07:-7299.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8575.93:-7299.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8604.09:-7271.14 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8604.09:-7232.29 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8608.030000000001:-7228.35 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8659.93:-7228.35 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4065:-6260 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4205:-6400 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8090:-6400 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8440:-6750 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8440:-7245 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8480:-7285 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8570:-7285 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8589.790000000001:-7265.21 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8589.790000000001:-7232.29 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8585.85:-7228.35 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8533.950000000001:-7228.35 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4020:-6335 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4175:-6490 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7945:-6490 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8304.09:-6849.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8304.09:-7177.15 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8308.030000000001:-7181.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8359.93:-7181.09 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4005.7:-6340.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4169.07:-6504.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7939.07:-6504.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8289.790000000001:-6855.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8289.790000000001:-7177.15 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8285.85:-7181.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -8233.950000000001:-7181.09 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4319.3:-5919.07 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4480.93:-6080.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7284.07:-6080.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7669.07:-5695.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -10364.07:-5695.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11020.7:-5039.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11020.7:-3334.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11064.07:-3290.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11160.93:-3290.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11188.7:-3318.47 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11188.7:-3358.69 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11192.64:-3362.63 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11244.54:-3362.63 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4305:-5925 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4475:-6095 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7290:-6095 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7675:-5710 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -10370:-5710 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11035:-5045 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11035:-3340 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11070:-3305 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11155:-3305 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11174.4:-3324.4 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11174.4:-3358.69 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11170.46:-3362.63 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11118.56:-3362.63 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4225:-5990 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4380:-6145 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7345:-6145 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7654.3:-5835.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11199.07:-5835.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11750.7:-5284.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11750.7:-4030.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11451.72:-3731.95 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11451.72:-3366.57 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11447.78:-3362.63 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11395.88:-3362.63 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -4210.7:-5995.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -4374.07:-6159.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7350.93:-6159.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -7660.23:-5850 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11205:-5850 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11765:-5290 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11765:-4025 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11466.02:-3726.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11466.02:-3366.57 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11469.96:-3362.63 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -11521.86:-3362.63 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3185:-3485 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -3015:-3315 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -980:-3315 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -750.12:-3085.12 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -750.12:-2004.89 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -619.3:-1874.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -619.3:-1720.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -664.3:-1675.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -664.3:-1624.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -630.51:-1590.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -573.4500000000001:-1590.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-1586.34 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-1559.04 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3170.7:-3490.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -3009.07:-3329.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -974.0700000000001:-3329.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -735.8200000000001:-3091.05 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -735.8200000000001:-2010.82 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -605:-1880 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -605:-1715 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -650:-1670 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -650:-1630 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -624.58:-1604.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -573.4500000000001:-1604.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-1608.52 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-1635.82 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3290:-3295 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -3210:-3215 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1095:-3215 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -920:-3040 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -920:-1335 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -725.28:-1140.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -573.4500000000001:-1140.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-1136.34 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-1109.04 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3275.7:-3300.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -3204.07:-3229.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1089.07:-3229.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -905.7000000000001:-3045.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -905.7000000000001:-1340.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -719.35:-1154.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -573.4500000000001:-1154.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-1158.52 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-1185.82 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -3354.19:-3224.19 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -3270:-3140 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1210:-3140 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1060:-2990 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1060:-1210 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -880:-1030 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -880:-845 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -725.28:-690.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -573.4500000000001:-690.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-686.34 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-659.04 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -569.51:-735.8200000000001 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -569.51:-708.52 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -573.4500000000001:-704.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -719.35:-704.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -865.7000000000001:-850.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -865.7000000000001:-1035.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1045.7:-1215.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1045.7:-2995.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1204.07:-3154.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -3264.07:-3154.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -3339.89:-3230.12 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 3395:-3540 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 3280.7:-3425.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 555.93:-3425.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -25.7:-2844.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -25.7:-1624.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -59.49:-1590.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:-1590.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:-1586.34 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:-1559.04 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 3380.7:-3545.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 3274.77:-3440 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 550:-3440 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -40:-2850 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -40:-1630 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -65.42:-1604.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:-1604.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:-1608.52 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:-1635.82 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 3435:-3485 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 3305.7:-3355.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 590.93:-3355.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 59.3:-2824.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 59.3:-1569.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -20.7:-1489.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -20.7:-1169.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -49.49:-1140.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:-1140.28 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:-1136.34 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:-1109.04 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 3420.7:-3490.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 3299.77:-3370 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 585:-3370 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 45:-2830 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 45:-1575 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -35:-1495 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -35:-1175 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -55.42:-1154.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:-1154.58 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:-1158.52 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:-1185.82 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -2870:2910 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1395:2910 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1055:2570 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1055:1570 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -950:1465 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -950:430 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -729.72:209.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -560.65:209.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -556.71:213.66 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -556.71:240.96 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -2875.93:2895.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1400.93:2895.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1069.3:2564.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1069.3:1564.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -964.3:1459.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -964.3:424.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -735.65:195.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -560.65:195.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -556.71:191.48 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -556.71:164.18 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -2945.93:3040.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1315.93:3040.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -924.3:2649.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -924.3:1519.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -894.3:1489.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -894.3:1310.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -914.3:1290.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -914.3:819.0700000000001 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -740.65:645.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -560.65:645.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -556.71:641.48 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -556.71:614.18 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -2940:3055 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1310:3055 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -910:2655 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -910:1525 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -880:1495 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -880:1305 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -900:1285 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -900:825 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -734.72:659.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -560.65:659.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -556.71:663.66 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -556.71:690.96 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -2950:3245 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1275:3245 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -855:2825 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -855:1680 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -734.72:1559.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -558.65:1559.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -554.71:1563.66 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -554.71:1590.96 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -2955.93:3230.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -1280.93:3230.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -869.3:2819.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -869.3:1674.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -740.65:1545.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -558.65:1545.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -554.71:1541.48 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -554.71:1514.18 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 3090.93:3190.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 165.93:3190.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 49.3:3074.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 49.3:724.0700000000001 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -29.35:645.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:645.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:641.48 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:614.18 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -106.71:690.96 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:663.66 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:659.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -35.28:659.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 35:730 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 35:3080 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 160:3205 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 3085:3205 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 2925.93:3240.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 100.93:3240.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -25.7:3114.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -25.7:1574.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -54.35:1545.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:1545.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:1541.48 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:1514.18 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -106.71:1590.96 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:1563.66 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:1559.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -60.28:1559.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -40:1580 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -40:3120 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 95:3255 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2920:3255 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 3404.3:3104.07 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 3355.93:3055.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 670.93:3055.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 479.3:2864.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 479.3:1614.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 339.3:1474.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 339.3:994.0700000000001 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 114.3:769.0700000000001 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 114.3:364.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -54.35:195.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:195.42 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:191.48 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:164.18 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt -106.71:240.96 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -106.71:213.66 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -102.77:209.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt -60.28:209.72 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 100:370 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 100:775 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 325:1000 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 325:1480 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 465:1620 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 465:2870 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 665:3070 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 3350:3070 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 3390:3110 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4175:-6460 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4290.7:-6575.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7095.93:-6575.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7360.21:-6839.98 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7360.21:-7274.41 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7364.15:-7278.35 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7416.05:-7278.35 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4160.7:-6465.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4284.77:-6590 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7090:-6590 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7345.91:-6845.91 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7345.91:-7274.41 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7341.97:-7278.35 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7290.07:-7278.35 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4125:-6535 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4280.7:-6690.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7020.93:-6690.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7110.21:-6779.98 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7110.21:-7274.41 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7114.15:-7278.35 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7166.05:-7278.35 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 7040.07:-7278.35 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7091.97:-7278.35 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7095.91:-7274.41 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7095.91:-6785.91 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7015:-6705 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4274.77:-6705 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4110.7:-6540.93 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4279.3:-6124.07 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4480.93:-6325.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7535.93:-6325.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8064.3:-6854.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8064.3:-7455.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8030.93:-7489.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7934.07:-7489.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7895.91:-7451.14 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7895.91:-7235.03 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7891.97:-7231.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7840.07:-7231.09 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4265:-6130 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4475:-6340 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7530:-6340 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8050:-6860 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8050:-7450 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8025:-7475 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7940:-7475 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7910.21:-7445.21 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7910.21:-7235.03 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7914.15:-7231.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7966.05:-7231.09 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4195.7:-6190.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4499.07:-6494.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7169.07:-6494.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7485.7:-6810.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7485.7:-7440.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7539.07:-7494.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7615.93:-7494.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7660.21:-7450.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7660.21:-7235.03 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7664.15:-7231.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7716.05:-7231.09 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4210:-6185 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4505:-6480 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7175:-6480 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7500:-6805 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7500:-7435 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7545:-7480 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7610:-7480 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7645.91:-7444.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7645.91:-7235.03 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7641.97:-7231.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7590.07:-7231.09 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4440:-5875 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4580:-6015 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7040:-6015 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8055:-5000 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10665:-5000 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11090:-4575 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11090:-3820 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11323.63:-3586.37 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11323.63:-3401.63 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11319.69:-3397.69 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11267.79:-3397.69 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4425.7:-5880.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4574.07:-6029.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7045.93:-6029.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8060.93:-5014.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10670.93:-5014.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11104.3:-4580.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11104.3:-3825.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11337.93:-3592.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11337.93:-3401.63 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11341.87:-3397.69 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11393.77:-3397.69 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4350:-6095 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4460:-6205 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7035:-6205 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7715:-5525 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11555:-5525 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11795:-5285 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11795:-3950 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11600.95:-3755.95 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11600.95:-3401.63 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11597.01:-3397.69 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11545.11:-3397.69 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4335.7:-6100.93 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4454.07:-6219.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7040.93:-6219.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7720.93:-5539.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11560.93:-5539.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11809.3:-5290.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11809.3:-3944.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11615.25:-3750.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11615.25:-3401.63 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11619.19:-3397.69 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11671.09:-3397.69 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4605:6080 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10435:6080 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10850:5665 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10850:4900 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10975:4775 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11535:4775 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11600.95:4840.95 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11600.95:4974.59 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11597.01:4978.53 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11545.11:4978.53 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4610.93:6065.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10429.07:6065.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10835.7:5659.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10835.7:4894.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10969.07:4760.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11540.93:4760.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11615.25:4835.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11615.25:4974.59 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11619.19:4978.53 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11671.09:4978.53 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4605.93:6140.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10559.07:6140.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10895.7:5804.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10895.7:4929.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11014.07:4810.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11295.93:4810.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11337.93:4852.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11337.93:4974.59 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11341.87:4978.53 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11393.77:4978.53 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4600:6155 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10565:6155 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10910:5810 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 10910:4935 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11020:4825 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11290:4825 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11323.63:4858.63 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11323.63:4974.59 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11319.69:4978.53 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 11267.79:4978.53 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4429.3:6354.3 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7679.07:6354.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8240.700000000001:6915.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8240.700000000001:7770.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8279.07:7809.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8355.93:7809.3 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8380.139999999999:7785.09 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8380.139999999999:7540.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8384.08:7536.76 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8435.98:7536.76 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 8310:7536.76 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8361.9:7536.76 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8365.84:7540.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8365.84:7779.16 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8350:7795 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8285:7795 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8255:7765 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8255:6910 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7685:6340 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 4435.23:6340 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4380:6515 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7520:6515 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7965:6960 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7965:7755 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8000:7790 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8105:7790 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8130.14:7764.86 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8130.14:7540.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8134.08:7536.76 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8185.98:7536.76 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4385.93:6500.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7525.93:6500.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7979.3:6954.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7979.3:7749.07 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8005.93:7775.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8099.07:7775.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8115.84:7758.93 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8115.84:7540.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8111.9:7536.76 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 8060:7536.76 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4420:6680 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7460:6680 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7815.84:7035.84 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7815.84:7580.08 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7811.9:7584.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7760:7584.02 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4425.93:6665.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7465.93:6665.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7830.14:7029.91 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7830.14:7580.08 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7834.08:7584.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7885.98:7584.02 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4370:6815 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7415:6815 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7565.84:6965.84 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7565.84:7580.08 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7561.9:7584.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7510:7584.02 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 4375.93:6800.7 _clp_cinfo))
+	(_clpMKSConvert 3.940000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7420.93:6800.7 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7580.14:6959.91 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7580.14:7580.08 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7584.08:7584.02 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 3.940000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 7635.98:7584.02 _clp_cinfo))
+_clpPl = list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))
+_clp_dbid = _clpDBCreatePath(_clp_path "ETCH/L19_SIGNAL" nil _clp_sym _clpPl)
+_clpPl = nil
+
+printf(" 100 percent completed")
+newline()
+
+if(_clpPinText then axlMsgPut(list("Text pasted without CLIP_DRAWING property." _clpAxlMsg.classWarn))
+_clpDisplayMessage())
+axlFlushDisplay()
