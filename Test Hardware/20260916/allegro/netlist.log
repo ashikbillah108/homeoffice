@@ -1,0 +1,973 @@
+{ Using PSTWRITER 16.6.0 d001Sep-16-2026 at 06:13:39 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.6" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG1_3PI_P0_MDI+".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "2K223.3" ignored for 2K223: SCHEMATIC1, P002R_S2_SPI_WAKE_XTAL (274.32, 96.52). Connecting pin to net "S2_HSD292".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "1K225.5" ignored for 1K225: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG1_1_P1_TXD1".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.1" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S1_U4PI_P0_MDI+".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "3CON3.3" ignored for 3CON3: SCHEMATIC1, P003E_S3_G_LB_FE (332.74, 124.46). Connecting pin to net "SG3_U3_FE_MDIX+".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.16" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG1_3PI_P1_MDI-".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A6" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_VREFB14".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT18.A18" ignored for SLOT18: SCHEMATIC1, T18-SLOT18-SYS (266.70, 22.86). Connecting pin to net "CUB_DGS".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C5" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "CTO_CAP14".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B24" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_VREFA08".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A8" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_DGS13".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A20" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_DGS09".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.3" ignored for CON1: SCHEMATIC1, P000E_S0_G_LB_FE (332.74, 99.06). Connecting pin to net "S0_U3_FE_MDI+".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "R584.2" ignored for R584: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (101.60, 27.94). Connecting pin to net "SC_HSD070".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "1R584.2" ignored for 1R584: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (101.60, 27.94). Connecting pin to net "SC_HSD070".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "2R584.2" ignored for 2R584: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (101.60, 27.94). Connecting pin to net "SC_HSD070".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "3R584.2" ignored for 3R584: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (101.60, 27.94). Connecting pin to net "SC_HSD070".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A9" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_VREFB13".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.15" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG1_3PI_P1_MDI+".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A5" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_DGS14".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.3" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S1_U4PI_P5_MDI+".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "K11.3" ignored for K11: SCHEMATIC1, P000R_S0_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S0_HSD286".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A12" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_VREFB12".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.2" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S1_U4PI_P0_MDI-".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A2" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_DGS15".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B12" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_VREFA20".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B13" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_FORCE11".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C8" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "CTO_CAP21".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "K11.10" ignored for K11: SCHEMATIC1, P000R_S0_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S0_HSD287".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A3" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_VREFB15".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B21" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_VREFA17".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.10" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S1_U4PI_P1_MDI+".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A7" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_SENSE13".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A9" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_VREFB21".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C8" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "CTO_CAP13".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C14" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "CTO_CAP19".
+#37 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.13" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S1_U4PI_P6_MDI-".
+#38 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B1" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_FORCE15".
+#39 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A3" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_VREFB23".
+#40 WARNING(ORCAP-36038): "No_connect" property on Pin "CON3.3" ignored for CON3: SCHEMATIC1, P000E_S0_G_LB_FE (332.74, 124.46). Connecting pin to net "SG0_U3_FE_MDIX+".
+#41 WARNING(ORCAP-36038): "No_connect" property on Pin "3K233.5" ignored for 3K233: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 208.28). Connecting pin to net "S3_SCANA_HSD211".
+#42 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B16" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_FORCE10".
+#43 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B15" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_VREFA19".
+#44 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A4" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_SENSE14".
+#45 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A6" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_VREFB22".
+#46 WARNING(ORCAP-36038): "No_connect" property on Pin "3K232.5" ignored for 3K232: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 172.72). Connecting pin to net "S3_HSD1004".
+#47 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A19" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_SENSE09".
+#48 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A4" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_SENSE22".
+#49 WARNING(ORCAP-36038): "No_connect" property on Pin "3K227.7" ignored for 3K227: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG3_HL_P5_TXD1".
+#50 WARNING(ORCAP-36038): "No_connect" property on Pin "3K231.5" ignored for 3K231: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 132.08). Connecting pin to net "S3_SCANA_HSD207".
+#51 WARNING(ORCAP-36038): "No_connect" property on Pin "K223.3" ignored for K223: SCHEMATIC1, P000R_S0_SPI_WAKE_XTAL (274.32, 96.52). Connecting pin to net "S0_HSD292".
+#52 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C23" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "CTO_CAP08".
+#53 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A16" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_SENSE18".
+#54 WARNING(ORCAP-36038): "No_connect" property on Pin "3K226.7" ignored for 3K226: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG3_HL_P1_TXD3".
+#55 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A1" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_SENSE15".
+#56 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A14" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_DGS19".
+#57 WARNING(ORCAP-36038): "No_connect" property on Pin "3K225.2" ignored for 3K225: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG3_HL_P1_TXD0".
+#58 WARNING(ORCAP-36038): "No_connect" property on Pin "3K182.5" ignored for 3K182: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 124.46). Connecting pin to net "S3_SCANA_HSD217".
+#59 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C17" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "CTO_CAP10".
+#60 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C23" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "CTO_CAP16".
+#61 WARNING(ORCAP-36038): "No_connect" property on Pin "3K225.7" ignored for 3K225: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG3_HL_P1_TXD1".
+#62 WARNING(ORCAP-36038): "No_connect" property on Pin "3K232.4" ignored for 3K232: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 172.72). Connecting pin to net "S3_SCANA_HSD208".
+#63 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B18" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_VREFA10".
+#64 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A18" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_VREFB18".
+#65 WARNING(ORCAP-36038): "No_connect" property on Pin "3K225.6" ignored for 3K225: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG3_P1_TXD1".
+#66 WARNING(ORCAP-36038): "No_connect" property on Pin "3K181.5" ignored for 3K181: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 73.66). Connecting pin to net "S3_SCANA_HSD215".
+#67 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B12" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_VREFA12".
+#68 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C2" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "CTO_CAP23".
+#69 WARNING(ORCAP-36038): "No_connect" property on Pin "3K228.2" ignored for 3K228: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (353.06, 121.92). Connecting pin to net "SG3_HL_P5_TXD2".
+#70 WARNING(ORCAP-36038): "No_connect" property on Pin "K227.5" ignored for K227: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG0_1_P5_TXD1".
+#71 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B7" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_FORCE13".
+#72 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A15" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_VREFB19".
+#73 WARNING(ORCAP-36038): "No_connect" property on Pin "3K227.6" ignored for 3K227: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG3_P5_TXD1".
+#74 WARNING(ORCAP-36038): "No_connect" property on Pin "3K180.5" ignored for 3K180: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 22.86). Connecting pin to net "S3_SCANA_HSD213".
+#75 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A22" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_SENSE08".
+#76 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B10" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_FORCE20".
+#77 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A23" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_DGS08".
+#78 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A21" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_VREFB17".
+#79 WARNING(ORCAP-36038): "No_connect" property on Pin "3K226.6" ignored for 3K226: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG3_P1_TXD3".
+#80 WARNING(ORCAP-36038): "No_connect" property on Pin "K217.24" ignored for K217: SCHEMATIC1, P000K_S0_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S0_DCH_P6_HSO-".
+#81 WARNING(ORCAP-36038): "No_connect" property on Pin "3K233.4" ignored for 3K233: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 208.28). Connecting pin to net "S3_HSD1000".
+#82 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A17" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_DGS10".
+#83 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A11" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_DGS20".
+#84 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B10" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_FORCE12".
+#85 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B4" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_FORCE22".
+#86 WARNING(ORCAP-36038): "No_connect" property on Pin "3K183.5" ignored for 3K183: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 175.26). Connecting pin to net "S3_HSD1005".
+#87 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A10" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_SENSE12".
+#88 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A24" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_VREFB16".
+#89 WARNING(ORCAP-36038): "No_connect" property on Pin "HOST2.12" ignored for HOST2: SCHEMATIC1, P000O_S0_H_Host2 (129.54, 48.26). Connecting pin to net "SH02_ISOLATEBPIN".
+#90 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B21" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_VREFA09".
+#91 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A23" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_DGS16".
+#92 WARNING(ORCAP-36038): "No_connect" property on Pin "3K227.2" ignored for 3K227: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG3_HL_P5_TXD0".
+#93 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A14" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_DGS11".
+#94 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B9" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_VREFA21".
+#95 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C14" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "CTO_CAP11".
+#96 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C20" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "CTO_CAP17".
+#97 WARNING(ORCAP-36038): "No_connect" property on Pin "3K226.2" ignored for 3K226: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG3_HL_P1_TXD2".
+#98 WARNING(ORCAP-36038): "No_connect" property on Pin "R63.2" ignored for R63: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 152.40). Connecting pin to net "SG0_SRC_DVDD33".
+#99 WARNING(ORCAP-36038): "No_connect" property on Pin "R64.2" ignored for R64: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 154.94). Connecting pin to net "SG0_SRC_DVDD33".
+#100 WARNING(ORCAP-36038): "No_connect" property on Pin "R66.2" ignored for R66: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 157.48). Connecting pin to net "SG0_SRC_DVDD33".
+#101 WARNING(ORCAP-36038): "No_connect" property on Pin "R68.2" ignored for R68: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 160.02). Connecting pin to net "SG0_SRC_DVDD33".
+#102 WARNING(ORCAP-36038): "No_connect" property on Pin "R67.2" ignored for R67: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 162.56). Connecting pin to net "SG0_SRC_DVDD33".
+#103 WARNING(ORCAP-36038): "No_connect" property on Pin "R554.2" ignored for R554: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 165.10). Connecting pin to net "SG0_SRC_DVDD33".
+#104 WARNING(ORCAP-36038): "No_connect" property on Pin "R563.2" ignored for R563: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 220.98). Connecting pin to net "SG0_SRC_DVDD33".
+#105 WARNING(ORCAP-36038): "No_connect" property on Pin "R564.2" ignored for R564: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 223.52). Connecting pin to net "SG0_SRC_DVDD33".
+#106 WARNING(ORCAP-36038): "No_connect" property on Pin "R565.2" ignored for R565: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 226.06). Connecting pin to net "SG0_SRC_DVDD33".
+#107 WARNING(ORCAP-36038): "No_connect" property on Pin "R566.2" ignored for R566: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 228.60). Connecting pin to net "SG0_SRC_DVDD33".
+#108 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C2" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "CTO_CAP15".
+#109 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B19" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_FORCE17".
+#110 WARNING(ORCAP-36038): "No_connect" property on Pin "HOST1.12" ignored for HOST1: SCHEMATIC1, P000N_S0_H_Host1 (129.54, 48.26). Connecting pin to net "SH01_ISOLATEBPIN".
+#111 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B6" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_VREFA14".
+#112 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B3" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_VREFA23".
+#113 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B15" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_VREFA11".
+#114 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A12" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_VREFB20".
+#115 WARNING(ORCAP-36038): "No_connect" property on Pin "1K8.3" ignored for 1K8: SCHEMATIC1, S9991_4S_LDO_Relay (195.58, 45.72). Connecting pin to net "S1_P0_VDDIO".
+#116 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A11" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_DGS12".
+#117 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C5" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "CTO_CAP22".
+#118 WARNING(ORCAP-36038): "No_connect" property on Pin "1K10.3" ignored for 1K10: SCHEMATIC1, S9991_4S_LDO_Relay (195.58, 208.28). Connecting pin to net "S1_P5_VDDIO".
+#119 WARNING(ORCAP-36038): "No_connect" property on Pin "1K181.5" ignored for 1K181: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 73.66). Connecting pin to net "S1_SCANA_HSD215".
+#120 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A16" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_SENSE10".
+#121 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A5" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_DGS22".
+#122 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C11" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "CTO_CAP12".
+#123 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B1" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_FORCE23".
+#124 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.23" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S1_LB_P2_GIGA_MDI+".
+#125 WARNING(ORCAP-36038): "No_connect" property on Pin "1K5.5" ignored for 1K5: SCHEMATIC1, P0013_S1_PWR3 (266.70, 96.52). Connecting pin to net "S1_DPS_GPIO_P015VDDIO".
+#126 WARNING(ORCAP-36038): "No_connect" property on Pin "1K233.5" ignored for 1K233: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 208.28). Connecting pin to net "S1_SCANA_HSD211".
+#127 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B22" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_FORCE08".
+#128 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C17" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "CTO_CAP18".
+#129 WARNING(ORCAP-36038): "No_connect" property on Pin "3R63.2" ignored for 3R63: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 152.40). Connecting pin to net "SG3_SRC_DVDD33".
+#130 WARNING(ORCAP-36038): "No_connect" property on Pin "3R64.2" ignored for 3R64: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 154.94). Connecting pin to net "SG3_SRC_DVDD33".
+#131 WARNING(ORCAP-36038): "No_connect" property on Pin "3R66.2" ignored for 3R66: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 157.48). Connecting pin to net "SG3_SRC_DVDD33".
+#132 WARNING(ORCAP-36038): "No_connect" property on Pin "3R68.2" ignored for 3R68: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 160.02). Connecting pin to net "SG3_SRC_DVDD33".
+#133 WARNING(ORCAP-36038): "No_connect" property on Pin "3R67.2" ignored for 3R67: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 162.56). Connecting pin to net "SG3_SRC_DVDD33".
+#134 WARNING(ORCAP-36038): "No_connect" property on Pin "3R554.2" ignored for 3R554: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 165.10). Connecting pin to net "SG3_SRC_DVDD33".
+#135 WARNING(ORCAP-36038): "No_connect" property on Pin "3R563.2" ignored for 3R563: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 220.98). Connecting pin to net "SG3_SRC_DVDD33".
+#136 WARNING(ORCAP-36038): "No_connect" property on Pin "3R564.2" ignored for 3R564: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 223.52). Connecting pin to net "SG3_SRC_DVDD33".
+#137 WARNING(ORCAP-36038): "No_connect" property on Pin "3R565.2" ignored for 3R565: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 226.06). Connecting pin to net "SG3_SRC_DVDD33".
+#138 WARNING(ORCAP-36038): "No_connect" property on Pin "3R566.2" ignored for 3R566: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 228.60). Connecting pin to net "SG3_SRC_DVDD33".
+#139 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.28" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S1_U3_P2_GIGA_MDI-".
+#140 WARNING(ORCAP-36038): "No_connect" property on Pin "K217.11" ignored for K217: SCHEMATIC1, P000K_S0_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S0_1_P6_HSO+".
+#141 WARNING(ORCAP-36038): "No_connect" property on Pin "1K231.5" ignored for 1K231: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 132.08). Connecting pin to net "S1_SCANA_HSD207".
+#142 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B4" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_FORCE14".
+#143 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C11" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "CTO_CAP20".
+#144 WARNING(ORCAP-36038): "No_connect" property on Pin "2RH112.1" ignored for 2RH112: SCHEMATIC1, P002N_S2_H_Host1 (88.90, 134.62). Connecting pin to net "SH21_P6_ISOLATEB".
+#145 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A24" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_VREFB08".
+#146 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B6" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_VREFA22".
+#147 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.35" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG1_C_P4_HSI+".
+#148 WARNING(ORCAP-36038): "No_connect" property on Pin "1K180.5" ignored for 1K180: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 22.86). Connecting pin to net "S1_SCANA_HSD213".
+#149 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B9" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_VREFA13".
+#150 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B16" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_FORCE18".
+#151 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.32" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S1_DCH_P4_HSO-".
+#152 WARNING(ORCAP-36038): "No_connect" property on Pin "1K182.5" ignored for 1K182: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 124.46). Connecting pin to net "S1_SCANA_HSD217".
+#153 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A15" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_VREFB11".
+#154 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B24" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_VREFA16".
+#155 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.7" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S1_P4_HSO+".
+#156 WARNING(ORCAP-36038): "No_connect" property on Pin "1K9.3" ignored for 1K9: SCHEMATIC1, S9991_4S_LDO_Relay (195.58, 127.00). Connecting pin to net "S1_P1_VDDIO".
+#157 WARNING(ORCAP-36038): "No_connect" property on Pin "K228.2" ignored for K228: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (353.06, 121.92). Connecting pin to net "SG0_HL_P5_TXD2".
+#158 WARNING(ORCAP-36038): "No_connect" property on Pin "1K232.4" ignored for 1K232: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 172.72). Connecting pin to net "S1_SCANA_HSD208".
+#159 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A13" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_SENSE11".
+#160 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A19" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_SENSE17".
+#161 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A21" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_VREFB09".
+#162 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A10" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_SENSE20".
+#163 WARNING(ORCAP-36038): "No_connect" property on Pin "2MQS1.15" ignored for 2MQS1: SCHEMATIC1, P002C_S2_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG2_3PI_P1_MDI+".
+#164 WARNING(ORCAP-36038): "No_connect" property on Pin "K225.7" ignored for K225: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG0_HL_P1_TXD1".
+#165 WARNING(ORCAP-36038): "No_connect" property on Pin "1K233.4" ignored for 1K233: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 208.28). Connecting pin to net "S1_HSD1000".
+#166 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.A18" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (299.72, 22.86). Connecting pin to net "CTO_VREFB10".
+#167 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A8" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_DGS21".
+#168 WARNING(ORCAP-36038): "No_connect" property on Pin "2MQS1.3" ignored for 2MQS1: SCHEMATIC1, P002C_S2_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S2_U4PI_P5_MDI+".
+#169 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.23" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S1_DCH_P5_HSO-".
+#170 WARNING(ORCAP-36038): "No_connect" property on Pin "K225.6" ignored for K225: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG0_P1_TXD1".
+#171 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C14" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "CTO_CAP27".
+#172 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B19" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_FORCE09".
+#173 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B7" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_FORCE21".
+#174 WARNING(ORCAP-36038): "No_connect" property on Pin "2RH212.1" ignored for 2RH212: SCHEMATIC1, P002O_S2_H_Host2 (88.90, 134.62). Connecting pin to net "SH22_P7_ISOLATEB".
+#175 WARNING(ORCAP-36038): "No_connect" property on Pin "2MQS1.13" ignored for 2MQS1: SCHEMATIC1, P002C_S2_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S2_U4PI_P6_MDI-".
+#176 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.26" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG1_C_P5_HSI+".
+#177 WARNING(ORCAP-36038): "No_connect" property on Pin "1K183.5" ignored for 1K183: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 175.26). Connecting pin to net "S1_HSD1005".
+#178 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A12" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_VREFB28".
+#179 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B3" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "CTO_VREFA15".
+#180 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A20" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_DGS17".
+#181 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.16" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S1_P5_HSO+".
+#182 WARNING(ORCAP-36038): "No_connect" property on Pin "K227.2" ignored for K227: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG0_HL_P5_TXD0".
+#183 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A6" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_VREFB30".
+#184 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C20" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "CTO_CAP09".
+#185 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B18" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_VREFA18".
+#186 WARNING(ORCAP-36038): "No_connect" property on Pin "2MQS1.9" ignored for 2MQS1: SCHEMATIC1, P002C_S2_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG2_3PI_P5_MDI-".
+#187 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.36" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG1_3_P3_GIGA_MDI+".
+#188 WARNING(ORCAP-36038): "No_connect" property on Pin "K11.8" ignored for K11: SCHEMATIC1, P000R_S0_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S0_1_NGATE".
+#189 WARNING(ORCAP-36038): "No_connect" property on Pin "K6.3" ignored for K6: SCHEMATIC1, P000P_S0_AT_GPIO_INH_RTT (200.66, 259.08). Connecting pin to net "S0_INH_DIV2".
+#190 WARNING(ORCAP-36038): "No_connect" property on Pin "K226.6" ignored for K226: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG0_P1_TXD3".
+#191 WARNING(ORCAP-36038): "No_connect" property on Pin "1K232.5" ignored for 1K232: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 172.72). Connecting pin to net "S1_HSD1004".
+#192 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A9" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_VREFB29".
+#193 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A13" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_SENSE19".
+#194 WARNING(ORCAP-36038): "No_connect" property on Pin "1HOST2.12" ignored for 1HOST2: SCHEMATIC1, P001O_S1_H_Host2 (129.54, 48.26). Connecting pin to net "SH12_ISOLATEBPIN".
+#195 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A15" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_VREFB27".
+#196 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A17" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_DGS18".
+#197 WARNING(ORCAP-36038): "No_connect" property on Pin "K226.7" ignored for K226: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG0_HL_P1_TXD3".
+#198 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B12" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_VREFA28".
+#199 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A22" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_SENSE16".
+#200 WARNING(ORCAP-36038): "No_connect" property on Pin "2MQS1.10" ignored for 2MQS1: SCHEMATIC1, P002C_S2_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S2_U4PI_P1_MDI+".
+#201 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B18" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_VREFA26".
+#202 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B13" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_FORCE19".
+#203 WARNING(ORCAP-36038): "No_connect" property on Pin "1K6.3" ignored for 1K6: SCHEMATIC1, P001P_S1_AT_GPIO_INH_RTT (200.66, 259.08). Connecting pin to net "S1_INH_DIV2".
+#204 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.27" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG1_C_P5_HSI-".
+#205 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C2" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "CTO_CAP31".
+#206 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B22" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "CTO_FORCE16".
+#207 WARNING(ORCAP-36038): "No_connect" property on Pin "2MQS1.1" ignored for 2MQS1: SCHEMATIC1, P002C_S2_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S2_U4PI_P0_MDI+".
+#208 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A21" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_VREFB25".
+#209 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B21" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_VREFA01".
+#210 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A2" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_DGS23".
+#211 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.29" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG1_C_P5_HSO-".
+#212 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C20" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "CTO_CAP25".
+#213 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C5" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "CTO_CAP06".
+#214 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A1" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_SENSE23".
+#215 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.28" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG1_C_P5_HSO+".
+#216 WARNING(ORCAP-36038): "No_connect" property on Pin "K227.7" ignored for K227: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG0_HL_P5_TXD1".
+#217 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B22" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_FORCE24".
+#218 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B19" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_FORCE01".
+#219 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.A7" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (299.72, 22.86). Connecting pin to net "CTO_SENSE21".
+#220 WARNING(ORCAP-36038): "No_connect" property on Pin "1K145.29" ignored for 1K145: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (292.10, 96.52). Connecting pin to net "S1_U3_P3_GIGA_MDI-".
+#221 WARNING(ORCAP-36038): "No_connect" property on Pin "K217.29" ignored for K217: SCHEMATIC1, P000K_S0_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "SG0_C_P7_HSI+".
+#222 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A23" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_DGS24".
+#223 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A1" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_SENSE07".
+#224 WARNING(ORCAP-36038): "No_connect" property on Pin "K227.6" ignored for K227: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG0_P5_TXD1".
+#225 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B7" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_FORCE29".
+#226 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A12" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_VREFB04".
+#227 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.15" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG1_2_P2_GIGA_MDI+".
+#228 WARNING(ORCAP-36038): "No_connect" property on Pin "K226.2" ignored for K226: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG0_HL_P1_TXD2".
+#229 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A22" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_SENSE24".
+#230 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B7" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_FORCE05".
+#231 WARNING(ORCAP-36038): "No_connect" property on Pin "2MQS1.6" ignored for 2MQS1: SCHEMATIC1, P002C_S2_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG2_3PI_P0_MDI+".
+#232 WARNING(ORCAP-36038): "No_connect" property on Pin "1K180.7" ignored for 1K180: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 22.86). Connecting pin to net "SG1_P0_RXD0".
+#233 WARNING(ORCAP-36038): "No_connect" property on Pin "K217.28" ignored for K217: SCHEMATIC1, P000K_S0_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "SG0_C_P7_HSI-".
+#234 WARNING(ORCAP-36038): "No_connect" property on Pin "K225.2" ignored for K225: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG0_HL_P1_TXD0".
+#235 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A2" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_DGS31".
+#236 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A9" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_VREFB05".
+#237 WARNING(ORCAP-36038): "No_connect" property on Pin "2K225.5" ignored for 2K225: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG2_1_P1_TXD1".
+#238 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C11" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "CTO_CAP28".
+#239 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A4" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_SENSE06".
+#240 WARNING(ORCAP-36038): "No_connect" property on Pin "2K226.5" ignored for 2K226: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG2_1_P1_TXD3".
+#241 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.31" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S1_DCH_P4_HSO+".
+#242 WARNING(ORCAP-36038): "No_connect" property on Pin "1K232.6" ignored for 1K232: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 172.72). Connecting pin to net "S1_R_P0_RXDV".
+#243 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.7" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG1_2_P3_GIGA_MDI-".
+#244 WARNING(ORCAP-36038): "No_connect" property on Pin "K217.12" ignored for K217: SCHEMATIC1, P000K_S0_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S0_1_P6_HSO-".
+#245 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A19" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_SENSE25".
+#246 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C20" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "CTO_CAP01".
+#247 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.31" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S1_LB_P3_GIGA_MDI-".
+#248 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A13" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_SENSE27".
+#249 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A14" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_DGS03".
+#250 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.15" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S1_P5_HSO-".
+#251 WARNING(ORCAP-36038): "No_connect" property on Pin "1K232.7" ignored for 1K232: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 172.72). Connecting pin to net "SG1_P0_TXEN".
+#252 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B13" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_FORCE27".
+#253 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A11" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_DGS04".
+#254 WARNING(ORCAP-36038): "No_connect" property on Pin "2MQS1.16" ignored for 2MQS1: SCHEMATIC1, P002C_S2_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG2_3PI_P1_MDI-".
+#255 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.22" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S1_DCH_P5_HSO+".
+#256 WARNING(ORCAP-36038): "No_connect" property on Pin "MUX4.3" ignored for MUX4: SCHEMATIC1, S9991_SC_DCH_Share1 (325.12, 30.48). Connecting pin to net "S1_DCH_P5_HSO+".
+#257 WARNING(ORCAP-36038): "No_connect" property on Pin "1K231.7" ignored for 1K231: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 132.08). Connecting pin to net "SG1_P0_TXD1".
+#258 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.22" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S1_LB_P2_GIGA_MDI-".
+#259 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A17" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_DGS26".
+#260 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B4" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_FORCE06".
+#261 WARNING(ORCAP-36038): "No_connect" property on Pin "2MQS1.2" ignored for 2MQS1: SCHEMATIC1, P002C_S2_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S2_U4PI_P0_MDI-".
+#262 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.27" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG1_3_P2_GIGA_MDI+".
+#263 WARNING(ORCAP-36038): "No_connect" property on Pin "K217.25" ignored for K217: SCHEMATIC1, P000K_S0_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S0_DCH_P6_HSO+".
+#264 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A16" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_SENSE26".
+#265 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C2" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "CTO_CAP07".
+#266 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A5" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_DGS30".
+#267 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B6" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_VREFA06".
+#268 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.6" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S1_P4_HSO-".
+#269 WARNING(ORCAP-36038): "No_connect" property on Pin "1K180.2" ignored for 1K180: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 22.86). Connecting pin to net "SG1_P0_RXDV".
+#270 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B3" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_VREFA31".
+#271 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A19" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_SENSE01".
+#272 WARNING(ORCAP-36038): "No_connect" property on Pin "1K11.8" ignored for 1K11: SCHEMATIC1, P001R_S1_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S1_1_NGATE".
+#273 WARNING(ORCAP-36038): "No_connect" property on Pin "1K183.6" ignored for 1K183: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 175.26). Connecting pin to net "S1_R_P0_RXER".
+#274 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A18" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_VREFB26".
+#275 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A5" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_DGS06".
+#276 WARNING(ORCAP-36038): "No_connect" property on Pin "1K184.36" ignored for 1K184: SCHEMATIC1, P001J_S1_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG1_C_P4_HSI-".
+#277 WARNING(ORCAP-36038): "No_connect" property on Pin "1K145.28" ignored for 1K145: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (292.10, 96.52). Connecting pin to net "S1_U3_P3_GIGA_MDI+".
+#278 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B19" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_FORCE25".
+#279 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A7" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_SENSE05".
+#280 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.16" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG1_2_P2_GIGA_MDI-".
+#281 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A11" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_DGS28".
+#282 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B9" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_VREFA05".
+#283 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.35" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG1_3_P3_GIGA_MDI-".
+#284 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A20" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_DGS25".
+#285 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B3" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_VREFA07".
+#286 WARNING(ORCAP-36038): "No_connect" property on Pin "1K181.7" ignored for 1K181: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 73.66). Connecting pin to net "SG1_P0_RXC".
+#287 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B9" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_VREFA29".
+#288 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A8" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_DGS05".
+#289 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A4" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_SENSE30".
+#290 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B13" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_FORCE03".
+#291 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.26" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG1_3_P2_GIGA_MDI-".
+#292 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B10" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_FORCE28".
+#293 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B22" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_FORCE00".
+#294 WARNING(ORCAP-36038): "No_connect" property on Pin "1K232.2" ignored for 1K232: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 172.72). Connecting pin to net "SG1_P0_TXD3".
+#295 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B6" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_VREFA30".
+#296 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A13" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_SENSE03".
+#297 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B1" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_FORCE31".
+#298 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A3" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_VREFB07".
+#299 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.32" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S1_LB_P3_GIGA_MDI+".
+#300 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B15" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_VREFA27".
+#301 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A15" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_VREFB03".
+#302 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A10" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_SENSE28".
+#303 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B18" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_VREFA02".
+#304 WARNING(ORCAP-36038): "No_connect" property on Pin "3K226.5" ignored for 3K226: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG3_1_P1_TXD3".
+#305 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.29" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S1_U3_P2_GIGA_MDI+".
+#306 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B16" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_FORCE26".
+#307 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C11" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "CTO_CAP04".
+#308 WARNING(ORCAP-36038): "No_connect" property on Pin "1K144.6" ignored for 1K144: SCHEMATIC1, P001D_S1_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG1_2_P3_GIGA_MDI+".
+#309 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A7" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_SENSE29".
+#310 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C17" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "CTO_CAP02".
+#311 WARNING(ORCAP-36038): "No_connect" property on Pin "LDOB2.4" ignored for LDOB2: SCHEMATIC1, S9993_ATX_Power (330.20, 33.02). Connecting pin to net "SC_LDOB2_1V8".
+#312 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C5" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "CTO_CAP30".
+#313 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C23" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "CTO_CAP00".
+#314 WARNING(ORCAP-36038): "No_connect" property on Pin "1HOST1.12" ignored for 1HOST1: SCHEMATIC1, P001N_S1_H_Host1 (129.54, 48.26). Connecting pin to net "SH11_ISOLATEBPIN".
+#315 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A14" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_DGS27".
+#316 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B10" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_FORCE04".
+#317 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A8" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_DGS29".
+#318 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B24" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_VREFA00".
+#319 WARNING(ORCAP-36038): "No_connect" property on Pin "2K145.28" ignored for 2K145: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (292.10, 96.52). Connecting pin to net "S2_U3_P3_GIGA_MDI+".
+#320 WARNING(ORCAP-36038): "No_connect" property on Pin "K10.10" ignored for K10: SCHEMATIC1, S9991_4S_LDO_Relay (43.18, 208.28). Connecting pin to net "S2_P5_VDDIO".
+#321 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B24" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_VREFA24".
+#322 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A16" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_SENSE02".
+#323 WARNING(ORCAP-36038): "No_connect" property on Pin "1K182.2" ignored for 1K182: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 124.46). Connecting pin to net "SG1_P0_RXD2".
+#324 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A1" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_SENSE31".
+#325 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A2" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_DGS07".
+#326 WARNING(ORCAP-36038): "No_connect" property on Pin "3K225.5" ignored for 3K225: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG3_1_P1_TXD1".
+#327 WARNING(ORCAP-36038): "No_connect" property on Pin "2K5.5" ignored for 2K5: SCHEMATIC1, P0023_S2_PWR3 (266.70, 96.52). Connecting pin to net "S2_DPS_GPIO_P015VDDIO".
+#328 WARNING(ORCAP-36038): "No_connect" property on Pin "1K180.6" ignored for 1K180: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 22.86). Connecting pin to net "S1_R_P0_TXD0".
+#329 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C8" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "CTO_CAP29".
+#330 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A23" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_DGS00".
+#331 WARNING(ORCAP-36038): "No_connect" property on Pin "1K231.6" ignored for 1K231: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 132.08). Connecting pin to net "S1_R_P0_RXD1".
+#332 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C17" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "CTO_CAP26".
+#333 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B1" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_FORCE07".
+#334 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B21" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_VREFA25".
+#335 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B12" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_VREFA04".
+#336 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.7" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S2_P4_HSO+".
+#337 WARNING(ORCAP-36038): "No_connect" property on Pin "1K233.2" ignored for 1K233: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 208.28). Connecting pin to net "SG1_P0_TXC".
+#338 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A3" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_VREFB31".
+#339 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B16" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_FORCE02".
+#340 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B4" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "CTO_FORCE30".
+#341 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A18" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_VREFB02".
+#342 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.23" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S2_DCH_P5_HSO-".
+#343 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.A24" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (299.72, 22.86). Connecting pin to net "CTO_VREFB24".
+#344 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A17" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_DGS02".
+#345 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C23" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "CTO_CAP24".
+#346 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B15" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "CTO_VREFA03".
+#347 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.15" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S2_P5_HSO-".
+#348 WARNING(ORCAP-36038): "No_connect" property on Pin "K9.10" ignored for K9: SCHEMATIC1, S9991_4S_LDO_Relay (43.18, 127.00). Connecting pin to net "S2_P1_VDDIO".
+#349 WARNING(ORCAP-36038): "No_connect" property on Pin "1K217.29" ignored for 1K217: SCHEMATIC1, P001K_S1_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "SG1_C_P7_HSI+".
+#350 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A6" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_VREFB06".
+#351 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.31" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S2_DCH_P4_HSO+".
+#352 WARNING(ORCAP-36038): "No_connect" property on Pin "MQS1.15" ignored for MQS1: SCHEMATIC1, P000C_S0_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG0_3PI_P1_MDI+".
+#353 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C14" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "CTO_CAP03".
+#354 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B2" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "AGND".
+#355 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B5" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "AGND".
+#356 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B8" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "AGND".
+#357 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B11" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "AGND".
+#358 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B14" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "AGND".
+#359 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B17" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "AGND".
+#360 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B20" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "AGND".
+#361 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.B23" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (203.20, 22.86). Connecting pin to net "AGND".
+#362 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C1" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#363 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C4" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#364 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C3" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#365 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C7" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#366 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C6" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#367 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C9" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#368 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C13" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#369 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C12" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#370 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C10" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#371 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C18" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#372 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C21" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#373 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C19" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#374 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C24" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#375 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C22" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#376 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C16" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#377 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT16.C15" ignored for SLOT16: SCHEMATIC1, T16-SLOT16_J750_CTO2 (111.76, 22.86). Connecting pin to net "AGND".
+#378 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B2" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "AGND".
+#379 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B5" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "AGND".
+#380 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B8" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "AGND".
+#381 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B11" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "AGND".
+#382 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B14" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "AGND".
+#383 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B17" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "AGND".
+#384 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B20" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "AGND".
+#385 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.B23" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (203.20, 22.86). Connecting pin to net "AGND".
+#386 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C1" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#387 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C4" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#388 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C3" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#389 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C7" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#390 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C6" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#391 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C9" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#392 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C13" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#393 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C12" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#394 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C10" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#395 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C18" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#396 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C21" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#397 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C19" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#398 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C24" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#399 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C22" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#400 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C16" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#401 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C15" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "AGND".
+#402 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B2" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "AGND".
+#403 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B5" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "AGND".
+#404 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B8" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "AGND".
+#405 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B11" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "AGND".
+#406 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B14" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "AGND".
+#407 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B17" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "AGND".
+#408 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B20" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "AGND".
+#409 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.B23" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (203.20, 22.86). Connecting pin to net "AGND".
+#410 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C1" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#411 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C4" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#412 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C3" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#413 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C7" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#414 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C6" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#415 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C9" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#416 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C13" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#417 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C12" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#418 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C10" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#419 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C18" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#420 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C21" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#421 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C19" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#422 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C24" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#423 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C22" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#424 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C16" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#425 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT19.C15" ignored for SLOT19: SCHEMATIC1, T19-SLOT19_J750_CTO1 (111.76, 22.86). Connecting pin to net "AGND".
+#426 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B2" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "AGND".
+#427 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B5" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "AGND".
+#428 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B8" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "AGND".
+#429 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B11" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "AGND".
+#430 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B14" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "AGND".
+#431 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B17" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "AGND".
+#432 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B20" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "AGND".
+#433 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.B23" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (203.20, 22.86). Connecting pin to net "AGND".
+#434 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C1" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#435 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C4" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#436 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C3" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#437 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C7" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#438 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C6" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#439 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C9" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#440 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C13" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#441 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C12" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#442 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C10" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#443 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C18" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#444 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C21" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#445 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C19" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#446 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C24" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#447 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C22" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#448 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C16" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#449 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT20.C15" ignored for SLOT20: SCHEMATIC1, T20-SLOT20_J750_CTO3 (111.76, 22.86). Connecting pin to net "AGND".
+#450 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.36" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG2_C_P4_HSI-".
+#451 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.23" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S2_LB_P2_GIGA_MDI+".
+#452 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A20" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_DGS01".
+#453 WARNING(ORCAP-36038): "No_connect" property on Pin "3MQS1.13" ignored for 3MQS1: SCHEMATIC1, P003C_S3_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S3_U4PI_P6_MDI-".
+#454 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.16" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG2_2_P2_GIGA_MDI-".
+#455 WARNING(ORCAP-36038): "No_connect" property on Pin "K8.10" ignored for K8: SCHEMATIC1, S9991_4S_LDO_Relay (43.18, 45.72). Connecting pin to net "S2_P0_VDDIO".
+#456 WARNING(ORCAP-36038): "No_connect" property on Pin "1K233.3" ignored for 1K233: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 208.28). Connecting pin to net "S1_R_P0_RXC".
+#457 WARNING(ORCAP-36038): "No_connect" property on Pin "MQS1.16" ignored for MQS1: SCHEMATIC1, P000C_S0_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG0_3PI_P1_MDI-".
+#458 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A10" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_SENSE04".
+#459 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.32" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S2_DCH_P4_HSO-".
+#460 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.7" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG2_2_P3_GIGA_MDI-".
+#461 WARNING(ORCAP-36038): "No_connect" property on Pin "1K181.6" ignored for 1K181: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 73.66). Connecting pin to net "S1_R_P0_TXC".
+#462 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A21" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_VREFB01".
+#463 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.27" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG2_3_P2_GIGA_MDI+".
+#464 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A24" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_VREFB00".
+#465 WARNING(ORCAP-36038): "No_connect" property on Pin "3MQS1.15" ignored for 3MQS1: SCHEMATIC1, P003C_S3_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG3_3PI_P1_MDI+".
+#466 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.27" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG2_C_P5_HSI-".
+#467 WARNING(ORCAP-36038): "No_connect" property on Pin "1K233.6" ignored for 1K233: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 208.28). Connecting pin to net "S1_R_P0_RXD2".
+#468 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.C8" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (111.76, 22.86). Connecting pin to net "CTO_CAP05".
+#469 WARNING(ORCAP-36038): "No_connect" property on Pin "3K11.3" ignored for 3K11: SCHEMATIC1, P003R_S3_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S3_HSD286".
+#470 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT17.A22" ignored for SLOT17: SCHEMATIC1, T17-SLOT17_J750_CTO0 (299.72, 22.86). Connecting pin to net "CTO_SENSE00".
+#471 WARNING(ORCAP-36038): "No_connect" property on Pin "3RH112.1" ignored for 3RH112: SCHEMATIC1, P003N_S3_H_Host1 (88.90, 134.62). Connecting pin to net "SH31_P6_ISOLATEB".
+#472 WARNING(ORCAP-36038): "No_connect" property on Pin "3MQS1.2" ignored for 3MQS1: SCHEMATIC1, P003C_S3_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S3_U4PI_P0_MDI-".
+#473 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.26" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG2_C_P5_HSI+".
+#474 WARNING(ORCAP-36038): "No_connect" property on Pin "1K183.2" ignored for 1K183: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 175.26). Connecting pin to net "SG1_P0_RXD3".
+#475 WARNING(ORCAP-36038): "No_connect" property on Pin "3K11.10" ignored for 3K11: SCHEMATIC1, P003R_S3_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S3_HSD287".
+#476 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.31" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S2_LB_P3_GIGA_MDI-".
+#477 WARNING(ORCAP-36038): "No_connect" property on Pin "1K217.24" ignored for 1K217: SCHEMATIC1, P001K_S1_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S1_DCH_P6_HSO-".
+#478 WARNING(ORCAP-36038): "No_connect" property on Pin "1K182.7" ignored for 1K182: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 124.46). Connecting pin to net "SG1_P0_TXD0".
+#479 WARNING(ORCAP-36038): "No_connect" property on Pin "3MQS1.9" ignored for 3MQS1: SCHEMATIC1, P003C_S3_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG3_3PI_P5_MDI-".
+#480 WARNING(ORCAP-36038): "No_connect" property on Pin "2K145.29" ignored for 2K145: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (292.10, 96.52). Connecting pin to net "S2_U3_P3_GIGA_MDI-".
+#481 WARNING(ORCAP-36038): "No_connect" property on Pin "1CON3.6" ignored for 1CON3: SCHEMATIC1, P001E_S1_G_LB_FE (332.74, 124.46). Connecting pin to net "SG1_U3_FE_MDIX-".
+#482 WARNING(ORCAP-36038): "No_connect" property on Pin "MQS1.13" ignored for MQS1: SCHEMATIC1, P000C_S0_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S0_U4PI_P6_MDI-".
+#483 WARNING(ORCAP-36038): "No_connect" property on Pin "2K6.3" ignored for 2K6: SCHEMATIC1, P002P_S2_AT_GPIO_INH_RTT (200.66, 259.08). Connecting pin to net "S2_INH_DIV2".
+#484 WARNING(ORCAP-36038): "No_connect" property on Pin "MQS1.9" ignored for MQS1: SCHEMATIC1, P000C_S0_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG0_3PI_P5_MDI-".
+#485 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.6" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S2_P4_HSO-".
+#486 WARNING(ORCAP-36038): "No_connect" property on Pin "1K217.12" ignored for 1K217: SCHEMATIC1, P001K_S1_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S1_1_P6_HSO-".
+#487 WARNING(ORCAP-36038): "No_connect" property on Pin "3MQS1.10" ignored for 3MQS1: SCHEMATIC1, P003C_S3_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S3_U4PI_P1_MDI+".
+#488 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.28" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG2_C_P5_HSO+".
+#489 WARNING(ORCAP-36038): "No_connect" property on Pin "MQS1.2" ignored for MQS1: SCHEMATIC1, P000C_S0_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S0_U4PI_P0_MDI-".
+#490 WARNING(ORCAP-36038): "No_connect" property on Pin "3MQS1.3" ignored for 3MQS1: SCHEMATIC1, P003C_S3_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S3_U4PI_P5_MDI+".
+#491 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.35" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG2_3_P3_GIGA_MDI-".
+#492 WARNING(ORCAP-36038): "No_connect" property on Pin "1K182.6" ignored for 1K182: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 124.46). Connecting pin to net "S1_R_P0_RXD0".
+#493 WARNING(ORCAP-36038): "No_connect" property on Pin "3MQS1.16" ignored for 3MQS1: SCHEMATIC1, P003C_S3_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG3_3PI_P1_MDI-".
+#494 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.22" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S2_LB_P2_GIGA_MDI-".
+#495 WARNING(ORCAP-36038): "No_connect" property on Pin "1K181.2" ignored for 1K181: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 73.66). Connecting pin to net "SG1_P0_RXD1".
+#496 WARNING(ORCAP-36038): "No_connect" property on Pin "3MQS1.6" ignored for 3MQS1: SCHEMATIC1, P003C_S3_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG3_3PI_P0_MDI+".
+#497 WARNING(ORCAP-36038): "No_connect" property on Pin "2K182.6" ignored for 2K182: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 124.46). Connecting pin to net "S2_R_P0_RXD0".
+#498 WARNING(ORCAP-36038): "No_connect" property on Pin "1K217.28" ignored for 1K217: SCHEMATIC1, P001K_S1_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "SG1_C_P7_HSI-".
+#499 WARNING(ORCAP-36038): "No_connect" property on Pin "1K232.3" ignored for 1K232: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 172.72). Connecting pin to net "S1_R_P0_RXD3".
+#500 WARNING(ORCAP-36038): "No_connect" property on Pin "MQS1.1" ignored for MQS1: SCHEMATIC1, P000C_S0_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S0_U4PI_P0_MDI+".
+#501 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.29" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S2_U3_P2_GIGA_MDI+".
+#502 WARNING(ORCAP-36038): "No_connect" property on Pin "1K233.7" ignored for 1K233: SCHEMATIC1, P001F_S1_RGMII0 (236.22, 208.28). Connecting pin to net "SG1_P0_TXD2".
+#503 WARNING(ORCAP-36038): "No_connect" property on Pin "2K11.8" ignored for 2K11: SCHEMATIC1, P002R_S2_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S2_1_NGATE".
+#504 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.35" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG2_C_P4_HSI+".
+#505 WARNING(ORCAP-36038): "No_connect" property on Pin "2K232.3" ignored for 2K232: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 172.72). Connecting pin to net "S2_R_P0_RXD3".
+#506 WARNING(ORCAP-36038): "No_connect" property on Pin "1CON1.3" ignored for 1CON1: SCHEMATIC1, P001E_S1_G_LB_FE (332.74, 99.06). Connecting pin to net "S1_U3_FE_MDI+".
+#507 WARNING(ORCAP-36038): "No_connect" property on Pin "MQS1.3" ignored for MQS1: SCHEMATIC1, P000C_S0_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S0_U4PI_P5_MDI+".
+#508 WARNING(ORCAP-36038): "No_connect" property on Pin "K183.7" ignored for K183: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 175.26). Connecting pin to net "DGND".
+#509 WARNING(ORCAP-36038): "No_connect" property on Pin "K6.10" ignored for K6: SCHEMATIC1, P000P_S0_AT_GPIO_INH_RTT (200.66, 259.08). Connecting pin to net "DGND".
+#510 WARNING(ORCAP-36038): "No_connect" property on Pin "R568.2" ignored for R568: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 170.18). Connecting pin to net "DGND".
+#511 WARNING(ORCAP-36038): "No_connect" property on Pin "R569.2" ignored for R569: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 172.72). Connecting pin to net "DGND".
+#512 WARNING(ORCAP-36038): "No_connect" property on Pin "R570.2" ignored for R570: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 175.26). Connecting pin to net "DGND".
+#513 WARNING(ORCAP-36038): "No_connect" property on Pin "R571.2" ignored for R571: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 177.80). Connecting pin to net "DGND".
+#514 WARNING(ORCAP-36038): "No_connect" property on Pin "R572.2" ignored for R572: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 180.34). Connecting pin to net "DGND".
+#515 WARNING(ORCAP-36038): "No_connect" property on Pin "R573.2" ignored for R573: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 182.88). Connecting pin to net "DGND".
+#516 WARNING(ORCAP-36038): "No_connect" property on Pin "R574.2" ignored for R574: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 208.28). Connecting pin to net "DGND".
+#517 WARNING(ORCAP-36038): "No_connect" property on Pin "R575.2" ignored for R575: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 210.82). Connecting pin to net "DGND".
+#518 WARNING(ORCAP-36038): "No_connect" property on Pin "R576.2" ignored for R576: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 213.36). Connecting pin to net "DGND".
+#519 WARNING(ORCAP-36038): "No_connect" property on Pin "R577.2" ignored for R577: SCHEMATIC1, P000Q_S0_G_AT_GPIO_INH_RTT (149.86, 215.90). Connecting pin to net "DGND".
+#520 WARNING(ORCAP-36038): "No_connect" property on Pin "1K183.7" ignored for 1K183: SCHEMATIC1, P001F_S1_RGMII0 (104.14, 175.26). Connecting pin to net "DGND".
+#521 WARNING(ORCAP-36038): "No_connect" property on Pin "1K6.10" ignored for 1K6: SCHEMATIC1, P001P_S1_AT_GPIO_INH_RTT (200.66, 259.08). Connecting pin to net "DGND".
+#522 WARNING(ORCAP-36038): "No_connect" property on Pin "1R568.2" ignored for 1R568: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 170.18). Connecting pin to net "DGND".
+#523 WARNING(ORCAP-36038): "No_connect" property on Pin "1R569.2" ignored for 1R569: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 172.72). Connecting pin to net "DGND".
+#524 WARNING(ORCAP-36038): "No_connect" property on Pin "1R570.2" ignored for 1R570: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 175.26). Connecting pin to net "DGND".
+#525 WARNING(ORCAP-36038): "No_connect" property on Pin "1R571.2" ignored for 1R571: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 177.80). Connecting pin to net "DGND".
+#526 WARNING(ORCAP-36038): "No_connect" property on Pin "1R572.2" ignored for 1R572: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 180.34). Connecting pin to net "DGND".
+#527 WARNING(ORCAP-36038): "No_connect" property on Pin "1R573.2" ignored for 1R573: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 182.88). Connecting pin to net "DGND".
+#528 WARNING(ORCAP-36038): "No_connect" property on Pin "1R574.2" ignored for 1R574: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 208.28). Connecting pin to net "DGND".
+#529 WARNING(ORCAP-36038): "No_connect" property on Pin "1R575.2" ignored for 1R575: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 210.82). Connecting pin to net "DGND".
+#530 WARNING(ORCAP-36038): "No_connect" property on Pin "1R576.2" ignored for 1R576: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 213.36). Connecting pin to net "DGND".
+#531 WARNING(ORCAP-36038): "No_connect" property on Pin "1R577.2" ignored for 1R577: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 215.90). Connecting pin to net "DGND".
+#532 WARNING(ORCAP-36038): "No_connect" property on Pin "2K183.7" ignored for 2K183: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 175.26). Connecting pin to net "DGND".
+#533 WARNING(ORCAP-36038): "No_connect" property on Pin "2K6.10" ignored for 2K6: SCHEMATIC1, P002P_S2_AT_GPIO_INH_RTT (200.66, 259.08). Connecting pin to net "DGND".
+#534 WARNING(ORCAP-36038): "No_connect" property on Pin "2R568.2" ignored for 2R568: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 170.18). Connecting pin to net "DGND".
+#535 WARNING(ORCAP-36038): "No_connect" property on Pin "2R569.2" ignored for 2R569: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 172.72). Connecting pin to net "DGND".
+#536 WARNING(ORCAP-36038): "No_connect" property on Pin "2R570.2" ignored for 2R570: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 175.26). Connecting pin to net "DGND".
+#537 WARNING(ORCAP-36038): "No_connect" property on Pin "2R571.2" ignored for 2R571: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 177.80). Connecting pin to net "DGND".
+#538 WARNING(ORCAP-36038): "No_connect" property on Pin "2R572.2" ignored for 2R572: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 180.34). Connecting pin to net "DGND".
+#539 WARNING(ORCAP-36038): "No_connect" property on Pin "2R573.2" ignored for 2R573: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 182.88). Connecting pin to net "DGND".
+#540 WARNING(ORCAP-36038): "No_connect" property on Pin "2R574.2" ignored for 2R574: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 208.28). Connecting pin to net "DGND".
+#541 WARNING(ORCAP-36038): "No_connect" property on Pin "2R575.2" ignored for 2R575: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 210.82). Connecting pin to net "DGND".
+#542 WARNING(ORCAP-36038): "No_connect" property on Pin "2R576.2" ignored for 2R576: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 213.36). Connecting pin to net "DGND".
+#543 WARNING(ORCAP-36038): "No_connect" property on Pin "2R577.2" ignored for 2R577: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 215.90). Connecting pin to net "DGND".
+#544 WARNING(ORCAP-36038): "No_connect" property on Pin "3K183.7" ignored for 3K183: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 175.26). Connecting pin to net "DGND".
+#545 WARNING(ORCAP-36038): "No_connect" property on Pin "3K6.10" ignored for 3K6: SCHEMATIC1, P003P_S3_AT_GPIO_INH_RTT (200.66, 259.08). Connecting pin to net "DGND".
+#546 WARNING(ORCAP-36038): "No_connect" property on Pin "3R568.2" ignored for 3R568: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 170.18). Connecting pin to net "DGND".
+#547 WARNING(ORCAP-36038): "No_connect" property on Pin "3R569.2" ignored for 3R569: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 172.72). Connecting pin to net "DGND".
+#548 WARNING(ORCAP-36038): "No_connect" property on Pin "3R570.2" ignored for 3R570: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 175.26). Connecting pin to net "DGND".
+#549 WARNING(ORCAP-36038): "No_connect" property on Pin "3R571.2" ignored for 3R571: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 177.80). Connecting pin to net "DGND".
+#550 WARNING(ORCAP-36038): "No_connect" property on Pin "3R572.2" ignored for 3R572: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 180.34). Connecting pin to net "DGND".
+#551 WARNING(ORCAP-36038): "No_connect" property on Pin "3R573.2" ignored for 3R573: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 182.88). Connecting pin to net "DGND".
+#552 WARNING(ORCAP-36038): "No_connect" property on Pin "3R574.2" ignored for 3R574: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 208.28). Connecting pin to net "DGND".
+#553 WARNING(ORCAP-36038): "No_connect" property on Pin "3R575.2" ignored for 3R575: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 210.82). Connecting pin to net "DGND".
+#554 WARNING(ORCAP-36038): "No_connect" property on Pin "3R576.2" ignored for 3R576: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 213.36). Connecting pin to net "DGND".
+#555 WARNING(ORCAP-36038): "No_connect" property on Pin "3R577.2" ignored for 3R577: SCHEMATIC1, P003Q_S3_G_AT_GPIO_INH_RTT (149.86, 215.90). Connecting pin to net "DGND".
+#556 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT0-DOWN.D9" ignored for SLOT0-DOWN: SCHEMATIC1, T00-SLOT00-LPC128 (162.56, 190.50). Connecting pin to net "DGND".
+#557 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT0-DOWN.D11" ignored for SLOT0-DOWN: SCHEMATIC1, T00-SLOT00-LPC128 (162.56, 190.50). Connecting pin to net "DGND".
+#558 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT1-DOWN.D9" ignored for SLOT1-DOWN: SCHEMATIC1, T01-SLOT01-LPC128 (162.56, 190.50). Connecting pin to net "DGND".
+#559 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT1-DOWN.D11" ignored for SLOT1-DOWN: SCHEMATIC1, T01-SLOT01-LPC128 (162.56, 190.50). Connecting pin to net "DGND".
+#560 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT2-DOWN.D9" ignored for SLOT2-DOWN: SCHEMATIC1, T02-SLOT02-LPC128 (162.56, 190.50). Connecting pin to net "DGND".
+#561 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT2-DOWN.D11" ignored for SLOT2-DOWN: SCHEMATIC1, T02-SLOT02-LPC128 (162.56, 190.50). Connecting pin to net "DGND".
+#562 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT3-DOWN.D9" ignored for SLOT3-DOWN: SCHEMATIC1, T03-SLOT03-LPC128 (162.56, 190.50). Connecting pin to net "DGND".
+#563 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT3-DOWN.D11" ignored for SLOT3-DOWN: SCHEMATIC1, T03-SLOT03-LPC128 (162.56, 190.50). Connecting pin to net "DGND".
+#564 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT21.B20" ignored for SLOT21: SCHEMATIC1, T21-SLOT21-DPS32 (269.24, 25.40). Connecting pin to net "DGND".
+#565 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT22.B20" ignored for SLOT22: SCHEMATIC1, T22-SLOT22-DPS32 (269.24, 25.40). Connecting pin to net "DGND".
+#566 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT23.B20" ignored for SLOT23: SCHEMATIC1, T23-SLOT23-DPS32 (269.24, 25.40). Connecting pin to net "DGND".
+#567 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT24.B20" ignored for SLOT24: SCHEMATIC1, T24-SLOT24-DPS32 (269.24, 25.40). Connecting pin to net "DGND".
+#568 WARNING(ORCAP-36038): "No_connect" property on Pin "3K223.3" ignored for 3K223: SCHEMATIC1, P003R_S3_SPI_WAKE_XTAL (274.32, 96.52). Connecting pin to net "S3_HSD292".
+#569 WARNING(ORCAP-36038): "No_connect" property on Pin "1K82.8" ignored for 1K82: SCHEMATIC1, S9990_SC_Wake (180.34, 50.80). Connecting pin to net "S3_1_WAKE".
+#570 WARNING(ORCAP-36038): "No_connect" property on Pin "3RH212.1" ignored for 3RH212: SCHEMATIC1, P003O_S3_H_Host2 (88.90, 134.62). Connecting pin to net "SH32_P7_ISOLATEB".
+#571 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.29" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG2_C_P5_HSO-".
+#572 WARNING(ORCAP-36038): "No_connect" property on Pin "2K183.2" ignored for 2K183: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 175.26). Connecting pin to net "SG2_P0_RXD3".
+#573 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.26" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG2_3_P2_GIGA_MDI-".
+#574 WARNING(ORCAP-36038): "No_connect" property on Pin "MQS1.10" ignored for MQS1: SCHEMATIC1, P000C_S0_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S0_U4PI_P1_MDI+".
+#575 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.16" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S2_P5_HSO+".
+#576 WARNING(ORCAP-36038): "No_connect" property on Pin "K225.5" ignored for K225: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG0_1_P1_TXD1".
+#577 WARNING(ORCAP-36038): "No_connect" property on Pin "MQS1.6" ignored for MQS1: SCHEMATIC1, P000C_S0_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG0_3PI_P0_MDI+".
+#578 WARNING(ORCAP-36038): "No_connect" property on Pin "1K82.3" ignored for 1K82: SCHEMATIC1, S9990_SC_Wake (180.34, 50.80). Connecting pin to net "S1_HSD145".
+#579 WARNING(ORCAP-36038): "No_connect" property on Pin "2K232.2" ignored for 2K232: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 172.72). Connecting pin to net "SG2_P0_TXD3".
+#580 WARNING(ORCAP-36038): "No_connect" property on Pin "1K217.25" ignored for 1K217: SCHEMATIC1, P001K_S1_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S1_DCH_P6_HSO+".
+#581 WARNING(ORCAP-36038): "No_connect" property on Pin "K82.10" ignored for K82: SCHEMATIC1, S9990_SC_Wake (35.56, 50.80). Connecting pin to net "S2_HSD145".
+#582 WARNING(ORCAP-36038): "No_connect" property on Pin "3MQS1.1" ignored for 3MQS1: SCHEMATIC1, P003C_S3_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "S3_U4PI_P0_MDI+".
+#583 WARNING(ORCAP-36038): "No_connect" property on Pin "2HOST2.12" ignored for 2HOST2: SCHEMATIC1, P002O_S2_H_Host2 (129.54, 48.26). Connecting pin to net "SH22_ISOLATEBPIN".
+#584 WARNING(ORCAP-36038): "No_connect" property on Pin "2K184.22" ignored for 2K184: SCHEMATIC1, P002J_S2_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S2_DCH_P5_HSO+".
+#585 WARNING(ORCAP-36038): "No_connect" property on Pin "MUX4.4" ignored for MUX4: SCHEMATIC1, S9991_SC_DCH_Share1 (325.12, 30.48). Connecting pin to net "S2_DCH_P5_HSO+".
+#586 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.6" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG2_2_P3_GIGA_MDI+".
+#587 WARNING(ORCAP-36038): "No_connect" property on Pin "K82.3" ignored for K82: SCHEMATIC1, S9990_SC_Wake (35.56, 50.80). Connecting pin to net "S0_HSD145".
+#588 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.32" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S2_LB_P3_GIGA_MDI+".
+#589 WARNING(ORCAP-36038): "No_connect" property on Pin "1K82.10" ignored for 1K82: SCHEMATIC1, S9990_SC_Wake (180.34, 50.80). Connecting pin to net "S3_HSD145".
+#590 WARNING(ORCAP-36038): "No_connect" property on Pin "2K231.6" ignored for 2K231: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 132.08). Connecting pin to net "S2_R_P0_RXD1".
+#591 WARNING(ORCAP-36038): "No_connect" property on Pin "K8.8" ignored for K8: SCHEMATIC1, S9991_4S_LDO_Relay (43.18, 45.72). Connecting pin to net "S2_HSD177".
+#592 WARNING(ORCAP-36038): "No_connect" property on Pin "2HOST1.12" ignored for 2HOST1: SCHEMATIC1, P002N_S2_H_Host1 (129.54, 48.26). Connecting pin to net "SH21_ISOLATEBPIN".
+#593 WARNING(ORCAP-36038): "No_connect" property on Pin "K82.8" ignored for K82: SCHEMATIC1, S9990_SC_Wake (35.56, 50.80). Connecting pin to net "S2_1_WAKE".
+#594 WARNING(ORCAP-36038): "No_connect" property on Pin "2K233.2" ignored for 2K233: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 208.28). Connecting pin to net "SG2_P0_TXC".
+#595 WARNING(ORCAP-36038): "No_connect" property on Pin "1K11.3" ignored for 1K11: SCHEMATIC1, P001R_S1_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S1_HSD286".
+#596 WARNING(ORCAP-36038): "No_connect" property on Pin "1K8.8" ignored for 1K8: SCHEMATIC1, S9991_4S_LDO_Relay (195.58, 45.72). Connecting pin to net "S3_HSD177".
+#597 WARNING(ORCAP-36038): "No_connect" property on Pin "2K182.2" ignored for 2K182: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 124.46). Connecting pin to net "SG2_P0_RXD2".
+#598 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.28" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S2_U3_P2_GIGA_MDI-".
+#599 WARNING(ORCAP-36038): "No_connect" property on Pin "1K9.8" ignored for 1K9: SCHEMATIC1, S9991_4S_LDO_Relay (195.58, 127.00). Connecting pin to net "S3_HSD178".
+#600 WARNING(ORCAP-36038): "No_connect" property on Pin "2K232.6" ignored for 2K232: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 172.72). Connecting pin to net "S2_R_P0_RXDV".
+#601 WARNING(ORCAP-36038): "No_connect" property on Pin "K8.3" ignored for K8: SCHEMATIC1, S9991_4S_LDO_Relay (43.18, 45.72). Connecting pin to net "S0_P0_VDDIO".
+#602 WARNING(ORCAP-36038): "No_connect" property on Pin "K9.8" ignored for K9: SCHEMATIC1, S9991_4S_LDO_Relay (43.18, 127.00). Connecting pin to net "S2_HSD178".
+#603 WARNING(ORCAP-36038): "No_connect" property on Pin "2K180.6" ignored for 2K180: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 22.86). Connecting pin to net "S2_R_P0_TXD0".
+#604 WARNING(ORCAP-36038): "No_connect" property on Pin "1CON3.3" ignored for 1CON3: SCHEMATIC1, P001E_S1_G_LB_FE (332.74, 124.46). Connecting pin to net "SG1_U3_FE_MDIX+".
+#605 WARNING(ORCAP-36038): "No_connect" property on Pin "1K223.3" ignored for 1K223: SCHEMATIC1, P001R_S1_SPI_WAKE_XTAL (274.32, 96.52). Connecting pin to net "S1_HSD292".
+#606 WARNING(ORCAP-36038): "No_connect" property on Pin "2K181.6" ignored for 2K181: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 73.66). Connecting pin to net "S2_R_P0_TXC".
+#607 WARNING(ORCAP-36038): "No_connect" property on Pin "K226.5" ignored for K226: SCHEMATIC1, P000I_S0_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG0_1_P1_TXD3".
+#608 WARNING(ORCAP-36038): "No_connect" property on Pin "1K10.8" ignored for 1K10: SCHEMATIC1, S9991_4S_LDO_Relay (195.58, 208.28). Connecting pin to net "S3_HSD179".
+#609 WARNING(ORCAP-36038): "No_connect" property on Pin "K10.8" ignored for K10: SCHEMATIC1, S9991_4S_LDO_Relay (43.18, 208.28). Connecting pin to net "S2_HSD179".
+#610 WARNING(ORCAP-36038): "No_connect" property on Pin "2K233.7" ignored for 2K233: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 208.28). Connecting pin to net "SG2_P0_TXD2".
+#611 WARNING(ORCAP-36038): "No_connect" property on Pin "K5.5" ignored for K5: SCHEMATIC1, P0003_S0_PWR3 (266.70, 96.52). Connecting pin to net "S0_DPS_GPIO_P015VDDIO".
+#612 WARNING(ORCAP-36038): "No_connect" property on Pin "2K181.7" ignored for 2K181: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 73.66). Connecting pin to net "SG2_P0_RXC".
+#613 WARNING(ORCAP-36038): "No_connect" property on Pin "1K11.10" ignored for 1K11: SCHEMATIC1, P001R_S1_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S1_HSD287".
+#614 WARNING(ORCAP-36038): "No_connect" property on Pin "1K217.11" ignored for 1K217: SCHEMATIC1, P001K_S1_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S1_1_P6_HSO+".
+#615 WARNING(ORCAP-36038): "No_connect" property on Pin "K10.3" ignored for K10: SCHEMATIC1, S9991_4S_LDO_Relay (43.18, 208.28). Connecting pin to net "S0_P5_VDDIO".
+#616 WARNING(ORCAP-36038): "No_connect" property on Pin "MUX4.6" ignored for MUX4: SCHEMATIC1, S9991_SC_DCH_Share1 (325.12, 30.48). Connecting pin to net "SC_HSD226+".
+#617 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.27" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG3_3_P2_GIGA_MDI+".
+#618 WARNING(ORCAP-36038): "No_connect" property on Pin "2K180.7" ignored for 2K180: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 22.86). Connecting pin to net "SG2_P0_RXD0".
+#619 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT23.F23" ignored for SLOT23: SCHEMATIC1, T23-SLOT23-DPS32 (5.08, 25.40). Connecting pin to net "SLOT23.SENSE16".
+#620 WARNING(ORCAP-36038): "No_connect" property on Pin "3K5.5" ignored for 3K5: SCHEMATIC1, P0033_S3_PWR3 (266.70, 96.52). Connecting pin to net "S3_DPS_GPIO_P015VDDIO".
+#621 WARNING(ORCAP-36038): "No_connect" property on Pin "2K233.3" ignored for 2K233: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 208.28). Connecting pin to net "S2_R_P0_RXC".
+#622 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.15" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG2_2_P2_GIGA_MDI+".
+#623 WARNING(ORCAP-36038): "No_connect" property on Pin "K9.3" ignored for K9: SCHEMATIC1, S9991_4S_LDO_Relay (43.18, 127.00). Connecting pin to net "S0_P1_VDDIO".
+#624 WARNING(ORCAP-36038): "No_connect" property on Pin "2K180.2" ignored for 2K180: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 22.86). Connecting pin to net "SG2_P0_RXDV".
+#625 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.16" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG3_2_P2_GIGA_MDI-".
+#626 WARNING(ORCAP-36038): "No_connect" property on Pin "2K144.36" ignored for 2K144: SCHEMATIC1, P002D_S2_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG2_3_P3_GIGA_MDI+".
+#627 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.23" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S3_DCH_P5_HSO-".
+#628 WARNING(ORCAP-36038): "No_connect" property on Pin "2K233.6" ignored for 2K233: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 208.28). Connecting pin to net "S2_R_P0_RXD2".
+#629 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.27" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG3_C_P5_HSI-".
+#630 WARNING(ORCAP-36038): "No_connect" property on Pin "2K182.7" ignored for 2K182: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 124.46). Connecting pin to net "SG2_P0_TXD0".
+#631 WARNING(ORCAP-36038): "No_connect" property on Pin "1K8.10" ignored for 1K8: SCHEMATIC1, S9991_4S_LDO_Relay (195.58, 45.72). Connecting pin to net "S3_P0_VDDIO".
+#632 WARNING(ORCAP-36038): "No_connect" property on Pin "K82.9" ignored for K82: SCHEMATIC1, S9990_SC_Wake (35.56, 50.80). Connecting pin to net "S2_WAKE".
+#633 WARNING(ORCAP-36038): "No_connect" property on Pin "2K217.29" ignored for 2K217: SCHEMATIC1, P002K_S2_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "SG2_C_P7_HSI+".
+#634 WARNING(ORCAP-36038): "No_connect" property on Pin "1K9.10" ignored for 1K9: SCHEMATIC1, S9991_4S_LDO_Relay (195.58, 127.00). Connecting pin to net "S3_P1_VDDIO".
+#635 WARNING(ORCAP-36038): "No_connect" property on Pin "1CON1.6" ignored for 1CON1: SCHEMATIC1, P001E_S1_G_LB_FE (332.74, 99.06). Connecting pin to net "S1_U3_FE_MDI-".
+#636 WARNING(ORCAP-36038): "No_connect" property on Pin "3K145.29" ignored for 3K145: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (292.10, 96.52). Connecting pin to net "S3_U3_P3_GIGA_MDI-".
+#637 WARNING(ORCAP-36038): "No_connect" property on Pin "1K10.10" ignored for 1K10: SCHEMATIC1, S9991_4S_LDO_Relay (195.58, 208.28). Connecting pin to net "S3_P5_VDDIO".
+#638 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.32" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S3_LB_P3_GIGA_MDI+".
+#639 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.32" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S3_DCH_P4_HSO-".
+#640 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.35" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG3_3_P3_GIGA_MDI-".
+#641 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.6" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S3_P4_HSO-".
+#642 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.31" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S3_DCH_P4_HSO+".
+#643 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.29" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG3_C_P5_HSO-".
+#644 WARNING(ORCAP-36038): "No_connect" property on Pin "2K231.7" ignored for 2K231: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 132.08). Connecting pin to net "SG2_P0_TXD1".
+#645 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.26" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG0_3_P2_GIGA_MDI-".
+#646 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.22" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S3_DCH_P5_HSO+".
+#647 WARNING(ORCAP-36038): "No_connect" property on Pin "MUX4.5" ignored for MUX4: SCHEMATIC1, S9991_SC_DCH_Share1 (325.12, 30.48). Connecting pin to net "S3_DCH_P5_HSO+".
+#648 WARNING(ORCAP-36038): "No_connect" property on Pin "2K183.6" ignored for 2K183: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 175.26). Connecting pin to net "S2_R_P0_RXER".
+#649 WARNING(ORCAP-36038): "No_connect" property on Pin "2K217.24" ignored for 2K217: SCHEMATIC1, P002K_S2_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S2_DCH_P6_HSO-".
+#650 WARNING(ORCAP-36038): "No_connect" property on Pin "2K232.7" ignored for 2K232: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 172.72). Connecting pin to net "SG2_P0_TXEN".
+#651 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.22" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S3_LB_P2_GIGA_MDI-".
+#652 WARNING(ORCAP-36038): "No_connect" property on Pin "2K181.5" ignored for 2K181: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 73.66). Connecting pin to net "S2_SCANA_HSD215".
+#653 WARNING(ORCAP-36038): "No_connect" property on Pin "2K233.4" ignored for 2K233: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 208.28). Connecting pin to net "S2_HSD1000".
+#654 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.36" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG3_C_P4_HSI-".
+#655 WARNING(ORCAP-36038): "No_connect" property on Pin "1K227.5" ignored for 1K227: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG1_1_P5_TXD1".
+#656 WARNING(ORCAP-36038): "No_connect" property on Pin "2K232.5" ignored for 2K232: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 172.72). Connecting pin to net "S2_HSD1004".
+#657 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.26" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG3_C_P5_HSI+".
+#658 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.29" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S3_U3_P2_GIGA_MDI+".
+#659 WARNING(ORCAP-36038): "No_connect" property on Pin "2K232.4" ignored for 2K232: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 172.72). Connecting pin to net "S2_SCANA_HSD208".
+#660 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.7" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S3_P4_HSO+".
+#661 WARNING(ORCAP-36038): "No_connect" property on Pin "3K145.28" ignored for 3K145: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (292.10, 96.52). Connecting pin to net "S3_U3_P3_GIGA_MDI+".
+#662 WARNING(ORCAP-36038): "No_connect" property on Pin "2K217.11" ignored for 2K217: SCHEMATIC1, P002K_S2_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S2_1_P6_HSO+".
+#663 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.15" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG0_2_P2_GIGA_MDI+".
+#664 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.16" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S3_P5_HSO+".
+#665 WARNING(ORCAP-36038): "No_connect" property on Pin "2K233.5" ignored for 2K233: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 208.28). Connecting pin to net "S2_SCANA_HSD211".
+#666 WARNING(ORCAP-36038): "No_connect" property on Pin "2K217.28" ignored for 2K217: SCHEMATIC1, P002K_S2_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "SG2_C_P7_HSI-".
+#667 WARNING(ORCAP-36038): "No_connect" property on Pin "2K181.2" ignored for 2K181: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 73.66). Connecting pin to net "SG2_P0_RXD1".
+#668 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.29" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S0_U3_P2_GIGA_MDI+".
+#669 WARNING(ORCAP-36038): "No_connect" property on Pin "2K183.5" ignored for 2K183: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 175.26). Connecting pin to net "S2_HSD1005".
+#670 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.28" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S3_U3_P2_GIGA_MDI-".
+#671 WARNING(ORCAP-36038): "No_connect" property on Pin "2K182.5" ignored for 2K182: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 124.46). Connecting pin to net "S2_SCANA_HSD217".
+#672 WARNING(ORCAP-36038): "No_connect" property on Pin "3K183.6" ignored for 3K183: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 175.26). Connecting pin to net "S3_R_P0_RXER".
+#673 WARNING(ORCAP-36038): "No_connect" property on Pin "2K217.25" ignored for 2K217: SCHEMATIC1, P002K_S2_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S2_DCH_P6_HSO+".
+#674 WARNING(ORCAP-36038): "No_connect" property on Pin "2K231.5" ignored for 2K231: SCHEMATIC1, P002F_S2_RGMII0 (236.22, 132.08). Connecting pin to net "S2_SCANA_HSD207".
+#675 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.15" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S3_P5_HSO-".
+#676 WARNING(ORCAP-36038): "No_connect" property on Pin "2K180.5" ignored for 2K180: SCHEMATIC1, P002F_S2_RGMII0 (104.14, 22.86). Connecting pin to net "S2_SCANA_HSD213".
+#677 WARNING(ORCAP-36038): "No_connect" property on Pin "3K231.6" ignored for 3K231: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 132.08). Connecting pin to net "S3_R_P0_RXD1".
+#678 WARNING(ORCAP-36038): "No_connect" property on Pin "3K182.2" ignored for 3K182: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 124.46). Connecting pin to net "SG3_P0_RXD2".
+#679 WARNING(ORCAP-36038): "No_connect" property on Pin "3K232.6" ignored for 3K232: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 172.72). Connecting pin to net "S3_R_P0_RXDV".
+#680 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.7" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG3_2_P3_GIGA_MDI-".
+#681 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.22" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S0_LB_P2_GIGA_MDI-".
+#682 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.35" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG3_C_P4_HSI+".
+#683 WARNING(ORCAP-36038): "No_connect" property on Pin "2CON3.6" ignored for 2CON3: SCHEMATIC1, P002E_S2_G_LB_FE (332.74, 124.46). Connecting pin to net "SG2_U3_FE_MDIX-".
+#684 WARNING(ORCAP-36038): "No_connect" property on Pin "3K183.2" ignored for 3K183: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 175.26). Connecting pin to net "SG3_P0_RXD3".
+#685 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.6" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG0_2_P3_GIGA_MDI+".
+#686 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.16" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG0_2_P2_GIGA_MDI-".
+#687 WARNING(ORCAP-36038): "No_connect" property on Pin "3K232.2" ignored for 3K232: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 172.72). Connecting pin to net "SG3_P0_TXD3".
+#688 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.36" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG3_3_P3_GIGA_MDI+".
+#689 WARNING(ORCAP-36038): "No_connect" property on Pin "3K181.7" ignored for 3K181: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 73.66). Connecting pin to net "SG3_P0_RXC".
+#690 WARNING(ORCAP-36038): "No_connect" property on Pin "3HOST2.12" ignored for 3HOST2: SCHEMATIC1, P003O_S3_H_Host2 (129.54, 48.26). Connecting pin to net "SH32_ISOLATEBPIN".
+#691 WARNING(ORCAP-36038): "No_connect" property on Pin "3K184.28" ignored for 3K184: SCHEMATIC1, P003J_S3_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG3_C_P5_HSO+".
+#692 WARNING(ORCAP-36038): "No_connect" property on Pin "2K217.12" ignored for 2K217: SCHEMATIC1, P002K_S2_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S2_1_P6_HSO-".
+#693 WARNING(ORCAP-36038): "No_connect" property on Pin "1K227.7" ignored for 1K227: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG1_HL_P5_TXD1".
+#694 WARNING(ORCAP-36038): "No_connect" property on Pin "3K11.8" ignored for 3K11: SCHEMATIC1, P003R_S3_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S3_1_NGATE".
+#695 WARNING(ORCAP-36038): "No_connect" property on Pin "3K233.2" ignored for 3K233: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 208.28). Connecting pin to net "SG3_P0_TXC".
+#696 WARNING(ORCAP-36038): "No_connect" property on Pin "1K227.6" ignored for 1K227: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG1_P5_TXD1".
+#697 WARNING(ORCAP-36038): "No_connect" property on Pin "K181.5" ignored for K181: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 73.66). Connecting pin to net "S0_SCANA_HSD215".
+#698 WARNING(ORCAP-36038): "No_connect" property on Pin "1K82.9" ignored for 1K82: SCHEMATIC1, S9990_SC_Wake (180.34, 50.80). Connecting pin to net "S3_WAKE".
+#699 WARNING(ORCAP-36038): "No_connect" property on Pin "1K227.2" ignored for 1K227: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG1_HL_P5_TXD0".
+#700 WARNING(ORCAP-36038): "No_connect" property on Pin "K233.4" ignored for K233: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 208.28). Connecting pin to net "S0_HSD1000".
+#701 WARNING(ORCAP-36038): "No_connect" property on Pin "2CON1.6" ignored for 2CON1: SCHEMATIC1, P002E_S2_G_LB_FE (332.74, 99.06). Connecting pin to net "S2_U3_FE_MDI-".
+#702 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.36" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG0_3_P3_GIGA_MDI+".
+#703 WARNING(ORCAP-36038): "No_connect" property on Pin "1K225.6" ignored for 1K225: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG1_P1_TXD1".
+#704 WARNING(ORCAP-36038): "No_connect" property on Pin "K183.5" ignored for K183: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 175.26). Connecting pin to net "S0_HSD1005".
+#705 WARNING(ORCAP-36038): "No_connect" property on Pin "1K225.7" ignored for 1K225: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG1_HL_P1_TXD1".
+#706 WARNING(ORCAP-36038): "No_connect" property on Pin "1K226.7" ignored for 1K226: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG1_HL_P1_TXD3".
+#707 WARNING(ORCAP-36038): "No_connect" property on Pin "K233.5" ignored for K233: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 208.28). Connecting pin to net "S0_SCANA_HSD211".
+#708 WARNING(ORCAP-36038): "No_connect" property on Pin "3K233.7" ignored for 3K233: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 208.28). Connecting pin to net "SG3_P0_TXD2".
+#709 WARNING(ORCAP-36038): "No_connect" property on Pin "K182.5" ignored for K182: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 124.46). Connecting pin to net "S0_SCANA_HSD217".
+#710 WARNING(ORCAP-36038): "No_connect" property on Pin "3K232.3" ignored for 3K232: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 172.72). Connecting pin to net "S3_R_P0_RXD3".
+#711 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.31" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S3_LB_P3_GIGA_MDI-".
+#712 WARNING(ORCAP-36038): "No_connect" property on Pin "1K228.2" ignored for 1K228: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (353.06, 121.92). Connecting pin to net "SG1_HL_P5_TXD2".
+#713 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.27" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG0_C_P5_HSI-".
+#714 WARNING(ORCAP-36038): "No_connect" property on Pin "K232.4" ignored for K232: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 172.72). Connecting pin to net "S0_SCANA_HSD208".
+#715 WARNING(ORCAP-36038): "No_connect" property on Pin "3K182.7" ignored for 3K182: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 124.46). Connecting pin to net "SG3_P0_TXD0".
+#716 WARNING(ORCAP-36038): "No_connect" property on Pin "1K226.6" ignored for 1K226: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG1_P1_TXD3".
+#717 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.23" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S0_LB_P2_GIGA_MDI+".
+#718 WARNING(ORCAP-36038): "No_connect" property on Pin "K180.5" ignored for K180: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 22.86). Connecting pin to net "S0_SCANA_HSD213".
+#719 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT21.F23" ignored for SLOT21: SCHEMATIC1, T21-SLOT21-DPS32 (5.08, 25.40). Connecting pin to net "SLOT21.SENSE16".
+#720 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.23" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S3_LB_P2_GIGA_MDI+".
+#721 WARNING(ORCAP-36038): "No_connect" property on Pin "2CON3.3" ignored for 2CON3: SCHEMATIC1, P002E_S2_G_LB_FE (332.74, 124.46). Connecting pin to net "SG2_U3_FE_MDIX+".
+#722 WARNING(ORCAP-36038): "No_connect" property on Pin "K182.6" ignored for K182: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 124.46). Connecting pin to net "S0_R_P0_RXD0".
+#723 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.32" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S0_LB_P3_GIGA_MDI+".
+#724 WARNING(ORCAP-36038): "No_connect" property on Pin "K231.5" ignored for K231: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 132.08). Connecting pin to net "S0_SCANA_HSD207".
+#725 WARNING(ORCAP-36038): "No_connect" property on Pin "1K225.2" ignored for 1K225: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG1_HL_P1_TXD0".
+#726 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.31" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S0_DCH_P4_HSO+".
+#727 WARNING(ORCAP-36038): "No_connect" property on Pin "K181.6" ignored for K181: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 73.66). Connecting pin to net "S0_R_P0_TXC".
+#728 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT24.F23" ignored for SLOT24: SCHEMATIC1, T24-SLOT24-DPS32 (5.08, 25.40). Connecting pin to net "SLOT24.SENSE16".
+#729 WARNING(ORCAP-36038): "No_connect" property on Pin "K145.28" ignored for K145: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (292.10, 96.52). Connecting pin to net "S0_U3_P3_GIGA_MDI+".
+#730 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.15" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG3_2_P2_GIGA_MDI+".
+#731 WARNING(ORCAP-36038): "No_connect" property on Pin "1K226.2" ignored for 1K226: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG1_HL_P1_TXD2".
+#732 WARNING(ORCAP-36038): "No_connect" property on Pin "K232.5" ignored for K232: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 172.72). Connecting pin to net "S0_HSD1004".
+#733 WARNING(ORCAP-36038): "No_connect" property on Pin "3HOST1.12" ignored for 3HOST1: SCHEMATIC1, P003N_S3_H_Host1 (129.54, 48.26). Connecting pin to net "SH31_ISOLATEBPIN".
+#734 WARNING(ORCAP-36038): "No_connect" property on Pin "K232.2" ignored for K232: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 172.72). Connecting pin to net "SG0_P0_TXD3".
+#735 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.6" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG3_2_P3_GIGA_MDI+".
+#736 WARNING(ORCAP-36038): "No_connect" property on Pin "2CON1.3" ignored for 2CON1: SCHEMATIC1, P002E_S2_G_LB_FE (332.74, 99.06). Connecting pin to net "S2_U3_FE_MDI+".
+#737 WARNING(ORCAP-36038): "No_connect" property on Pin "1R63.2" ignored for 1R63: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 152.40). Connecting pin to net "SG1_SRC_DVDD33".
+#738 WARNING(ORCAP-36038): "No_connect" property on Pin "1R64.2" ignored for 1R64: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 154.94). Connecting pin to net "SG1_SRC_DVDD33".
+#739 WARNING(ORCAP-36038): "No_connect" property on Pin "1R66.2" ignored for 1R66: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 157.48). Connecting pin to net "SG1_SRC_DVDD33".
+#740 WARNING(ORCAP-36038): "No_connect" property on Pin "1R68.2" ignored for 1R68: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 160.02). Connecting pin to net "SG1_SRC_DVDD33".
+#741 WARNING(ORCAP-36038): "No_connect" property on Pin "1R67.2" ignored for 1R67: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 162.56). Connecting pin to net "SG1_SRC_DVDD33".
+#742 WARNING(ORCAP-36038): "No_connect" property on Pin "1R554.2" ignored for 1R554: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 165.10). Connecting pin to net "SG1_SRC_DVDD33".
+#743 WARNING(ORCAP-36038): "No_connect" property on Pin "1R563.2" ignored for 1R563: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 220.98). Connecting pin to net "SG1_SRC_DVDD33".
+#744 WARNING(ORCAP-36038): "No_connect" property on Pin "1R564.2" ignored for 1R564: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 223.52). Connecting pin to net "SG1_SRC_DVDD33".
+#745 WARNING(ORCAP-36038): "No_connect" property on Pin "1R565.2" ignored for 1R565: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 226.06). Connecting pin to net "SG1_SRC_DVDD33".
+#746 WARNING(ORCAP-36038): "No_connect" property on Pin "1R566.2" ignored for 1R566: SCHEMATIC1, P001Q_S1_G_AT_GPIO_INH_RTT (149.86, 228.60). Connecting pin to net "SG1_SRC_DVDD33".
+#747 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.35" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG0_3_P3_GIGA_MDI-".
+#748 WARNING(ORCAP-36038): "No_connect" property on Pin "3K144.26" ignored for 3K144: SCHEMATIC1, P003D_S3_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG3_3_P2_GIGA_MDI-".
+#749 WARNING(ORCAP-36038): "No_connect" property on Pin "K180.6" ignored for K180: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 22.86). Connecting pin to net "S0_R_P0_TXD0".
+#750 WARNING(ORCAP-36038): "No_connect" property on Pin "3K181.2" ignored for 3K181: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 73.66). Connecting pin to net "SG3_P0_RXD1".
+#751 WARNING(ORCAP-36038): "No_connect" property on Pin "RH212.1" ignored for RH212: SCHEMATIC1, P000O_S0_H_Host2 (88.90, 134.62). Connecting pin to net "SH02_P7_ISOLATEB".
+#752 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.6" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S0_P4_HSO-".
+#753 WARNING(ORCAP-36038): "No_connect" property on Pin "K182.2" ignored for K182: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 124.46). Connecting pin to net "SG0_P0_RXD2".
+#754 WARNING(ORCAP-36038): "No_connect" property on Pin "3K182.6" ignored for 3K182: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 124.46). Connecting pin to net "S3_R_P0_RXD0".
+#755 WARNING(ORCAP-36038): "No_connect" property on Pin "3K233.3" ignored for 3K233: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 208.28). Connecting pin to net "S3_R_P0_RXC".
+#756 WARNING(ORCAP-36038): "No_connect" property on Pin "2K227.5" ignored for 2K227: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG2_1_P5_TXD1".
+#757 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.26" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG0_C_P5_HSI+".
+#758 WARNING(ORCAP-36038): "No_connect" property on Pin "K232.6" ignored for K232: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 172.72). Connecting pin to net "S0_R_P0_RXDV".
+#759 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.29" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG0_C_P5_HSO-".
+#760 WARNING(ORCAP-36038): "No_connect" property on Pin "K183.2" ignored for K183: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 175.26). Connecting pin to net "SG0_P0_RXD3".
+#761 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.31" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S0_LB_P3_GIGA_MDI-".
+#762 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.7" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S0_P4_HSO+".
+#763 WARNING(ORCAP-36038): "No_connect" property on Pin "K181.2" ignored for K181: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 73.66). Connecting pin to net "SG0_P0_RXD1".
+#764 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.28" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "S0_U3_P2_GIGA_MDI-".
+#765 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.15" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S0_P5_HSO-".
+#766 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.16" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S0_P5_HSO+".
+#767 WARNING(ORCAP-36038): "No_connect" property on Pin "K233.2" ignored for K233: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 208.28). Connecting pin to net "SG0_P0_TXC".
+#768 WARNING(ORCAP-36038): "No_connect" property on Pin "K145.29" ignored for K145: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (292.10, 96.52). Connecting pin to net "S0_U3_P3_GIGA_MDI-".
+#769 WARNING(ORCAP-36038): "No_connect" property on Pin "3K233.6" ignored for 3K233: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 208.28). Connecting pin to net "S3_R_P0_RXD2".
+#770 WARNING(ORCAP-36038): "No_connect" property on Pin "RH112.1" ignored for RH112: SCHEMATIC1, P000N_S0_H_Host1 (88.90, 134.62). Connecting pin to net "SH01_P6_ISOLATEB".
+#771 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.23" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S0_DCH_P5_HSO-".
+#772 WARNING(ORCAP-36038): "No_connect" property on Pin "3K217.11" ignored for 3K217: SCHEMATIC1, P003K_S3_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S3_1_P6_HSO+".
+#773 WARNING(ORCAP-36038): "No_connect" property on Pin "K183.6" ignored for K183: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 175.26). Connecting pin to net "S0_R_P0_RXER".
+#774 WARNING(ORCAP-36038): "No_connect" property on Pin "3K232.7" ignored for 3K232: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 172.72). Connecting pin to net "SG3_P0_TXEN".
+#775 WARNING(ORCAP-36038): "No_connect" property on Pin "K180.2" ignored for K180: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 22.86). Connecting pin to net "SG0_P0_RXDV".
+#776 WARNING(ORCAP-36038): "No_connect" property on Pin "3K217.12" ignored for 3K217: SCHEMATIC1, P003K_S3_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S3_1_P6_HSO-".
+#777 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.27" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG0_3_P2_GIGA_MDI+".
+#778 WARNING(ORCAP-36038): "No_connect" property on Pin "3K181.6" ignored for 3K181: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 73.66). Connecting pin to net "S3_R_P0_TXC".
+#779 WARNING(ORCAP-36038): "No_connect" property on Pin "K181.7" ignored for K181: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 73.66). Connecting pin to net "SG0_P0_RXC".
+#780 WARNING(ORCAP-36038): "No_connect" property on Pin "K144.7" ignored for K144: SCHEMATIC1, P000D_S0_G_P2_3_GIGA (185.42, 96.52). Connecting pin to net "SG0_2_P3_GIGA_MDI-".
+#781 WARNING(ORCAP-36038): "No_connect" property on Pin "3K6.3" ignored for 3K6: SCHEMATIC1, P003P_S3_AT_GPIO_INH_RTT (200.66, 259.08). Connecting pin to net "S3_INH_DIV2".
+#782 WARNING(ORCAP-36038): "No_connect" property on Pin "3K180.2" ignored for 3K180: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 22.86). Connecting pin to net "SG3_P0_RXDV".
+#783 WARNING(ORCAP-36038): "No_connect" property on Pin "3K231.7" ignored for 3K231: SCHEMATIC1, P003F_S3_RGMII0 (236.22, 132.08). Connecting pin to net "SG3_P0_TXD1".
+#784 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.22" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S0_DCH_P5_HSO+".
+#785 WARNING(ORCAP-36038): "No_connect" property on Pin "MUX4.2" ignored for MUX4: SCHEMATIC1, S9991_SC_DCH_Share1 (325.12, 30.48). Connecting pin to net "S0_DCH_P5_HSO+".
+#786 WARNING(ORCAP-36038): "No_connect" property on Pin "3K180.6" ignored for 3K180: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 22.86). Connecting pin to net "S3_R_P0_TXD0".
+#787 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.36" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG0_C_P4_HSI-".
+#788 WARNING(ORCAP-36038): "No_connect" property on Pin "3K180.7" ignored for 3K180: SCHEMATIC1, P003F_S3_RGMII0 (104.14, 22.86). Connecting pin to net "SG3_P0_RXD0".
+#789 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.35" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG0_C_P4_HSI+".
+#790 WARNING(ORCAP-36038): "No_connect" property on Pin "3K217.24" ignored for 3K217: SCHEMATIC1, P003K_S3_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S3_DCH_P6_HSO-".
+#791 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.32" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "S0_DCH_P4_HSO-".
+#792 WARNING(ORCAP-36038): "No_connect" property on Pin "K232.7" ignored for K232: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 172.72). Connecting pin to net "SG0_P0_TXEN".
+#793 WARNING(ORCAP-36038): "No_connect" property on Pin "3CON1.3" ignored for 3CON1: SCHEMATIC1, P003E_S3_G_LB_FE (332.74, 99.06). Connecting pin to net "S3_U3_FE_MDI+".
+#794 WARNING(ORCAP-36038): "No_connect" property on Pin "K184.28" ignored for K184: SCHEMATIC1, P000J_S0_SGMII_P4_5 (99.06, 35.56). Connecting pin to net "SG0_C_P5_HSO+".
+#795 WARNING(ORCAP-36038): "No_connect" property on Pin "K180.7" ignored for K180: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 22.86). Connecting pin to net "SG0_P0_RXD0".
+#796 WARNING(ORCAP-36038): "No_connect" property on Pin "3K217.29" ignored for 3K217: SCHEMATIC1, P003K_S3_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "SG3_C_P7_HSI+".
+#797 WARNING(ORCAP-36038): "No_connect" property on Pin "2K226.7" ignored for 2K226: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG2_HL_P1_TXD3".
+#798 WARNING(ORCAP-36038): "No_connect" property on Pin "2K227.2" ignored for 2K227: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG2_HL_P5_TXD0".
+#799 WARNING(ORCAP-36038): "No_connect" property on Pin "K233.3" ignored for K233: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 208.28). Connecting pin to net "S0_R_P0_RXC".
+#800 WARNING(ORCAP-36038): "No_connect" property on Pin "2K225.7" ignored for 2K225: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG2_HL_P1_TXD1".
+#801 WARNING(ORCAP-36038): "No_connect" property on Pin "2K226.6" ignored for 2K226: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG2_P1_TXD3".
+#802 WARNING(ORCAP-36038): "No_connect" property on Pin "3K217.28" ignored for 3K217: SCHEMATIC1, P003K_S3_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "SG3_C_P7_HSI-".
+#803 WARNING(ORCAP-36038): "No_connect" property on Pin "2K226.2" ignored for 2K226: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG2_HL_P1_TXD2".
+#804 WARNING(ORCAP-36038): "No_connect" property on Pin "3K217.25" ignored for 3K217: SCHEMATIC1, P003K_S3_PCIE_P6_7 (281.94, 170.18). Connecting pin to net "S3_DCH_P6_HSO+".
+#805 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT22.F23" ignored for SLOT22: SCHEMATIC1, T22-SLOT22-DPS32 (5.08, 25.40). Connecting pin to net "SLOT22.SENSE16".
+#806 WARNING(ORCAP-36038): "No_connect" property on Pin "2K227.6" ignored for 2K227: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG2_P5_TXD1".
+#807 WARNING(ORCAP-36038): "No_connect" property on Pin "K231.7" ignored for K231: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 132.08). Connecting pin to net "SG0_P0_TXD1".
+#808 WARNING(ORCAP-36038): "No_connect" property on Pin "2K227.7" ignored for 2K227: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG2_HL_P5_TXD1".
+#809 WARNING(ORCAP-36038): "No_connect" property on Pin "CON1.6" ignored for CON1: SCHEMATIC1, P000E_S0_G_LB_FE (332.74, 99.06). Connecting pin to net "S0_U3_FE_MDI-".
+#810 WARNING(ORCAP-36038): "No_connect" property on Pin "2K225.6" ignored for 2K225: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG2_P1_TXD1".
+#811 WARNING(ORCAP-36038): "No_connect" property on Pin "K233.7" ignored for K233: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 208.28). Connecting pin to net "SG0_P0_TXD2".
+#812 WARNING(ORCAP-36038): "No_connect" property on Pin "3CON1.6" ignored for 3CON1: SCHEMATIC1, P003E_S3_G_LB_FE (332.74, 99.06). Connecting pin to net "S3_U3_FE_MDI-".
+#813 WARNING(ORCAP-36038): "No_connect" property on Pin "2K228.2" ignored for 2K228: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (353.06, 121.92). Connecting pin to net "SG2_HL_P5_TXD2".
+#814 WARNING(ORCAP-36038): "No_connect" property on Pin "1K226.5" ignored for 1K226: SCHEMATIC1, P001I_S1_G_RGMII0_1_5 (185.42, 121.92). Connecting pin to net "SG1_1_P1_TXD3".
+#815 WARNING(ORCAP-36038): "No_connect" property on Pin "K231.6" ignored for K231: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 132.08). Connecting pin to net "S0_R_P0_RXD1".
+#816 WARNING(ORCAP-36038): "No_connect" property on Pin "2K225.2" ignored for 2K225: SCHEMATIC1, P002I_S2_G_RGMII0_1_5 (185.42, 40.64). Connecting pin to net "SG2_HL_P1_TXD0".
+#817 WARNING(ORCAP-36038): "No_connect" property on Pin "K232.3" ignored for K232: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 172.72). Connecting pin to net "S0_R_P0_RXD3".
+#818 WARNING(ORCAP-36038): "No_connect" property on Pin "3CON3.6" ignored for 3CON3: SCHEMATIC1, P003E_S3_G_LB_FE (332.74, 124.46). Connecting pin to net "SG3_U3_FE_MDIX-".
+#819 WARNING(ORCAP-36038): "No_connect" property on Pin "2R63.2" ignored for 2R63: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 152.40). Connecting pin to net "SG2_SRC_DVDD33".
+#820 WARNING(ORCAP-36038): "No_connect" property on Pin "2R64.2" ignored for 2R64: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 154.94). Connecting pin to net "SG2_SRC_DVDD33".
+#821 WARNING(ORCAP-36038): "No_connect" property on Pin "2R66.2" ignored for 2R66: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 157.48). Connecting pin to net "SG2_SRC_DVDD33".
+#822 WARNING(ORCAP-36038): "No_connect" property on Pin "2R68.2" ignored for 2R68: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 160.02). Connecting pin to net "SG2_SRC_DVDD33".
+#823 WARNING(ORCAP-36038): "No_connect" property on Pin "2R67.2" ignored for 2R67: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 162.56). Connecting pin to net "SG2_SRC_DVDD33".
+#824 WARNING(ORCAP-36038): "No_connect" property on Pin "2R554.2" ignored for 2R554: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 165.10). Connecting pin to net "SG2_SRC_DVDD33".
+#825 WARNING(ORCAP-36038): "No_connect" property on Pin "2R563.2" ignored for 2R563: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 220.98). Connecting pin to net "SG2_SRC_DVDD33".
+#826 WARNING(ORCAP-36038): "No_connect" property on Pin "2R564.2" ignored for 2R564: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 223.52). Connecting pin to net "SG2_SRC_DVDD33".
+#827 WARNING(ORCAP-36038): "No_connect" property on Pin "2R565.2" ignored for 2R565: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 226.06). Connecting pin to net "SG2_SRC_DVDD33".
+#828 WARNING(ORCAP-36038): "No_connect" property on Pin "2R566.2" ignored for 2R566: SCHEMATIC1, P002Q_S2_G_AT_GPIO_INH_RTT (149.86, 228.60). Connecting pin to net "SG2_SRC_DVDD33".
+#829 WARNING(ORCAP-36038): "No_connect" property on Pin "K233.6" ignored for K233: SCHEMATIC1, P000F_S0_RGMII0 (236.22, 208.28). Connecting pin to net "S0_R_P0_RXD2".
+#830 WARNING(ORCAP-36038): "No_connect" property on Pin "K182.7" ignored for K182: SCHEMATIC1, P000F_S0_RGMII0 (104.14, 124.46). Connecting pin to net "SG0_P0_TXD0".
+#831 WARNING(ORCAP-36038): "No_connect" property on Pin "2K11.3" ignored for 2K11: SCHEMATIC1, P002R_S2_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S2_HSD286".
+#832 WARNING(ORCAP-36038): "No_connect" property on Pin "3K227.5" ignored for 3K227: SCHEMATIC1, P003I_S3_G_RGMII0_1_5 (353.06, 40.64). Connecting pin to net "SG3_1_P5_TXD1".
+#833 WARNING(ORCAP-36038): "No_connect" property on Pin "CON3.6" ignored for CON3: SCHEMATIC1, P000E_S0_G_LB_FE (332.74, 124.46). Connecting pin to net "SG0_U3_FE_MDIX-".
+#834 WARNING(ORCAP-36038): "No_connect" property on Pin "1RH212.1" ignored for 1RH212: SCHEMATIC1, P001O_S1_H_Host2 (88.90, 134.62). Connecting pin to net "SH12_P7_ISOLATEB".
+#835 WARNING(ORCAP-36038): "No_connect" property on Pin "1RH112.1" ignored for 1RH112: SCHEMATIC1, P001N_S1_H_Host1 (88.90, 134.62). Connecting pin to net "SH11_P6_ISOLATEB".
+#836 WARNING(ORCAP-36038): "No_connect" property on Pin "2K11.10" ignored for 2K11: SCHEMATIC1, P002R_S2_SPI_WAKE_XTAL (274.32, 38.10). Connecting pin to net "S2_HSD287".
+#837 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.9" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG1_3PI_P5_MDI-".
+#838 WARNING(ORCAP-36006): Part Name "REF-CODE-PCB_PCB_CODE_REF-CODE-PCB" is renamed to "REF-CODE-PCB_PCB_CODE_REF-CODE-".
+#839 WARNING(ORCAP-36006): Part Name "REF-CODE-SOCKET_SOCKET_CODE_REF-CODE-SOCKET" is renamed to "REF-CODE-SOCKET_SOCKET_CODE_REF".
+#840 WARNING(ORCAP-36006): Part Name "BD80-5A-S8-LA_FB0805_BD80-5A-S8-LA" is renamed to "BD80-5A-S8-LA_FB0805_BD80-5A-S8".
+#841 WARNING(ORCAP-36006): Part Name "1000P-2K-X-SA_C1206_1000P-2K-X-SA" is renamed to "1000P-2K-X-SA_C1206_1000P-2K-X-".
+#842 WARNING(ORCAP-36006): Part Name "47U-35-Y-S6.1X5.3-MU_CKRM55WR7YA476MH01_47U-35-Y-S6.1X5.3-MU" is renamed to "47U-35-Y-S6.1X5.3-MU_CKRM55WR7Y".
+#843 WARNING(ORCAP-36006): Part Name "10U-25-X-S8-MU_C0805_10U-16-X7R-S8-SS" is renamed to "10U-25-X-S8-MU_C0805_10U-16-X7R".
+#844 WARNING(ORCAP-36006): Part Name "18P-50-N-S4-MU_C0402_18P-50-N-S4-SS" is renamed to "18P-50-N-S4-MU_C0402_18P-50-N-S".
+#845 WARNING(ORCAP-36006): Part Name "0.01U-50-X-S4_C0402_0.01U-50-X7R-S4-YA" is renamed to "0.01U-50-X-S4_C0402_0.01U-50-X7".
+#846 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4-MU_C0402_0.1U-16-X7R-S4-TY" is renamed to "0.1U-16-X-S4-MU_C0402_0.1U-16-X".
+#847 WARNING(ORCAP-36006): Part Name "1000P-50-N-S4-MU_C0402_1000P-50-N-S4-SS" is renamed to "1000P-50-N-S4-MU_C0402_1000P-50".
+#848 WARNING(ORCAP-36006): Part Name "4700P-50-X-S4_C0402_4700P-50-X7R-S4-YA" is renamed to "4700P-50-X-S4_C0402_4700P-50-X7".
+#849 WARNING(ORCAP-36006): Part Name "100U-35-E-S6.3X7.7-NI_EC_6P3X7P7MM_S_100U-35-E-S6.3X7.7-NI" is renamed to "100U-35-E-S6.3X7.7-NI_EC_6P3X7P".
+#850 WARNING(ORCAP-36006): Part Name "100U-100-E-S17.2X17.2-PAN_ECS_19P1X19P1MM_NC/100U-100-E-S17.2X17.2-PAN" is renamed to "100U-100-E-S17.2X17.2-PAN_ECS_1".
+#851 WARNING(ORCAP-36006): Part Name "4700P-50-X-S6_C0603_4700P-50-X-S6" is renamed to "4700P-50-X-S6_C0603_4700P-50-X-".
+#852 WARNING(ORCAP-36006): Part Name "4.7P-50-N-S4-MU_C0402_NC/4.7P-50-N-S4-MU" is renamed to "4.7P-50-N-S4-MU_C0402_NC/4.7P-5".
+#853 WARNING(ORCAP-36006): Part Name "0.1U-100-X-S8_C0805_0.1U-100-X-S8" is renamed to "0.1U-100-X-S8_C0805_0.1U-100-X-".
+#854 WARNING(ORCAP-36006): Part Name "10U-100-Y-S6.1X5.3-MU_CKRM55TR72A106MH01_NC/10U-100-Y-S6.1X5.3-MU" is renamed to "10U-100-Y-S6.1X5.3-MU_CKRM55TR7".
+#855 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4-MU_C0402_UNBGA_V2_0.1U-16-X7R-S4-TY" is renamed to "0.1U-16-X-S4-MU_C0402_UNBGA_V2_".
+#856 WARNING(ORCAP-36006): Part Name "1U-16-X-S6-TY_C0603_1U-16-X-S6-TY" is renamed to "1U-16-X-S6-TY_C0603_1U-16-X-S6-".
+#857 WARNING(ORCAP-36006): Part Name "10U-16-X7R-S8-SS_C0805_10U-16-X7R-S8-SS" is renamed to "10U-16-X7R-S8-SS_C0805_10U-16-X".
+#858 WARNING(ORCAP-36006): Part Name "22U-16-X-S8-TY_C0805_22U-10-X7S-S8-TDK" is renamed to "22U-16-X-S8-TY_C0805_22U-10-X7S".
+#859 WARNING(ORCAP-36006): Part Name "100U-16-T-SC_CODE_C_NC/100U-16-T-SC" is renamed to "100U-16-T-SC_CODE_C_NC/100U-16-".
+#860 WARNING(ORCAP-36006): Part Name "47U-35-Y-S6.1X5.3-MU_C1210_47U-10-X7R-SB-MU" is renamed to "47U-35-Y-S6.1X5.3-MU_C1210_47U-".
+#861 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4-MU_C0402_UNBGA_V2_2.2U-10-X7S-S4-MU" is renamed to "0.1U-16-X-S4-MU_C0402_UNBGA_V_1".
+#862 WARNING(ORCAP-36006): Part Name "1U-100-X7S-S8-TDK_C0805_1U-100-X7S-S8-TDK" is renamed to "1U-100-X7S-S8-TDK_C0805_1U-100-".
+#863 WARNING(ORCAP-36006): Part Name "4.7U-100-X-SB-MU_C1210_4.7U-100-X-SB-MU" is renamed to "4.7U-100-X-SB-MU_C1210_4.7U-100".
+#864 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4_C0402_0.1U-16-X7R-S4-TY" is renamed to "0.1U-16-X-S4_C0402_0.1U-16-X7R-".
+#865 WARNING(ORCAP-36006): Part Name "4.7U-25-X-SA_C0805_4.7U-25-X7R-S8-TY" is renamed to "4.7U-25-X-SA_C0805_4.7U-25-X7R-".
+#866 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4-MU_C0603_1U-16-X-S6-TY" is renamed to "0.1U-16-X-S4-MU_C0603_1U-16-X-S".
+#867 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4-MU_C0402_0.22U-16-X7R-S4-SS" is renamed to "0.1U-16-X-S4-MU_C0402_0.22U-16-".
+#868 WARNING(ORCAP-36006): Part Name "DMC1015UPD-13-POWERDI5060-8_TRANS_POWERPAK_8P_DMC1015UPD-13-POWERDI5060-8" is renamed to "DMC1015UPD-13-POWERDI5060-8_TRA".
+#869 WARNING(ORCAP-36006): Part Name "RJ45-1X1-D90-KINSUN-1_CONN_RJ45_1X1D90_8P_90754D_RJ45-1X1-D90-KINSUN-1" is renamed to "RJ45-1X1-D90-KINSUN-1_CONN_RJ45".
+#870 WARNING(ORCAP-36006): Part Name "10U-16-X7R-S8-SS_C0805_22U-10-X7S-S8-TDK" is renamed to "10U-16-X7R-S8-SS_C0805_22U-10-X".
+#871 WARNING(ORCAP-36006): Part Name "0.1U-50-X-S4-TDK_C0402_0.1U-16-X7R-S4-TY" is renamed to "0.1U-50-X-S4-TDK_C0402_0.1U-16-".
+#872 WARNING(ORCAP-36006): Part Name "0.1U-50-X-S4-TDK_C0402_0.22U-16-X7R-S4-SS" is renamed to "0.1U-50-X-S4-TDK_C0402_0.22U-16".
+#873 WARNING(ORCAP-36006): Part Name "22P-50-N-S4_C0402_100P-50-N-S4-YA" is renamed to "22P-50-N-S4_C0402_100P-50-N-S4-".
+#874 WARNING(ORCAP-36006): Part Name "22P-50-N-S4_C0402_22P-50-N-S4-YA" is renamed to "22P-50-N-S4_C0402_22P-50-N-S4-Y".
+#875 WARNING(ORCAP-36006): Part Name "CU/CONN-F-9-2304372-9-TE_CONN_SPECIFIC_8P_TE_V2_CU/CONN-F-9-2304372-9-TE-V2" is renamed to "CU/CONN-F-9-2304372-9-TE_CONN_S".
+#876 WARNING(ORCAP-36006): Part Name "RTL9210-QFN68-8X8_SK_QFN8X8_68P_0P4MM_ISC_RTL9210-QFN68/CU/RTL9210-QFN68-8X8" is renamed to "RTL9210-QFN68-8X8_SK_QFN8X8_68P".
+#877 WARNING(ORCAP-36006): Part Name "CU/NA12W-K_RL_NAL_12V_CU/EC2-12NJ-A" is renamed to "CU/NA12W-K_RL_NAL_12V_CU/EC2-12".
+#878 WARNING(ORCAP-36006): Part Name "UA2-12NJ-A_RL_NECUA2_12V_V2_CU/UA2-12NJ-A-V2" is renamed to "UA2-12NJ-A_RL_NECUA2_12V_V2_CU/".
+#879 WARNING(ORCAP-36006): Part Name "PI3DBS12412AZHE-TQFN42_TQFN9X3P5_42P_0P5MM_EP_PI3DBS12412AZHE-TQFN42" is renamed to "PI3DBS12412AZHE-TQFN42_TQFN9X3P".
+#880 WARNING(ORCAP-36006): Part Name "PI3DBS12412AZHE-TQFN42_EX_TQFN9X3P5_42P_0P5MM_EP_PI3DBS12412AZHE-TQFN42_EX" is renamed to "PI3DBS12412AZHE-TQFN42_EX_TQFN9".
+#881 WARNING(ORCAP-36006): Part Name "PI3DBS12412AZHE-TQFN42_TQFN9X3P5_42P_0P5MM_EP_PI3DBS12412AZHE-TQFN42_EX" is renamed to "PI3DBS12412AZHE-TQFN42_TQFN9X_1".
+#882 WARNING(ORCAP-36006): Part Name "CU/UA2-12NJ-A-V2_EX_RL_NECUA2_12V_V2_CU/UA2-12NJ-A-V2_EX" is renamed to "CU/UA2-12NJ-A-V2_EX_RL_NECUA2_1".
+#883 WARNING(ORCAP-36006): Part Name "L2.2U-10A-S6.8X6.6-BO_IND_6P6X6P4XH5MM_L2.2U-10A-S6.8X6.6-BO" is renamed to "L2.2U-10A-S6.8X6.6-BO_IND_6P6X6".
+#884 WARNING(ORCAP-36006): Part Name "L2.2U-1.15A-S2.0X1.6-TDK_IND_VL252012E_L2.2U-1.15A-S2.0X1.6-TDK" is renamed to "L2.2U-1.15A-S2.0X1.6-TDK_IND_VL".
+#885 WARNING(ORCAP-36006): Part Name "CU/L1U-3.3A-S2.5X2-TY_IND_VL252012E_L1U-3.3A-S2.5X2-TY" is renamed to "CU/L1U-3.3A-S2.5X2-TY_IND_VL252".
+#886 WARNING(ORCAP-36006): Part Name "CU/MQS-9X2-MR_CONN_19635391_18P_90_MQS-9X2-MR" is renamed to "CU/MQS-9X2-MR_CONN_19635391_18P".
+#887 WARNING(ORCAP-36006): Part Name "PT-RJ45-1X1-20X18X12_RJ45_1X1D90_8P_PROTECTOR_PT-RJ45-1X1-20X18X12" is renamed to "PT-RJ45-1X1-20X18X12_RJ45_1X1D9".
+#888 WARNING(ORCAP-36006): Part Name "CONN-F-9-2304372-9-TE_COVER_PROTECTOR_CONN_SPECIFIC_2PORT_PT-CONN-2X1-50X16X11" is renamed to "CONN-F-9-2304372-9-TE_COVER_PRO".
+#889 WARNING(ORCAP-36006): Part Name "10K-1-S25-ST_R2512_NC/10K-1-S25-ST" is renamed to "10K-1-S25-ST_R2512_NC/10K-1-S25".
+#890 WARNING(ORCAP-36006): Part Name "898-1-S6-KOA_R0603_NC/898-1-S6-KOA" is renamed to "898-1-S6-KOA_R0603_NC/898-1-S6-".
+#891 WARNING(ORCAP-36006): Part Name "MX25L3233FM2I-08G-SO8_SK_SO8_1P27MM_LOTES_MX25L3233FM2I-08G-C-SO8/SK-SO8-1.27" is renamed to "MX25L3233FM2I-08G-SO8_SK_SO8_1P".
+#892 WARNING(ORCAP-36006): Part Name "SY8003EDFC-3A-A-DFN2X2-8_DFN2X2_8P_1P9X0P5MM_EP_SY8003EDFC-3A-A-DFN2X2-8" is renamed to "SY8003EDFC-3A-A-DFN2X2-8_DFN2X2".
+#893 WARNING(ORCAP-36006): Part Name "7490100161A_TRANS_7490100161A_16P_7490100161A" is renamed to "7490100161A_TRANS_7490100161A_1".
+#894 WARNING(ORCAP-36006): Part Name "ACT1210L-201-2P-TL00_FILTER_4P_9075AA_ACT1210L-201-2P-TL00" is renamed to "ACT1210L-201-2P-TL00_FILTER_4P_".
+#895 WARNING(ORCAP-36006): Part Name "ACT1210G-800-2P-TL05_COLAY_FILTER_4P_9075AA_ACT1210G-800-2P-TL05" is renamed to "ACT1210G-800-2P-TL05_COLAY_FILT".
+#896 WARNING(ORCAP-36006): Part Name "PI2LVD512AE-TSSOP64_TSOP64_280X05MM_CU/PI2LVD512AE-TSSOP64" is renamed to "PI2LVD512AE-TSSOP64_TSOP64_280X".
+#897 WARNING(ORCAP-36006): Part Name "CU/XTAL25M-S2520-AKER-20P_XTAL_2X2P5MM_4P_NDK_XTAL25M-S2520-AKER-20P" is renamed to "CU/XTAL25M-S2520-AKER-20P_XTAL_".
+#898 WARNING(ORCAP-36006): Part Name "HDR-2X1-MR_JP_2P_100_R90_HDR-2X1-MR" is renamed to "HDR-2X1-MR_JP_2P_100_R90_HDR-2X".
+#899 WARNING(ORCAP-36006): Part Name "REF-CODE-CHIP_CHIP_CODE_REF-CODE-CHIP" is renamed to "REF-CODE-CHIP_CHIP_CODE_REF-COD".
+#900 WARNING(ORCAP-36006): Part Name "ATX-12X2-MR_CONN_ATX12X2_4P2MM_MOLEX_ATX-12X2-MR" is renamed to "ATX-12X2-MR_CONN_ATX12X2_4P2MM_".
+#901 WARNING(ORCAP-36006): Part Name "LM5022QDGSTQ1-1A-A-VSSOP10_VSSOP10_173X05MM_LM5022QDGSTQ1-1A-A-VSSOP10" is renamed to "LM5022QDGSTQ1-1A-A-VSSOP10_VSSO".
+#902 WARNING(ORCAP-36006): Part Name "HDR-3X1-MR_JP_3P_100_R90_HDR-3X1-MR" is renamed to "HDR-3X1-MR_JP_3P_100_R90_HDR-3X".
+#903 WARNING(ORCAP-36006): Part Name "220U-25-E-S11.2X10.5-NI_ECS_10P3X10P3MM_220U-25-E-S11.2X10.5-NI" is renamed to "220U-25-E-S11.2X10.5-NI_ECS_10P".
+#904 WARNING(ORCAP-36006): Part Name "10U-25-X7R-SA_C1206_10U-25-X7R-SA" is renamed to "10U-25-X7R-SA_C1206_10U-25-X7R-".
+#905 WARNING(ORCAP-36006): Part Name "0.1U-50-X-S4-TDK_C0402_0.1U-50-X-S4-TDK" is renamed to "0.1U-50-X-S4-TDK_C0402_0.1U-50-".
+#906 WARNING(ORCAP-36006): Part Name "0.1U-50-X-S4-TDK_C0402_NC/0.1U-50-X-S4-TDK" is renamed to "0.1U-50-X-S4-TDK_C0402_NC/0.1U-".
+#907 WARNING(ORCAP-36006): Part Name "560P-50-X7R-SA-YA_C1206_H49_560P-50-X7R-SA-YA" is renamed to "560P-50-X7R-SA-YA_C1206_H49_560".
+#908 WARNING(ORCAP-36006): Part Name "0.15U-50-X7R-SA-KEMET_C1206_H49_0.15U-50-X7R-SA-KEMET" is renamed to "0.15U-50-X7R-SA-KEMET_C1206_H49".
+#909 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4-MU_C0402_0.1U-50-X-S4-TDK" is renamed to "0.1U-16-X-S4-MU_C0402_0.1U-50-X".
+#910 WARNING(ORCAP-36006): Part Name "56U-20-E-S6.2X5.5-PAN_ECS_5P3X6MM_H5P9_56U-20-E-S6.2X5.5-PAN" is renamed to "56U-20-E-S6.2X5.5-PAN_ECS_5P3X6".
+#911 WARNING(ORCAP-36006): Part Name "15U-100-E-S9.2X8.5-PAN_ECS_8P3X9MM_H11P9_15U-100-E-S9.2X8.5-PAN" is renamed to "15U-100-E-S9.2X8.5-PAN_ECS_8P3X".
+#912 WARNING(ORCAP-36006): Part Name "1000P-50-N-S6-VI_C0603_1000P-50-N-S6-VI" is renamed to "1000P-50-N-S6-VI_C0603_1000P-50".
+#913 WARNING(ORCAP-36006): Part Name "0.047U-50-X7R-S8-VI_C0805_H1P45MM_0.047U-50-X7R-S8-VI" is renamed to "0.047U-50-X7R-S8-VI_C0805_H1P45".
+#914 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4-MU_C0402_0.1U-16-X-S4-MU" is renamed to "0.1U-16-X-S4-MU_C0402_0.1U-16_1".
+#915 WARNING(ORCAP-36006): Part Name "10U-50-X-SB-MU_C1210_10U-50-X-SB-MU" is renamed to "10U-50-X-SB-MU_C1210_10U-50-X-S".
+#916 WARNING(ORCAP-36006): Part Name "4.7U-50-X-S8-MU_C0805_4.7U-50-X-S8-MU" is renamed to "4.7U-50-X-S8-MU_C0805_4.7U-50-X".
+#917 WARNING(ORCAP-36006): Part Name "4.7U-25-X7R-S8-TY_C0805_4.7U-25-X7R-S8-TY" is renamed to "4.7U-25-X7R-S8-TY_C0805_4.7U-25".
+#918 WARNING(ORCAP-36006): Part Name "SBRD10200TR-10A-DPAK_TO252_123_SBRD10200TR-10A-DPAK" is renamed to "SBRD10200TR-10A-DPAK_TO252_123_".
+#919 WARNING(ORCAP-36006): Part Name "BNX025H01L_FILTER_BNXO25H01L_6P_BNX026H01B" is renamed to "BNX025H01L_FILTER_BNXO25H01L_6P".
+#920 WARNING(ORCAP-36006): Part Name "FRU250-30_FRU_14X3_5P1MM_FRU250-30" is renamed to "FRU250-30_FRU_14X3_5P1MM_FRU250".
+#921 WARNING(ORCAP-36006): Part Name "RTL9068ABD-V2-GR-VFBGA273-17X17_SK_VFBGA273P_0P8MM_90684D_RTL9068ABD-V2-GR-VFBGA273-17X17" is renamed to "RTL9068ABD-V2-GR-VFBGA273-17X17".
+#922 WARNING(ORCAP-36006): Part Name "NP6_PG_TDJ750_F_ME_OUTLINE_1024P_V2_NP6" is renamed to "NP6_PG_TDJ750_F_ME_OUTLINE_1024".
+#923 WARNING(ORCAP-36006): Part Name "L33U-2.9A-S12.3X12.3-CO_IND_12X12_MM_L33U-2.9A-S12.3X12.3-CO" is renamed to "L33U-2.9A-S12.3X12.3-CO_IND_12X".
+#924 WARNING(ORCAP-36006): Part Name "1117-1A-18-SOT223_SOT223_1117-1A-18-SOT223" is renamed to "1117-1A-18-SOT223_SOT223_1117-1".
+#925 WARNING(ORCAP-36006): Part Name "LOGO_RT_REALTEK_LOGO_RT_REALTEK_LOGO_RT_REALTEK" is renamed to "LOGO_RT_REALTEK_LOGO_RT_REALTEK".
+#926 WARNING(ORCAP-36006): Part Name "LOGO_KT_KSMT_LOGO_KT_KSMT_LOGO_KT_KSMT" is renamed to "LOGO_KT_KSMT_LOGO_KT_KSMT_LOGO_".
+#927 WARNING(ORCAP-36006): Part Name "CSD19537Q3-VSON8_TRANS_VSON8_3P3X3P3_0P65MM_CSD19537Q3-VSON8" is renamed to "CSD19537Q3-VSON8_TRANS_VSON8_3P".
+#928 WARNING(ORCAP-36006): Part Name "MUX36D04IRUMR-WQFN16_WQFN4X4_16P_0P65MM_EP_TI_MUX36D04IRUMR-WQFN16" is renamed to "MUX36D04IRUMR-WQFN16_WQFN4X4_16".
+#929 WARNING(ORCAP-36006): Part Name "10K-0.01-S4-VI_R0402_H0P83MM_10K-0.01-S4-VI" is renamed to "10K-0.01-S4-VI_R0402_H0P83MM_10".
+#930 WARNING(ORCAP-36006): Part Name "3.57K-1-S8-PAN_R0805_3.57K-1-S8-PAN" is renamed to "3.57K-1-S8-PAN_R0805_3.57K-1-S8".
+#931 WARNING(ORCAP-36006): Part Name "56.2K-1-S2-YA_R0201_56.2K-1-S2-YA" is renamed to "56.2K-1-S2-YA_R0201_56.2K-1-S2-".
+#932 WARNING(ORCAP-36006): Part Name "1.54K-1-S4-VI_R0402_1.54K-1-S4-VI" is renamed to "1.54K-1-S4-VI_R0402_1.54K-1-S4-".
+#933 WARNING(ORCAP-36006): Part Name "C3680_TESTER_OUTLINE_641X652_PG_3680_FT_OUTLINE_CHROMA_V2_C3680_TESTER_OUTLINE_641X652" is renamed to "C3680_TESTER_OUTLINE_641X652_PG".
+#934 WARNING(ORCAP-36006): Part Name "HDR-4X1-MR-A_JP_4P_100_R90_V1_HDR-4X1-MR-A" is renamed to "HDR-4X1-MR-A_JP_4P_100_R90_V1_H".
+#935 WARNING(ORCAP-36006): Part Name "J750SKBASE_4-8D_HT1028C_400X210_SOCKET_BASE_400X210MM_90684D_J750SKBASE_4-8D_HT1028C_400X210" is renamed to "J750SKBASE_4-8D_HT1028C_400X210".
+#936 WARNING(ORCAP-36006): Part Name "LPC128_27X6X2_SLOT00_PG_3680_LPC128_A_SLOT0_LPC128_27X6X2_SLOT00" is renamed to "LPC128_27X6X2_SLOT00_PG_3680_LP".
+#937 WARNING(ORCAP-36006): Part Name "LPC128_27X6X2_SLOT00_PG_3680_LPC128_B_SLOT0_LPC128_27X6X2_SLOT00" is renamed to "LPC128_27X6X2_SLOT00_PG_3680__1".
+#938 WARNING(ORCAP-36006): Part Name "LPC128_27X6X2_SLOT00_PG_3680_LPC128_A_SLOT1_LPC128_27X6X2_SLOT01" is renamed to "LPC128_27X6X2_SLOT00_PG_3680__2".
+#939 WARNING(ORCAP-36006): Part Name "LPC128_27X6X2_SLOT00_PG_3680_LPC128_B_SLOT1_LPC128_27X6X2_SLOT01" is renamed to "LPC128_27X6X2_SLOT00_PG_3680__3".
+#940 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_EMPTY_SLOT16_DIGITAL_BOARD" is renamed to "DIGITAL_BOARD_PG_3680_EMPTY_SLO".
+#941 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_EMPTY_SLOT17_DIGITAL_BOARD" is renamed to "DIGITAL_BOARD_PG_3680_EMPTY_S_1".
+#942 WARNING(ORCAP-36006): Part Name "SYS_BOARD_PG_3680_SYS_SLOT18_SYS_BOARD" is renamed to "SYS_BOARD_PG_3680_SYS_SLOT18_SY".
+#943 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_EMPTY_SLOT19_DIGITAL_BOARD" is renamed to "DIGITAL_BOARD_PG_3680_EMPTY_S_2".
+#944 WARNING(ORCAP-36006): Part Name "LPC128_27X6X2_SLOT00_PG_3680_LPC128_A_SLOT2_LPC128_27X6X2_SLOT02" is renamed to "LPC128_27X6X2_SLOT00_PG_3680__4".
+#945 WARNING(ORCAP-36006): Part Name "LPC128_27X6X2_SLOT00_PG_3680_LPC128_B_SLOT2_LPC128_27X6X2_SLOT02" is renamed to "LPC128_27X6X2_SLOT00_PG_3680__5".
+#946 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_EMPTY_SLOT20_DIGITAL_BOARD" is renamed to "DIGITAL_BOARD_PG_3680_EMPTY_S_3".
+#947 WARNING(ORCAP-36006): Part Name "DPS_BOARD_PG_3680_DPS32_SLOT21_DPS32_24X6_SLOT21" is renamed to "DPS_BOARD_PG_3680_DPS32_SLOT21_".
+#948 WARNING(ORCAP-36006): Part Name "DPS_BOARD_PG_3680_DPS32_SLOT22_DPS32_24X6_SLOT22" is renamed to "DPS_BOARD_PG_3680_DPS32_SLOT22_".
+#949 WARNING(ORCAP-36006): Part Name "DPS_BOARD_PG_3680_DPS32_SLOT23_DPS32_24X6_SLOT23" is renamed to "DPS_BOARD_PG_3680_DPS32_SLOT23_".
+#950 WARNING(ORCAP-36006): Part Name "DPS_BOARD_PG_3680_DPS32_SLOT24_DPS32_24X6_SLOT24" is renamed to "DPS_BOARD_PG_3680_DPS32_SLOT24_".
+#951 WARNING(ORCAP-36006): Part Name "LPC128_27X6X2_SLOT00_PG_3680_LPC128_A_SLOT3_LPC128_27X6X2_SLOT03" is renamed to "LPC128_27X6X2_SLOT00_PG_3680__6".
+#952 WARNING(ORCAP-36006): Part Name "LPC128_27X6X2_SLOT00_PG_3680_LPC128_B_SLOT3_LPC128_27X6X2_SLOT03" is renamed to "LPC128_27X6X2_SLOT00_PG_3680__7".
+#953 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_LPC128_A_SLOT4_LPC128_27X6X2_SLOT04" is renamed to "DIGITAL_BOARD_PG_3680_LPC128_A_".
+#954 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_LPC128_B_SLOT4_LPC128_27X6X2_SLOT04" is renamed to "DIGITAL_BOARD_PG_3680_LPC128_B_".
+#955 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_LPC128_A_SLOT5_LPC128_27X6X2_SLOT05" is renamed to "DIGITAL_BOARD_PG_3680_LPC128__1".
+#956 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_LPC128_B_SLOT5_LPC128_27X6X2_SLOT05" is renamed to "DIGITAL_BOARD_PG_3680_LPC128__2".
+#957 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_LPC128_A_SLOT6_LPC128_27X6X2_SLOT06" is renamed to "DIGITAL_BOARD_PG_3680_LPC128__3".
+#958 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_LPC128_B_SLOT6_LPC128_27X6X2_SLOT06" is renamed to "DIGITAL_BOARD_PG_3680_LPC128__4".
+#959 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_LPC128_A_SLOT7_LPC128_27X6X2_SLOT07" is renamed to "DIGITAL_BOARD_PG_3680_LPC128__5".
+#960 WARNING(ORCAP-36006): Part Name "DIGITAL_BOARD_PG_3680_LPC128_B_SLOT7_LPC128_27X6X2_SLOT07" is renamed to "DIGITAL_BOARD_PG_3680_LPC128__6".
+#961 WARNING(ORCAP-36006): Part Name "25LC256-SOIC8_SO8_206X127MM_25LC256-SOIC8" is renamed to "25LC256-SOIC8_SO8_206X127MM_25L".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260916\allegro/pstchip.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260916\allegro/pstchip.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260916\allegro/pstxprt.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260916\allegro/pstxnet.dat
+packaging the design view...

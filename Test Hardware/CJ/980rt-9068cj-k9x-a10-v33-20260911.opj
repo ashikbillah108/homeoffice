@@ -48,7 +48,7 @@
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
-         "SCHEMATIC1" "X001_Assign_List-CJ"))
+         "SCHEMATIC1" "X016_SCAN_RULE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -58,19 +58,30 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1821 104 423")
-        (Scroll "0 20")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 280")
+        (Scroll "-81 180")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "X001_Assign_List-CJ"))
+      (Page "X017_DSIO_RULE"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "-94 413")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1460 78 306")
+        (Scroll "-128 30")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "X016_SCAN_RULE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1382 0 228")
+        (Scroll "151 448")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -80,63 +91,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P002R_S2_SPI_WAKE_XTAL"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P002P_S2_AT_GPIO_INH_RTT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "-94 313")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P000H_S0_RGMII5"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "-94 333")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P000G_S0_RGMII1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P002H_S2_RGMII5"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "-94 603")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1408 26 254")
+        (Scroll "0 403")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -146,140 +102,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P002G_S2_RGMII1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "561 630")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P000A_S0_BWPHY_P0_1_5_6"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "0 348")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P000E_S0_G_LB_FE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "556 630")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P001A_S1_BWPHY_P0_1_5_6"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "-99 343")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P001E_S1_G_LB_FE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "556 630")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P002A_S2_BWPHY_P0_1_5_6"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "296 485")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P002E_S2_G_LB_FE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "556 630")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P003A_S3_BWPHY_P0_1_5_6"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "296 485")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P003E_S3_G_LB_FE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "781 460")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "S9991_SC_DCH_Share1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
-        (Scroll "-336 190")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "S9992_SC_DCH_Share2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1769 52 371")
-        (Scroll "-8 318")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P000C_S0_G_LB_BW0_1_5_6"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 397")
-        (Scroll "-8 398")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 280")
+        (Scroll "0 148")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -289,41 +113,41 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1821 104 423")
-        (Scroll "-250 0")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1460 78 306")
+        (Scroll "0 398")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "S9990_SC_Wake"))
+      (Page "P001F_S1_RGMII0"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1847 130 449")
-        (Scroll "-8 298")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1382 0 228")
+        (Scroll "0 398")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "S9991_4S_LDO_Relay"))
+      (Page "P002F_S2_RGMII0"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1873 156 475")
-        (Scroll "-8 223")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1408 26 254")
+        (Scroll "0 398")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P0001_S0_PWR1"))
+      (Page "P003F_S3_RGMII0"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1717 0 319")
-        (Scroll "-13 288")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 280")
+        (Scroll "146 443")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -333,19 +157,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1743 26 345")
-        (Scroll "-13 411")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P001C_S1_G_LB_BW0_1_5_6"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1769 52 371")
-        (Scroll "-13 538")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1460 78 306")
+        (Scroll "0 143")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -355,46 +168,46 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 397")
-        (Scroll "-13 308")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1382 0 228")
+        (Scroll "146 443")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P001G_S1_RGMII1"))
+      (Page "P002P_S2_AT_GPIO_INH_RTT"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1821 104 423")
-        (Scroll "-99 593")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1408 26 254")
+        (Scroll "0 143")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P001H_S1_RGMII5"))
+      (Page "P002R_S2_SPI_WAKE_XTAL"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1847 130 449")
-        (Scroll "0 463")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 280")
+        (Scroll "146 443")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "T02-SLOT02-LPC128"))
+      (Page "P003P_S3_AT_GPIO_INH_RTT"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1873 156 475")
-        (Scroll "0 453")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1460 78 306")
+        (Scroll "0 143")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\CJ\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "T03-SLOT03-LPC128")))
+      (Page "P003R_S3_SPI_WAKE_XTAL")))
   (PartMRUSelector)
-  (MPSSessionName "Ashik-iTest"))
+  (MPSSessionName "Ashik-HomeOffice"))

@@ -1,0 +1,38 @@
+\t (00:00:19) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:19)     Journal start - Wed Sep 16 06:11:50 2026
+\t (00:00:19)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=21248 CPUs=16
+\t (00:00:19) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:19) 
+\d (00:00:19) Design opened: D:/iTest/homeoffice/Test Hardware/20260916/038RT-9068CJK8E-A100_0912-5.brd
+\i (00:00:19) generaledit 
+\i (00:00:26) dlib 
+\i (00:00:27) setwindow form.dlib
+\i (00:00:27) FORM dlib nodepend YES 
+\i (00:00:28) FORM dlib browse_export  
+\i (00:00:38) fillin "LIB"
+\i (00:00:39) FORM dlib execute  
+\t (00:00:39) Starting Cadence export libraries...
+\i (00:00:58) FORM dlib cancel  
+\i (00:00:58) setwindow pcb
+\i (00:00:58) generaledit 
+\i (00:00:59) prmed 
+\i (00:01:01) setwindow form.prmedit
+\i (00:01:01) FORM prmedit cancel  
+\i (00:01:01) setwindow pcb
+\i (00:01:01) generaledit 
+\i (00:01:03) enved 
+\i (00:01:03) generaledit 
+\i (00:01:06) setwindow form.prfedit
+\i (00:01:06) FORM prfedit treelist  Library Paths 
+\i (00:01:07) FORM prfedit padpath  
+\i (00:01:15) FORM prfedit psmpath  
+\i (00:01:20) FORM prfedit apply  
+\i (00:01:21) FORM prfedit done  
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom fit 
+\i (00:01:22) trapsize 16836
+\i (00:01:24) save 
+\i (00:01:25) fillin yes 
+\i (00:01:26) generaledit 
+\i (00:01:27) exit 
+\t (00:01:27)     Journal end - Wed Sep 16 06:12:58 2026
