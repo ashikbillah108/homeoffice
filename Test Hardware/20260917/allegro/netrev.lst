@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : 038RT-9068CJK8E-A100_0917_3.brd               )
+(    Drawing          : 038RT-9068CJK8E-A100_0920_fix.brd             )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Thu Sep 17 00:30:14 2026                      )
+(    Date/Time        : Sun Sep 20 15:59:47 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,19 +19,19 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\allegro'
 Design Directory:            'D:/iTest/homeoffice/Test Hardware/20260917'
-Old design name:             'D:/iTest/homeoffice/Test Hardware/20260917/038RT-9068CJK8E-A100_0917_3.brd'
-New design name:             'D:/iTest/homeoffice/Test Hardware/20260917/038RT-9068CJK8E-A100_0917_4.brd'
+Old design name:             'D:/iTest/homeoffice/Test Hardware/20260917/038RT-9068CJK8E-A100_0920_fix.brd'
+New design name:             'D:/iTest/homeoffice/Test Hardware/20260917/038RT-9068CJK8E-A100_0920_updates.brd'
 
-CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\allegro D:\iTest\homeoffice\Test Hardware\20260917\038RT-9068CJK8E-A100_0917_3.brd D:\iTest\homeoffice\Test Hardware\20260917\038RT-9068CJK8E-A100_0917_4.brd
+CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\allegro D:\iTest\homeoffice\Test Hardware\20260917\038RT-9068CJK8E-A100_0920_fix.brd D:\iTest\homeoffice\Test Hardware\20260917\038RT-9068CJK8E-A100_0920_updates.brd
 
 ------ Preparing to read pst files ------
 
 Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/20260917/allegro/pstchip.dat 
    Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/20260917/allegro/pstchip.dat (00:00:00.04)
 Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/20260917/allegro/pstxprt.dat 
-   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/20260917/allegro/pstxprt.dat (00:00:00.14)
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/20260917/allegro/pstxprt.dat (00:00:00.15)
 Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/20260917/allegro/pstxnet.dat 
-   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/20260917/allegro/pstxnet.dat (00:00:00.12)
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/20260917/allegro/pstxnet.dat (00:00:00.11)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -48,16 +48,16 @@ WARNING(SPMHNI-194): Symbol 'PG_3680_FT_OUTLINE_CHROMA_V2' used by RefDes SCREW1
 MODULEPATH =  . 
            C:/Cadence/SPB_16.6/share/local/pcb/modules 
 
-PSMPATH =  D:/iTest/homeoffice/Test Hardware/20260917/LIB/ 
+PSMPATH =  D:/iTest/homeoffice/Test Hardware/CJ/LIB/ 
 
-PADPATH =  D:/iTest/homeoffice/Test Hardware/20260917/LIB/ 
+PADPATH =  D:/iTest/homeoffice/Test Hardware/CJ/LIB/ 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Sep 17 0:30:14 2026
-   DESIGN NAME : '980RT-9068CJ-K9X-A10-V33-20260917'
+netrev run on Sep 20 15:59:47 2026
+   DESIGN NAME : '980RT-9068CJ-K9X-A10-V33-20260920'
    PACKAGING ON Aug  3 2015 18:16:55
 
    COMPILE 'logic'
@@ -81,6 +81,6 @@ netrev run on Sep 17 0:30:14 2026
  No oversight detected
   2 warnings detected
 
-cpu time      4:01:25
-elapsed time  0:02:23
+cpu time      4:08:45
+elapsed time  0:02:27
 

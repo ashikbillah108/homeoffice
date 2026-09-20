@@ -7,8 +7,37 @@
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (NoModify))
-  (Folder "Outputs")
+    (NoModify)
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "D:\iTest\homeoffice\Test Hardware\20260917\test.brd")
+    ("Allegro Netlist Output Board File"
+       "D:\iTest\homeoffice\Test Hardware\20260917\test1.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "TRUE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector)
   (GlobalState
@@ -17,100 +46,322 @@
       (Path "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn")
       (Path "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
          "SCHEMATIC1")
+      (Path "Outputs")
       (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
-         "SCHEMATIC1" "X001_Assign_List-CJ"))
+         "SCHEMATIC1" "A0000_1_C3680_J750_BH_Config")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "A0000_2_Block_Diagram")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "A0000_3_History")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0001_S0_PWR1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0002_S0_PWR2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0003_S0_PWR3")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0004_S0_PWR4")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0005_S0_G_DC_Converter")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0006_S0_G_PWR1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0007_S0_G_PWR2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0008_S0_G_PWR3")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0009_S0_G_PWR4")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000A_S0_BWPHY_P0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000B_S0_G_BWPHY_P0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000C_S0_G_LB_BW0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000D_S0_G_P2_3_GIGA")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000E_S0_G_LB_FE")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000F_S0_RGMII0")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000G_S0_RGMII1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000H_S0_RGMII5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000I_S0_G_RGMII0_1_5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000J_S0_SGMII_P4_5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000K_S0_PCIE_P6_7")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000L_S0_PCIE_CTRL_HostPWR")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000M_S0_G_SGMII")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000N_S0_H_Host1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000O_S0_H_Host2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000P_S0_AT_GPIO_INH_RTT")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000Q_S0_G_AT_GPIO_INH_RTT")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000R_S0_SPI_WAKE_XTAL")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P000S_S0_G_SPI_WAKE_XTAL")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0011_S1_PWR1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0012_S1_PWR2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0013_S1_PWR3")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0014_S1_PWR4")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0015_S1_G_DC_Converter")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0016_S1_G_PWR1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0017_S1_G_PWR2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0018_S1_G_PWR3")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0019_S1_G_PWR4")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001A_S1_BWPHY_P0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001B_S1_G_BWPHY_P0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001C_S1_G_LB_BW0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001D_S1_G_P2_3_GIGA")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001E_S1_G_LB_FE")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001F_S1_RGMII0")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001G_S1_RGMII1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001H_S1_RGMII5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001I_S1_G_RGMII0_1_5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001J_S1_SGMII_P4_5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001K_S1_PCIE_P6_7")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001L_S1_PCIE_CTRL_HostPWR")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001M_S1_G_SGMII")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001N_S1_H_Host1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001O_S1_H_Host2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001P_S1_AT_GPIO_INH_RTT")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001Q_S1_G_AT_GPIO_INH_RTT")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001R_S1_SPI_WAKE_XTAL")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P001S_S1_G_SPI_WAKE_XTAL")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0021_S2_PWR1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0022_S2_PWR2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0023_S2_PWR3")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0024_S2_PWR4")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0025_S2_G_DC_Converter")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0026_S2_G_PWR1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0027_S2_G_PWR2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0028_S2_G_PWR3")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0029_S2_G_PWR4")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002A_S2_BWPHY_P0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002B_S2_G_BWPHY_P0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002C_S2_G_LB_BW0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002D_S2_G_P2_3_GIGA")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002E_S2_G_LB_FE")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002F_S2_RGMII0")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002G_S2_RGMII1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002H_S2_RGMII5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002I_S2_G_RGMII0_1_5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002J_S2_SGMII_P4_5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002K_S2_PCIE_P6_7")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002L_S2_PCIE_CTRL_HostPWR")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002M_S2_G_SGMII")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002N_S2_H_Host1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002O_S2_H_Host2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002P_S2_AT_GPIO_INH_RTT")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002Q_S2_G_AT_GPIO_INH_RTT")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002R_S2_SPI_WAKE_XTAL")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P002S_S2_G_SPI_WAKE_XTAL")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0031_S3_PWR1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0032_S3_PWR2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0033_S3_PWR3")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0034_S3_PWR4")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0035_S3_G_DC_Converter")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0036_S3_G_PWR1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0037_S3_G_PWR2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0038_S3_G_PWR3")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P0039_S3_G_PWR4")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003A_S3_BWPHY_P0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003B_S3_G_BWPHY_P0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003C_S3_G_LB_BW0_1_5_6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003D_S3_G_P2_3_GIGA")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003E_S3_G_LB_FE")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003F_S3_RGMII0")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003G_S3_RGMII1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003H_S3_RGMII5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003I_S3_G_RGMII0_1_5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003J_S3_SGMII_P4_5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003K_S3_PCIE_P6_7")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003L_S3_PCIE_CTRL_HostPWR")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003M_S3_G_SGMII")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003N_S3_H_Host1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003O_S3_H_Host2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003P_S3_AT_GPIO_INH_RTT")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003Q_S3_G_AT_GPIO_INH_RTT")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003R_S3_SPI_WAKE_XTAL")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "P003S_S3_G_SPI_WAKE_XTAL")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "S9990_SC_Wake")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "S9991_4S_LDO_Relay")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "S9991_SC_DCH_Share1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "S9992_SC_DCH_Share2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "S9993_ATX_Power")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "S9999-MISC")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T00-SLOT00-LPC128")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T01-SLOT01-LPC128")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T02-SLOT02-LPC128")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T03-SLOT03-LPC128")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T04-SLOT4")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T05-SLOT5")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T06-SLOT6")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T07-SLOT7")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T16-SLOT16_J750_CTO2")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T17-SLOT17_J750_CTO0")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T18-SLOT18-SYS")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T19-SLOT19_J750_CTO1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T20-SLOT20_J750_CTO3")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T21-SLOT21-DPS32")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T22-SLOT22-DPS32")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T23-SLOT23-DPS32")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "T24-SLOT24-DPS32")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X001_Assign_List-CJ")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X002_Tester1")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X003_Tester2_Handler")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X004_Tester3_J750_GuideSteelBar")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X005_Tester3_RF303")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X006_Tester4_Out_Case")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X007_Tester4_J750BigHead")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X008_Tester5_C3680")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X009_Tester6_C3680")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X010_C3680_J750_CMP")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X011_Socket_Base")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X012_Socket_Base3_8D")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X013_PWR_Rule")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X014_Layout_Guide")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X015_Matching_Rule")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X016_SCAN_RULE")
+      (Select "Design Resources" ".\980rt-9068cj-k9x-a10-v33-20260911.dsn"
+         "SCHEMATIC1" "X017_DSIO_RULE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 275"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1873 208 660")
-        (Scroll "-223 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "X016_SCAN_RULE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1665 0 452")
-        (Scroll "-223 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "X017_DSIO_RULE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1691 26 478")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "X001_Assign_List-CJ"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1717 52 504")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P000P_S0_AT_GPIO_INH_RTT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1743 78 530")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P002P_S2_AT_GPIO_INH_RTT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1769 104 556")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P001P_S1_AT_GPIO_INH_RTT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1795 130 582")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P003P_S3_AT_GPIO_INH_RTT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 1821 156 608")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V33-20260911.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "T01-SLOT01-LPC128")))
-  (MPSSessionName "Ashik-iTest"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 275"))
+      (Tab 0)))
+  (MPSSessionName "Ashik-iTest")
+  (ISPCBBASICLICENSE "false"))
