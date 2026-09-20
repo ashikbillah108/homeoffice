@@ -1,20 +1,15 @@
-\t (00:00:01) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:01)     Journal start - Thu Sep 17 17:04:11 2026
-\t (00:00:01)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=4316 CPUs=20
-\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:01) 
-\t (00:00:04) Opening existing design...
-\d (00:00:05) Design opened: D:/iTest/homeoffice/Test Hardware/20260917/038RT-9068CJK8E-A100_0917_6.brd
-\i (00:00:05) trapsize 11814
-\i (00:00:05) trapsize 11601
-\i (00:00:05) trapsize 11850
-\i (00:00:05) trapsize 11952
-\i (00:00:06) trapsize 12216
-\i (00:00:06) trapsize 12216
-\i (00:00:07) generaledit 
-\i (00:00:07) open 
-\i (00:00:30) fillin "C:\Users\Ashik-iTest\Downloads\8880F5-0912_updates_Maisha.brd"
-\i (00:00:30) cd "C:\Users\Ashik-iTest\Downloads"
-\t (00:00:30) Opening existing design...
-\i (00:00:31) trapsize 739
-\t (00:00:31)     Journal end - Thu Sep 17 17:04:40 2026
+\t (00:00:05) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:05)     Journal start - Sun Sep 20 00:17:08 2026
+\t (00:00:05)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=21560 CPUs=16
+\t (00:00:05) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:05) 
+\t (00:00:07) Opening existing design...
+\d (00:00:10) Design opened: D:/iTest/homeoffice/Test Hardware/20260917/038RT-9068CJK8E-A100_0918_2.brd
+\i (00:00:12) trapsize 16822
+\i (00:00:12) trapsize 16430
+\i (00:00:12) trapsize 16890
+\i (00:00:12) trapsize 17081
+\i (00:00:13) trapsize 16836
+\i (00:00:13) trapsize 16836
+\i (00:00:15) exit 
+\t (00:00:16)     Journal end - Sun Sep 20 00:17:19 2026
