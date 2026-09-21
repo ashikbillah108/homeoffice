@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Sep-20-2026 at 15:59:35 }
+{ Using PSTWRITER 16.6.0 d001Sep-21-2026 at 15:53:14 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "1MQS1.6" ignored for 1MQS1: SCHEMATIC1, P001C_S1_G_LB_BW0_1_5_6 (289.56, 48.26). Connecting pin to net "SG1_3PI_P0_MDI+".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "3K223.3" ignored for 3K223: SCHEMATIC1, P003R_S3_SPI_WAKE_XTAL (274.32, 96.52). Connecting pin to net "SLOT1.CH67".

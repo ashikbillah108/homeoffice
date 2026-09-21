@@ -1,0 +1,320 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980rt-9068cj-k9x-a10-v34-20260921.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "D:\iTest\homeoffice\Test Hardware\20260917\038RT-9068CJK8E-A100_0920_updates_1.brd")
+    ("Allegro Netlist Output Board File"
+       "D:\iTest\homeoffice\Test Hardware\20260917\038RT-9068CJK8E-A100_0921.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "TRUE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (NoModify))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (ISPCBBASICLICENSE "false")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\980rt-9068cj-k9x-a10-v34-20260921.dsn")
+      (Path "Design Resources" ".\980rt-9068cj-k9x-a10-v34-20260921.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 409"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1717 52 504")
+        (Scroll "91 484")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T02-SLOT02-LPC128"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1743 78 530")
+        (Scroll "0 226")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P000F_S0_RGMII0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1769 104 556")
+        (Scroll "91 484")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T00-SLOT00-LPC128"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1795 130 582")
+        (Scroll "0 221")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P000P_S0_AT_GPIO_INH_RTT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1821 156 608")
+        (Scroll "0 6")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P000Q_S0_G_AT_GPIO_INH_RTT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1847 182 634")
+        (Scroll "0 411")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T01-SLOT01-LPC128"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1873 208 660")
+        (Scroll "0 94")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P000R_S0_SPI_WAKE_XTAL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1665 0 452")
+        (Scroll "0 716")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T03-SLOT03-LPC128"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1691 26 478")
+        (Scroll "0 344")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P001F_S1_RGMII0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1717 52 504")
+        (Scroll "0 266")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P001P_S1_AT_GPIO_INH_RTT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1743 78 530")
+        (Scroll "0 1")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P001Q_S1_G_AT_GPIO_INH_RTT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1769 104 556")
+        (Scroll "0 89")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P001R_S1_SPI_WAKE_XTAL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1795 130 582")
+        (Scroll "0 344")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P002F_S2_RGMII0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1821 156 608")
+        (Scroll "26 389")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P002P_S2_AT_GPIO_INH_RTT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1847 182 634")
+        (Scroll "0 124")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P002Q_S2_G_AT_GPIO_INH_RTT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1873 208 660")
+        (Scroll "0 89")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P002R_S2_SPI_WAKE_XTAL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1665 0 452")
+        (Scroll "0 221")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P003F_S3_RGMII0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1691 26 478")
+        (Scroll "0 119")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P003P_S3_AT_GPIO_INH_RTT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1717 52 504")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P003R_S3_SPI_WAKE_XTAL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1743 78 530")
+        (Scroll "0 471")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P002G_S2_RGMII1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1769 104 556")
+        (Scroll "0 531")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P003H_S3_RGMII5"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1795 130 582")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S9991_SC_DCH_Share1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1821 156 608")
+        (Scroll "0 394")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P003G_S3_RGMII1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1847 182 634")
+        (Scroll "0 281")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\20260917\980RT-9068CJ-K9X-A10-V34-20260921.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P000E_S0_G_LB_FE"))))
