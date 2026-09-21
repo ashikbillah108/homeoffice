@@ -1,0 +1,39 @@
+(ExpressProject "Design5"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\lib\gen_lb_lib.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\gen_lb_20260921.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\gen_lb_20260921.dsn")
+      (Path "Design Resources" ".\gen_lb_20260921.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\lib\gen_lb_lib.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 409"))
+      (Tab 0)))
+  (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (J
+      (FullPartName "JD.Normal")
+      (LibraryName
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\GENERIC_LOADBOARD\LIB\GEN_LB_LIB.OLB")
+      (DeviceIndex "3"))))
