@@ -1,0 +1,292 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../980RT-9068CJ-K9X-A10-0924/038RT-9068CJK0E-A100_0927-2.brd             |
+|                                                    Sun Sep 27 17:51:07 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SLOT0.CH12   pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.J8        -2425.1 1212.60
+                                                                     SLOT0.CH14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH13   pins MOVED FROM this net (to net name listed on right)
+                                 SITE2.U18       -2110.2  960.63
+                                                                     SLOT0.CH21
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH14   pins MOVED FROM this net (to net name listed on right)
+                                 2R347.2         -9375.0  129.91
+                                                                     SLOT1.CH88
+                                 2R350.2         -9375.0   74.60
+                                                                     SLOT1.CH88
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH21   pins MOVED FROM this net (to net name listed on right)
+                                 2RD84.2         -4790.9 1334.21
+                                                                     SLOT1.CH27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH24   pins MOVED FROM this net (to net name listed on right)
+                                 2RD81.2         -4790.9 1767.20
+                                                                     SLOT1.CH22
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH30   pins MOVED FROM this net (to net name listed on right)
+                                 2R327.1         -7529.4 1642.37
+                                                                     SLOT1.CH26
+                                 2RD82.2         -7666.3 1537.03
+                                                                     SLOT1.CH26
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH31   pins MOVED FROM this net (to net name listed on right)
+                                 2R328.1         -7529.4 1371.57
+                                                                     SLOT1.CH23
+                                 2RD83.2         -7666.3 1476.91
+                                                                     SLOT1.CH23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH33   pins MOVED FROM this net (to net name listed on right)
+                                 MUX16.6         -646.75 -234.63
+                                                                     SLOT3.CH32
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH35   pins MOVED FROM this net (to net name listed on right)
+                                 SITE0.L8        -2425.1 -1212.6
+                                                                     SLOT0.CH54
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH54   pins MOVED FROM this net (to net name listed on right)
+                                 RR933.2         -2696.1 -521.91
+                                                                    SLOT2.CH110
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../980RT-9068CJ-K9X-A10-0924/038RT-9068CJK0E-A100_0927-2.brd             |
+|                                                    Sun Sep 27 17:51:07 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SLOT0.CH56   pins MOVED FROM this net (to net name listed on right)
+                                 RR534.2         -2776.1 -521.91
+                                                                     SLOT3.CH40
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH69   pins MOVED FROM this net (to net name listed on right)
+                                 2RD96.2         -1116.5 1293.20
+                                                                     SLOT0.CH14
+                                 SLOT0-UP.E23    -2806.0 5336.45
+                                                                     SLOT0.CH14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH77   pins MOVED FROM this net (to net name listed on right)
+                                 R327.1          -7439.4 -339.25
+                                                                     SLOT0.CH12
+                                 RD82.2          -7576.3 -444.59
+                                                                     SLOT0.CH12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH103  pins MOVED FROM this net (to net name listed on right)
+                                 SITE0.N9        -2393.7 -1275.5
+                                                                     SLOT1.CH53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH104  pins MOVED FROM this net (to net name listed on right)
+                                 SITE0.R8        -2425.1 -1338.5
+                                                                     SLOT1.CH52
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH105  pins MOVED FROM this net (to net name listed on right)
+                                 SITE0.R9        -2393.7 -1338.5
+                                                                     SLOT1.CH56
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH108  pins MOVED FROM this net (to net name listed on right)
+                                 SITE0.R7        -2456.6 -1338.5
+                                                                     SLOT1.CH62
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT0.CH119  pins MOVED FROM this net (to net name listed on right)
+                                 RR535.2         -2776.1 -671.91
+                                                                     SLOT2.CH48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH0    pins MOVED FROM this net (to net name listed on right)
+                                 3HOST1.27       4659.25 8025.34
+                                                                     SLOT3.CH77
+                                 3RH1271.1       4562.37 8473.54
+                                                                     SLOT3.CH77
+                                 3RH1272.1       4562.37 8387.31
+                                                                     SLOT3.CH77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH22   pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../980RT-9068CJ-K9X-A10-0924/038RT-9068CJK0E-A100_0927-2.brd             |
+|                                                    Sun Sep 27 17:51:07 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE3.N4        2173.22 1086.61
+                                                                     SLOT0.CH24
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH23   pins MOVED FROM this net (to net name listed on right)
+                                 3RR531.2        3543.40 1908.72
+                                                                     SLOT2.CH31
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH26   pins MOVED FROM this net (to net name listed on right)
+                                 3RD179.2         -66.52 1054.21
+                                                                     SLOT1.CH89
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH27   pins MOVED FROM this net (to net name listed on right)
+                                 3RD178.2         -66.52 1180.19
+                                                                     SLOT1.CH92
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH52   pins MOVED FROM this net (to net name listed on right)
+                                 1R328.1         7515.27 -339.25
+                                                                    SLOT0.CH105
+                                 1RD83.2         7652.16 -444.59
+                                                                    SLOT0.CH105
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH53   pins MOVED FROM this net (to net name listed on right)
+                                 1R327.1         7515.27 -610.05
+                                                                    SLOT0.CH103
+                                 1RD82.2         7652.16 -504.71
+                                                                    SLOT0.CH103
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH56   pins MOVED FROM this net (to net name listed on right)
+                                 3R327.1         7515.27 1371.57
+                                                                     SLOT1.CH71
+                                 3RD82.2         7652.16 1476.91
+                                                                     SLOT1.CH71
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH62   pins MOVED FROM this net (to net name listed on right)
+                                 1R347.2         9375.00 -129.91
+                                                                     SLOT0.CH35
+                                 1R350.2         9375.00  -74.60
+                                                                     SLOT0.CH35
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH64   pins MOVED FROM this net (to net name listed on right)
+                                 3HOST2.26       2233.68 8025.34
+                                                                     SLOT3.CH88
+                                 3RH2261.1       2181.05 8473.54
+                                                                     SLOT3.CH88
+                                 3RH2262.1       2181.05 8387.31
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../980RT-9068CJ-K9X-A10-0924/038RT-9068CJK0E-A100_0927-2.brd             |
+|                                                    Sun Sep 27 17:51:07 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                     SLOT3.CH88
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH65   pins MOVED FROM this net (to net name listed on right)
+                                 3HOST2.27       2217.93 8025.34
+                                                                     SLOT3.CH84
+                                 3RH2271.1       2121.05 8473.54
+                                                                     SLOT3.CH84
+                                 3RH2272.1       2121.05 8387.31
+                                                                     SLOT3.CH84
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH70   pins MOVED FROM this net (to net name listed on right)
+                                 MUX11.6         -633.95 1115.37
+                                                                     SLOT0.CH31
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH71   pins MOVED FROM this net (to net name listed on right)
+                                 MUX11.7         -633.95 1089.77
+                                                                     SLOT0.CH30
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH84   pins MOVED FROM this net (to net name listed on right)
+                                 MUX12.6         -183.95 1115.37
+                                                                     SLOT0.CH77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH88   pins MOVED FROM this net (to net name listed on right)
+                                 3RR931.2        3543.40 1748.72
+                                                                     SLOT2.CH81
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH89   pins MOVED FROM this net (to net name listed on right)
+                                 1RD84.2          -66.52 -1027.9
+                                                                    SLOT0.CH104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT1.CH92   pins MOVED FROM this net (to net name listed on right)
+                                 1RD81.2          -66.52 -594.02
+                                                                    SLOT0.CH108
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT2.CH31   pins MOVED FROM this net (to net name listed on right)
+                                 R328.1          -7439.4 -610.05
+                                                                     SLOT0.CH13
+                                 RD83.2          -7576.3 -504.71
+                                                                     SLOT0.CH13
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT2.CH48   pins MOVED FROM this net (to net name listed on right)
+                                 R348.2          -7991.2 -1946.8
+                                                                    SLOT0.CH119
+                                 R351.1          -7991.2 -2002.1
+                                                                    SLOT0.CH119
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:.../980RT-9068CJ-K9X-A10-0924/038RT-9068CJK0E-A100_0927-2.brd             |
+|                                                    Sun Sep 27 17:51:07 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SLOT2.CH81   pins MOVED FROM this net (to net name listed on right)
+                                 2R348.2         -9425.0  129.91
+                                                                     SLOT1.CH84
+                                 2R351.1         -9425.0   74.60
+                                                                     SLOT1.CH84
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT2.CH106  pins MOVED FROM this net (to net name listed on right)
+                                 RD84.2          -4790.9 -1027.9
+                                                                     SLOT0.CH54
+                                 SLOT2-DOWN.D18  -3682.3 -4315.3
+                                                                     SLOT0.CH54
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT2.CH110  pins MOVED FROM this net (to net name listed on right)
+                                 RD81.2          -4790.9 -595.00
+                                                                     SLOT0.CH56
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT3.CH32   pins MOVED FROM this net (to net name listed on right)
+                                 3R328.1         7515.27 1642.37
+                                                                     SLOT1.CH70
+                                 3RD83.2         7652.16 1537.03
+                                                                     SLOT1.CH70
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT3.CH40   pins MOVED FROM this net (to net name listed on right)
+                                 1R348.2         9425.00 -129.91
+                                                                     SLOT0.CH33
+                                 1R351.1         9425.00  -74.60
+                                                                     SLOT0.CH33
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT3.CH77   pins MOVED FROM this net (to net name listed on right)
+                                 3R348.2         7950.00 1907.29
+                                                                      SLOT1.CH0
+                                 3R351.1         7950.00 1962.60
+                                                                      SLOT1.CH0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT3.CH84   pins MOVED FROM this net (to net name listed on right)
+                                 3RD81.2          -66.52 1768.18
+                                                                     SLOT1.CH64
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SLOT3.CH88   pins MOVED FROM this net (to net name listed on right)
+                                 3RD84.2          -66.52 1334.21
+                                                                     SLOT1.CH65
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:.../980RT-9068CJ-K9X-A10-0924/038RT-9068CJK0E-A100_0927-2.brd             |
+|                                                    Sun Sep 27 17:51:07 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      67                                        |
+|                                                                              |
+|   Total ECO changes reported:      67                                        |
+|------------------------------------------------------------------------------|

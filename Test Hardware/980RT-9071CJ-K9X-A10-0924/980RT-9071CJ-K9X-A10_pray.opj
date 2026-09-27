@@ -1,0 +1,101 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980rt-9071cj-k9x-a10_pray.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "D:\iTest\homeoffice\Test Hardware\980RT-9071CJ-K9X-A10-0924\038RT-9071CJ_reset.brd")
+    ("Allegro Netlist Output Board File"
+       "D:\iTest\homeoffice\Test Hardware\980RT-9071CJ-K9X-A10-0924\038RT-9071CJ_pray.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "TRUE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\980rt-9071cj-k9x-a10_pray.dsn")
+      (Path "Design Resources" ".\980rt-9071cj-k9x-a10_pray.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\980rt-9071cj-k9x-a10_pray.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 413"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1847 130 458")
+        (Scroll "497 104")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9071CJ-K9X-A10-0924\980RT-9071CJ-K9X-A10_PRAY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T00-SLOT00-LPC128"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1717 0 328")
+        (Scroll "0 270")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9071CJ-K9X-A10-0924\980RT-9071CJ-K9X-A10_PRAY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T02-SLOT02-LPC128"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1743 26 354")
+        (Scroll "134 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9071CJ-K9X-A10-0924\980RT-9071CJ-K9X-A10_PRAY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T01-SLOT01-LPC128"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1769 52 380")
+        (Scroll "-99 29")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9071CJ-K9X-A10-0924\980RT-9071CJ-K9X-A10_PRAY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P003L_S3_GPIO_INH_RTT")))
+  (MPSSessionName "Ashik-iTest")
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false"))
