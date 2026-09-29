@@ -1,0 +1,40 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn")
+      (Path "Design Resources" ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn" "SCHEMATIC1"
+         "X001_Assign_List"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 413"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1717 52 504")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\20260929\980RT-9010JS-KCD-A10-CH\980RT-9010JS-KCD-A10_V30_260924 -CHANNEL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "X001_Assign_List")))
+  (MPSSessionName "Ashik-iTest"))
