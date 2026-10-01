@@ -1,0 +1,21 @@
+\t (00:00:04) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:04)     Journal start - Thu Oct 01 09:35:28 2026
+\t (00:00:04)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=17632 CPUs=20
+\t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:04) 
+\t (00:00:06) Opening existing design...
+\d (00:00:07) Design opened: D:/iTest/homeoffice/Test Hardware/038RT-9068CJK0E-A100_0928_Update/038RT-9068CJK0E-A100_0930.brd
+\i (00:00:08) trapsize 12074
+\i (00:00:08) trapsize 11857
+\i (00:00:08) trapsize 12111
+\i (00:00:08) trapsize 12216
+\i (00:00:08) trapsize 12216
+\i (00:00:09) ifp 
+\i (00:00:56) trapsize 17607
+\i (00:00:57) trapsize 12216
+\i (00:01:06) open 
+\i (00:01:15) fillin "D:\iTest\homeoffice\Test Hardware\980RT-9010JS-KCD-A10\20260930\038RT-9010JSKCD-A100-Final_20260930_3.brd"
+\i (00:01:15) cd "D:\iTest\homeoffice\Test Hardware\980RT-9010JS-KCD-A10\20260930"
+\t (00:01:15) Opening existing design...
+\i (00:01:16) trapsize 12505
+\t (00:01:16)     Journal end - Thu Oct 01 09:36:39 2026

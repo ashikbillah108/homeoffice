@@ -1,0 +1,135 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn")
+      (Path "Design Resources" ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn" "SCHEMATIC1"
+         "P0001_S0_DUT")
+      (Select "Design Resources"
+         ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn" "SCHEMATIC1"
+         "P0002_S0_PWR")
+      (Select "Design Resources"
+         ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn" "SCHEMATIC1"
+         "P0003_S0_PWR_V33")
+      (Select "Design Resources"
+         ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn" "SCHEMATIC1"
+         "P0004_S0_BRPHY")
+      (Select "Design Resources"
+         ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn" "SCHEMATIC1"
+         "P0005_S0_MDC_AT_XTAL")
+      (Select "Design Resources"
+         ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn" "SCHEMATIC1"
+         "P0006_S0_G_Golden")
+      (Select "Design Resources"
+         ".\980rt-9010js-kcd-a10_v30_260924 -channel.dsn" "SCHEMATIC1"
+         "P0007_S0_G_PWR"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 409"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1717 52 504")
+        (Scroll "0 10")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\20260930\980RT-9010JS-KCD-A10_V30_260924 -CHANNEL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "X001_Assign_List"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1743 78 530")
+        (Scroll "-94 154")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\20260930\980RT-9010JS-KCD-A10_V30_260924 -CHANNEL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0001_S0_DUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1769 104 556")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\20260930\980RT-9010JS-KCD-A10_V30_260924 -CHANNEL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0002_S0_PWR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1795 130 582")
+        (Scroll "-224 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\20260930\980RT-9010JS-KCD-A10_V30_260924 -CHANNEL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0003_S0_PWR_V33"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1821 156 608")
+        (Scroll "0 541")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\20260930\980RT-9010JS-KCD-A10_V30_260924 -CHANNEL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0004_S0_BRPHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1847 182 634")
+        (Scroll "0 541")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\20260930\980RT-9010JS-KCD-A10_V30_260924 -CHANNEL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0005_S0_MDC_AT_XTAL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1873 208 660")
+        (Scroll "0 541")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\20260930\980RT-9010JS-KCD-A10_V30_260924 -CHANNEL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0006_S0_G_Golden"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1665 0 452")
+        (Scroll "0 230")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\20260930\980RT-9010JS-KCD-A10_V30_260924 -CHANNEL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0007_S0_G_PWR")))
+  (MPSSessionName "Ashik-iTest"))

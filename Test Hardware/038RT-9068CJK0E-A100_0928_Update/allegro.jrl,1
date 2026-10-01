@@ -1,0 +1,31 @@
+\t (00:00:01) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:01)     Journal start - Wed Sep 30 17:08:21 2026
+\t (00:00:01)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=27256 CPUs=20
+\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:06) Design opened: D:/iTest/homeoffice/Test Hardware/038RT-9068CJK0E-A100_0928_Update/038RT-9068CJK0E-A100_0930.brd
+\i (00:00:06) trapsize 12074
+\i (00:00:06) trapsize 11857
+\i (00:00:06) trapsize 12111
+\i (00:00:06) trapsize 12216
+\i (00:00:07) trapsize 12216
+\i (00:00:08) ifp 
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -4739.82 5091.47
+\i (00:00:09) trapsize 6108
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -4739.82 5091.47
+\i (00:00:10) trapsize 3054
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -4165.67 4584.51
+\i (00:00:10) trapsize 6108
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -4165.66 4584.51
+\i (00:00:10) trapsize 12216
+\i (00:00:11) exit 
+\t (00:00:12)     Journal end - Wed Sep 30 17:08:31 2026
