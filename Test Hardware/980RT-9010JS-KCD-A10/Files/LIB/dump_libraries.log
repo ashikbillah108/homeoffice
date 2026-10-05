@@ -1,0 +1,349 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Mon Oct 05 09:20:35 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/038RT-9010JSKCD-A100-Final_20261005.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  VRD024_012P01 being dumped.
+
+  SQ064_060_041 being dumped.
+
+  VRD016_008P01 being dumped.
+
+  SQ060_041_SOLDER60 being dumped.
+
+  24X276V being dumped.
+
+  M25_RD256_169 being dumped.
+
+  24X196V being dumped.
+
+  FD_RD040_M100 being dumped.
+
+  020X023H being dumped.
+
+  050X150H being dumped.
+
+  060X064H being dumped.
+
+  NPTH126 being dumped.
+
+  050X110V being dumped.
+
+  012X014V being dumped.
+
+  NPTH138 being dumped.
+
+  050X130V being dumped.
+
+  050X140V being dumped.
+
+  315X394H being dumped.
+
+  NPTH087 being dumped.
+
+  NPTH089 being dumped.
+
+  030X075V being dumped.
+
+  052X072V being dumped.
+
+  028X060V being dumped.
+
+  044X054V being dumped.
+
+  045X075V being dumped.
+
+  RD070_040_AN76 being dumped.
+
+  PG_RD034_014_CRM3680 being dumped.
+
+  PG_SQ034_014_CRM3680 being dumped.
+
+  RD060_040 being dumped.
+
+  SHORT_1 being dumped.
+
+  RD060_041 being dumped.
+
+  RD130_071 being dumped.
+
+  PG_NPTH500X312 being dumped.
+
+  RD055_041 being dumped.
+
+  SK_NPTH1P61MM being dumped.
+
+  SQ060_040 being dumped.
+
+  SQ130_071 being dumped.
+
+  SK_0P35X2P5MMH being dumped.
+
+  RD060_040_9010AR being dumped.
+
+  1P0X1P2MM being dumped.
+
+  SQ060_040_9010AR being dumped.
+
+  0402_SQ024 being dumped.
+
+  RECT1P95X0P85MM being dumped.
+
+  VRD024_012P01_M2 being dumped.
+
+  VRD024_012P02_M2 being dumped.
+
+  VRD016_008P01_M2 being dumped.
+
+  PG_J750_NPTH230 being dumped.
+
+  PG_J750_NPTH250 being dumped.
+
+  SK_VRD024_012P01 being dumped.
+
+  RD002 being dumped.
+
+  M3_NPTH169 being dumped.
+
+  PG_J750_NPTH_OB500X312 being dumped.
+
+  PG_NPTH250 being dumped.
+
+  PG_RD034_014_CRM3680_20 being dumped.
+
+  TP040 being dumped.
+
+  SQ035 being dumped.
+
+  UVRD016_008P21_M2 being dumped.
+
+  PG_NPTH177 being dumped.
+
+  SK_0P35X2P5MM_L_9010AS being dumped.
+
+  PG_SQ034_014_CRM3680_20 being dumped.
+
+  SK_0P35X2P5MM_R_9010AS being dumped.
+
+  TP040_014P01 being dumped.
+
+  SK_SQ3P7MM being dumped.
+
+  M5_RD434_276 being dumped.
+
+  RD064_060_041 being dumped.
+
+  RD060_041_SOLDER60 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  m_sq34 being dumped.
+
+  p_sq34 being dumped.
+
+  p_sq024 being dumped.
+
+  m_sq028 being dumped.
+
+  m_sk_0p35x2p5mm_l_9010as being dumped.
+
+  p_sk_0p35x2p5mm_l_9010as being dumped.
+
+  m_sk_0p35x2p5mm_r_9010as being dumped.
+
+  p_sk_0p35x2p5mm_r_9010as being dumped.
+
+  ate_clearance being dumped.
+
+  m_pg_crm3680_20 being dumped.
+
+  p_pg_crm3680_20 being dumped.
+
+  m_pg_crm3680_ch being dumped.
+
+  p_pg_crm3680_ch being dumped.
+
+  p_sh being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  thrr4x070x056x020x0 being dumped.
+
+  thrr4x073x059x021x0 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  socket_code being dumped.
+
+  sot23-5 being dumped.
+
+  so8_206x127mm being dumped.
+
+  stiffener_532x565_tl90jc being dumped.
+
+  conn_specific_8p_te_v2 being dumped.
+
+  jp_2p_100_r90 being dumped.
+
+  pg_3680_ft_outline_chroma_v2 being dumped.
+
+  led_0805 being dumped.
+
+  pg_3680_sys_slot18 being dumped.
+
+  sk_qfn5x5_32p_0p5mm_isc_9010js being dumped.
+
+  socket_base_400x210_tl9000 being dumped.
+
+  tpl_040_014_tb being dumped.
+
+  logo_kt_ksmt being dumped.
+
+  conn_atx12x2_4p2mm_molex being dumped.
+
+  tp_040_t being dumped.
+
+  pcb_code being dumped.
+
+  pg_3680_dps32_slot21 being dumped.
+
+  pg_3680_dps32_slot22 being dumped.
+
+  pg_3680_dps32_slot23 being dumped.
+
+  pg_3680_dps32_slot24 being dumped.
+
+  fru_14x3_5p1mm being dumped.
+
+  ecs_10p3x10p3mm being dumped.
+
+  fd_040_v2 being dumped.
+
+  jp_1p_rd070_040 being dumped.
+
+  jp_2p_100 being dumped.
+
+  jp_3p_100 being dumped.
+
+  xtal_2x2p5mm_4p_ndk being dumped.
+
+  filter_bnxo25h01l_6p being dumped.
+
+  protector_conn_specific_2port being dumped.
+
+  tp_060_040 being dumped.
+
+  pg_3680_empty_slot20 being dumped.
+
+  c0201 being dumped.
+
+  c1210 being dumped.
+
+  rl_rf303_12v_v2 being dumped.
+
+  c0402 being dumped.
+
+  pg_3680_empty_slot16 being dumped.
+
+  pg_3680_empty_slot17 being dumped.
+
+  c1206 being dumped.
+
+  c0603 being dumped.
+
+  chip_code being dumped.
+
+  pg_3680_empty_slot19 being dumped.
+
+  c0805 being dumped.
+
+  pg_tdj750_f_me_outline_1024p_v2 being dumped.
+
+  r0201 being dumped.
+
+  r1210 being dumped.
+
+  r0402 being dumped.
+
+  default_short_small being dumped.
+
+  r0603 being dumped.
+
+  r0805 being dumped.
+
+  to263_5_v1 being dumped.
+
+  m3_npth169 being dumped.
+
+  filter_4p_9075aa being dumped.
+
+  fb0603 being dumped.
+
+  fb0805 being dumped.
+
+  pg_3680_lpc128_a_slot0 being dumped.
+
+  pg_3680_lpc128_a_slot1 being dumped.
+
+  pg_3680_lpc128_b_slot0 being dumped.
+
+  pg_3680_lpc128_a_slot2 being dumped.
+
+  pg_3680_lpc128_b_slot1 being dumped.
+
+  pg_3680_lpc128_a_slot3 being dumped.
+
+  pg_3680_lpc128_b_slot2 being dumped.
+
+  pg_3680_lpc128_b_slot3 being dumped.
+
+  pg_3680_lpc128_a_slot4 being dumped.
+
+  pg_3680_lpc128_a_slot5 being dumped.
+
+  pg_3680_lpc128_b_slot4 being dumped.
+
+  pg_3680_lpc128_a_slot6 being dumped.
+
+  pg_3680_lpc128_b_slot5 being dumped.
+
+  pg_3680_lpc128_b_slot6 being dumped.
+
+  pg_3680_lpc128_a_slot7 being dumped.
+
+  pg_3680_lpc128_b_slot7 being dumped.
+
+  rl_necua2_12v_v2 being dumped.
+
+  logo_rt_realtek being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               66
+Number of package symbols dumped:         72
+Number of shape symbols dumped:           14
+Number of flash symbols dumped:            2
+
+Total number of symbols dumped:           88
+*****************************************************
+

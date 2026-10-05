@@ -1,0 +1,563 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Highlight Segments Over Voids Log File                           )
+(                                                                     )
+(    Drawing          : 038RT-9010JSKCD-A100-Final_20261005_1.brd     )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Mon Oct 05 10:51:54 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+sov_spacing value: 0.00
+
+Segments over voids: 485
+
+Segments with partial or missing plane coverage: 53
+
+Segments over voids:
+Layer:                Location:                       Spacing   Net Name:
+--------------------  ------------------------------  --------  --------------------------------------
+TOP                   (-828.68 -1384.14)              -0.28     S1_INH
+TOP                   (2320.92 978.06)                -0.28     S7_INH
+TOP                   (746.12 978.06)                 -0.28     S6_INH
+TOP                   (-828.68 978.06)                -0.28     S5_INH
+TOP                   (-2403.48 978.06)               -0.28     S4_INH
+TOP                   (2320.92 -1384.14)              -0.28     S3_INH
+TOP                   (746.12 -1384.14)               -0.28     S2_INH
+TOP                   (-2403.48 -1384.14)             -0.28     S0_INH
+L03_SIGNAL            (-573.28 -953.98)               -0.02     SLOT23.SENSE18
+L03_SIGNAL            (-573.28 -953.98)               -0.02     SLOT23.SENSE18
+L03_SIGNAL            (11617.20 5746.20)              -0.01     SG7_MDC
+L03_SIGNAL            (11567.20 5746.20)              -0.01     SG7_MDC
+L03_SIGNAL            (11617.20 5746.20)              -0.01     SG7_MDC
+L03_SIGNAL            (11567.20 5746.20)              -0.01     SG7_MDC
+L03_SIGNAL            (12064.13 5635.90)              -0.02     SG7_MDC
+L03_SIGNAL            (12064.13 5635.90)              -0.02     SG7_MDC
+L03_SIGNAL            (1955.92 4990.97)               -0.01     SLOT24.SENSE18
+L03_SIGNAL            (1955.92 4990.97)               -0.01     SLOT24.SENSE18
+L03_SIGNAL            (1955.92 5463.41)               -0.01     SLOT24.SENSE16
+L03_SIGNAL            (1955.92 5463.41)               -0.01     SLOT24.SENSE16
+L03_SIGNAL            (32.26 367.34)                  -4.34     SLOT24.SENSE19
+L03_SIGNAL            (32.26 367.34)                  -4.34     SLOT24.SENSE19
+L03_SIGNAL            (1955.92 5227.19)               -0.01     SLOT24.SENSE17
+L03_SIGNAL            (1955.92 5227.19)               -0.01     SLOT24.SENSE17
+L05_SIGNAL            (-573.28 1408.22)               -0.02     SLOT23.DGS16
+L05_SIGNAL            (-573.28 1408.22)               -0.02     SLOT23.DGS16
+L05_SIGNAL            (-1824.40 7856.98)              -0.02     SLOT0.UB1
+L05_SIGNAL            (-1824.40 7856.98)              -0.02     SLOT0.UB1
+L05_SIGNAL            (1325.20 7856.98)               -0.02     SLOT1.UB9
+L05_SIGNAL            (1325.20 7856.98)               -0.02     SLOT1.UB9
+L05_SIGNAL            (-573.28 -953.98)               -0.02     SLOT23.DGS18
+L05_SIGNAL            (-573.28 -953.98)               -0.02     SLOT23.DGS18
+L07_SIGNAL            (649.60 933.99)                 -0.01     SLOT24.DGS21
+L07_SIGNAL            (649.60 933.99)                 -0.01     SLOT24.DGS21
+L07_SIGNAL            (1562.22 4676.01)               -0.01     SLOT24.DGS21
+L07_SIGNAL            (1562.22 4676.01)               -0.01     SLOT24.DGS21
+L07_SIGNAL            (1544.53 4683.34)               -0.02     SLOT24.DGS21
+L07_SIGNAL            (1544.53 4683.34)               -0.02     SLOT24.DGS21
+L07_SIGNAL            (1526.84 4676.01)               -0.01     SLOT24.DGS21
+L07_SIGNAL            (1526.84 4676.01)               -0.01     SLOT24.DGS21
+L07_SIGNAL            (1519.51 4658.32)               -0.02     SLOT24.DGS21
+L07_SIGNAL            (1519.51 4579.58)               -0.02     SLOT24.DGS21
+L07_SIGNAL            (1519.51 4658.32)               -0.02     SLOT24.DGS21
+L07_SIGNAL            (1519.51 4579.58)               -0.02     SLOT24.DGS21
+L07_SIGNAL            (526.84 4203.57)                -0.01     SLOT23.DGS23
+L07_SIGNAL            (526.84 4203.57)                -0.01     SLOT23.DGS23
+L07_SIGNAL            (1544.53 3924.64)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1544.53 3924.64)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1562.22 3931.97)               -0.01     SLOT24.DGS20
+L07_SIGNAL            (1562.22 3931.97)               -0.01     SLOT24.DGS20
+L07_SIGNAL            (1569.55 3949.66)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 3949.66)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4185.88)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4107.14)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4028.40)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4185.88)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4107.14)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4028.40)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4422.10)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4343.36)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4422.10)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4343.36)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4579.58)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (1569.55 4579.58)               -0.02     SLOT24.DGS20
+L07_SIGNAL            (544.53 4210.90)                -0.02     SLOT23.DGS23
+L07_SIGNAL            (544.53 4210.90)                -0.02     SLOT23.DGS23
+L07_SIGNAL            (562.22 4203.57)                -0.01     SLOT23.DGS23
+L07_SIGNAL            (562.22 4203.57)                -0.01     SLOT23.DGS23
+L07_SIGNAL            (569.55 4185.88)                -0.02     SLOT23.DGS23
+L07_SIGNAL            (569.55 4107.14)                -0.02     SLOT23.DGS23
+L07_SIGNAL            (569.55 4028.40)                -0.02     SLOT23.DGS23
+L07_SIGNAL            (569.55 4185.88)                -0.02     SLOT23.DGS23
+L07_SIGNAL            (569.55 4107.14)                -0.02     SLOT23.DGS23
+L07_SIGNAL            (569.55 4028.40)                -0.02     SLOT23.DGS23
+L09_SIGNAL            (4062.40 4754.17)               -18.35    S7_DISB
+L09_SIGNAL            (3072.56 5379.99)               -40.51    S6_DISB
+L09_SIGNAL            (3072.56 5379.99)               -40.51    S6_DISB
+L09_SIGNAL            (4062.40 4754.17)               -18.35    S7_DISB
+L09_SIGNAL            (4062.40 5384.10)               -18.35    S7_DISB
+L09_SIGNAL            (4062.40 5384.10)               -18.35    S7_DISB
+L09_SIGNAL            (4057.17 -4853.95)              -41.02    S3_DISB
+L09_SIGNAL            (4057.17 -5011.43)              -41.02    S3_DISB
+L09_SIGNAL            (4057.17 -4853.95)              -41.02    S3_DISB
+L09_SIGNAL            (4057.17 -5011.43)              -41.02    S3_DISB
+L09_SIGNAL            (4062.40 5541.57)               -18.35    S7_DISB
+L09_SIGNAL            (3076.18 -4850.18)              -16.93    S2_DISB
+L09_SIGNAL            (3076.18 -4850.18)              -16.93    S2_DISB
+L09_SIGNAL            (4062.40 5541.57)               -18.35    S7_DISB
+L17_RLY               (-4653.77 1287.99)              -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 1562.99)              -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 62.01)                -0.02     SLOT0.UB7
+L17_RLY               (4703.71 887.01)                -0.02     SLOT1.UB3
+L17_RLY               (4703.71 1012.99)               -0.02     SLOT1.UB3
+L17_RLY               (4703.71 -87.01)                -0.02     SLOT1.UB3
+L17_RLY               (4703.71 -212.99)               -0.02     SLOT1.UB3
+L17_RLY               (4703.71 -1187.01)              -0.02     SLOT1.UB3
+L17_RLY               (4703.71 -1312.99)              -0.02     SLOT1.UB3
+L17_RLY               (4703.71 2112.99)               -0.02     SLOT1.UB3
+L17_RLY               (4703.71 1987.01)               -0.02     SLOT1.UB3
+L17_RLY               (-4653.77 337.01)               -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 187.99)               -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 462.99)               -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 -1037.99)             -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 -912.01)              -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 -762.99)              -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 -637.01)              -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 -2137.99)             -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 -1862.99)             -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 -2012.01)             -0.02     SLOT0.UB7
+L17_RLY               (-4653.77 -1737.01)             -0.02     SLOT0.UB7
+L17_RLY               (-4703.71 -1037.99)             -0.02     SLOT0.UB14
+L17_RLY               (-4703.71 -912.01)              -0.02     SLOT0.UB14
+L17_RLY               (-3979.37 -5408.82)             -14.05    SLOT0.UB6
+L17_RLY               (-3979.37 -5566.30)             -14.05    SLOT0.UB6
+L17_RLY               (-3979.37 -4306.46)             -14.05    SLOT0.UB6
+L17_RLY               (-3400.27 4750.33)              -42.11    SLOT0.UB4
+L17_RLY               (-3400.27 4592.85)              -42.11    SLOT0.UB4
+L17_RLY               (-3400.27 5380.26)              -42.11    SLOT0.UB4
+L17_RLY               (-3400.27 5537.74)              -42.11    SLOT0.UB4
+L17_RLY               (-3979.37 -4148.98)             -14.05    SLOT0.UB6
+L17_RLY               (-4703.71 62.01)                -0.02     SLOT0.UB14
+L17_RLY               (-4703.71 187.99)               -0.02     SLOT0.UB14
+L17_RLY               (-4703.71 1162.01)              -0.02     SLOT0.UB14
+L17_RLY               (-4703.71 1287.99)              -0.02     SLOT0.UB14
+L17_RLY               (-4703.71 -2137.99)             -0.02     SLOT0.UB14
+L17_RLY               (-4703.71 -2012.01)             -0.02     SLOT0.UB14
+L17_RLY               (4653.77 -1462.01)              -0.02     SLOT1.UB2
+L17_RLY               (4653.77 -1587.99)              -0.02     SLOT1.UB2
+L17_RLY               (4653.77 -1187.01)              -0.02     SLOT1.UB2
+L17_RLY               (4653.77 -1312.99)              -0.02     SLOT1.UB2
+L17_RLY               (2493.70 4194.72)               -26.61    SLOT1.UB0
+L17_RLY               (2493.70 4352.20)               -26.61    SLOT1.UB0
+L17_RLY               (2493.70 5297.08)               -26.61    SLOT1.UB0
+L17_RLY               (4653.77 -362.01)               -0.02     SLOT1.UB2
+L17_RLY               (4653.77 -487.99)               -0.02     SLOT1.UB2
+L17_RLY               (4653.77 -87.01)                -0.02     SLOT1.UB2
+L17_RLY               (4653.77 -212.99)               -0.02     SLOT1.UB2
+L17_RLY               (4653.77 612.01)                -0.02     SLOT1.UB2
+L17_RLY               (4653.77 737.99)                -0.02     SLOT1.UB2
+L17_RLY               (4653.77 887.01)                -0.02     SLOT1.UB2
+L17_RLY               (4653.77 1012.99)               -0.02     SLOT1.UB2
+L17_RLY               (4653.77 1837.99)               -0.02     SLOT1.UB2
+L17_RLY               (4653.77 1712.01)               -0.02     SLOT1.UB2
+L17_RLY               (4653.77 2112.99)               -0.02     SLOT1.UB2
+L17_RLY               (4653.77 1987.01)               -0.02     SLOT1.UB2
+L17_RLY               (-4653.77 1162.01)              -0.02     SLOT0.UB7
+L17_RLY               (-3117.34 -1994.86)             -4.83     SLOT0.UB11
+L17_RLY               (-4653.77 1437.01)              -0.02     SLOT0.UB7
+L24_SIGNAL            (669.63 94.72)                  -0.02     SLOT24.SENSE02
+L24_SIGNAL            (669.63 181.33)                 -0.02     SLOT24.SENSE02
+L24_SIGNAL            (669.63 267.95)                 -0.02     SLOT24.SENSE02
+L24_SIGNAL            (669.63 94.72)                  -0.02     SLOT24.SENSE02
+L24_SIGNAL            (669.63 181.33)                 -0.02     SLOT24.SENSE02
+L24_SIGNAL            (669.63 267.95)                 -0.02     SLOT24.SENSE02
+L24_SIGNAL            (669.63 393.93)                 -0.02     SLOT24.SENSE02
+L24_SIGNAL            (669.63 393.93)                 -0.02     SLOT24.SENSE02
+L24_SIGNAL            (1798.44 5148.45)               -0.01     SLOT24.SENSE02
+L24_SIGNAL            (1798.44 5148.45)               -0.01     SLOT24.SENSE02
+L24_SIGNAL            (1805.77 5130.76)               -0.02     SLOT24.SENSE02
+L24_SIGNAL            (1805.77 5052.02)               -0.02     SLOT24.SENSE02
+L24_SIGNAL            (1805.77 5130.76)               -0.02     SLOT24.SENSE02
+L24_SIGNAL            (1805.77 5052.02)               -0.02     SLOT24.SENSE02
+L24_SIGNAL            (1955.92 5305.93)               -0.01     SLOT24.DGS01
+L24_SIGNAL            (1955.92 5305.93)               -0.01     SLOT24.DGS01
+L24_SIGNAL            (1859.49 5341.96)               -0.02     SLOT24.DGS01
+L24_SIGNAL            (1859.49 5341.96)               -0.02     SLOT24.DGS01
+L24_SIGNAL            (-855.23 181.33)                -0.02     SLOT23.DGS02
+L24_SIGNAL            (-1029.18 -1049.29)             -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-1029.18 -1049.29)             -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-827.25 -284.10)               -0.01     SLOT23.SENSE02
+L24_SIGNAL            (-827.25 -284.10)               -0.01     SLOT23.SENSE02
+L24_SIGNAL            (-905.17 94.72)                 -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-905.17 181.33)                -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-905.17 267.95)                -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-905.17 94.72)                 -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-905.17 181.33)                -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-905.17 267.95)                -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-3979.37 5612.03)              -7.78     SLOT2.CH69
+L24_SIGNAL            (-3979.37 5454.55)              -7.78     SLOT2.CH69
+L24_SIGNAL            (-3979.37 5612.03)              -7.78     SLOT2.CH69
+L24_SIGNAL            (-3979.37 5454.55)              -7.78     SLOT2.CH69
+L24_SIGNAL            (2120.42 -1049.29)              -0.02     SLOT24.SENSE03
+L24_SIGNAL            (2120.42 -1049.29)              -0.02     SLOT24.SENSE03
+L24_SIGNAL            (2322.35 -284.10)               -0.01     SLOT24.SENSE03
+L24_SIGNAL            (2322.35 -284.10)               -0.01     SLOT24.SENSE03
+L24_SIGNAL            (2244.43 94.72)                 -0.02     SLOT24.SENSE03
+L24_SIGNAL            (2244.43 181.33)                -0.02     SLOT24.SENSE03
+L24_SIGNAL            (2244.43 267.95)                -0.02     SLOT24.SENSE03
+L24_SIGNAL            (2244.43 94.72)                 -0.02     SLOT24.SENSE03
+L24_SIGNAL            (2244.43 181.33)                -0.02     SLOT24.SENSE03
+L24_SIGNAL            (1526.84 5305.93)               -0.01     SLOT24.DGS00
+L24_SIGNAL            (1526.84 5305.93)               -0.01     SLOT24.DGS00
+L24_SIGNAL            (1798.44 5428.03)               -0.01     SLOT24.DGS00
+L24_SIGNAL            (1798.44 5428.03)               -0.01     SLOT24.DGS00
+L24_SIGNAL            (1805.77 5445.72)               -0.02     SLOT24.DGS00
+L24_SIGNAL            (1805.77 5445.72)               -0.02     SLOT24.DGS00
+L24_SIGNAL            (1805.77 5524.46)               -0.02     SLOT24.DGS00
+L24_SIGNAL            (1805.77 5524.46)               -0.02     SLOT24.DGS00
+L24_SIGNAL            (719.57 94.72)                  -0.02     SLOT24.DGS02
+L24_SIGNAL            (719.57 181.33)                 -0.02     SLOT24.DGS02
+L24_SIGNAL            (719.57 267.95)                 -0.02     SLOT24.DGS02
+L24_SIGNAL            (719.57 94.72)                  -0.02     SLOT24.DGS02
+L24_SIGNAL            (719.57 181.33)                 -0.02     SLOT24.DGS02
+L24_SIGNAL            (719.57 267.95)                 -0.02     SLOT24.DGS02
+L24_SIGNAL            (719.57 393.93)                 -0.02     SLOT24.DGS02
+L24_SIGNAL            (719.57 393.93)                 -0.02     SLOT24.DGS02
+L24_SIGNAL            (1544.53 5155.78)               -0.02     SLOT24.DGS02
+L24_SIGNAL            (1544.53 5155.78)               -0.02     SLOT24.DGS02
+L24_SIGNAL            (1702.01 5155.78)               -0.02     SLOT24.DGS02
+L24_SIGNAL            (1702.01 5155.78)               -0.02     SLOT24.DGS02
+L24_SIGNAL            (2244.43 267.95)                -0.02     SLOT24.SENSE03
+L24_SIGNAL            (2244.43 393.93)                -0.02     SLOT24.SENSE03
+L24_SIGNAL            (2244.43 393.93)                -0.02     SLOT24.SENSE03
+L24_SIGNAL            (-905.17 393.93)                -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-905.17 393.93)                -0.02     SLOT23.SENSE02
+L24_SIGNAL            (-855.23 267.95)                -0.02     SLOT23.DGS02
+L24_SIGNAL            (-3398.98 5539.06)              -38.31    SLOT2.CH5
+L24_SIGNAL            (-3398.98 5539.06)              -38.31    SLOT2.CH5
+L24_SIGNAL            (-855.23 94.72)                 -0.02     SLOT23.DGS02
+L24_SIGNAL            (545.62 1312.91)                -0.02     SLOT24.SENSE00
+L24_SIGNAL            (545.62 1312.91)                -0.02     SLOT24.SENSE00
+L24_SIGNAL            (747.55 2078.10)                -0.01     SLOT24.SENSE00
+L24_SIGNAL            (747.55 2078.10)                -0.01     SLOT24.SENSE00
+L24_SIGNAL            (1526.84 5384.67)               -0.01     SLOT24.SENSE00
+L24_SIGNAL            (1526.84 5384.67)               -0.01     SLOT24.SENSE00
+L24_SIGNAL            (1623.27 5420.70)               -0.02     SLOT24.SENSE00
+L24_SIGNAL            (1623.27 5420.70)               -0.02     SLOT24.SENSE00
+L24_SIGNAL            (1702.01 5420.70)               -0.02     SLOT24.SENSE00
+L24_SIGNAL            (1702.01 5420.70)               -0.02     SLOT24.SENSE00
+L24_SIGNAL            (-855.23 181.33)                -0.02     SLOT23.DGS02
+L24_SIGNAL            (-855.23 267.95)                -0.02     SLOT23.DGS02
+L24_SIGNAL            (955.92 5542.15)                -0.01     SLOT23.DGS00
+L24_SIGNAL            (955.92 5542.15)                -0.01     SLOT23.DGS00
+L24_SIGNAL            (859.49 5578.18)                -0.02     SLOT23.DGS00
+L24_SIGNAL            (859.49 5578.18)                -0.02     SLOT23.DGS00
+L24_SIGNAL            (-855.23 393.93)                -0.02     SLOT23.DGS02
+L24_SIGNAL            (2294.37 94.72)                 -0.02     SLOT24.DGS03
+L24_SIGNAL            (-2402.05 2078.10)              -0.01     SLOT23.SENSE01
+L24_SIGNAL            (-2402.05 2078.10)              -0.01     SLOT23.SENSE01
+L24_SIGNAL            (-2603.98 1312.91)              -0.02     SLOT23.SENSE01
+L24_SIGNAL            (-2603.98 1312.91)              -0.02     SLOT23.SENSE01
+L24_SIGNAL            (-1029.18 1312.91)              -0.02     SLOT23.SENSE00
+L24_SIGNAL            (-1029.18 1312.91)              -0.02     SLOT23.SENSE00
+L24_SIGNAL            (-827.25 2078.10)               -0.01     SLOT23.SENSE00
+L24_SIGNAL            (-827.25 2078.10)               -0.01     SLOT23.SENSE00
+L24_SIGNAL            (955.92 5384.67)                -0.01     SLOT23.SENSE00
+L24_SIGNAL            (955.92 5384.67)                -0.01     SLOT23.SENSE00
+L24_SIGNAL            (859.49 5420.70)                -0.02     SLOT23.SENSE00
+L24_SIGNAL            (859.49 5420.70)                -0.02     SLOT23.SENSE00
+L24_SIGNAL            (2294.37 181.33)                -0.02     SLOT24.DGS03
+L24_SIGNAL            (2294.37 267.95)                -0.02     SLOT24.DGS03
+L24_SIGNAL            (2294.37 94.72)                 -0.02     SLOT24.DGS03
+L24_SIGNAL            (2294.37 181.33)                -0.02     SLOT24.DGS03
+L24_SIGNAL            (2294.37 267.95)                -0.02     SLOT24.DGS03
+L24_SIGNAL            (2294.37 393.93)                -0.02     SLOT24.DGS03
+L24_SIGNAL            (2294.37 393.93)                -0.02     SLOT24.DGS03
+L24_SIGNAL            (1955.92 4833.49)               -0.01     SLOT24.DGS03
+L24_SIGNAL            (1955.92 4833.49)               -0.01     SLOT24.DGS03
+L24_SIGNAL            (1859.49 4869.52)               -0.02     SLOT24.DGS03
+L24_SIGNAL            (1859.49 4869.52)               -0.02     SLOT24.DGS03
+L24_SIGNAL            (-855.23 393.93)                -0.02     SLOT23.DGS02
+L24_SIGNAL            (955.92 5069.71)                -0.01     SLOT23.DGS02
+L24_SIGNAL            (955.92 5069.71)                -0.01     SLOT23.DGS02
+L24_SIGNAL            (859.49 5105.74)                -0.02     SLOT23.DGS02
+L24_SIGNAL            (859.49 5105.74)                -0.02     SLOT23.DGS02
+L24_SIGNAL            (526.84 4676.01)                -0.01     SLOT23.DGS03
+L24_SIGNAL            (526.84 4676.01)                -0.01     SLOT23.DGS03
+L24_SIGNAL            (-2430.03 94.72)                -0.02     SLOT23.DGS03
+L24_SIGNAL            (-2430.03 181.33)               -0.02     SLOT23.DGS03
+L24_SIGNAL            (-2430.03 267.95)               -0.02     SLOT23.DGS03
+L24_SIGNAL            (-2430.03 94.72)                -0.02     SLOT23.DGS03
+L24_SIGNAL            (-2430.03 181.33)               -0.02     SLOT23.DGS03
+L24_SIGNAL            (-2430.03 267.95)               -0.02     SLOT23.DGS03
+L24_SIGNAL            (805.77 5288.24)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (805.77 5209.50)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (805.77 5288.24)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (805.77 5209.50)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (798.44 5191.81)                -0.01     SLOT23.DGS01
+L24_SIGNAL            (798.44 5191.81)                -0.01     SLOT23.DGS01
+L24_SIGNAL            (623.27 5184.48)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (702.01 5184.48)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (623.27 5184.48)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (702.01 5184.48)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (780.75 5184.48)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (780.75 5184.48)                -0.02     SLOT23.DGS01
+L24_SIGNAL            (-2430.03 393.93)               -0.02     SLOT23.DGS03
+L24_SIGNAL            (-2430.03 393.93)               -0.02     SLOT23.DGS03
+L24_SIGNAL            (623.27 4712.04)                -0.02     SLOT23.SENSE03
+L24_SIGNAL            (702.01 4712.04)                -0.02     SLOT23.SENSE03
+L24_SIGNAL            (623.27 4712.04)                -0.02     SLOT23.SENSE03
+L24_SIGNAL            (702.01 4712.04)                -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2479.97 94.72)                -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2479.97 181.33)               -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2479.97 267.95)               -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2479.97 94.72)                -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2479.97 181.33)               -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2479.97 267.95)               -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2479.97 393.93)               -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2479.97 393.93)               -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2603.98 -1049.29)             -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-2603.98 -1049.29)             -0.02     SLOT23.SENSE03
+L24_SIGNAL            (-855.23 94.72)                 -0.02     SLOT23.DGS02
+L24_SIGNAL            (-3971.23 5628.14)              -16.60    SLOT2.CH71
+L24_SIGNAL            (-3971.23 5470.66)              -16.60    SLOT2.CH71
+L24_SIGNAL            (-3971.23 5628.14)              -16.60    SLOT2.CH71
+L24_SIGNAL            (-3971.23 5470.66)              -16.60    SLOT2.CH71
+L24_SIGNAL            (2120.42 1312.91)               -0.02     SLOT24.SENSE01
+L24_SIGNAL            (2120.42 1312.91)               -0.02     SLOT24.SENSE01
+L24_SIGNAL            (2322.35 2078.10)               -0.01     SLOT24.SENSE01
+L24_SIGNAL            (2322.35 2078.10)               -0.01     SLOT24.SENSE01
+L24_SIGNAL            (1955.92 5148.45)               -0.01     SLOT24.SENSE01
+L24_SIGNAL            (1955.92 5148.45)               -0.01     SLOT24.SENSE01
+L24_SIGNAL            (1859.49 5184.48)               -0.02     SLOT24.SENSE01
+L24_SIGNAL            (1859.49 5184.48)               -0.02     SLOT24.SENSE01
+L24_SIGNAL            (1552.08 7526.88)               -0.01     S6_R_MDC
+L24_SIGNAL            (1552.08 7526.88)               -0.01     S6_R_MDC
+L24_SIGNAL            (1525.20 7538.02)               -0.01     S6_R_MDC
+L24_SIGNAL            (1525.20 7538.02)               -0.01     S6_R_MDC
+L24_SIGNAL            (1498.32 7526.88)               -0.01     S6_R_MDC
+L24_SIGNAL            (1498.32 7526.88)               -0.01     S6_R_MDC
+L24_SIGNAL            (1487.18 7500.00)               -0.01     S6_R_MDC
+L24_SIGNAL            (1487.18 7500.00)               -0.01     S6_R_MDC
+L24_SIGNAL            (545.62 -1049.29)               -0.02     SLOT24.SENSE02
+L24_SIGNAL            (545.62 -1049.29)               -0.02     SLOT24.SENSE02
+L24_SIGNAL            (747.55 -284.10)                -0.01     SLOT24.SENSE02
+L24_SIGNAL            (747.55 -284.10)                -0.01     SLOT24.SENSE02
+L26_SIGNAL            (1519.51 4422.10)               -0.02     SLOT24.SENSE21
+L26_SIGNAL            (1519.51 4422.10)               -0.02     SLOT24.SENSE21
+L26_SIGNAL            (1519.51 4579.58)               -0.02     SLOT24.SENSE21
+L26_SIGNAL            (1519.51 4579.58)               -0.02     SLOT24.SENSE21
+L26_SIGNAL            (1569.55 4422.10)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 4343.36)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 4422.10)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 4343.36)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (569.55 3949.66)                -0.02     SLOT23.SENSE23
+L26_SIGNAL            (569.55 4107.14)                -0.02     SLOT23.SENSE23
+L26_SIGNAL            (569.55 4028.40)                -0.02     SLOT23.SENSE23
+L26_SIGNAL            (569.55 4107.14)                -0.02     SLOT23.SENSE23
+L26_SIGNAL            (569.55 4028.40)                -0.02     SLOT23.SENSE23
+L26_SIGNAL            (526.84 4124.83)                -0.01     SLOT23.SENSE23
+L26_SIGNAL            (526.84 4124.83)                -0.01     SLOT23.SENSE23
+L26_SIGNAL            (544.53 4132.16)                -0.02     SLOT23.SENSE23
+L26_SIGNAL            (544.53 4132.16)                -0.02     SLOT23.SENSE23
+L26_SIGNAL            (562.22 4124.83)                -0.01     SLOT23.SENSE23
+L26_SIGNAL            (562.22 4124.83)                -0.01     SLOT23.SENSE23
+L26_SIGNAL            (569.55 3949.66)                -0.02     SLOT23.SENSE23
+L26_SIGNAL            (1544.53 3845.90)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1544.53 3845.90)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1562.22 3853.23)               -0.01     SLOT24.SENSE20
+L26_SIGNAL            (1562.22 3853.23)               -0.01     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 3949.66)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 3870.92)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 3949.66)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 3870.92)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 4185.88)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 4107.14)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 4028.40)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 4185.88)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 4107.14)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1569.55 4028.40)               -0.02     SLOT24.SENSE20
+L26_SIGNAL            (1562.22 4597.27)               -0.01     SLOT24.SENSE21
+L26_SIGNAL            (1562.22 4597.27)               -0.01     SLOT24.SENSE21
+L26_SIGNAL            (1544.53 4604.60)               -0.02     SLOT24.SENSE21
+L26_SIGNAL            (1544.53 4604.60)               -0.02     SLOT24.SENSE21
+L26_SIGNAL            (1526.84 4597.27)               -0.01     SLOT24.SENSE21
+L26_SIGNAL            (1526.84 4597.27)               -0.01     SLOT24.SENSE21
+L28_SIGNAL            (1780.75 4683.34)               -0.02     SLOT24.SENSE05
+L28_SIGNAL            (1859.49 4683.34)               -0.02     SLOT24.SENSE05
+L28_SIGNAL            (1938.23 4683.34)               -0.02     SLOT24.SENSE05
+L28_SIGNAL            (1938.23 4683.34)               -0.02     SLOT24.SENSE05
+L28_SIGNAL            (1763.06 4483.15)               -0.01     SLOT24.SENSE05
+L28_SIGNAL            (1763.06 4483.15)               -0.01     SLOT24.SENSE05
+L28_SIGNAL            (1798.44 4439.79)               -0.01     SLOT24.SENSE05
+L28_SIGNAL            (1798.44 4439.79)               -0.01     SLOT24.SENSE05
+L28_SIGNAL            (1805.77 4422.10)               -0.02     SLOT24.SENSE05
+L28_SIGNAL            (1805.77 4343.36)               -0.02     SLOT24.SENSE05
+L28_SIGNAL            (1805.77 4422.10)               -0.02     SLOT24.SENSE05
+L28_SIGNAL            (1805.77 4343.36)               -0.02     SLOT24.SENSE05
+L28_SIGNAL            (1884.51 3949.66)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 3792.18)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 4185.88)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 4028.40)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 4185.88)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 4028.40)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 4264.62)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 4422.10)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 4264.62)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 4422.10)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1877.18 4439.79)               -0.01     SLOT24.SENSE04
+L28_SIGNAL            (1877.18 4439.79)               -0.01     SLOT24.SENSE04
+L28_SIGNAL            (1727.03 3949.66)               -0.02     SLOT24.SENSE06
+L28_SIGNAL            (1727.03 3792.18)               -0.02     SLOT24.SENSE06
+L28_SIGNAL            (1913.21 3949.66)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1763.06 3967.35)               -0.01     SLOT24.DGS06
+L28_SIGNAL            (1763.06 3967.35)               -0.01     SLOT24.DGS06
+L28_SIGNAL            (884.51 3949.66)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (884.51 3792.18)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (884.51 3949.66)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (884.51 3792.18)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (884.51 4185.88)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (884.51 4028.40)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (884.51 4185.88)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (884.51 4028.40)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (877.18 4203.57)                -0.01     SLOT23.SENSE06
+L28_SIGNAL            (877.18 4203.57)                -0.01     SLOT23.SENSE06
+L28_SIGNAL            (780.75 4210.90)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (859.49 4210.90)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (780.75 4210.90)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (859.49 4210.90)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (763.06 4203.57)                -0.01     SLOT23.SENSE06
+L28_SIGNAL            (763.06 4203.57)                -0.01     SLOT23.SENSE06
+L28_SIGNAL            (755.73 4185.88)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (755.73 4107.14)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (755.73 4185.88)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (755.73 4107.14)                -0.02     SLOT23.SENSE06
+L28_SIGNAL            (1798.44 4010.71)               -0.01     SLOT24.DGS06
+L28_SIGNAL            (1798.44 4010.71)               -0.01     SLOT24.DGS06
+L28_SIGNAL            (1805.77 4107.14)               -0.02     SLOT24.DGS06
+L28_SIGNAL            (1805.77 4028.40)               -0.02     SLOT24.DGS06
+L28_SIGNAL            (1805.77 4107.14)               -0.02     SLOT24.DGS06
+L28_SIGNAL            (1805.77 4028.40)               -0.02     SLOT24.DGS06
+L28_SIGNAL            (1913.21 3870.92)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 3792.18)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 3949.66)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 3870.92)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 3792.18)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4185.88)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4107.14)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4028.40)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4185.88)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4107.14)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4028.40)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4264.62)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4500.84)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4422.10)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4343.36)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4264.62)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4500.84)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4422.10)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1913.21 4343.36)               -0.02     SLOT24.DGS04
+L28_SIGNAL            (1727.03 3949.66)               -0.02     SLOT24.SENSE06
+L28_SIGNAL            (1727.03 3792.18)               -0.02     SLOT24.SENSE06
+L28_SIGNAL            (1780.75 4712.04)               -0.02     SLOT24.DGS05
+L28_SIGNAL            (1859.49 4712.04)               -0.02     SLOT24.DGS05
+L28_SIGNAL            (1938.23 4712.04)               -0.02     SLOT24.DGS05
+L28_SIGNAL            (1938.23 4712.04)               -0.02     SLOT24.DGS05
+L28_SIGNAL            (1780.75 4712.04)               -0.02     SLOT24.DGS05
+L28_SIGNAL            (1859.49 4712.04)               -0.02     SLOT24.DGS05
+L28_SIGNAL            (1884.51 3949.66)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1884.51 3792.18)               -0.02     SLOT24.SENSE04
+L28_SIGNAL            (1780.75 4683.34)               -0.02     SLOT24.SENSE05
+L28_SIGNAL            (1859.49 4683.34)               -0.02     SLOT24.SENSE05
+L30_SIGNAL            (987.90 -117.72)                -7.89     S6_3_MDI-
+L30_SIGNAL            (985.90 -94.08)                 -11.22    S6_3_MDI-
+L30_SIGNAL            (1004.32 -102.33)               -1.72     S6_3_MDI-
+L30_SIGNAL            (1029.54 -112.50)               -5.24     S6_3_MDI-
+L30_SIGNAL            (1029.54 -112.50)               -4.63     S6_3_MDI-
+L30_SIGNAL            (1034.77 -94.08)                -8.65     S6_3_MDI-
+L30_SIGNAL            (-933.44 -117.72)               -7.89     S5_3_MDI+
+L30_SIGNAL            (-982.30 -117.72)               -7.89     S5_3_MDI+
+L30_SIGNAL            (980.68 -112.50)                -1.05     S6_3_MDI-
+BOTTOM                (2605.00 1190.72)               -0.02     S7_DVDD33
+BOTTOM                (836.08 -2312.19)               -0.01     S2_3_MDI_RC
+BOTTOM                (2655.00 1190.72)               -0.02     S7_DVDD33
+BOTTOM                (2605.00 -1171.48)              -0.02     S3_DVDD33
+BOTTOM                (2655.00 -1171.48)              -0.02     S3_DVDD33
+BOTTOM                (-2119.40 1190.72)              -0.02     S4_DVDD33
+BOTTOM                (1080.20 -1171.48)              -0.02     S2_DVDD33
+BOTTOM                (1030.20 -1171.48)              -0.02     S2_DVDD33
+BOTTOM                (836.08 50.01)                  -0.01     S6_3_MDI_RC
+BOTTOM                (-2069.40 1190.72)              -0.02     S4_DVDD33
+BOTTOM                (-2313.52 50.01)                -0.01     S4_3_MDI_RC
+BOTTOM                (1030.20 1190.72)               -0.02     S6_DVDD33
+BOTTOM                (1080.20 1190.72)               -0.02     S6_DVDD33
+BOTTOM                (-544.60 -1171.48)              -0.02     S1_DVDD33
+BOTTOM                (-494.60 -1171.48)              -0.02     S1_DVDD33
+BOTTOM                (-738.72 -2312.19)              -0.01     S1_3_MDI_RC
+BOTTOM                (-738.72 50.01)                 -0.01     S5_3_MDI_RC
+BOTTOM                (2410.88 50.01)                 -0.01     S7_3_MDI_RC
+BOTTOM                (-494.60 1190.72)               -0.02     S5_DVDD33
+BOTTOM                (-544.60 1190.72)               -0.02     S5_DVDD33
+BOTTOM                (-2119.40 -1171.48)             -0.02     S0_DVDD33
+BOTTOM                (-2069.40 -1171.48)             -0.02     S0_DVDD33
+BOTTOM                (-2313.52 -2312.19)             -0.01     S0_3_MDI_RC
+BOTTOM                (2410.88 -2312.19)              -0.01     S3_3_MDI_RC
+
+Segments with partial or missing plane coverage:
+Layer:                Location:                       Net Name:
+--------------------  ------------------------------  --------------------------------------
+L07_SIGNAL            (13311.42 -3921.42)             SLOT3.UB0
+L07_SIGNAL            (13288.00 -2457.62)             SLOT3.UB0
+L07_SIGNAL            (13311.42 -421.42)              SLOT3.UB0
+L07_SIGNAL            (13288.00 1042.38)              SLOT3.UB0
+L07_SIGNAL            (13311.42 3078.58)              SLOT3.UB0
+L07_SIGNAL            (13288.00 4542.38)              SLOT3.UB0
+L07_SIGNAL            (-12726.94 -6812.95)            SLOT2.UB5
+L07_SIGNAL            (-12900.00 -6578.58)            SLOT2.UB5
+L07_SIGNAL            (-12726.94 -3601.43)            SLOT2.UB5
+L07_SIGNAL            (-12733.00 -4542.38)            SLOT2.UB5
+L07_SIGNAL            (-12900.00 -3078.58)            SLOT2.UB5
+L07_SIGNAL            (-12726.94 -3312.95)            SLOT2.UB5
+L07_SIGNAL            (-12726.94 3687.05)             SLOT2.UB5
+L07_SIGNAL            (-12900.00 3921.42)             SLOT2.UB5
+L07_SIGNAL            (-12733.00 2457.62)             SLOT2.UB5
+L07_SIGNAL            (-12726.94 3398.57)             SLOT2.UB5
+L07_SIGNAL            (-12726.94 -101.43)             SLOT2.UB5
+L07_SIGNAL            (-12733.00 -1042.38)            SLOT2.UB5
+L07_SIGNAL            (-12900.00 421.42)              SLOT2.UB5
+L07_SIGNAL            (-12726.94 187.05)              SLOT2.UB5
+L07_SIGNAL            (13340.26 -3921.42)             SLOT3.UB1
+L07_SIGNAL            (13308.39 -2457.62)             SLOT3.UB1
+L07_SIGNAL            (13340.26 -421.42)              SLOT3.UB1
+L07_SIGNAL            (13308.39 1042.38)              SLOT3.UB1
+L07_SIGNAL            (13340.26 3078.58)              SLOT3.UB1
+L07_SIGNAL            (13308.39 4542.38)              SLOT3.UB1
+L07_SIGNAL            (12726.94 6812.95)              SLOT3.UB4
+L07_SIGNAL            (12900.00 6578.58)              SLOT3.UB4
+L07_SIGNAL            (12726.94 3312.95)              SLOT3.UB4
+L07_SIGNAL            (12900.00 3078.58)              SLOT3.UB4
+L07_SIGNAL            (12733.00 4542.38)              SLOT3.UB4
+L07_SIGNAL            (12726.94 3601.43)              SLOT3.UB4
+L07_SIGNAL            (12726.94 -187.05)              SLOT3.UB4
+L07_SIGNAL            (12900.00 -421.42)              SLOT3.UB4
+L07_SIGNAL            (12733.00 1042.38)              SLOT3.UB4
+L07_SIGNAL            (12726.94 101.43)               SLOT3.UB4
+L07_SIGNAL            (12726.94 -3687.05)             SLOT3.UB4
+L07_SIGNAL            (12900.00 -3921.42)             SLOT3.UB4
+L07_SIGNAL            (12733.00 -2457.62)             SLOT3.UB4
+L07_SIGNAL            (12726.94 -3398.57)             SLOT3.UB4
+L07_SIGNAL            (-13304.00 2457.62)             SLOT2.UB7
+L07_SIGNAL            (-13304.00 3921.42)             SLOT2.UB7
+L07_SIGNAL            (-13304.00 -1042.38)            SLOT2.UB7
+L07_SIGNAL            (-13304.00 421.42)              SLOT2.UB7
+L07_SIGNAL            (-13304.00 -4542.38)            SLOT2.UB7
+L07_SIGNAL            (-13304.00 -3078.58)            SLOT2.UB7
+L07_SIGNAL            (-13324.39 -4542.38)            SLOT2.UB8
+L07_SIGNAL            (-13324.39 -3078.58)            SLOT2.UB8
+L07_SIGNAL            (-13324.39 -1042.38)            SLOT2.UB8
+L07_SIGNAL            (-13324.39 421.42)              SLOT2.UB8
+L07_SIGNAL            (-13324.39 2457.62)             SLOT2.UB8
+L07_SIGNAL            (-13324.39 3921.42)             SLOT2.UB8
+L09_SIGNAL            (4202.28 -1095.28)              S3_MDC

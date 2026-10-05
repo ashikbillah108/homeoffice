@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : 038RT-9010JSKCD-A100-Final_20261005_EOD_1.brd )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Mon Oct 05 17:06:15 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\FILES\allegro'
+Design Directory:            'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files'
+Old design name:             'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/038RT-9010JSKCD-A100-Final_20261005_EOD_1.brd'
+New design name:             'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/038RT-9010JSKCD-A100-Final_20261005_EOD_2.brd'
+
+CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\980RT-9010JS-KCD-A10\FILES\allegro D:\iTest\homeoffice\Test Hardware\980RT-9010JS-KCD-A10\Files\038RT-9010JSKCD-A100-Final_20261005_EOD_1.brd D:\iTest\homeoffice\Test Hardware\980RT-9010JS-KCD-A10\Files\038RT-9010JSKCD-A100-Final_20261005_EOD_2.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980RT-9010JS-KCD-A10/FILES/allegro/pstchip.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980RT-9010JS-KCD-A10/FILES/allegro/pstchip.dat (00:00:00.03)
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980RT-9010JS-KCD-A10/FILES/allegro/pstxprt.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980RT-9010JS-KCD-A10/FILES/allegro/pstxprt.dat (00:00:00.06)
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/980RT-9010JS-KCD-A10/FILES/allegro/pstxnet.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/980RT-9010JS-KCD-A10/FILES/allegro/pstxnet.dat (00:00:00.06)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/ 
+
+PADPATH =  D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 5 17:06:15 2026
+   DESIGN NAME : '980RT-9010JS-KCD-A10_V31_261005_ITEST'
+   PACKAGING ON Aug  3 2015 18:16:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      1:30:39
+elapsed time  0:00:53
+

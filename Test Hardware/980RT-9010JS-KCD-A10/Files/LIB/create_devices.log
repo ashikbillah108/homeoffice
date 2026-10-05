@@ -1,0 +1,132 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : 038RT-9010JSKCD-A100-Final_20261005.brd       )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Mon Oct 05 09:20:37 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/0-1-s4-ya_r0603_0-5-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/0-5-s6_r0603_0-5-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/c3680_j750_warpageproof_tl90jc_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/bd80-5a-s8-la_fb0805_bd80-5a-s8.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/01u-16-x-s4-mu_c0402_01u-16_1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/10u-50-x-sb-mu_c1210_10u-50-x-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/47u-50-x-s8-mu_c0805_47u-50-x.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/47u-25-x7r-s8-ty_c0805_47u-25.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/bnx025h01l_filter_bnxo25h01l_6p.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/330-1-s6_r0603_330-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/1k-1-s6_r0603_1k-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/2k-1-s6_r0603_2k-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/15k-1-s6_r0603_15k-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/0-5-sb_r1210_0-5-sb.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/0-1-s8-ya_r0805_0-1-s8-ya.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/lpc128_27x6x2_slot00_pg_3680_lp.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/lpc128_27x6x2_slot00_pg_3680__1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/lpc128_27x6x2_slot00_pg_3680__2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/lpc128_27x6x2_slot00_pg_3680__3.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_empty_slo.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_empty_s_1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/sys_board_pg_3680_sys_slot18_sy.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_empty_s_2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/lpc128_27x6x2_slot00_pg_3680__4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/lpc128_27x6x2_slot00_pg_3680__5.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_empty_s_3.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/dps_board_pg_3680_dps32_slot21_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/dps_board_pg_3680_dps32_slot22_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/dps_board_pg_3680_dps32_slot23_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/dps_board_pg_3680_dps32_slot24_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/lpc128_27x6x2_slot00_pg_3680__6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/lpc128_27x6x2_slot00_pg_3680__7.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_lpc128_a_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_lpc128_b_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_lpc128__1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_lpc128__2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_lpc128__3.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_lpc128__4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_lpc128__5.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/digital_board_pg_3680_lpc128__6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/tpl01_tpl_040_014_tb_tpl01.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/25lc256-soic8_so8_206x127mm_25l.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/np6_pg_tdj750_f_me_outline_1024.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/c3680_tester_outline_641x652_pg.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/rtl9010as-qfn32-5x5_v2_sk_qfn5x.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/tp01_fd_040_v2_fd_040.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/hdr-2x1-m_jp_2p_100_hdr-2x1-m.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/cuconn-f-9-2304372-9-te-v2_con.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/47k-1-s4-wa_r0402_47k-1-s4-wa.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/hdr-2x1-mr_jp_2p_100_r90_hdr-2x.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/hdr-3x1-m_jp_3p_100_hdr-3x1-m.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/logo_rt_realtek_logo_rt_realtek.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/logo_kt_ksmt_logo_kt_ksmt_logo_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/ref-code-pcb_pcb_code_ref-code-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/22u-10-x7s-s8-tdk_c0805_22u-10-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/01u-16-x-s4_c0402_01u-16-x7r-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/22u-10-x7s-s4-mu_c0402_22u-10.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/47u-100-x-sb-mu_c1210_47u-100.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/4700p-50-x-s4_c0402_4700p-50-x7.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/4700p-50-x-s4_c0201_4700p-25-x-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/22u-10-x7s-s4-mu_c0402_nc22u.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/47u-50-x-s8-mu_c0805_nc47u-5.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/10u-10-x-s8-loesr-tdk_c0805_nc.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/01u-16-x-s4_c0402_22u-10-x7s-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/47u-10-x7r-s8-tdk_c0805_47u-1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/01u-16-x7r-s4-ty_c0402_01u-16.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/01u-25-x-s6_c0603_01u-100-x7r.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/conn-f-9-2304372-9-te_cover_pro.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/cuua2-12nj-a-v2_rl_necua2_12v_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/curf303-12-a-v2_ex_rl_rf303_12.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/ua2-12nj-a_rl_necua2_12v_v2_cu.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/rf303-12-a-v2_rl_rf303_12v_v2_c.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/mpz1608s471atd25-tdk_fb0603_bd4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/tlv75709pdbvr-1a-09-sot23-5_sot.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/rt9183-15a-a-to263-5_to263_5_v.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/10k-1-s8-bo_r0805_nc10k-1-s8-b.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/act1210g-800-2p-tl05_colay_filt.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/cuxtal25m-s2520-aker-20p_xtal_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/ref-code-chip_chip_code_ref-cod.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/atx-12x2-mr_conn_atx12x2_4p2mm_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/220u-25-e-s112x105-ni_ecs_10p.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/10u-25-x7r-sa_c1206_10u-25-x7r-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/10u-25-x-s8-mu_c0805_10u-16-x7r.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/01u-16-x-s4-mu_c0402_01u-16-x.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/fru250-30_fru_14x3_5p1mm_fru250.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/rtl9010as-qfn32-5x5-golden_sk_q.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/ref-code-socket_socket_code_ref.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/hdr-1x1-m_jp_1p_rd070_040_hdr-1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/j750_skbase_8d_ht-1028c_400x210.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/0-1-s4-ya_r0402_nc0-1-s4-ya.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/10k-1-s4_r0402_10k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/140-1-s4_r0402_140-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/cnc-s4_c0402_cnc-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/0-1-s4-ya_r0402_0-1-s4-ya.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/0-1-s4-ya_r0603_0-1-s6-ya.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/01u-16-x-s4_c0402_cnc-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/1u-10-x-s8_c0805_cnc-s8.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/01u-25-x-s6_c0603_cnc-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/1k-1-s4_r0201_1k-1-s2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/100k-1-s4_r0201_100k-1-s2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/27p-50-n-s6_c0603_10p-50-n-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/0-1-s6-ya_r0603_0-1-s6-ya.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/100k-1-s4_r0402_100k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/24k-1-s4_r0402_24k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/120-1-s4_r0402_nc120-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/1m-1-s6_r0603_1m-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/bd120-3a-s8_fb0805_bd220-3a-s8.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/01u-50-x-s6_c0603_01u-50-x-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/ldg-2-s8_led_0805_ldg-2-s8.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/0-5-s4_r0402_nc0-5-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/100-1-s4_r0402_100-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/1k-1-s4_r0402_1k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/tp01_tp_040_t_tp01.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/m3-hole_m3_npth169_m3-hole.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/short_default_short_small_short.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/tp03-d_tp_060_040_tp03-d.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/980RT-9010JS-KCD-A10/Files/LIB/15k-1-s4_r0402_15k-1-s4.txt': written successfully.
+
+  Created device files: 117
+
