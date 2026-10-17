@@ -17,26 +17,363 @@
       (Path "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn")
       (Path "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn"
          "SCHEMATIC1")
-      (Select "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn"
-         "SCHEMATIC1" "P0001_S0_DUT1")
-      (Select "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn"
-         "SCHEMATIC1" "P0002_S0_Function-test")
-      (Select "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn"
-         "SCHEMATIC1" "P0003_S0_Power"))
+      (Select "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 413"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 413"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 406")
-        (Scroll "0 55")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1743 26 354")
+        (Scroll "-250 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "T01.3680_DPS64_HDAV_H_P1"))))
+      (Page "S0096_For_Temp"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1769 52 380")
+        (Scroll "739 1399")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0011_S1_DUT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 406")
+        (Scroll "734 1114")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0021_S2_DUT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1821 104 432")
+        (Scroll "-13 209")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0032_S3_Function-test"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1847 130 458")
+        (Scroll "730 1051")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0033_S3_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1873 156 484")
+        (Scroll "744 1404")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0041_S4_DUT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1717 0 328")
+        (Scroll "205 741")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T08.3680_LPC_P8"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1743 26 354")
+        (Scroll "-349 176")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S9999_HOLE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1769 52 380")
+        (Scroll "744 1404")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0031_S3_DUT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 406")
+        (Scroll "730 1051")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0043_S4_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1821 104 432")
+        (Scroll "764 1399")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0051_S5_DUT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1847 130 458")
+        (Scroll "730 1051")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0063_S6_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1873 156 484")
+        (Scroll "205 741")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T05.3680_LPC_P5"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1717 0 328")
+        (Scroll "730 1051")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0023_S2_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1743 26 354")
+        (Scroll "730 1051")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0013_S1_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1769 52 380")
+        (Scroll "-13 209")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0042_S4_Function-test"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 406")
+        (Scroll "-13 209")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0072_S7_Function-test"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1821 104 432")
+        (Scroll "-94 334")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0002_S0_Function-test"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1847 130 458")
+        (Scroll "-13 209")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0052_S5_Function-test"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1873 156 484")
+        (Scroll "999 614")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0003_S0_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1717 0 328")
+        (Scroll "-13 209")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0062_S6_Function-test"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1743 26 354")
+        (Scroll "669 1254")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0001_S0_DUT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1769 52 380")
+        (Scroll "205 741")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T10.3680_LPC_P10"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 406")
+        (Scroll "730 1051")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0053_S5_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1821 104 432")
+        (Scroll "0 606")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S0097_ATX_POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1847 130 458")
+        (Scroll "-13 209")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0022_S2_Function-test"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1873 156 484")
+        (Scroll "205 741")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T02.3680_LPC_P2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1717 0 328")
+        (Scroll "730 1051")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0073_S7_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1743 26 354")
+        (Scroll "764 1404")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0061_S6_DUT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1769 52 380")
+        (Scroll "-13 209")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0012_S1_Function-test"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 406")
+        (Scroll "749 1419")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P0071_S7_DUT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1821 104 432")
+        (Scroll "-8 429")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S0099_MISC")))
+  (MPSSessionName "Ashik-iTest"))
