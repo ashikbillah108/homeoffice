@@ -1,0 +1,42 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980rt-8730cn-18k-a10_20261008_v3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn")
+      (Path "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn"
+         "SCHEMATIC1" "P0001_S0_DUT1")
+      (Select "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn"
+         "SCHEMATIC1" "P0002_S0_Function-test")
+      (Select "Design Resources" ".\980rt-8730cn-18k-a10_20261008_v3.dsn"
+         "SCHEMATIC1" "P0003_S0_Power"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 413"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1795 78 406")
+        (Scroll "0 55")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10_20261008_V3\980RT-8730CN-18K-A10_20261008_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T01.3680_DPS64_HDAV_H_P1"))))
