@@ -1,0 +1,137 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : 038RT-8730CN_1019-3.brd                       )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Mon Oct 19 17:37:29 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/bd120-15a-s4-mu_fb0402_ncbd12.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-10-x-s4-ss_c0402_1u-10-x-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-25-x-s6-mu_c0603_10u-25-x-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10p-50-n-s4-mu-1_c0402_09p-50-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10p-50-n-s4-mu-1_c0402_1p-50-n-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/33p-50-n-s4-wa_c0402_22p-50-n-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/hdr-4x1-f-1_conn_4x1_2p54mm_fl1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/453-1-s4_r0402_nc453-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/sw-slide-8-d254-tri-ece_sw_dip.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/sw-slide-4-d254-tri-ece_sw_dip.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/mx25r6435fm2il0-sop8_sk_so8_1p2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/sw-slide-8-d254-ece_sw_dipx8_1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/bd120-3a-s8_fb0805_ncbd120-3a-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-50-x7r-s4-ya_c0402_01u-50.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-50-x-s6_c0603_10u-10-x-s6-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-50-x-sb-mu_c1210_10u-50-x-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/47u-50-x-s8-mu_c0805_47u-50-x.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-16-x-s4-mu-1_c0402_01u-16.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/680p-50-x-s4_c0805_680p-50-n-s8.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/47u-25-x7r-s8-ty_c0805_47u-25.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/m3-hole_m3_npth169_m3-hole.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/debughole-15x15mm_slot_npth_sq1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/330-1-s6_r0603_330-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/1k-1-s6_r0603_1k-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/2k-1-s6_r0603_2k-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/15k-1-s6_r0603_15k-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/high-side_pg_3680_dps64_hdav_h_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/low-side_pg_3680_hdrf3_lpc_p10_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/low-side_pg_3680_dps64_hdav_l_p.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/high-side_pg_3680_hdrf3_lpc_p2_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/high-side_pg_3680_hdrf3_dps32_p.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/high-side_pg_3680_hdrf3_lpc_p5_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/high-side_pg_3680_hdrf3_dps32_h.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/low-side_pg_3680_dps64_hdav_l_1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/low-side_pg_3680_hdrf3_lpc_p8_l.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/sys_pg_3680_sys_p9_sys.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/47k-01-s4-ya_r0402_47k-01-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/chroma3680-outline-rf-type2_pg_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/max4896etp-tqfn-ep-20_tqfn5x5_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/25lc256-soic8_so8_206x127mm_25l.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-35-x-s2-mu_c0201_cnc-s2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/rfaswa358atf0g_rf_sw_gw2159_6p_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/680p-50-x-s4_c0402_680p-50-x7r-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/1k-1-s4_r0402_1k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/tmp235_0_sc70_5p_tmp235a2dckr-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-35-x-s2-mu_c0201_nc01u-3.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/xtal40m-s2016-tai-12p_xtal_2x1p.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/rtl8730a-qfn100_sk_qfn100p_0p35.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10p-50-n-s4-wa_c0402_nc10p-50-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/cnc-s4_c0201_cnc-s2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/1p-25-n-s2-wa_c0201_nc1p-25-n-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/12p-50-n-s2-mu_c0201_nc12p-5.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10p-50-n-s2-mu_c0201_10p-50-n-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10p-50-n-s2-mu_c0201_nc10p-50-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/0-5-s2_r0201_0-5-s2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/0-5-s2_r0201_nc0-5-s2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/tp01_fd_040_v2_fd_040_v2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/2-5-d-2_rc02w_27mm_2-5-d-2.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-16-x-s4_c0402_01u-16-x-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-35-x-s2-mu_c0201_01u-35-x.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/hdr-8x2-m_conn_8x2_2p54mm_ph_hd.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/bd100-3a-sa_fb1206_bd100-3a-sa.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/220u-10-t-sd_code_d_220u-10-t-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-10-t-sa-avx_code_a_10u-10-t.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-10-x-s4-mu_c0201_01u-16-x.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-35-t-sc_code_c_10u-35-t-sc.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/47u-25-t-sd-avx_code_d_47u-25-t.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/3300p-50-x-s4_c0402_3300p-50-x7.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-10-x-s4_c0402_10u-10-x-s4-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/100p-50-n-s4_c0402_100p-50-n-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-16-x-s4-mu_c0201_01u-16-x.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/100p-50-n-s4-mu_c0402_nc100p-5.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/mf-r185-40a-d_fuse_12x9p2mm_mf-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/atx-10x2-mr_conn_pwr10x2_4p2mm_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/l10u-36a-s10x10_ind_gssr2104_l.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/ldr-2-s8_led_0805_ldr-2-s8.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/13k-1-s4_r0402_13k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/100k-01-s4_r0402_100k-01-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10-1-s6_r0603_nc10-1-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/200k-10-d-regulate_vrd_3296w_bo.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/20k-1-s4_r0402_20k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/200-1-s4_r0402_200-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/715k-1-s4_r0402_715k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/91k-1-s4_r0402_nc91k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/sw-slide-1-d47_sw_5p_utp0030b_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/rt8293a-sop8_so8_206x127mm_g_rt.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/hdr-2x2-m_conn_2x2_2p54mm_ph_hd.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/bd120-15a-s4-mu_fb0402_bd120-1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-25-x-s4-ty_c0402_01u-25-x.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-10-x-s4-ss_c0402_10u-10-x-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-10-x-s4-ss_c0402_nc10u-10-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/22u-25-x-s8-mu_c0805_22u-25-x-s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/47u-16-t-sc_code_c_47u-16-t-sc.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-16-t-sa_code_a_10u-16-t-sa.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/rclamp3321p-slp1006p2_diode_1x0.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/hdr-8x1-m_jp_8p_100_hdr-8x1-m.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/hdr-1x1-m_jp_1p_rd070_040_hdr-1.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/hdr-2x1-m_jp_2p_100_hdr-2x1-m.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/curf303-12-a-v2_ex_rl_rf303_12.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/l22u-115a-s20x16-tdk_ind_vl.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/0-5-s4_r0402_nc0-5-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/324-1-s4_r0402_324-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/22u-10-t-sa_code_a_22u-10-t-sa.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/mini-smp-18s107-40ml5-v2_conn_s.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/cnc-s4_c0402_cnc-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/cuua2-12nj-a-v2_rl_necua2_12v_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/453-1-s4_r0402_453-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/logo_rt_realtek_logo_rt_realtek.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/pt-ultraflex-tester-75x35_prote.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10u-25-x7r-sa_c1206_10u-25-x7r-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10k-1-s4_r0402_nc10k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/logo_kt_ksmt_logo_kt_ksmt_logo_.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/ref-code-pcb_pcb_code_ref-code-.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/short_default_short_small_short.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/ldg-2-s8_led_0805_ldg-2-s8.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/10k-1-s4_r0402_10k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/tp03-d_tp_060_040_tp03-d.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/0-5-s4_r0402_0-5-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/01u-25-x-s6_c0603_01u-25-x-s6.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/ref-code-chip_chip_code_ref-cod.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/12k-1-s4_r0402_12k-1-s4.txt': written successfully.
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/LIB/ref-code-socket_socket_code_ref.txt': written successfully.
+
+  Created device files: 122
+
