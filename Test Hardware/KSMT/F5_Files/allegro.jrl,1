@@ -1,0 +1,19 @@
+\t (00:00:02) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:02)     Journal start - Thu Oct 22 00:44:13 2026
+\t (00:00:02)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=3584 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 837
+\i (00:00:06) trapsize 817
+\i (00:00:06) trapsize 840
+\i (00:00:06) trapsize 850
+\i (00:00:06) trapsize 837
+\i (00:00:06) trapsize 1468
+\i (00:00:07) generaledit 
+\i (00:00:13) open 
+\i (00:00:58) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10_20261008_V3\038RT-8730CN_1019-6.brd"
+\i (00:00:58) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10_20261008_V3"
+\t (00:00:58) Opening existing design...
+\i (00:00:59) trapsize 16140
+\t (00:00:59)     Journal end - Thu Oct 22 00:45:10 2026

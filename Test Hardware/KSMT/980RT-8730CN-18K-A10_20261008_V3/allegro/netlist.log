@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Oct-19-2026 at 17:38:47 }
+{ Using PSTWRITER 16.6.0 d001Oct-22-2026 at 02:49:08 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.S9" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (375.92, 238.76). Connecting pin to net "S24_DPS_F17".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "3K32.4" ignored for 3K32: SCHEMATIC1, P0033_S3_Power (660.40, 500.38). Connecting pin to net "S3_VDD18_A".
