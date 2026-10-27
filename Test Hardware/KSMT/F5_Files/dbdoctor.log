@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : 8880F5-1019-1.brd                             )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Fri Oct 23 14:09:45 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (-590.00 -840.00) on net D11808.
+WARNING Deleted redundant via at (5360.00 4460.00) on net D11301.
+
+Regenerating DRC
+  Original DRC errors:   2184
+  Updated DRC errors:    1866
+  DRC elapsed time:      00:00:01
+
+2 warnings, 0 errors detected, 0 errors  fixed.
