@@ -1,0 +1,201 @@
+{ Using PSTWRITER 16.6.0 d001Oct-27-2026 at 11:46:47 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.S9" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (375.92, 238.76). Connecting pin to net "S24_DPS_F17".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "3K32.4" ignored for 3K32: SCHEMATIC1, P0033_S3_Power (660.40, 500.38). Connecting pin to net "S3_VDD18_A".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.V6" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (177.80, 332.74). Connecting pin to net "S24_DPS_F25".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "3K21.4" ignored for 3K21: SCHEMATIC1, P0033_S3_Power (485.14, 104.14). Connecting pin to net "S3_LX_DCORE_CH".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "2K37.7" ignored for 2K37: SCHEMATIC1, P0023_S2_Power (477.52, 55.88). Connecting pin to net "S3_LX_DCORE_CH".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.W1" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (243.84, 332.74). Connecting pin to net "S24_DPS_F27".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "P1.X10" ignored for P1: SCHEMATIC1, T01.3680_DPS64_HDAV_H_P1 (309.88, 332.74). Connecting pin to net "S8_SRC10_P".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.T10" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (45.72, 332.74). Connecting pin to net "S24_DPS_F20".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.K10" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (309.88, 132.08). Connecting pin to net "S7_SRC10_P".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "4K31.4" ignored for 4K31: SCHEMATIC1, P0043_S4_Power (574.04, 500.38). Connecting pin to net "S4_VDD09".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "3K30.4" ignored for 3K30: SCHEMATIC1, P0033_S3_Power (490.22, 500.38). Connecting pin to net "S3_VDD18_D".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.S11" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (375.92, 238.76). Connecting pin to net "S24_DPS_S17".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.U9" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (111.76, 332.74). Connecting pin to net "S24_DPS_F23".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "4K33.4" ignored for 4K33: SCHEMATIC1, P0043_S4_Power (508.00, 345.44). Connecting pin to net "S4_LX_MEM_CH_2".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "4K21.4" ignored for 4K21: SCHEMATIC1, P0043_S4_Power (485.14, 104.14). Connecting pin to net "S4_LX_DCORE_CH".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.Q7" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (243.84, 238.76). Connecting pin to net "S24_DPS_S10".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "1K20.4" ignored for 1K20: SCHEMATIC1, P0013_S1_Power (485.14, 193.04). Connecting pin to net "S1_LX_AUD_CH_1".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "K38.7" ignored for K38: SCHEMATIC1, P0003_S0_Power (508.00, 292.10). Connecting pin to net "S1_LX_AUD_CH_1".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "1K29.4" ignored for 1K29: SCHEMATIC1, P0013_S1_Power (485.14, 406.40). Connecting pin to net "S1_LX_MEM_CH_1".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "K33.7" ignored for K33: SCHEMATIC1, P0003_S0_Power (508.00, 345.44). Connecting pin to net "S1_LX_MEM_CH_1".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "4K29.4" ignored for 4K29: SCHEMATIC1, P0043_S4_Power (485.14, 406.40). Connecting pin to net "S4_LX_MEM_CH_1".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "4K20.4" ignored for 4K20: SCHEMATIC1, P0043_S4_Power (485.14, 193.04). Connecting pin to net "S4_LX_AUD_CH_1".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "P1.Z5" ignored for P1: SCHEMATIC1, T01.3680_DPS64_HDAV_H_P1 (444.50, 332.74). Connecting pin to net "AVO_GND".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "P1.Z1" ignored for P1: SCHEMATIC1, T01.3680_DPS64_HDAV_H_P1 (444.50, 332.74). Connecting pin to net "AVO_GND".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.U11" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (111.76, 332.74). Connecting pin to net "S24_DPS_S23".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "4K32.4" ignored for 4K32: SCHEMATIC1, P0043_S4_Power (660.40, 500.38). Connecting pin to net "S4_VDD18_A".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "4K30.4" ignored for 4K30: SCHEMATIC1, P0043_S4_Power (490.22, 500.38). Connecting pin to net "S4_VDD18_D".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.N6" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (45.72, 238.76). Connecting pin to net "S24_DPS_F01".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.X6" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (309.88, 332.74). Connecting pin to net "S24_DPS_F31".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.Q1" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (243.84, 238.76). Connecting pin to net "S24_DPS_F09".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.Z1" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (444.50, 332.74). Connecting pin to net "DPS_GND".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.Z5" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (444.50, 332.74). Connecting pin to net "DPS_GND".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.M11" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (81.28, 238.76). Connecting pin to net "DPS_GND".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.M9" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (81.28, 238.76). Connecting pin to net "DPS_GND".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.M7" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (81.28, 238.76). Connecting pin to net "DPS_GND".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.M5" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (81.28, 238.76). Connecting pin to net "DPS_GND".
+#37 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.M3" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (81.28, 238.76). Connecting pin to net "DPS_GND".
+#38 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.M1" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (81.28, 238.76). Connecting pin to net "DPS_GND".
+#39 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.N11" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (149.86, 238.76). Connecting pin to net "DPS_GND".
+#40 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.N9" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (149.86, 238.76). Connecting pin to net "DPS_GND".
+#41 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.N7" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (149.86, 238.76). Connecting pin to net "DPS_GND".
+#42 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.N5" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (149.86, 238.76). Connecting pin to net "DPS_GND".
+#43 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.N3" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (149.86, 238.76). Connecting pin to net "DPS_GND".
+#44 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.N1" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (149.86, 238.76). Connecting pin to net "DPS_GND".
+#45 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.P3" ignored for P4: SCHEMATIC1, T04.3680_DPS64_HDAV_H_P4 (299.72, 238.76). Connecting pin to net "DPS_GND".
+#46 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.R12" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (309.88, 238.76). Connecting pin to net "S24_DPS_S14".
+#47 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.V12" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (177.80, 332.74). Connecting pin to net "S24_DPS_S26".
+#48 WARNING(ORCAP-36038): "No_connect" property on Pin "P7.X6" ignored for P7: SCHEMATIC1, T07.3680_DPS64_HDAV_L_P7 (309.88, 332.74). Connecting pin to net "S8_AVO_DGS01".
+#49 WARNING(ORCAP-36038): "No_connect" property on Pin "5K31.4" ignored for 5K31: SCHEMATIC1, P0053_S5_Power (574.04, 500.38). Connecting pin to net "S5_VDD09".
+#50 WARNING(ORCAP-36038): "No_connect" property on Pin "5K29.4" ignored for 5K29: SCHEMATIC1, P0053_S5_Power (485.14, 406.40). Connecting pin to net "S5_LX_MEM_CH_1".
+#51 WARNING(ORCAP-36038): "No_connect" property on Pin "4K33.7" ignored for 4K33: SCHEMATIC1, P0043_S4_Power (508.00, 345.44). Connecting pin to net "S5_LX_MEM_CH_1".
+#52 WARNING(ORCAP-36038): "No_connect" property on Pin "5K20.4" ignored for 5K20: SCHEMATIC1, P0053_S5_Power (485.14, 193.04). Connecting pin to net "S5_LX_AUD_CH_1".
+#53 WARNING(ORCAP-36038): "No_connect" property on Pin "4K38.7" ignored for 4K38: SCHEMATIC1, P0043_S4_Power (508.00, 292.10). Connecting pin to net "S5_LX_AUD_CH_1".
+#54 WARNING(ORCAP-36038): "No_connect" property on Pin "5K21.4" ignored for 5K21: SCHEMATIC1, P0053_S5_Power (485.14, 104.14). Connecting pin to net "S5_LX_DCORE_CH".
+#55 WARNING(ORCAP-36038): "No_connect" property on Pin "4K37.7" ignored for 4K37: SCHEMATIC1, P0043_S4_Power (477.52, 55.88). Connecting pin to net "S5_LX_DCORE_CH".
+#56 WARNING(ORCAP-36038): "No_connect" property on Pin "5K32.4" ignored for 5K32: SCHEMATIC1, P0053_S5_Power (660.40, 500.38). Connecting pin to net "S5_VDD18_A".
+#57 WARNING(ORCAP-36038): "No_connect" property on Pin "6K20.4" ignored for 6K20: SCHEMATIC1, P0063_S6_Power (485.14, 193.04). Connecting pin to net "S6_LX_AUD_CH_1".
+#58 WARNING(ORCAP-36038): "No_connect" property on Pin "6K29.4" ignored for 6K29: SCHEMATIC1, P0063_S6_Power (485.14, 406.40). Connecting pin to net "S6_LX_MEM_CH_1".
+#59 WARNING(ORCAP-36038): "No_connect" property on Pin "6K33.4" ignored for 6K33: SCHEMATIC1, P0063_S6_Power (508.00, 345.44). Connecting pin to net "S6_LX_MEM_CH_2".
+#60 WARNING(ORCAP-36038): "No_connect" property on Pin "6K21.4" ignored for 6K21: SCHEMATIC1, P0063_S6_Power (485.14, 104.14). Connecting pin to net "S6_LX_DCORE_CH".
+#61 WARNING(ORCAP-36038): "No_connect" property on Pin "6K32.4" ignored for 6K32: SCHEMATIC1, P0063_S6_Power (660.40, 500.38). Connecting pin to net "S6_VDD18_A".
+#62 WARNING(ORCAP-36038): "No_connect" property on Pin "6K31.4" ignored for 6K31: SCHEMATIC1, P0063_S6_Power (574.04, 500.38). Connecting pin to net "S6_VDD09".
+#63 WARNING(ORCAP-36038): "No_connect" property on Pin "P5.Z1" ignored for P5: SCHEMATIC1, T05.3680_LPC_P5 (444.50, 332.74). Connecting pin to net "DGND".
+#64 WARNING(ORCAP-36038): "No_connect" property on Pin "P5.Z5" ignored for P5: SCHEMATIC1, T05.3680_LPC_P5 (444.50, 332.74). Connecting pin to net "DGND".
+#65 WARNING(ORCAP-36038): "No_connect" property on Pin "P2.Z1" ignored for P2: SCHEMATIC1, T02.3680_LPC_P2 (444.50, 332.74). Connecting pin to net "DGND".
+#66 WARNING(ORCAP-36038): "No_connect" property on Pin "P2.Z5" ignored for P2: SCHEMATIC1, T02.3680_LPC_P2 (444.50, 332.74). Connecting pin to net "DGND".
+#67 WARNING(ORCAP-36038): "No_connect" property on Pin "1K32.4" ignored for 1K32: SCHEMATIC1, P0013_S1_Power (660.40, 500.38). Connecting pin to net "S1_VDD18_A".
+#68 WARNING(ORCAP-36038): "No_connect" property on Pin "K30.4" ignored for K30: SCHEMATIC1, P0003_S0_Power (490.22, 500.38). Connecting pin to net "S0_VDD18_D".
+#69 WARNING(ORCAP-36038): "No_connect" property on Pin "K20.4" ignored for K20: SCHEMATIC1, P0003_S0_Power (485.14, 193.04). Connecting pin to net "S0_LX_AUD_CH_1".
+#70 WARNING(ORCAP-36038): "No_connect" property on Pin "7K20.4" ignored for 7K20: SCHEMATIC1, P0073_S7_Power (485.14, 193.04). Connecting pin to net "S7_LX_AUD_CH_1".
+#71 WARNING(ORCAP-36038): "No_connect" property on Pin "6K38.7" ignored for 6K38: SCHEMATIC1, P0063_S6_Power (508.00, 292.10). Connecting pin to net "S7_LX_AUD_CH_1".
+#72 WARNING(ORCAP-36038): "No_connect" property on Pin "K29.4" ignored for K29: SCHEMATIC1, P0003_S0_Power (485.14, 406.40). Connecting pin to net "S0_LX_MEM_CH_1".
+#73 WARNING(ORCAP-36038): "No_connect" property on Pin "1K31.4" ignored for 1K31: SCHEMATIC1, P0013_S1_Power (574.04, 500.38). Connecting pin to net "S1_VDD09".
+#74 WARNING(ORCAP-36038): "No_connect" property on Pin "K33.4" ignored for K33: SCHEMATIC1, P0003_S0_Power (508.00, 345.44). Connecting pin to net "S0_LX_MEM_CH_2".
+#75 WARNING(ORCAP-36038): "No_connect" property on Pin "7K32.4" ignored for 7K32: SCHEMATIC1, P0073_S7_Power (660.40, 500.38). Connecting pin to net "S7_VDD18_A".
+#76 WARNING(ORCAP-36038): "No_connect" property on Pin "5K30.4" ignored for 5K30: SCHEMATIC1, P0053_S5_Power (490.22, 500.38). Connecting pin to net "S5_VDD18_D".
+#77 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.O7" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (111.76, 238.76). Connecting pin to net "S24_DPS_S04".
+#78 WARNING(ORCAP-36038): "No_connect" property on Pin "K31.4" ignored for K31: SCHEMATIC1, P0003_S0_Power (574.04, 500.38). Connecting pin to net "S0_VDD09".
+#79 WARNING(ORCAP-36038): "No_connect" property on Pin "1K30.4" ignored for 1K30: SCHEMATIC1, P0013_S1_Power (490.22, 500.38). Connecting pin to net "S1_VDD18_D".
+#80 WARNING(ORCAP-36038): "No_connect" property on Pin "7K21.4" ignored for 7K21: SCHEMATIC1, P0073_S7_Power (485.14, 104.14). Connecting pin to net "S7_LX_DCORE_CH".
+#81 WARNING(ORCAP-36038): "No_connect" property on Pin "6K37.7" ignored for 6K37: SCHEMATIC1, P0063_S6_Power (477.52, 55.88). Connecting pin to net "S7_LX_DCORE_CH".
+#82 WARNING(ORCAP-36038): "No_connect" property on Pin "7K29.4" ignored for 7K29: SCHEMATIC1, P0073_S7_Power (485.14, 406.40). Connecting pin to net "S7_LX_MEM_CH_1".
+#83 WARNING(ORCAP-36038): "No_connect" property on Pin "6K33.7" ignored for 6K33: SCHEMATIC1, P0063_S6_Power (508.00, 345.44). Connecting pin to net "S7_LX_MEM_CH_1".
+#84 WARNING(ORCAP-36038): "No_connect" property on Pin "2K29.4" ignored for 2K29: SCHEMATIC1, P0023_S2_Power (485.14, 406.40). Connecting pin to net "S2_LX_MEM_CH_1".
+#85 WARNING(ORCAP-36038): "No_connect" property on Pin "7K31.4" ignored for 7K31: SCHEMATIC1, P0073_S7_Power (574.04, 500.38). Connecting pin to net "S7_VDD09".
+#86 WARNING(ORCAP-36038): "No_connect" property on Pin "2K31.4" ignored for 2K31: SCHEMATIC1, P0023_S2_Power (574.04, 500.38). Connecting pin to net "S2_VDD09".
+#87 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.R10" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (309.88, 238.76). Connecting pin to net "S24_DPS_F14".
+#88 WARNING(ORCAP-36038): "No_connect" property on Pin "K32.4" ignored for K32: SCHEMATIC1, P0003_S0_Power (660.40, 500.38). Connecting pin to net "S0_VDD18_A".
+#89 WARNING(ORCAP-36038): "No_connect" property on Pin "2K33.4" ignored for 2K33: SCHEMATIC1, P0023_S2_Power (508.00, 345.44). Connecting pin to net "S2_LX_MEM_CH_2".
+#90 WARNING(ORCAP-36038): "No_connect" property on Pin "2K32.4" ignored for 2K32: SCHEMATIC1, P0023_S2_Power (660.40, 500.38). Connecting pin to net "S2_VDD18_A".
+#91 WARNING(ORCAP-36038): "No_connect" property on Pin "2K21.4" ignored for 2K21: SCHEMATIC1, P0023_S2_Power (485.14, 104.14). Connecting pin to net "S2_LX_DCORE_CH".
+#92 WARNING(ORCAP-36038): "No_connect" property on Pin "2K30.4" ignored for 2K30: SCHEMATIC1, P0023_S2_Power (490.22, 500.38). Connecting pin to net "S2_VDD18_D".
+#93 WARNING(ORCAP-36038): "No_connect" property on Pin "P11.K6" ignored for P11: SCHEMATIC1, T11.3680_DPS64_HDAV_L_P11 (309.88, 132.08). Connecting pin to net "S9_AVO_DGS01".
+#94 WARNING(ORCAP-36038): "No_connect" property on Pin "6K30.4" ignored for 6K30: SCHEMATIC1, P0063_S6_Power (490.22, 500.38). Connecting pin to net "S6_VDD18_D".
+#95 WARNING(ORCAP-36038): "No_connect" property on Pin "3K31.4" ignored for 3K31: SCHEMATIC1, P0033_S3_Power (574.04, 500.38). Connecting pin to net "S3_VDD09".
+#96 WARNING(ORCAP-36038): "No_connect" property on Pin "2K20.4" ignored for 2K20: SCHEMATIC1, P0023_S2_Power (485.14, 193.04). Connecting pin to net "S2_LX_AUD_CH_1".
+#97 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.T12" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (45.72, 332.74). Connecting pin to net "S24_DPS_S20".
+#98 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.O1" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (111.76, 238.76). Connecting pin to net "S24_DPS_F03".
+#99 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.N12" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (45.72, 238.76). Connecting pin to net "S24_DPS_S02".
+#100 WARNING(ORCAP-36038): "No_connect" property on Pin "K21.4" ignored for K21: SCHEMATIC1, P0003_S0_Power (485.14, 104.14). Connecting pin to net "S0_LX_DCORE_CH".
+#101 WARNING(ORCAP-36038): "No_connect" property on Pin "1K21.4" ignored for 1K21: SCHEMATIC1, P0013_S1_Power (485.14, 104.14). Connecting pin to net "S1_LX_DCORE_CH".
+#102 WARNING(ORCAP-36038): "No_connect" property on Pin "K37.7" ignored for K37: SCHEMATIC1, P0003_S0_Power (477.52, 55.88). Connecting pin to net "S1_LX_DCORE_CH".
+#103 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.L3" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (375.92, 132.08). Connecting pin to net "S7_SRC11_N".
+#104 WARNING(ORCAP-36038): "No_connect" property on Pin "7K30.4" ignored for 7K30: SCHEMATIC1, P0073_S7_Power (490.22, 500.38). Connecting pin to net "S7_VDD18_D".
+#105 WARNING(ORCAP-36038): "No_connect" property on Pin "3K20.4" ignored for 3K20: SCHEMATIC1, P0033_S3_Power (485.14, 193.04). Connecting pin to net "S3_LX_AUD_CH_1".
+#106 WARNING(ORCAP-36038): "No_connect" property on Pin "2K38.7" ignored for 2K38: SCHEMATIC1, P0023_S2_Power (508.00, 292.10). Connecting pin to net "S3_LX_AUD_CH_1".
+#107 WARNING(ORCAP-36038): "No_connect" property on Pin "P6.W7" ignored for P6: SCHEMATIC1, T06.3680_DPS64_HDAV_H_P6 (243.84, 332.74). Connecting pin to net "S24_DPS_S28".
+#108 WARNING(ORCAP-36038): "No_connect" property on Pin "3K29.4" ignored for 3K29: SCHEMATIC1, P0033_S3_Power (485.14, 406.40). Connecting pin to net "S3_LX_MEM_CH_1".
+#109 WARNING(ORCAP-36038): "No_connect" property on Pin "2K33.7" ignored for 2K33: SCHEMATIC1, P0023_S2_Power (508.00, 345.44). Connecting pin to net "S3_LX_MEM_CH_1".
+#110 WARNING(ORCAP-36006): Part Name "REF-CODE-PCB_PCB_CODE_REF-CODE-PCB" is renamed to "REF-CODE-PCB_PCB_CODE_REF-CODE-".
+#111 WARNING(ORCAP-36006): Part Name "BD120-1.5A-S4-MU_FB0402_BD120-1.5A-S4-MU" is renamed to "BD120-1.5A-S4-MU_FB0402_BD120-1".
+#112 WARNING(ORCAP-36006): Part Name "BD120-1.5A-S4-MU_FB0402_NC/BD120-1.5A-S4-MU" is renamed to "BD120-1.5A-S4-MU_FB0402_NC/BD12".
+#113 WARNING(ORCAP-36006): Part Name "1P-25-N-S2-WA_C0201_NC/1P-25-N-S2-WA" is renamed to "1P-25-N-S2-WA_C0201_NC/1P-25-N-".
+#114 WARNING(ORCAP-36006): Part Name "1.2P-50-N-S2-MU_C0201_NC/1.2P-50-N-S2-MU" is renamed to "1.2P-50-N-S2-MU_C0201_NC/1.2P-5".
+#115 WARNING(ORCAP-36006): Part Name "0.1U-35-X-S2-MU_C0201_0.1U-35-X-S2-MU" is renamed to "0.1U-35-X-S2-MU_C0201_0.1U-35-X".
+#116 WARNING(ORCAP-36006): Part Name "10U-10-X-S4-SS_C0402_10U-10-X-S4-SS" is renamed to "10U-10-X-S4-SS_C0402_10U-10-X-S".
+#117 WARNING(ORCAP-36006): Part Name "0.1U-25-X-S4-TY_C0402_0.1U-25-X-S4-TY" is renamed to "0.1U-25-X-S4-TY_C0402_0.1U-25-X".
+#118 WARNING(ORCAP-36006): Part Name "10U-10-X-S4-SS_C0402_NC/10U-10-X-S4-SS" is renamed to "10U-10-X-S4-SS_C0402_NC/10U-10-".
+#119 WARNING(ORCAP-36006): Part Name "10U-10-X-S4-SS_C0402_1U-10-X-S4-MU" is renamed to "10U-10-X-S4-SS_C0402_1U-10-X-S4".
+#120 WARNING(ORCAP-36006): Part Name "10U-25-X-S6-MU_C0603_10U-25-X-S6-MU" is renamed to "10U-25-X-S6-MU_C0603_10U-25-X-S".
+#121 WARNING(ORCAP-36006): Part Name "22U-25-X-S8-MU_C0805_22U-25-X-S8-MU" is renamed to "22U-25-X-S8-MU_C0805_22U-25-X-S".
+#122 WARNING(ORCAP-36006): Part Name "10P-50-N-S2-MU_C0201_10P-50-N-S2-MU" is renamed to "10P-50-N-S2-MU_C0201_10P-50-N-S".
+#123 WARNING(ORCAP-36006): Part Name "10P-50-N-S2-MU_C0201_NC/10P-50-N-S2-MU" is renamed to "10P-50-N-S2-MU_C0201_NC/10P-50-".
+#124 WARNING(ORCAP-36006): Part Name "10P-50-N-S4-WA_C0402_NC/10P-50-N-S4-WA" is renamed to "10P-50-N-S4-WA_C0402_NC/10P-50-".
+#125 WARNING(ORCAP-36006): Part Name "0.1U-35-X-S2-MU_C0201_NC/0.1U-35-X-S2-MU" is renamed to "0.1U-35-X-S2-MU_C0201_NC/0.1U-3".
+#126 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4_C0402_0.1U-16-X-S4-MU" is renamed to "0.1U-16-X-S4_C0402_0.1U-16-X-S4".
+#127 WARNING(ORCAP-36006): Part Name "10P-50-N-S4-MU-1_C0402_0.9P-50-N-S4-MU" is renamed to "10P-50-N-S4-MU-1_C0402_0.9P-50-".
+#128 WARNING(ORCAP-36006): Part Name "10P-50-N-S4-MU-1_C0402_1P-50-N-S4-WA" is renamed to "10P-50-N-S4-MU-1_C0402_1P-50-N-".
+#129 WARNING(ORCAP-36006): Part Name "33P-50-N-S4-WA_C0402_22P-50-N-S4-AVX" is renamed to "33P-50-N-S4-WA_C0402_22P-50-N-S".
+#130 WARNING(ORCAP-36006): Part Name "RCLAMP3321P-SLP1006P2_DIODE_1X0P6MM_RCLAMP3321P-SLP1006P2" is renamed to "RCLAMP3321P-SLP1006P2_DIODE_1X0".
+#131 WARNING(ORCAP-36006): Part Name "HDR-4X1-F-1_CONN_4X1_2P54MM_FL10P5MM_HDR-4X1-F-1" is renamed to "HDR-4X1-F-1_CONN_4X1_2P54MM_FL1".
+#132 WARNING(ORCAP-36006): Part Name "HDR-1X1-M_JP_1P_RD070_040_HDR-1X1-M" is renamed to "HDR-1X1-M_JP_1P_RD070_040_HDR-1".
+#133 WARNING(ORCAP-36006): Part Name "CU/UA2-12NJ-A-V2_RL_NECUA2_12V_V2_CU/UA2-12NJ-A-V2" is renamed to "CU/UA2-12NJ-A-V2_RL_NECUA2_12V_".
+#134 WARNING(ORCAP-36006): Part Name "CU/RF303-12-A-V2_EX_RL_RF303_12V_V2_CU/RF303-12-A-V2_EX" is renamed to "CU/RF303-12-A-V2_EX_RL_RF303_12".
+#135 WARNING(ORCAP-36006): Part Name "L2.2U-1.15A-S2.0X1.6-TDK_IND_VL252012E_L2.2U-1.15A-S2.0X1.6-TDK" is renamed to "L2.2U-1.15A-S2.0X1.6-TDK_IND_VL".
+#136 WARNING(ORCAP-36006): Part Name "MINI-SMP-18S107-40ML5-V2_CONN_SMP_18S107_MINI-SMP-18S107-40ML5-V2" is renamed to "MINI-SMP-18S107-40ML5-V2_CONN_S".
+#137 WARNING(ORCAP-36006): Part Name "SW-SLIDE-8-D2.54-TRI-ECE_SW_DIPX8P_2P54_MM_V2_SW-SLIDE-8-D2.54-TRI-ECE" is renamed to "SW-SLIDE-8-D2.54-TRI-ECE_SW_DIP".
+#138 WARNING(ORCAP-36006): Part Name "SW-SLIDE-4-D2.54-TRI-ECE_SW_DIPX4P_2P54MM_ETD_SW-SLIDE-4-D2.54-TRI-ECE" is renamed to "SW-SLIDE-4-D2.54-TRI-ECE_SW_DIP".
+#139 WARNING(ORCAP-36006): Part Name "RFASWA358ATF0G_RF_SW_GW2159_6P_RFASWA358ATF0G" is renamed to "RFASWA358ATF0G_RF_SW_GW2159_6P_".
+#140 WARNING(ORCAP-36006): Part Name "MX25R6435FM2IL0-SOP8_SK_SO8_1P27MM_LOTES_MX25L25645GM2I-08G/SK-SO8-1.27" is renamed to "MX25R6435FM2IL0-SOP8_SK_SO8_1P2".
+#141 WARNING(ORCAP-36006): Part Name "XTAL40M-S2016-TAI-12P_XTAL_2X1P6MM_4P_0P8MM_XTAL40M-S2016-TAI-12P" is renamed to "XTAL40M-S2016-TAI-12P_XTAL_2X1P".
+#142 WARNING(ORCAP-36006): Part Name "SW-SLIDE-8-D2.54-ECE_SW_DIPX8_16P_H5MM_SW-SLIDE-8-D2.54-ECE" is renamed to "SW-SLIDE-8-D2.54-ECE_SW_DIPX8_1".
+#143 WARNING(ORCAP-36006): Part Name "REF-CODE-CHIP_CHIP_CODE_REF-CODE-CHIP" is renamed to "REF-CODE-CHIP_CHIP_CODE_REF-COD".
+#144 WARNING(ORCAP-36006): Part Name "HDR-8X2-M_CONN_8X2_2P54MM_PH_HDR-8X2-M" is renamed to "HDR-8X2-M_CONN_8X2_2P54MM_PH_HD".
+#145 WARNING(ORCAP-36006): Part Name "BD120-3A-S8_FB0805_NC/BD120-3A-S8" is renamed to "BD120-3A-S8_FB0805_NC/BD120-3A-".
+#146 WARNING(ORCAP-36006): Part Name "0.1U-50-X7R-S4-YA_C0402_0.1U-50-X7R-S4-YA" is renamed to "0.1U-50-X7R-S4-YA_C0402_0.1U-50".
+#147 WARNING(ORCAP-36006): Part Name "0.1U-50-X-S6_C0603_10U-10-X-S6-MU" is renamed to "0.1U-50-X-S6_C0603_10U-10-X-S6-".
+#148 WARNING(ORCAP-36006): Part Name "220U-10-T-SD_CODE_D_220U-10-T-SD" is renamed to "220U-10-T-SD_CODE_D_220U-10-T-S".
+#149 WARNING(ORCAP-36006): Part Name "10U-10-T-SA-AVX_CODE_A_10U-10-T-SA-AVX" is renamed to "10U-10-T-SA-AVX_CODE_A_10U-10-T".
+#150 WARNING(ORCAP-36006): Part Name "0.1U-10-X-S4-MU_C0201_0.1U-16-X5R-S2-WA" is renamed to "0.1U-10-X-S4-MU_C0201_0.1U-16-X".
+#151 WARNING(ORCAP-36006): Part Name "47U-25-T-SD-AVX_CODE_D_47U-25-T-SD-AVX" is renamed to "47U-25-T-SD-AVX_CODE_D_47U-25-T".
+#152 WARNING(ORCAP-36006): Part Name "3300P-50-X-S4_C0402_3300P-50-X7R-S4-HS" is renamed to "3300P-50-X-S4_C0402_3300P-50-X7".
+#153 WARNING(ORCAP-36006): Part Name "10U-10-X-S4_C0402_10U-10-X-S4-SS" is renamed to "10U-10-X-S4_C0402_10U-10-X-S4-S".
+#154 WARNING(ORCAP-36006): Part Name "100P-50-N-S4_C0402_100P-50-N-S4-YA" is renamed to "100P-50-N-S4_C0402_100P-50-N-S4".
+#155 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4-MU_C0201_0.1U-16-X5R-S2-WA" is renamed to "0.1U-16-X-S4-MU_C0201_0.1U-16-X".
+#156 WARNING(ORCAP-36006): Part Name "100P-50-N-S4-MU_C0402_NC/100P-50-N-S4-MU" is renamed to "100P-50-N-S4-MU_C0402_NC/100P-5".
+#157 WARNING(ORCAP-36006): Part Name "680P-50-X-S4_C0402_680P-50-X7R-S4-HS" is renamed to "680P-50-X-S4_C0402_680P-50-X7R-".
+#158 WARNING(ORCAP-36006): Part Name "10U-50-X-SB-MU_C1210_10U-50-X-SB-MU" is renamed to "10U-50-X-SB-MU_C1210_10U-50-X-S".
+#159 WARNING(ORCAP-36006): Part Name "4.7U-50-X-S8-MU_C0805_4.7U-50-X-S8-MU" is renamed to "4.7U-50-X-S8-MU_C0805_4.7U-50-X".
+#160 WARNING(ORCAP-36006): Part Name "0.1U-16-X-S4-MU-1_C0402_0.1U-16-X-S4-MU-1" is renamed to "0.1U-16-X-S4-MU-1_C0402_0.1U-16".
+#161 WARNING(ORCAP-36006): Part Name "10U-25-X7R-SA_C1206_10U-25-X7R-SA" is renamed to "10U-25-X7R-SA_C1206_10U-25-X7R-".
+#162 WARNING(ORCAP-36006): Part Name "4.7U-25-X7R-S8-TY_C0805_4.7U-25-X7R-S8-TY" is renamed to "4.7U-25-X7R-S8-TY_C0805_4.7U-25".
+#163 WARNING(ORCAP-36006): Part Name "MF-R185-40A-D_FUSE_12X9P2MM_MF-R185-40A-D" is renamed to "MF-R185-40A-D_FUSE_12X9P2MM_MF-".
+#164 WARNING(ORCAP-36006): Part Name "DEBUGHOLE-15X15MM_SLOT_NPTH_SQ15X15MM_DEBUGHOLE-15X15MM" is renamed to "DEBUGHOLE-15X15MM_SLOT_NPTH_SQ1".
+#165 WARNING(ORCAP-36006): Part Name "ATX-10X2-MR_CONN_PWR10X2_4P2MM_ML_ATX-10X2-MR" is renamed to "ATX-10X2-MR_CONN_PWR10X2_4P2MM_".
+#166 WARNING(ORCAP-36006): Part Name "L10U-3.6A-S10X10_IND_GSSR2104_L10U-3.8A-S10.2X10-GO" is renamed to "L10U-3.6A-S10X10_IND_GSSR2104_L".
+#167 WARNING(ORCAP-36006): Part Name "LOGO_RT_REALTEK_LOGO_RT_REALTEK_LOGO_RT_REALTEK" is renamed to "LOGO_RT_REALTEK_LOGO_RT_REALTEK".
+#168 WARNING(ORCAP-36006): Part Name "LOGO_KT_KSMT_LOGO_KT_KSMT_LOGO_KT_KSMT" is renamed to "LOGO_KT_KSMT_LOGO_KT_KSMT_LOGO_".
+#169 WARNING(ORCAP-36006): Part Name "HIGH-SIDE_PG_3680_DPS64_HDAV_H_P1_HIGH-SIDE" is renamed to "HIGH-SIDE_PG_3680_DPS64_HDAV_H_".
+#170 WARNING(ORCAP-36006): Part Name "LOW-SIDE_PG_3680_HDRF3_LPC_P10_LOW-SIDE" is renamed to "LOW-SIDE_PG_3680_HDRF3_LPC_P10_".
+#171 WARNING(ORCAP-36006): Part Name "LOW-SIDE_PG_3680_DPS64_HDAV_L_P11_LOW-SIDE" is renamed to "LOW-SIDE_PG_3680_DPS64_HDAV_L_P".
+#172 WARNING(ORCAP-36006): Part Name "HIGH-SIDE_PG_3680_HDRF3_LPC_P2_HIGH-SIDE" is renamed to "HIGH-SIDE_PG_3680_HDRF3_LPC_P2_".
+#173 WARNING(ORCAP-36006): Part Name "HIGH-SIDE_PG_3680_HDRF3_DPS32_P4_HIGH-SIDE" is renamed to "HIGH-SIDE_PG_3680_HDRF3_DPS32_P".
+#174 WARNING(ORCAP-36006): Part Name "HIGH-SIDE_PG_3680_HDRF3_LPC_P5_HIGH-SIDE" is renamed to "HIGH-SIDE_PG_3680_HDRF3_LPC_P5_".
+#175 WARNING(ORCAP-36006): Part Name "HIGH-SIDE_PG_3680_HDRF3_DPS32_HDAV_H_P6_HIGH-SIDE" is renamed to "HIGH-SIDE_PG_3680_HDRF3_DPS32_H".
+#176 WARNING(ORCAP-36006): Part Name "LOW-SIDE_PG_3680_DPS64_HDAV_L_P7_LOW-SIDE" is renamed to "LOW-SIDE_PG_3680_DPS64_HDAV_L_1".
+#177 WARNING(ORCAP-36006): Part Name "LOW-SIDE_PG_3680_HDRF3_LPC_P8_LOW-SIDE" is renamed to "LOW-SIDE_PG_3680_HDRF3_LPC_P8_L".
+#178 WARNING(ORCAP-36006): Part Name "REF-CODE-SOCKET_SOCKET_CODE_REF-CODE-SOCKET" is renamed to "REF-CODE-SOCKET_SOCKET_CODE_REF".
+#179 WARNING(ORCAP-36006): Part Name "PT-ULTRAFLEX-TESTER-75X35_PROTECTOR_75X35MM_PT-ULTRAFLEX-TESTER-75X35" is renamed to "PT-ULTRAFLEX-TESTER-75X35_PROTE".
+#180 WARNING(ORCAP-36006): Part Name "4.7K-0.1-S4-YA_R0402_4.7K-0.1-S4-YA" is renamed to "4.7K-0.1-S4-YA_R0402_4.7K-0.1-S".
+#181 WARNING(ORCAP-36006): Part Name "200K-10-D-REGULATE_VRD_3296W_BOURNS_SKPIN_200K-10-D-REGULATE" is renamed to "200K-10-D-REGULATE_VRD_3296W_BO".
+#182 WARNING(ORCAP-36006): Part Name "CHROMA3680-OUTLINE-RF-TYPE2_PG_3680_FT_RF_OUTLINE_CHROMA_V2_CHROMA3680-OUTLINE-RF-TYPE2" is renamed to "CHROMA3680-OUTLINE-RF-TYPE2_PG_".
+#183 WARNING(ORCAP-36006): Part Name "RTL8730A-QFN100_SK_QFN100P_0P35MM_MJC_L8730A_RTL8730A-QFN100" is renamed to "RTL8730A-QFN100_SK_QFN100P_0P35".
+#184 WARNING(ORCAP-36006): Part Name "SW-SLIDE-1-D4.7_SW_5P_UTP0030B_SW-SLIDE-1-D4.7" is renamed to "SW-SLIDE-1-D4.7_SW_5P_UTP0030B_".
+#185 WARNING(ORCAP-36006): Part Name "MAX4896ETP+-TQFN-EP-20_TQFN5X5_20P_0P65MM_G_V2_MAX4896ETP+-TQFN20" is renamed to "MAX4896ETP+-TQFN-EP-20_TQFN5X5_".
+#186 WARNING(ORCAP-36006): Part Name "25LC256-SOIC8_SO8_206X127MM_25LC256-SOIC8" is renamed to "25LC256-SOIC8_SO8_206X127MM_25L".
+#187 WARNING(ORCAP-36006): Part Name "RT8293A-SOP8_SO8_206X127MM_G_RT8293A-SOP8" is renamed to "RT8293A-SOP8_SO8_206X127MM_G_RT".
+#188 WARNING(ORCAP-36006): Part Name "TMP235_0_SC70_5P_TMP235A2DCKR-SC70" is renamed to "TMP235_0_SC70_5P_TMP235A2DCKR-S".
+#189 WARNING(ORCAP-36006): Part Name "HDR-2X2-M_CONN_2X2_2P54MM_PH_HDR-2X2-M" is renamed to "HDR-2X2-M_CONN_2X2_2P54MM_PH_HD".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\8730CN\allegro/pstchip.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\8730CN\allegro/pstchip.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\8730CN\allegro/pstxprt.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\8730CN\allegro/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,1143 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Tue Oct 27 11:28:32 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/iTest/homeoffice/Test Hardware/KSMT/8730CN/038RT-8730CN_1027.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  PG_SUPPORT_48V-2 being dumped.
+
+  VRD012_006P01 being dumped.
+
+  VRD024_012P01 being dumped.
+
+  SQ064_060_041 being dumped.
+
+  SQ130_092_072 being dumped.
+
+  VRD016_008P01 being dumped.
+
+  SQ090-5 being dumped.
+
+  SQ_181_NP138_AT153 being dumped.
+
+  M25_RD240_169 being dumped.
+
+  SQ_196_NP169_AT183 being dumped.
+
+  M25_RD217_169 being dumped.
+
+  PG_UPG2163TB being dumped.
+
+  PG_DC30_GND2 being dumped.
+
+  SK_OB_0P19X0P4MM-2 being dumped.
+
+  PG_DC30_GND3 being dumped.
+
+  PG_DC30_GND4 being dumped.
+
+  PG_DC30_GND5 being dumped.
+
+  PG_SQ_5P8MM being dumped.
+
+  FD_RD040_M100 being dumped.
+
+  SK_0P4MM_L-1 being dumped.
+
+  PG_NPTH070_ANTI120 being dumped.
+
+  PG_CAL036_016 being dumped.
+
+  PG_3680_GH_NPTH161 being dumped.
+
+  SQ067_MS4MIL being dumped.
+
+  010X040H being dumped.
+
+  PG_3680_GH_NPTH433 being dumped.
+
+  020X023H being dumped.
+
+  PG_3680_GH_NPTH551 being dumped.
+
+  012X032H being dumped.
+
+  010X016H being dumped.
+
+  010X025H being dumped.
+
+  020X070H being dumped.
+
+  RD002_B being dumped.
+
+  SK_0P4MM_R-1 being dumped.
+
+  035X110H being dumped.
+
+  022X024H being dumped.
+
+  016X030H being dumped.
+
+  065X100H being dumped.
+
+  031X035H being dumped.
+
+  040X045H being dumped.
+
+  025X070H being dumped.
+
+  085X110H being dumped.
+
+  085X200H being dumped.
+
+  022X119H being dumped.
+
+  PG_3680_SC_NPTH138 being dumped.
+
+  060X064H being dumped.
+
+  014X039H being dumped.
+
+  038X070H being dumped.
+
+  020X200V being dumped.
+
+  RF_SW1 being dumped.
+
+  010X040V being dumped.
+
+  025X075H being dumped.
+
+  011X030V being dumped.
+
+  100X130V being dumped.
+
+  RF_SW2 being dumped.
+
+  NPTH126 being dumped.
+
+  010X032V being dumped.
+
+  PG_NPTH128_ANTI178 being dumped.
+
+  010X024V being dumped.
+
+  PG_NPTH277_ANTI327 being dumped.
+
+  050X110V being dumped.
+
+  012X014V being dumped.
+
+  012X023V being dumped.
+
+  PG_BBAC_GND1 being dumped.
+
+  0P4X1MM being dumped.
+
+  050X130V being dumped.
+
+  038X075H being dumped.
+
+  012X024V being dumped.
+
+  PG_NPTHSLOT114X063 being dumped.
+
+  PG_BBAC_GND2 being dumped.
+
+  078X216H being dumped.
+
+  090X100V being dumped.
+
+  120X160V being dumped.
+
+  040X070V being dumped.
+
+  025X050V being dumped.
+
+  PG_CAL_UP_B being dumped.
+
+  014X025V being dumped.
+
+  040X080V being dumped.
+
+  050X080V being dumped.
+
+  080X160V being dumped.
+
+  030X075V being dumped.
+
+  034X080V being dumped.
+
+  052X072V being dumped.
+
+  028X060V being dumped.
+
+  044X054V being dumped.
+
+  095X120V being dumped.
+
+  095X130V being dumped.
+
+  045X075V being dumped.
+
+  075X145V being dumped.
+
+  047X059V being dumped.
+
+  RD070_040_AN76 being dumped.
+
+  0P2X0P51 being dumped.
+
+  095X130V_NUMS being dumped.
+
+  VRD020_012_S22 being dumped.
+
+  SK_SQ_1P75MM being dumped.
+
+  VRD018_010_S20 being dumped.
+
+  XPINL23USERCBITML2 being dumped.
+
+  PG_MIWA_GND1 being dumped.
+
+  PG_MIWA_GND2 being dumped.
+
+  PG_MIWA_GND3 being dumped.
+
+  PG_MIWA_GND4 being dumped.
+
+  PG_MIWA_GND5 being dumped.
+
+  PG_MIWA_GND6 being dumped.
+
+  PG_HEXVS_SW3_VS-1 being dumped.
+
+  VRD016_008_S18 being dumped.
+
+  PG_HEXVS_SW3_VS-2 being dumped.
+
+  PG_HEXVS_SW3_VS-3 being dumped.
+
+  PG_HEXVS_SW3_VS-4 being dumped.
+
+  PG_HEXVS_SW3_VS-5 being dumped.
+
+  PG_HEXVS_SW3_VS-6 being dumped.
+
+  1P75X1P5_H_MM being dumped.
+
+  PG_HEXVS_SW3_VS-7 being dumped.
+
+  XPINL21DPSML2 being dumped.
+
+  XPINL13DPSML2 being dumped.
+
+  1P025X0P28MM_H_M0P66 being dumped.
+
+  SK_0P9X0P3MMH being dumped.
+
+  XPINL15DPSML2 being dumped.
+
+  XPINL24DPSML2 being dumped.
+
+  XPINL17DPSML2 being dumped.
+
+  XPINL19DPSML2 being dumped.
+
+  PG_HEXVS_SW3_VSG1 being dumped.
+
+  RD060_040 being dumped.
+
+  PG_HEXVS_SW3_VSG2 being dumped.
+
+  SHORT_1 being dumped.
+
+  RD060_041 being dumped.
+
+  PG_SUPPROT_SW2_G1 being dumped.
+
+  RD110_075 being dumped.
+
+  RD055_041 being dumped.
+
+  PG_SUPPROT_SW2_G2 being dumped.
+
+  PG_SUPPROT_SW4_G1 being dumped.
+
+  RD140_075 being dumped.
+
+  RD073_053 being dumped.
+
+  RD145_071 being dumped.
+
+  SQ1P75MM being dumped.
+
+  SQ060_040 being dumped.
+
+  SQ060_041 being dumped.
+
+  SQ110_075 being dumped.
+
+  SK_7P5X7P2_MM being dumped.
+
+  012X014V-1 being dumped.
+
+  SQ140_075 being dumped.
+
+  SQ145_071 being dumped.
+
+  SK_028X0P85MMV being dumped.
+
+  RD060_090_041P31 being dumped.
+
+  P_049X026 being dumped.
+
+  XPINL10DGNDML2 being dumped.
+
+  XPINL02DGNDML2 being dumped.
+
+  XPINL20DGNDML2 being dumped.
+
+  XPINL12DGNDML2 being dumped.
+
+  XPINL04DGNDML2 being dumped.
+
+  XPINL22DGNDML2 being dumped.
+
+  XPINL31DGNDML2 being dumped.
+
+  XPINL14DGNDML2 being dumped.
+
+  XPINL06DGNDML2 being dumped.
+
+  XPINL33DGNDML2 being dumped.
+
+  XPINL16DGNDML2 being dumped.
+
+  XPINL25DGNDML2 being dumped.
+
+  0P35X0P85_V_MM being dumped.
+
+  XPINL08DGNDML2 being dumped.
+
+  XPINL35DGNDML2 being dumped.
+
+  SK_0P4MM being dumped.
+
+  XPINL18DGNDML2 being dumped.
+
+  XPINL27DGNDML2 being dumped.
+
+  SK_0P5MM being dumped.
+
+  010X026H_MS4MIL being dumped.
+
+  XPINL29DGNDML2 being dumped.
+
+  PG_HSD_GND1_B being dumped.
+
+  XPINBOTTOMML2 being dumped.
+
+  PG_HSD_GND2_B being dumped.
+
+  PG_HSD_GND3_B being dumped.
+
+  PG_SB6G_GND_B being dumped.
+
+  PG_HSD_GND4_B being dumped.
+
+  SHORT_11 being dumped.
+
+  SHORT_03 being dumped.
+
+  PG_HSD_GND5_B being dumped.
+
+  PG_HSD_GND6_B being dumped.
+
+  SHORT_13 being dumped.
+
+  SHORT_22 being dumped.
+
+  PG_CDNPTH_0635 being dumped.
+
+  RECT24X35 being dumped.
+
+  SHORT_32 being dumped.
+
+  PG_HSD_GND7_B being dumped.
+
+  SQ0P8_MM being dumped.
+
+  PG_HSD_GND8_B being dumped.
+
+  SHORT_15 being dumped.
+
+  1P0X1P2MM being dumped.
+
+  SQ2P7_MM being dumped.
+
+  SQ_1P8MM being dumped.
+
+  SHORT_25 being dumped.
+
+  SHORT_17 being dumped.
+
+  SK_1P2X0P25_MM being dumped.
+
+  SHORT_27 being dumped.
+
+  VRD018_008P01-NA being dumped.
+
+  R0201_012X014V_M014X016 being dumped.
+
+  SHORT_28 being dumped.
+
+  SHORT_29 being dumped.
+
+  010X026V_MS4MIL being dumped.
+
+  SK_VRD020_012P1 being dumped.
+
+  0402_SQ024 being dumped.
+
+  1P5X4P5MM being dumped.
+
+  1P8X3P9MM being dumped.
+
+  NPTH_SQ15X15MM being dumped.
+
+  VRD020_010P01_M2 being dumped.
+
+  PG_CAL_DOWN_B being dumped.
+
+  SK_0P3X1P6MM_H being dumped.
+
+  SK_SQ7MM being dumped.
+
+  VRD024_012P01_M2 being dumped.
+
+  VRD012_006P01_M2 being dumped.
+
+  VRD024_012 being dumped.
+
+  012X014V_M014X016 being dumped.
+
+  VRD014_006 being dumped.
+
+  VRD020_012P1_S22 being dumped.
+
+  VRD016_008P01_M2 being dumped.
+
+  PG_RD030_024_016 being dumped.
+
+  VRD018_008P01_M2 being dumped.
+
+  VRD016_008 being dumped.
+
+  PG_RD040_035_025 being dumped.
+
+  VRD024_012P1_S26 being dumped.
+
+  SK_0P45MM being dumped.
+
+  PG_RD056_034_014 being dumped.
+
+  SHORT_111 being dumped.
+
+  PG_PN092X042_016 being dumped.
+
+  SQ124_M128 being dumped.
+
+  SHORT_222 being dumped.
+
+  PG_SUPPROT_SW3_GND being dumped.
+
+  SHORT_133 being dumped.
+
+  PG_SQ030_024_016 being dumped.
+
+  SHORT_155 being dumped.
+
+  PG_SQ042_024_016 being dumped.
+
+  PG_SUPPORT_3V being dumped.
+
+  PG_SUPPORT_EE being dumped.
+
+  PG_TNPTH229_129 being dumped.
+
+  PG_SUPPORT_5V being dumped.
+
+  NPTH0P8MM being dumped.
+
+  SHORT_177 being dumped.
+
+  PG_SQ056_034_014 being dumped.
+
+  SK_VRD024_012P01 being dumped.
+
+  VRD012_6P1 being dumped.
+
+  VRD014_6P1 being dumped.
+
+  VRD014_6P2 being dumped.
+
+  VRD014_6P3 being dumped.
+
+  VRD014_6P4 being dumped.
+
+  SHORT_L11 being dumped.
+
+  SHORT_L21 being dumped.
+
+  SHORT_L13 being dumped.
+
+  SHORT_L23 being dumped.
+
+  SHORT_L15 being dumped.
+
+  SHORT_L17 being dumped.
+
+  SHORT_L09 being dumped.
+
+  SHORT_L19 being dumped.
+
+  PG_DC30_SQ30_016 being dumped.
+
+  SMP_G_5X5 being dumped.
+
+  RD002 being dumped.
+
+  M3_NPTH169 being dumped.
+
+  PG_VI80_GND014P1 being dumped.
+
+  PG_SUPPORT_12V being dumped.
+
+  PG_SUPPORT_15V being dumped.
+
+  0P33X0P15MM being dumped.
+
+  VRD020_12P1 being dumped.
+
+  SQ010 being dumped.
+
+  TP040 being dumped.
+
+  SQ060 being dumped.
+
+  SQ035 being dumped.
+
+  SQ090 being dumped.
+
+  SQ217 being dumped.
+
+  SK_020X200V being dumped.
+
+  PG_SUPPORT_DIB being dumped.
+
+  PG_SUPPORT_CAL being dumped.
+
+  SK_NPTH064 being dumped.
+
+  PG_VHFAC_GND3_B being dumped.
+
+  PG_VHFAC_GND4_B being dumped.
+
+  PG_VHFAC_GND5_B being dumped.
+
+  PG_VHFAC_GND6_B being dumped.
+
+  PG_VHFAC_GND7_B being dumped.
+
+  PG_VHFAC_GND8_B being dumped.
+
+  PG_VHFAC_GND9_B being dumped.
+
+  8852AE_RF_1 being dumped.
+
+  8852AE_RF_2 being dumped.
+
+  XPINL11SIGNALML2 being dumped.
+
+  8852AE_RF_3 being dumped.
+
+  XPINL03SIGNALML2 being dumped.
+
+  XPINL30SIGNALML2 being dumped.
+
+  8852AE_RF_4 being dumped.
+
+  TP_RD0P5MM being dumped.
+
+  XPINL05SIGNALML2 being dumped.
+
+  XPINL32SIGNALML2 being dumped.
+
+  PG_SUPPORT_EE-2 being dumped.
+
+  XPINL07SIGNALML2 being dumped.
+
+  XPINL34SIGNALML2 being dumped.
+
+  PG_SUPPORT_5V-2 being dumped.
+
+  XPINL26SIGNALML2 being dumped.
+
+  XPINL09SIGNALML2 being dumped.
+
+  XPINL28SIGNALML2 being dumped.
+
+  PG_UP1600_1 being dumped.
+
+  PG_UP1600_2 being dumped.
+
+  SK_SQ4P4MM being dumped.
+
+  SK_SQ5P3MM being dumped.
+
+  VRD014_6P1-1 being dumped.
+
+  PG_FD_CD030X060_B being dumped.
+
+  PG_PN042X042_014P1 being dumped.
+
+  XPINTOPML2 being dumped.
+
+  VRD015P7_008P01_M2 being dumped.
+
+  PG_042_014P1 being dumped.
+
+  PG_PADC80_1 being dumped.
+
+  PG_SQ030_024_014P1 being dumped.
+
+  M2_RD240_148 being dumped.
+
+  PG_DC30_ACC being dumped.
+
+  PG_PADC80_2 being dumped.
+
+  PG_PADC80_3 being dumped.
+
+  PG_PADC80_4 being dumped.
+
+  PG_4X0P95MM being dumped.
+
+  M2_RD217_148 being dumped.
+
+  PG_UP1600_024_14P1 being dumped.
+
+  FD_040 being dumped.
+
+  M3_RD256_169 being dumped.
+
+  RD064_060_041 being dumped.
+
+  PG_SUPPORT_15V-2 being dumped.
+
+  RD130_092_072 being dumped.
+
+  SHORT being dumped.
+
+  PG_SUPPORT_48V-1 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  m_pg_tduf_support_sw2_dib being dumped.
+
+  p_pg_tduf_support_sw2_dib being dumped.
+
+  m_pg_tduf_support_sw4_cal being dumped.
+
+  p_pg_tduf_support_sw4_cal being dumped.
+
+  m_pg_tduf_support_sw3_gnd being dumped.
+
+  p_cd0755x0955 being dumped.
+
+  shap_rd4_6mm_smb being dumped.
+
+  shap_rd4_6mm_bot being dumped.
+
+  p_cdslot_1455x0955 being dumped.
+
+  m_pg_tduf_support_sw4_ee-2 being dumped.
+
+  m_pg_tduf_support_sw4_5v-2 being dumped.
+
+  pg_upg2163tb being dumped.
+
+  p_pg_tduf_support_sw4_ee-2 being dumped.
+
+  p_pg_tduf_support_sw4_5v-2 being dumped.
+
+  80x135-2 being dumped.
+
+  shap_sq4_6mm_top being dumped.
+
+  shap_sq4_6mm_smt being dumped.
+
+  1109-r-s being dumped.
+
+  m_pg_tduf_dc30_sw4_acc being dumped.
+
+  shap_4x0p95mm_top being dumped.
+
+  m_pg_tduf_support_sw2_gnd1 being dumped.
+
+  p_pg_tduf_dc30_sw4_acc being dumped.
+
+  m_pg_tduf_support_sw2_gnd2 being dumped.
+
+  m_smp_g_6x6 being dumped.
+
+  p_pg_tduf_support_sw2_gnd1 being dumped.
+
+  p_pg_tduf_support_sw2_gnd2 being dumped.
+
+  p_smp_g_6x6 being dumped.
+
+  m_pg_tduf_support_sw4_15v-2 being dumped.
+
+  p_pg_tduf_support_sw4_15v-2 being dumped.
+
+  p_sq024 being dumped.
+
+  m_pg_tduf_support_sw4_48v-1 being dumped.
+
+  m_sq028 being dumped.
+
+  m_pg_tduf_support_sw4_48v-2 being dumped.
+
+  p_pg_tduf_support_sw4_48v-1 being dumped.
+
+  p_pg_tduf_support_sw4_48v-2 being dumped.
+
+  m_8852ae_rf_1 being dumped.
+
+  m_8852ae_rf_2 being dumped.
+
+  m_8852ae_rf_3 being dumped.
+
+  p_8852ae_rf_1 being dumped.
+
+  m_8852ae_rf_4 being dumped.
+
+  p_pg_tduf_support_sw3_gnd-1 being dumped.
+
+  p_8852ae_rf_2 being dumped.
+
+  p_8852ae_rf_3 being dumped.
+
+  paste_r0201_012x014v being dumped.
+
+  m_calibration_s_b being dumped.
+
+  p_8852ae_rf_4 being dumped.
+
+  p_calibration_s_b being dumped.
+
+  m_tduf_f_sb6g_gnd being dumped.
+
+  a401_gnd being dumped.
+
+  p_tduf_f_sb6g_gnd being dumped.
+
+  a403_gnd being dumped.
+
+  a412_gnd being dumped.
+
+  a415_gnd being dumped.
+
+  a406_gnd being dumped.
+
+  a409_gnd being dumped.
+
+  ate_clearance being dumped.
+
+  m_pg_peanut_042x042 being dumped.
+
+  rf_sw1-1 being dumped.
+
+  rf_sw1-2 being dumped.
+
+  rf_sw2-1 being dumped.
+
+  rf_sw2-2 being dumped.
+
+  p_pg_peanut_042x042 being dumped.
+
+  m_pg_peanut_092x042 being dumped.
+
+  p_pg_peanut_092x042 being dumped.
+
+  p_049x026 being dumped.
+
+  m_pg_tduf_dc30_sw4_gnd-1 being dumped.
+
+  m_pg_tduf_dc30_sw4_gnd-2 being dumped.
+
+  p_short being dumped.
+
+  m_pg_tduf_dc30_sw4_gnd-3 being dumped.
+
+  m_pg_tduf_dc30_sw4_gnd-4 being dumped.
+
+  p_pg_tduf_dc30_sw4_gnd-1 being dumped.
+
+  p_pg_tduf_dc30_sw4_gnd-2 being dumped.
+
+  m_pg_tduf_dc30_sw4_gnd-5 being dumped.
+
+  p_pg_tduf_dc30_sw4_gnd-3 being dumped.
+
+  p_pg_tduf_dc30_sw4_gnd-4 being dumped.
+
+  p_pg_tduf_dc30_sw4_gnd-5 being dumped.
+
+  m_calibration_up_b being dumped.
+
+  p_calibration_up_b being dumped.
+
+  p_pg_hsd_gnd1 being dumped.
+
+  m_pg_tduf_bbac_sw4_gnd-1 being dumped.
+
+  1109 being dumped.
+
+  p_pg_hsd_gnd2 being dumped.
+
+  m_pg_tduf_bbac_sw4_gnd-2 being dumped.
+
+  p_pg_hsd_gnd3 being dumped.
+
+  p_pg_hsd_gnd4 being dumped.
+
+  p_pg_tduf_bbac_sw4_gnd-1 being dumped.
+
+  p_pg_hsd_gnd5 being dumped.
+
+  p_pg_tduf_bbac_sw4_gnd-2 being dumped.
+
+  p_pg_hsd_gnd6 being dumped.
+
+  p_pg_hsd_gnd7 being dumped.
+
+  p_pg_hsd_gnd8 being dumped.
+
+  pg_upg2163tb_s1 being dumped.
+
+  shap_rd5mm_smb being dumped.
+
+  shap_rd5mm_bot being dumped.
+
+  shap_sq58mm_sm being dumped.
+
+  m_up1600_1 being dumped.
+
+  m_up1600_2 being dumped.
+
+  m_up1600_3 being dumped.
+
+  p_up1600_1 being dumped.
+
+  p_up1600_2 being dumped.
+
+  p_up1600_3 being dumped.
+
+  p_fd_cd030x060_b being dumped.
+
+  m_pg_tduf_hexvs_sw3_vs-1 being dumped.
+
+  m_pg_tduf_hexvs_sw3_vs-2 being dumped.
+
+  m_pg_tduf_hexvs_sw3_vs-3 being dumped.
+
+  p_pg_tduf_hexvs_sw3_vs-1 being dumped.
+
+  m_pg_tduf_hexvs_sw3_vs-4 being dumped.
+
+  p_pg_tduf_hexvs_sw3_vs-2 being dumped.
+
+  m_pg_tduf_hexvs_sw3_vs-5 being dumped.
+
+  m_pg_tduf_hexvs_sw3_vs-6 being dumped.
+
+  p_pg_tduf_hexvs_sw3_vs-3 being dumped.
+
+  m_pg_tduf_hexvs_sw3_vs-7 being dumped.
+
+  p_pg_tduf_hexvs_sw3_vs-4 being dumped.
+
+  p_pg_tduf_hexvs_sw3_vs-5 being dumped.
+
+  p_pg_tduf_hexvs_sw3_vs-6 being dumped.
+
+  p_pg_tduf_hexvs_sw3_vs-7 being dumped.
+
+  m_padc80_1 being dumped.
+
+  m_padc80_2 being dumped.
+
+  m_padc80_3 being dumped.
+
+  m_padc80_4 being dumped.
+
+  p_padc80_1 being dumped.
+
+  shap_sq5mm_top being dumped.
+
+  p_padc80_2 being dumped.
+
+  shap_sq5mm_smt being dumped.
+
+  p_padc80_3 being dumped.
+
+  p_padc80_4 being dumped.
+
+  m_pg_tduf_support_sw4_g1 being dumped.
+
+  p_pg_tduf_support_sw4_g1 being dumped.
+
+  p_sh being dumped.
+
+  1109-r being dumped.
+
+  m_pg_sq042 being dumped.
+
+  1109-s being dumped.
+
+  p_pg_sq042 being dumped.
+
+  m_pg_tduf_support_sw4_3v being dumped.
+
+  m_pg_tduf_support_sw4_ee being dumped.
+
+  m_pg_tduf_support_sw4_5v being dumped.
+
+  p_pg_tduf_support_sw4_3v being dumped.
+
+  p_pg_tduf_support_sw4_ee being dumped.
+
+  p_pg_vhfac_gnd3 being dumped.
+
+  p_049x026_m being dumped.
+
+  p_pg_tduf_support_sw4_5v being dumped.
+
+  p_pg_vhfac_gnd4 being dumped.
+
+  p_pg_vhfac_gnd5 being dumped.
+
+  m_calibration_down_b being dumped.
+
+  p_pg_vhfac_gnd6 being dumped.
+
+  p_pg_vhfac_gnd7 being dumped.
+
+  p_pg_vhfac_gnd8 being dumped.
+
+  p_calibration_down_b being dumped.
+
+  p_pg_vhfac_gnd9 being dumped.
+
+  shap_sq58mm_top being dumped.
+
+  m_pg_tduf_hexvs_sw3_vsg-1 being dumped.
+
+  m_pg_tduf_hexvs_sw3_vsg-2 being dumped.
+
+  p_pg_tduf_hexvs_sw3_vsg-1 being dumped.
+
+  p_pg_tduf_hexvs_sw3_vsg-2 being dumped.
+
+  shap_4x0p95mm_sm being dumped.
+
+  m_pg_tduf_support_sw4_12v being dumped.
+
+  p_pg_tduf_support_sw4_12v being dumped.
+
+  m_pg_tduf_support_sw4_15v being dumped.
+
+  p_pg_tduf_support_sw4_15v being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  thrr4x140x120x050x0 being dumped.
+
+  thrr4x046x032x020x0 being dumped.
+
+  thrr4x070x056x020x0 being dumped.
+
+  thrr4x048x034x020x0 being dumped.
+
+  thrr4x073x059x021x0 being dumped.
+
+  thrr4x106x092x038x0 being dumped.
+
+  thrr4x083x069x026x0 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  ind_gssr2104 being dumped.
+
+  socket_code being dumped.
+
+  code_a being dumped.
+
+  ind_vl252012e being dumped.
+
+  code_c being dumped.
+
+  code_d being dumped.
+
+  protector_75x35mm being dumped.
+
+  tqfn5x5_20p_0p65mm_g_v2 being dumped.
+
+  so8_206x127mm being dumped.
+
+  pg_3680_dps64_hdav_h_p1 being dumped.
+
+  pg_3680_dps64_hdav_l_p7 being dumped.
+
+  vrd_3296w_bourns_skpin being dumped.
+
+  sw_dipx8_16p_h5mm being dumped.
+
+  sc70_5p being dumped.
+
+  conn_4x1_2p54mm_fl10p5mm being dumped.
+
+  pg_3680_hdrf3_dps32_hdav_h_p6 being dumped.
+
+  led_0805 being dumped.
+
+  pg_3680_dps64_hdav_l_p11 being dumped.
+
+  conn_2x2_2p54mm_ph being dumped.
+
+  conn_8x2_2p54mm_ph being dumped.
+
+  diode_1x0p6mm being dumped.
+
+  fuse_12x9p2mm being dumped.
+
+  logo_kt_ksmt being dumped.
+
+  pcb_code being dumped.
+
+  sw_5p_utp0030b being dumped.
+
+  fd_040_v2 being dumped.
+
+  jp_1p_rd070_040 being dumped.
+
+  jp_2p_100 being dumped.
+
+  jp_8p_100 being dumped.
+
+  so8_206x127mm_g being dumped.
+
+  pg_3680_hdrf3_lpc_p2 being dumped.
+
+  slot_npth_sq15x15mm being dumped.
+
+  pg_3680_sys_p9 being dumped.
+
+  pg_3680_hdrf3_lpc_p5 being dumped.
+
+  sk_so8_1p27mm_lotes being dumped.
+
+  pg_3680_hdrf3_lpc_p8 being dumped.
+
+  tp_060_040 being dumped.
+
+  c0201 being dumped.
+
+  c1210 being dumped.
+
+  rl_rf303_12v_v2 being dumped.
+
+  c0402 being dumped.
+
+  c0603 being dumped.
+
+  c1206 being dumped.
+
+  chip_code being dumped.
+
+  conn_smp_18s107 being dumped.
+
+  c0805 being dumped.
+
+  r0201 being dumped.
+
+  pg_3680_hdrf3_lpc_p10 being dumped.
+
+  r0402 being dumped.
+
+  default_short_small being dumped.
+
+  r0603 being dumped.
+
+  rc02w_27mm being dumped.
+
+  m3_npth169 being dumped.
+
+  sw_dipx4p_2p54mm_etd being dumped.
+
+  rf_sw_gw2159_6p being dumped.
+
+  sw_dipx8p_2p54_mm_v2 being dumped.
+
+  fb0402 being dumped.
+
+  fb1206 being dumped.
+
+  xtal_2x1p6mm_4p_0p8mm being dumped.
+
+  fb0805 being dumped.
+
+  sk_qfn100p_0p35mm_mjc_l8730a being dumped.
+
+  pg_3680_hdrf3_dps32_p4 being dumped.
+
+  pg_3680_ft_rf_outline_chroma_v2 being dumped.
+
+  conn_pwr10x2_4p2mm_ml being dumped.
+
+  rl_necua2_12v_v2 being dumped.
+
+  logo_rt_realtek being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:              319
+Number of package symbols dumped:         66
+Number of shape symbols dumped:          159
+Number of flash symbols dumped:            7
+
+Total number of symbols dumped:          232
+*****************************************************
+

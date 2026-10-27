@@ -1,33 +1,19 @@
-\t (00:00:16) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:16)     Journal start - Fri Oct 23 18:15:22 2026
-\t (00:00:16)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=20756 CPUs=16
-\t (00:00:16) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:16) 
-\d (00:00:16) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/038RT-8730CN_1022-1.brd
-\i (00:00:17) generaledit 
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in 3633.18 1279.80
-\i (00:00:23) trapsize 8100
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in 3633.18 1279.80
-\i (00:00:23) trapsize 4050
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in 3600.78 1636.20
-\i (00:00:23) trapsize 2025
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out 3600.78 1636.20
-\i (00:00:25) trapsize 4050
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out 3600.78 1636.20
-\i (00:00:25) trapsize 8100
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out 3600.78 1636.20
-\i (00:00:25) trapsize 16200
-\i (00:00:26) exit 
-\t (00:00:26)     Journal end - Fri Oct 23 18:15:32 2026
+\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:00)     Journal start - Tue Oct 27 11:15:31 2026
+\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=4492 CPUs=20
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:01) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/038RT-8730CN_1022-1.brd
+\i (00:00:01) trapsize 12395
+\i (00:00:01) trapsize 12172
+\i (00:00:01) trapsize 12433
+\i (00:00:01) trapsize 12540
+\i (00:00:01) trapsize 12540
+\i (00:00:02) rfedit_appm 
+\i (00:00:07) open 
+\i (00:00:11) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\8730CN\038RT-8730CN_1027.brd"
+\i (00:00:11) cd "D:\iTest\homeoffice\Test Hardware\KSMT\8730CN"
+\t (00:00:11) Opening existing design...
+\i (00:00:12) trapsize 12540
+\t (00:00:12)     Journal end - Tue Oct 27 11:15:43 2026

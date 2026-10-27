@@ -1,0 +1,1828 @@
+\t (01:30:04) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (01:30:04)     Journal start - Tue Oct 27 16:56:13 2026
+\t (01:30:04)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=17660 CPUs=20
+\t (01:30:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (01:30:04) 
+\d (01:30:04) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/8730CN/038RT-8730CN_1027-2.brd
+\i (01:30:05) rfedit_appm 
+\i (01:30:06) setwindow form.vf_vis
+\i (01:30:06) FORM vf_vis 13 etch_colorvisible 0 
+\i (01:30:07) FORM vf_vis plane_checkbox YES 
+\i (01:30:08) FORM vf_vis plane_checkbox NO 
+\i (01:30:09) FORM vf_vis 3 etch_colorvisible 1 
+\i (01:30:10) setwindow pcb
+\i (01:30:10) zoom in 1 
+\i (01:30:10) setwindow pcb
+\i (01:30:10) zoom in -1587.76 1539.88
+\i (01:30:10) trapsize 5877
+\i (01:30:11) zoom in 1 
+\i (01:30:11) setwindow pcb
+\i (01:30:11) zoom in -3515.55 1140.22
+\i (01:30:11) trapsize 2939
+\i (01:30:11) zoom out 1 
+\i (01:30:11) setwindow pcb
+\i (01:30:11) zoom out -3709.50 440.81
+\i (01:30:11) trapsize 5877
+\i (01:30:13) setwindow form.vf_vis
+\i (01:30:13) FORM vf_vis 3 etch_colorvisible 0 
+\i (01:30:17) FORM vf_vis 30 etch_colorvisible 1 
+\i (01:30:18) FORM vf_vis 30 etch_colorvisible 0 
+\i (01:30:18) FORM vf_vis 30 etch_colorvisible 1 
+\i (01:30:19) FORM vf_vis 30 etch_colorvisible 0 
+\i (01:30:19) FORM vf_vis 30 etch_colorvisible 1 
+\i (01:30:20) setwindow pcb
+\i (01:30:20) zoom in 1 
+\i (01:30:20) setwindow pcb
+\i (01:30:20) zoom in -2628.05 240.99
+\i (01:30:20) trapsize 2939
+\i (01:30:21) zoom out 1 
+\i (01:30:21) setwindow pcb
+\i (01:30:21) zoom out -2592.78 387.92
+\i (01:30:21) trapsize 5877
+\i (01:30:21) zoom in 1 
+\i (01:30:21) setwindow pcb
+\i (01:30:21) zoom in -5837.11 1246.03
+\i (01:30:21) trapsize 2939
+\i (01:30:22) zoom in 1 
+\i (01:30:22) setwindow pcb
+\i (01:30:22) zoom in -5978.16 946.29
+\i (01:30:22) trapsize 1469
+\i (01:30:22) zoom in 1 
+\i (01:30:22) setwindow pcb
+\i (01:30:22) zoom in -5978.16 946.29
+\i (01:30:22) trapsize 735
+\i (01:30:23) zoom out 1 
+\i (01:30:23) setwindow pcb
+\i (01:30:23) zoom out -5978.16 946.29
+\i (01:30:23) trapsize 1469
+\i (01:30:23) zoom out 1 
+\i (01:30:23) setwindow pcb
+\i (01:30:23) zoom out -5978.17 946.29
+\i (01:30:23) trapsize 2939
+\i (01:30:23) zoom out 1 
+\i (01:30:23) setwindow pcb
+\i (01:30:23) zoom out -5978.16 946.28
+\i (01:30:23) trapsize 5877
+\i (01:30:24) zoom in 1 
+\i (01:30:24) setwindow pcb
+\i (01:30:24) zoom in -5978.16 946.28
+\i (01:30:24) trapsize 2939
+\i (01:30:24) zoom in 1 
+\i (01:30:24) setwindow pcb
+\i (01:30:24) zoom in -5978.16 946.28
+\i (01:30:24) trapsize 1469
+\i (01:30:24) zoom in 1 
+\i (01:30:24) setwindow pcb
+\i (01:30:24) zoom in -5978.16 946.29
+\i (01:30:24) trapsize 735
+\i (01:30:24) zoom out 1 
+\i (01:30:24) setwindow pcb
+\i (01:30:24) zoom out -5978.15 946.29
+\i (01:30:24) trapsize 1469
+\i (01:30:25) zoom out 1 
+\i (01:30:25) setwindow pcb
+\i (01:30:25) zoom out -5978.16 946.29
+\i (01:30:25) trapsize 2939
+\i (01:30:25) zoom out 1 
+\i (01:30:25) setwindow pcb
+\i (01:30:25) zoom out -5978.15 946.28
+\i (01:30:25) trapsize 5877
+\i (01:30:26) setwindow form.vf_vis
+\i (01:30:26) FORM vf_vis 30 etch_colorvisible 0 
+\i (01:30:27) FORM vf_vis 28 etch_colorvisible 1 
+\i (01:30:28) FORM vf_vis 28 etch_colorvisible 0 
+\i (01:30:29) FORM vf_vis 28 etch_colorvisible 1 
+\i (01:30:29) FORM vf_vis 28 etch_colorvisible 0 
+\i (01:30:31) FORM vf_vis 26 etch_colorvisible 1 
+\i (01:30:32) FORM vf_vis 26 etch_colorvisible 0 
+\i (01:30:34) FORM vf_vis 11 etch_colorvisible 1 
+\i (01:30:35) FORM vf_vis 11 etch_colorvisible 0 
+\i (01:30:35) FORM vf_vis 9 etch_colorvisible 1 
+\i (01:30:36) FORM vf_vis 9 etch_colorvisible 0 
+\i (01:30:37) FORM vf_vis 7 etch_colorvisible 1 
+\i (01:30:38) setwindow pcb
+\i (01:30:38) zoom in 1 
+\i (01:30:38) setwindow pcb
+\i (01:30:38) zoom in -4720.39 887.51
+\i (01:30:38) trapsize 2939
+\i (01:30:38) zoom in 1 
+\i (01:30:38) setwindow pcb
+\i (01:30:38) zoom in -4473.54 646.54
+\i (01:30:38) trapsize 1469
+\i (01:30:39) zoom out 1 
+\i (01:30:39) setwindow pcb
+\i (01:30:39) zoom out -4473.54 646.55
+\i (01:30:39) trapsize 2939
+\i (01:30:39) zoom in 1 
+\i (01:30:39) setwindow pcb
+\i (01:30:39) zoom in -6083.94 781.72
+\i (01:30:39) trapsize 1469
+\i (01:30:40) zoom in 1 
+\i (01:30:40) setwindow pcb
+\i (01:30:40) zoom in -6054.55 949.23
+\i (01:30:40) trapsize 735
+\i (01:30:40) zoom out 1 
+\i (01:30:40) setwindow pcb
+\i (01:30:40) zoom out -5928.18 799.36
+\i (01:30:40) trapsize 1469
+\i (01:30:40) zoom out 1 
+\i (01:30:40) setwindow pcb
+\i (01:30:40) zoom out -5928.19 799.36
+\i (01:30:40) trapsize 2939
+\i (01:30:40) zoom out 1 
+\i (01:30:40) setwindow pcb
+\i (01:30:40) zoom out -5928.18 799.37
+\i (01:30:40) trapsize 5877
+\i (01:30:42) zoom in 1 
+\i (01:30:42) setwindow pcb
+\i (01:30:42) zoom in -6057.49 2879.96
+\i (01:30:42) trapsize 2939
+\i (01:30:42) zoom in 1 
+\i (01:30:42) setwindow pcb
+\i (01:30:42) zoom in -5910.55 1898.44
+\i (01:30:42) trapsize 1469
+\i (01:30:43) zoom out 1 
+\i (01:30:43) setwindow pcb
+\i (01:30:43) zoom out -5910.55 1898.44
+\i (01:30:43) trapsize 2939
+\i (01:30:43) zoom out 1 
+\i (01:30:43) setwindow pcb
+\i (01:30:43) zoom out -5910.54 1898.44
+\i (01:30:43) trapsize 5877
+\i (01:30:44) zoom in 1 
+\i (01:30:44) setwindow pcb
+\i (01:30:44) zoom in -5593.16 758.23
+\i (01:30:44) trapsize 2939
+\i (01:30:45) zoom out 1 
+\i (01:30:45) setwindow pcb
+\i (01:30:45) zoom out -5593.16 758.24
+\i (01:30:45) trapsize 5877
+\i (01:30:46) zoom in 1 
+\i (01:30:46) setwindow pcb
+\i (01:30:46) zoom in -5593.16 758.23
+\i (01:30:46) trapsize 2939
+\i (01:30:46) zoom in 1 
+\i (01:30:46) setwindow pcb
+\i (01:30:46) zoom in -5593.16 758.24
+\i (01:30:46) trapsize 1469
+\i (01:30:47) zoom out 1 
+\i (01:30:47) setwindow pcb
+\i (01:30:47) zoom out -5593.16 758.24
+\i (01:30:47) trapsize 2939
+\i (01:30:48) zoom out 1 
+\i (01:30:48) setwindow pcb
+\i (01:30:48) zoom out -5593.16 758.24
+\i (01:30:48) trapsize 5877
+\i (01:30:48) zoom out 1 
+\i (01:30:48) setwindow pcb
+\i (01:30:48) zoom out -5593.16 758.23
+\i (01:30:48) trapsize 11755
+\i (01:30:49) zoom in 1 
+\i (01:30:49) setwindow pcb
+\i (01:30:49) zoom in 2682.19 -1146.04
+\i (01:30:49) trapsize 5877
+\i (01:30:50) zoom out 1 
+\i (01:30:50) setwindow pcb
+\i (01:30:50) zoom out 848.45 2639.00
+\i (01:30:50) trapsize 11755
+\i (01:30:50) zoom in 1 
+\i (01:30:50) setwindow pcb
+\i (01:30:50) zoom in -1337.93 -2650.64
+\i (01:30:50) trapsize 5877
+\i (01:30:52) zoom out 1 
+\i (01:30:52) setwindow pcb
+\i (01:30:52) zoom out 84.39 -1898.34
+\i (01:30:52) trapsize 11755
+\i (01:30:52) zoom out 1 
+\i (01:30:52) setwindow pcb
+\i (01:30:52) zoom out 84.40 -1898.33
+\i (01:30:52) trapsize 23510
+\i (01:30:52) zoom in 1 
+\i (01:30:52) setwindow pcb
+\i (01:30:52) zoom in -2830.78 -6929.38
+\i (01:30:52) trapsize 11755
+\i (01:30:52) zoom in 1 
+\i (01:30:52) setwindow pcb
+\i (01:30:52) zoom in -1255.64 -1945.35
+\i (01:30:52) trapsize 5877
+\i (01:30:53) zoom out 1 
+\i (01:30:53) setwindow pcb
+\i (01:30:53) zoom out -1255.64 -1945.35
+\i (01:30:53) trapsize 11755
+\i (01:30:54) zoom in 1 
+\i (01:30:54) setwindow pcb
+\i (01:30:54) zoom in -903.00 734.75
+\i (01:30:54) trapsize 5877
+\i (01:30:54) zoom in 1 
+\i (01:30:54) setwindow pcb
+\i (01:30:54) zoom in -1502.49 1616.35
+\i (01:30:54) trapsize 2939
+\i (01:31:14) zoom out 1 
+\i (01:31:14) setwindow pcb
+\i (01:31:14) zoom out -2154.88 5.95
+\i (01:31:14) trapsize 5877
+\i (01:31:14) zoom out 1 
+\i (01:31:14) setwindow pcb
+\i (01:31:14) zoom out -2154.87 5.96
+\i (01:31:14) trapsize 11755
+\i (01:31:16) zoom in 1 
+\i (01:31:16) setwindow pcb
+\i (01:31:16) zoom in -1614.15 288.07
+\i (01:31:16) trapsize 5877
+\i (01:31:17) setwindow form.vf_vis
+\i (01:31:17) FORM vf_vis all_etch_visible NO 
+\i (01:31:17) FORM vf_vis all_etch_visible YES 
+\i (01:31:18) FORM vf_vis all_etch_visible NO 
+\i (01:31:20) FORM vf_vis 13 etch_colorvisible 1 
+\i (01:31:20) setwindow pcb
+\i (01:31:20) zoom out 1 
+\i (01:31:20) setwindow pcb
+\i (01:31:20) zoom out -203.58 1792.69
+\i (01:31:20) trapsize 11755
+\i (01:31:21) zoom in 1 
+\i (01:31:21) setwindow pcb
+\i (01:31:21) zoom in 1042.43 -1851.29
+\i (01:31:21) trapsize 5877
+\i (01:31:21) zoom in 1 
+\i (01:31:21) setwindow pcb
+\i (01:31:21) zoom in 1042.43 -1851.29
+\i (01:31:21) trapsize 2939
+\i (01:31:22) zoom out 1 
+\i (01:31:22) setwindow pcb
+\i (01:31:22) zoom out 1042.43 -1851.29
+\i (01:31:22) trapsize 5877
+\i (01:31:22) zoom out 1 
+\i (01:31:22) setwindow pcb
+\i (01:31:22) zoom out 1042.43 -1851.28
+\i (01:31:22) trapsize 11755
+\i (01:31:23) zoom in 1 
+\i (01:31:23) setwindow pcb
+\i (01:31:23) zoom in 1042.44 -1851.28
+\i (01:31:23) trapsize 5877
+\i (01:31:26) zoom out 1 
+\i (01:31:26) setwindow pcb
+\i (01:31:26) zoom out 1042.44 -1851.28
+\i (01:31:26) trapsize 11755
+\i (01:31:26) zoom out 1 
+\i (01:31:26) setwindow pcb
+\i (01:31:26) zoom out 1042.45 -1851.28
+\i (01:31:26) trapsize 23510
+\i (01:31:26) zoom in 1 
+\i (01:31:26) setwindow pcb
+\i (01:31:26) zoom in 1042.44 -1851.29
+\i (01:31:26) trapsize 11755
+\i (01:31:26) zoom out 1 
+\i (01:31:26) setwindow pcb
+\i (01:31:26) zoom out 1042.45 -1851.28
+\i (01:31:26) trapsize 23510
+\i (01:31:27) zoom in 1 
+\i (01:31:27) setwindow pcb
+\i (01:31:27) zoom in -1449.57 -6224.06
+\i (01:31:27) trapsize 11755
+\i (01:31:28) zoom in 1 
+\i (01:31:28) setwindow pcb
+\i (01:31:28) zoom in -2037.31 -5424.74
+\i (01:31:28) trapsize 5877
+\i (01:31:30) open 
+\i (01:31:32) fillin "038RT-8730CN_1027-1.brd"
+\t (01:31:32) Opening existing design...
+\i (01:31:33) trapsize 11755
+\d (01:31:33) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/8730CN/038RT-8730CN_1027-1.brd
+\i (01:31:33) rfedit_appm 
+\i (01:31:34) zoom in 1 
+\i (01:31:34) setwindow pcb
+\i (01:31:34) zoom in -576.84 1610.41
+\i (01:31:34) trapsize 5877
+\i (01:31:38) unrats all 
+\i (01:31:38) rfedit_appm 
+\i (01:31:42) rats net 
+\i (01:31:44) xrefdes C110 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xNet S0_Avcc_Drv 
+\i (01:31:44) xNet Dgnd 
+\i (01:31:44) xrefdes C66 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes St3 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes C65 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xNet S0_Atx_Vd0v9 
+\i (01:31:44) xNet S0_Dps_S003-1 
+\i (01:31:44) xrefdes C44 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes C47 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes C45 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes C54 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes C49 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes C95 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xNet S0_Dps_F002 
+\i (01:31:44) xrefdes C94 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xNet S0_Dps_S002 
+\i (01:31:44) xrefdes St8 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes C92 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes C93 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xNet S0123_Cbit_014 
+\i (01:31:44) xNet Vp12 
+\i (01:31:44) xrefdes K26 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes R50 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xNet S0_1_Vdd18_A 
+\i (01:31:44) xNet S0_Vdd18_A 
+\i (01:31:44) xrefdes C75 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes Bd19 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes Bd20 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xrefdes C89 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:44) xNet S0_Vd13_Fe 
+\i (01:31:44) xNet S0_2_Vdd18_A 
+\i (01:31:44) xNet S0_Va13_Afe 
+\i (01:31:44) xNet S0_Va13_Syn 
+\i (01:31:44) xNet S0_Vd13_Rf 
+\i (01:31:44) xrefdes Bd16 
+\t (01:31:44) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd17 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Dps_F001 
+\i (01:31:45) xrefdes C121 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C120 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Dps_S001 
+\i (01:31:45) xNet S0123_Cbit_019 
+\i (01:31:45) xrefdes St11 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes K22 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes L1 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C55 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C53 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Lpc_043 
+\i (01:31:45) xNet S0_Lx_Mem_Ch_2 
+\i (01:31:45) xNet S0_Lx_Mem_Ch_1 
+\i (01:31:45) xrefdes K20 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C79 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C78 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C88 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C85 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Lx_Aud 
+\i (01:31:45) xNet N25095276 
+\i (01:31:45) xNet S0_Lx_Aud_Ch_1 
+\i (01:31:45) xNet S0123_Cbit_012 
+\i (01:31:45) xrefdes K28 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd18 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd21 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S1_Lpc_043 
+\i (01:31:45) xNet S0123_Cbit_011 
+\i (01:31:45) xrefdes K29 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0123_Cbit_024 
+\i (01:31:45) xNet N25019726 
+\i (01:31:45) xNet S1_Lx_Mem_Ch_2 
+\i (01:31:45) xNet S1_Lx_Mem_Ch_1 
+\i (01:31:45) xrefdes C57 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C102 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C107 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C105 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes J5 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0123_Cbit_023 
+\i (01:31:45) xrefdes K23 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes R49 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C108 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C106 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes L3 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C117 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C109 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C116 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C46 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Vd33_All 
+\i (01:31:45) xNet S0_Vd1833_Io1 
+\i (01:31:45) xrefdes Bd3 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes S0_Vd33_All1 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes St4 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C64 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C67 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C61 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Vd33_Io6 
+\i (01:31:45) xNet S0_Va33_Syn 
+\i (01:31:45) xrefdes Bd12 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd13 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes R54 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes R53 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes R48 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes St5 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C83 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd1 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C68 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes St16 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Dps_Gs003-1 
+\i (01:31:45) xrefdes C90 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes St17 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Dps_Gs004 
+\i (01:31:45) xNet S0123_Cbit_017 
+\i (01:31:45) xrefdes K21 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C52 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Vd33_Io0 
+\i (01:31:45) xrefdes Bd7 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet N25019943 
+\i (01:31:45) xrefdes S0_1V3 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C96 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C48 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C59 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C56 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C69 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C84 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C91 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd2 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes St18 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Dps_Gs002 
+\i (01:31:45) xrefdes C76 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd15 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0123_Cbit_002 
+\i (01:31:45) xrefdes C77 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes K37 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Vd33pa_G 
+\i (01:31:45) xNet S0_Lpc_012 
+\i (01:31:45) xNet S0_Lx_Dcore_Ch 
+\i (01:31:45) xNet S1_Lx_Dcore_Ch 
+\i (01:31:45) xNet S1_Lpc_012 
+\i (01:31:45) xrefdes St13 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_1_Vdd09 
+\i (01:31:45) xNet S0_Vdd09_Ch 
+\i (01:31:45) xNet S1_Vdd09_Ch 
+\i (01:31:45) xrefdes C70 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C73 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd36 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C74 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Vd33pad_G 
+\i (01:31:45) xrefdes C71 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0123_Cbit_034 
+\i (01:31:45) xrefdes K38 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Lpc_009 
+\i (01:31:45) xNet S0_Lx_Aud_Ch_2 
+\i (01:31:45) xNet S1_Lpc_009 
+\i (01:31:45) xNet S1_Lx_Aud_Ch_1 
+\i (01:31:45) xrefdes St19 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Dps_Gs001 
+\i (01:31:45) xNet S1_Lx_Aud_Ch_2 
+\i (01:31:45) xrefdes C72 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd22 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd23 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C99 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C97 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C60 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C101 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0123_Cbit_007 
+\i (01:31:45) xrefdes K33 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes St14 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes St15 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_1_Vdd18_D 
+\i (01:31:45) xrefdes C131 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C133 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C132 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C135 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C134 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Atx_Vd33 
+\i (01:31:45) xrefdes Bd37 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Va09_Mipi 
+\i (01:31:45) xrefdes C152 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C111 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C118 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd28 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd29 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C123 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes Bd30 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C141 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xrefdes C140 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Dps_F004 
+\i (01:31:45) xrefdes St12 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:45) xNet S0_Dps_S004 
+\i (01:31:45) xNet S0_Dps_F006 
+\i (01:31:45) xNet S0_Vdd33 
+\i (01:31:45) xNet S0_Dps_S006 
+\i (01:31:45) xNet S0_Dps_Gs006 
+\i (01:31:45) xNet S0123_Cbit_028 
+\i (01:31:45) xrefdes K25 
+\t (01:31:45) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C98 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C137 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C100 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes L4 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C138 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C112 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C136 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C124 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes R55 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes R51 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C119 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C126 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C128 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet N25095242 
+\i (01:31:46) xNet N25095240 
+\i (01:31:46) xNet N25095269 
+\i (01:31:46) xNet S0_Vd33_Cm_Bt 
+\i (01:31:46) xrefdes C139 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes S0_Vdd18_A 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C142 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0_Va33_Xtal 
+\i (01:31:46) xNet S0_Vd33_Sps_Dcore 
+\i (01:31:46) xrefdes C125 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0_Vd33_Io2 
+\i (01:31:46) xrefdes Bd31 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0_Vd33_Io3 
+\i (01:31:46) xNet S0_Vd33pa_Bt 
+\i (01:31:46) xNet S0_Vd33pad_A 
+\i (01:31:46) xNet S0_Vd33pa_A 
+\i (01:31:46) xNet S0_Vd1833_Sdio 
+\i (01:31:46) xNet S0_Vd33_Sps_Aud 
+\i (01:31:46) xNet S0_Vd33_Sps_Mem 
+\i (01:31:46) xNet S0_Vd09_Core2 
+\i (01:31:46) xNet S0_Vd09_Core3 
+\i (01:31:46) xNet S0_Va09_Pll 
+\i (01:31:46) xNet S0_Va09_Usb 
+\i (01:31:46) xNet S0_Vd09_Core1 
+\i (01:31:46) xNet S0_Lx_Dcore 
+\i (01:31:46) xNet S0_Vdd09 
+\i (01:31:46) xrefdes S0_Gnd3 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C127 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes Bd32 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes S0_Gnd1 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes R71 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes R73 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes R72 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes J7 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0123_Cbit_008 
+\i (01:31:46) xNet S0_Atx_Vd1v8 
+\i (01:31:46) xrefdes K30 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0123_Cbit_010 
+\i (01:31:46) xrefdes K31 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes J8 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0123_Cbit_009 
+\i (01:31:46) xrefdes K32 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet N25614045 
+\i (01:31:46) xrefdes R76 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet N25614059 
+\i (01:31:46) xNet N25614052 
+\i (01:31:46) xNet N25018635 
+\i (01:31:46) xrefdes R77 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0_Vdd18_D 
+\i (01:31:46) xrefdes J9 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes R78 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes R79 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes S0_Gnd4 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes S0_Gnd2 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes J6 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C122 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0_Vd_Mem2 
+\i (01:31:46) xrefdes R82 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes R81 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes R83 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0_Vd_Mem0 
+\i (01:31:46) xNet S0_Vd_Mem1 
+\i (01:31:46) xNet S0_Lx_Mem 
+\i (01:31:46) xrefdes C113 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet N25019559 
+\i (01:31:46) xrefdes C129 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes Bd5 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet N25019667 
+\i (01:31:46) xNet N25019718 
+\i (01:31:46) xrefdes Bd9 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes S0_Vdd18_D 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0_Vd09_Core4 
+\i (01:31:46) xrefdes Bd11 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C130 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet N25019871 
+\i (01:31:46) xNet N25019924 
+\i (01:31:46) xrefdes C62 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C63 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes S0_Vdd09 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xNet S0_Vd33_Ex_Flash 
+\i (01:31:46) xrefdes Bd33 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xrefdes C58 
+\t (01:31:46) Symbol and Component Instances are not selectable at this time.
+\i (01:31:46) xname_flush 
+\t (01:31:46) Ratsnest shown for net S0_AVCC_DRV
+\t (01:31:46) Ratsnest shown for net DGND
+\i (01:31:51) unrats net 
+\i (01:31:54) setwindow form.find
+\i (01:31:54) FORM find name_type Net 
+\i (01:31:54) FORM find find_by_name  
+\i (01:32:00) setwindow form.findname
+\i (01:32:00) FORM findname namefilter *gnd* 
+\i (01:32:01) FORM findname all_right  
+\i (01:32:01) FORM findname select  
+\i (01:32:01) setwindow pcb
+\i (01:32:01) trapsize 11638
+\i (01:32:06) setwindow form.findname
+\i (01:32:06) FORM findname namefilter *12v* 
+\i (01:32:11) FORM findname namefilter *vp* 
+\i (01:32:13) FORM findname all_right  
+\i (01:32:14) FORM findname select  
+\i (01:32:14) setwindow pcb
+\i (01:32:14) trapsize 11638
+\i (01:32:15) zoom in 1 
+\i (01:32:15) setwindow pcb
+\i (01:32:15) zoom in 862.01 -1233.53
+\i (01:32:15) trapsize 5819
+\i (01:32:15) zoom in 1 
+\i (01:32:15) setwindow pcb
+\i (01:32:15) zoom in 2479.65 -69.76
+\i (01:32:15) trapsize 2909
+\i (01:32:16) zoom in 1 
+\i (01:32:16) setwindow pcb
+\i (01:32:16) zoom in 2660.04 -93.04
+\i (01:32:16) trapsize 1455
+\i (01:32:16) zoom in 1 
+\i (01:32:16) setwindow pcb
+\i (01:32:16) zoom in 2660.03 -93.03
+\i (01:32:16) trapsize 727
+\i (01:32:16) zoom in 1 
+\i (01:32:16) setwindow pcb
+\i (01:32:16) zoom in 2788.05 -125.03
+\i (01:32:16) trapsize 364
+\i (01:32:16) zoom in 1 
+\i (01:32:16) setwindow pcb
+\i (01:32:16) zoom in 2788.05 -125.03
+\i (01:32:16) trapsize 182
+\i (01:32:17) zoom in 1 
+\i (01:32:17) setwindow pcb
+\i (01:32:17) zoom in 2739.68 -126.85
+\i (01:32:17) trapsize 91
+\i (01:32:17) zoom in 1 
+\i (01:32:17) setwindow pcb
+\i (01:32:17) zoom in 2739.69 -126.84
+\i (01:32:17) trapsize 45
+\i (01:32:20) setwindow form.findname
+\i (01:32:20) FORM findname namefilter *cbit* 
+\i (01:32:22) FORM findname all_right  
+\i (01:32:23) FORM findname select  
+\i (01:32:23) setwindow pcb
+\i (01:32:23) zoom out 1 
+\i (01:32:23) setwindow pcb
+\i (01:32:23) zoom out 2714.05 -126.57
+\i (01:32:23) trapsize 91
+\i (01:32:23) zoom out 1 
+\i (01:32:23) setwindow pcb
+\i (01:32:23) zoom out 2714.06 -126.57
+\i (01:32:23) trapsize 182
+\i (01:32:23) zoom out 1 
+\i (01:32:23) setwindow pcb
+\i (01:32:23) zoom out 2714.06 -126.57
+\i (01:32:23) trapsize 364
+\i (01:32:23) zoom out 1 
+\i (01:32:23) setwindow pcb
+\i (01:32:23) zoom out 2714.05 -126.56
+\i (01:32:23) trapsize 727
+\i (01:32:23) zoom out 1 
+\i (01:32:23) setwindow pcb
+\i (01:32:23) zoom out 2714.06 -126.57
+\i (01:32:23) trapsize 1455
+\i (01:32:24) zoom out 1 
+\i (01:32:24) setwindow pcb
+\i (01:32:24) zoom out 2714.05 -126.57
+\i (01:32:24) trapsize 2909
+\i (01:32:24) zoom out 1 
+\i (01:32:24) setwindow pcb
+\i (01:32:24) zoom out 2714.06 -126.56
+\i (01:32:24) trapsize 5819
+\i (01:32:24) zoom out 1 
+\i (01:32:24) setwindow pcb
+\i (01:32:24) zoom out -1184.58 -1313.60
+\i (01:32:24) trapsize 11638
+\i (01:32:25) zoom in 1 
+\i (01:32:25) setwindow pcb
+\i (01:32:25) zoom in 6077.37 -5991.98
+\i (01:32:25) trapsize 5819
+\i (01:32:25) zoom in 1 
+\i (01:32:25) setwindow pcb
+\i (01:32:25) zoom in 6089.01 -5991.98
+\i (01:32:25) trapsize 2909
+\i (01:32:26) zoom in 1 
+\i (01:32:26) setwindow pcb
+\i (01:32:26) zoom in 6368.32 -5235.52
+\i (01:32:26) trapsize 1455
+\i (01:32:26) zoom in 1 
+\i (01:32:26) setwindow pcb
+\i (01:32:26) zoom in 6368.32 -5235.52
+\i (01:32:26) trapsize 727
+\i (01:32:26) zoom in 1 
+\i (01:32:26) setwindow pcb
+\i (01:32:26) zoom in 6368.32 -5235.51
+\i (01:32:26) trapsize 364
+\i (01:32:26) zoom in 1 
+\i (01:32:26) setwindow pcb
+\i (01:32:26) zoom in 6405.42 -5287.88
+\i (01:32:26) trapsize 182
+\i (01:32:26) zoom in 1 
+\i (01:32:26) setwindow pcb
+\i (01:32:26) zoom in 6405.42 -5287.88
+\i (01:32:26) trapsize 91
+\i (01:32:26) zoom in 1 
+\i (01:32:26) setwindow pcb
+\i (01:32:26) zoom in 6403.97 -5269.33
+\i (01:32:26) trapsize 45
+\i (01:32:27) zoom in 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom in 6403.97 -5269.33
+\i (01:32:27) trapsize 23
+\i (01:32:27) zoom out 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom out 6403.97 -5269.33
+\i (01:32:27) trapsize 45
+\i (01:32:27) zoom out 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom out 6403.97 -5269.33
+\i (01:32:27) trapsize 91
+\i (01:32:27) zoom out 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom out 6403.97 -5269.33
+\i (01:32:27) trapsize 182
+\i (01:32:27) zoom out 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom out 6403.96 -5269.33
+\i (01:32:27) trapsize 364
+\i (01:32:27) zoom out 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom out 6403.96 -5269.34
+\i (01:32:27) trapsize 727
+\i (01:32:27) zoom out 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom out 6403.96 -5269.33
+\i (01:32:27) trapsize 1455
+\i (01:32:27) zoom out 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom out 6403.96 -5269.33
+\i (01:32:27) trapsize 2909
+\i (01:32:27) zoom out 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom out 6403.97 -5269.34
+\i (01:32:27) trapsize 5819
+\i (01:32:27) zoom out 1 
+\i (01:32:27) setwindow pcb
+\i (01:32:27) zoom out 6403.98 -5269.33
+\i (01:32:27) trapsize 11638
+\i (01:32:28) zoom out 1 
+\i (01:32:28) setwindow pcb
+\i (01:32:28) zoom out 6403.98 -5269.33
+\i (01:32:28) trapsize 23275
+\i (01:32:28) zoom in 1 
+\i (01:32:28) setwindow pcb
+\i (01:32:28) zoom in -3185.52 -6246.91
+\i (01:32:28) trapsize 11638
+\i (01:32:28) zoom in 1 
+\i (01:32:28) setwindow pcb
+\i (01:32:28) zoom in -3185.52 -6246.91
+\i (01:32:28) trapsize 5819
+\i (01:32:29) zoom in 1 
+\i (01:32:29) setwindow pcb
+\i (01:32:29) zoom in -3371.72 -6107.25
+\i (01:32:29) trapsize 2909
+\i (01:32:29) zoom in 1 
+\i (01:32:29) setwindow pcb
+\i (01:32:29) zoom in -3371.72 -6107.25
+\i (01:32:29) trapsize 1455
+\i (01:32:29) zoom in 1 
+\i (01:32:29) setwindow pcb
+\i (01:32:29) zoom in -2720.01 -5865.77
+\i (01:32:29) trapsize 727
+\i (01:32:29) zoom in 1 
+\i (01:32:29) setwindow pcb
+\i (01:32:29) zoom in -2720.01 -5865.76
+\i (01:32:29) trapsize 364
+\i (01:32:29) zoom in 1 
+\i (01:32:29) setwindow pcb
+\i (01:32:29) zoom in -2720.00 -5865.76
+\i (01:32:29) trapsize 182
+\i (01:32:30) zoom in 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom in -2736.00 -5895.58
+\i (01:32:30) trapsize 91
+\i (01:32:30) zoom out 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom out -2744.00 -5895.58
+\i (01:32:30) trapsize 182
+\i (01:32:30) zoom out 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom out -2747.28 -5897.39
+\i (01:32:30) trapsize 364
+\i (01:32:30) zoom out 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom out -2749.46 -5898.12
+\i (01:32:30) trapsize 727
+\i (01:32:30) zoom out 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom out -2749.46 -5899.57
+\i (01:32:30) trapsize 1455
+\i (01:32:30) zoom out 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom out -2749.46 -5899.58
+\i (01:32:30) trapsize 2909
+\i (01:32:30) zoom out 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom out -2749.46 -5899.57
+\i (01:32:30) trapsize 5819
+\i (01:32:30) zoom out 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom out -2749.45 -5899.57
+\i (01:32:30) trapsize 11638
+\i (01:32:31) zoom in 1 
+\i (01:32:31) setwindow pcb
+\i (01:32:31) zoom in -2446.87 -1081.54
+\i (01:32:31) trapsize 5819
+\i (01:32:31) zoom out 1 
+\i (01:32:31) setwindow pcb
+\i (01:32:31) zoom out -3738.66 -3362.53
+\i (01:32:31) trapsize 11638
+\i (01:32:31) zoom out 1 
+\i (01:32:31) setwindow pcb
+\i (01:32:31) zoom out -3738.66 -3362.54
+\i (01:32:31) trapsize 23275
+\i (01:32:32) zoom in 1 
+\i (01:32:32) setwindow pcb
+\i (01:32:32) zoom in -2109.37 9159.68
+\i (01:32:32) trapsize 11638
+\i (01:32:32) zoom in 1 
+\i (01:32:32) setwindow pcb
+\i (01:32:32) zoom in -2109.37 9159.68
+\i (01:32:32) trapsize 5819
+\i (01:32:32) zoom in 1 
+\i (01:32:32) setwindow pcb
+\i (01:32:32) zoom in -899.04 9159.68
+\i (01:32:32) trapsize 2909
+\i (01:32:32) zoom in 1 
+\i (01:32:32) setwindow pcb
+\i (01:32:32) zoom in -893.22 9159.68
+\i (01:32:32) trapsize 1455
+\i (01:32:33) zoom in 1 
+\i (01:32:33) setwindow pcb
+\i (01:32:33) zoom in -346.25 9308.07
+\i (01:32:33) trapsize 727
+\i (01:32:33) zoom in 1 
+\i (01:32:33) setwindow pcb
+\i (01:32:33) zoom in -336.06 9308.07
+\i (01:32:33) trapsize 364
+\i (01:32:33) zoom in 1 
+\i (01:32:33) setwindow pcb
+\i (01:32:33) zoom in -288.78 9318.25
+\i (01:32:33) trapsize 182
+\i (01:32:33) zoom in 1 
+\i (01:32:33) setwindow pcb
+\i (01:32:33) zoom in -288.78 9318.25
+\i (01:32:33) trapsize 91
+\i (01:32:33) zoom in 1 
+\i (01:32:33) setwindow pcb
+\i (01:32:33) zoom in -288.78 9318.26
+\i (01:32:33) trapsize 45
+\i (01:32:34) zoom out 1 
+\i (01:32:34) setwindow pcb
+\i (01:32:34) zoom out -296.59 9312.90
+\i (01:32:34) trapsize 91
+\i (01:32:34) zoom out 1 
+\i (01:32:34) setwindow pcb
+\i (01:32:34) zoom out -296.60 9312.90
+\i (01:32:34) trapsize 182
+\i (01:32:34) zoom out 1 
+\i (01:32:34) setwindow pcb
+\i (01:32:34) zoom out -296.60 9312.89
+\i (01:32:34) trapsize 364
+\i (01:32:34) zoom out 1 
+\i (01:32:34) setwindow pcb
+\i (01:32:34) zoom out -296.59 9312.90
+\i (01:32:34) trapsize 727
+\i (01:32:34) zoom out 1 
+\i (01:32:34) setwindow pcb
+\i (01:32:34) zoom out -296.59 9312.90
+\i (01:32:34) trapsize 1455
+\i (01:32:34) zoom out 1 
+\i (01:32:34) setwindow pcb
+\i (01:32:34) zoom out -296.59 9312.89
+\i (01:32:34) trapsize 2909
+\i (01:32:35) zoom in 1 
+\i (01:32:35) setwindow pcb
+\i (01:32:35) zoom in -1285.80 9394.36
+\i (01:32:35) trapsize 1455
+\i (01:32:35) zoom in 1 
+\i (01:32:35) setwindow pcb
+\i (01:32:35) zoom in -1285.80 9394.36
+\i (01:32:35) trapsize 727
+\i (01:32:36) zoom in 1 
+\i (01:32:36) setwindow pcb
+\i (01:32:36) zoom in -1322.16 9330.35
+\i (01:32:36) trapsize 364
+\i (01:32:36) zoom in 1 
+\i (01:32:36) setwindow pcb
+\i (01:32:36) zoom in -1322.16 9330.36
+\i (01:32:36) trapsize 182
+\i (01:32:36) zoom in 1 
+\i (01:32:36) setwindow pcb
+\i (01:32:36) zoom in -1322.15 9330.36
+\i (01:32:36) trapsize 91
+\i (01:32:36) zoom in 1 
+\i (01:32:36) setwindow pcb
+\i (01:32:36) zoom in -1322.51 9324.72
+\i (01:32:36) trapsize 45
+\i (01:32:36) zoom in 1 
+\i (01:32:36) setwindow pcb
+\i (01:32:36) zoom in -1322.51 9324.72
+\i (01:32:36) trapsize 23
+\i (01:32:37) zoom out 1 
+\i (01:32:37) setwindow pcb
+\i (01:32:37) zoom out -1322.50 9324.72
+\i (01:32:37) trapsize 45
+\i (01:32:37) zoom out 1 
+\i (01:32:37) setwindow pcb
+\i (01:32:37) zoom out -1322.51 9324.73
+\i (01:32:37) trapsize 91
+\i (01:32:37) zoom out 1 
+\i (01:32:37) setwindow pcb
+\i (01:32:37) zoom out -1322.50 9324.73
+\i (01:32:37) trapsize 182
+\i (01:32:37) zoom out 1 
+\i (01:32:37) setwindow pcb
+\i (01:32:37) zoom out -1322.50 9324.74
+\i (01:32:37) trapsize 364
+\i (01:32:37) zoom out 1 
+\i (01:32:37) setwindow pcb
+\i (01:32:37) zoom out -1322.50 9324.74
+\i (01:32:37) trapsize 727
+\i (01:32:37) zoom out 1 
+\i (01:32:37) setwindow pcb
+\i (01:32:37) zoom out -1322.50 9324.74
+\i (01:32:37) trapsize 1455
+\i (01:32:37) zoom out 1 
+\i (01:32:37) setwindow pcb
+\i (01:32:37) zoom out -1322.50 9324.74
+\i (01:32:37) trapsize 2909
+\i (01:32:37) zoom out 1 
+\i (01:32:37) setwindow pcb
+\i (01:32:37) zoom out -1322.50 9324.74
+\i (01:32:37) trapsize 5819
+\i (01:32:37) zoom out 1 
+\i (01:32:37) setwindow pcb
+\i (01:32:37) zoom out -1322.49 9324.73
+\i (01:32:37) trapsize 11638
+\i (01:32:38) zoom out 1 
+\i (01:32:38) setwindow pcb
+\i (01:32:38) zoom out -1322.50 9324.74
+\i (01:32:38) trapsize 23275
+\i (01:32:38) zoom out 1 
+\i (01:32:38) setwindow pcb
+\i (01:32:38) zoom out -1322.49 9324.74
+\i (01:32:38) trapsize 46551
+\i (01:32:39) zoom in 1 
+\i (01:32:39) setwindow pcb
+\i (01:32:39) zoom in -283.56 -1568.19
+\i (01:32:39) trapsize 23275
+\i (01:32:39) zoom in 1 
+\i (01:32:39) setwindow pcb
+\i (01:32:39) zoom in -554.35 -1568.19
+\i (01:32:39) trapsize 11638
+\i (01:32:39) zoom in 1 
+\i (01:32:39) setwindow pcb
+\i (01:32:39) zoom in -6792.18 -2266.45
+\i (01:32:39) trapsize 5819
+\i (01:32:39) zoom in 1 
+\i (01:32:39) setwindow pcb
+\i (01:32:39) zoom in -5791.34 -1812.57
+\i (01:32:39) trapsize 2909
+\i (01:32:40) zoom in 1 
+\i (01:32:40) setwindow pcb
+\i (01:32:40) zoom in -5791.34 -1812.57
+\i (01:32:40) trapsize 1455
+\i (01:32:40) zoom in 1 
+\i (01:32:40) setwindow pcb
+\i (01:32:40) zoom in -5791.34 -1812.57
+\i (01:32:40) trapsize 727
+\i (01:32:41) zoom out 1 
+\i (01:32:41) setwindow pcb
+\i (01:32:41) zoom out -5791.34 -1812.57
+\i (01:32:41) trapsize 1455
+\i (01:32:42) zoom in 1 
+\i (01:32:42) setwindow pcb
+\i (01:32:42) zoom in -4031.13 -1780.57
+\i (01:32:42) trapsize 727
+\i (01:32:42) zoom in 1 
+\i (01:32:42) setwindow pcb
+\i (01:32:42) zoom in -4031.13 -1780.57
+\i (01:32:42) trapsize 364
+\i (01:32:42) zoom in 1 
+\i (01:32:42) setwindow pcb
+\i (01:32:42) zoom in -4122.05 -1776.20
+\i (01:32:42) trapsize 182
+\i (01:32:42) zoom in 1 
+\i (01:32:42) setwindow pcb
+\i (01:32:42) zoom in -4122.05 -1776.20
+\i (01:32:42) trapsize 91
+\i (01:32:42) zoom in 1 
+\i (01:32:42) setwindow pcb
+\i (01:32:42) zoom in -4116.59 -1784.56
+\i (01:32:42) trapsize 45
+\i (01:32:42) zoom in 1 
+\i (01:32:42) setwindow pcb
+\i (01:32:42) zoom in -4116.59 -1784.55
+\i (01:32:42) trapsize 23
+\i (01:32:43) zoom out 1 
+\i (01:32:43) setwindow pcb
+\i (01:32:43) zoom out -4116.59 -1784.55
+\i (01:32:43) trapsize 45
+\i (01:32:43) zoom out 1 
+\i (01:32:43) setwindow pcb
+\i (01:32:43) zoom out -4116.58 -1784.55
+\i (01:32:43) trapsize 91
+\i (01:32:43) zoom out 1 
+\i (01:32:43) setwindow pcb
+\i (01:32:43) zoom out -4116.57 -1784.56
+\i (01:32:43) trapsize 182
+\i (01:32:43) zoom out 1 
+\i (01:32:43) setwindow pcb
+\i (01:32:43) zoom out -4116.58 -1784.55
+\i (01:32:43) trapsize 364
+\i (01:32:43) zoom out 1 
+\i (01:32:43) setwindow pcb
+\i (01:32:43) zoom out -4116.58 -1784.56
+\i (01:32:43) trapsize 727
+\i (01:32:44) zoom out 1 
+\i (01:32:44) setwindow pcb
+\i (01:32:44) zoom out -4116.57 -1784.56
+\i (01:32:44) trapsize 1455
+\i (01:32:44) zoom out 1 
+\i (01:32:44) setwindow pcb
+\i (01:32:44) zoom out -4116.58 -1784.56
+\i (01:32:44) trapsize 2909
+\i (01:32:47) zoom out 1 
+\i (01:32:47) setwindow pcb
+\i (01:32:47) zoom out -4710.10 -1417.96
+\i (01:32:47) trapsize 5819
+\i (01:32:47) zoom in 1 
+\i (01:32:47) setwindow pcb
+\i (01:32:47) zoom in -3802.35 -2279.15
+\i (01:32:47) trapsize 2909
+\i (01:32:48) zoom out 1 
+\i (01:32:48) setwindow pcb
+\i (01:32:48) zoom out -4843.92 -2220.96
+\i (01:32:48) trapsize 5819
+\i (01:32:48) zoom in 1 
+\i (01:32:48) setwindow pcb
+\i (01:32:48) zoom in -3971.10 -1825.27
+\i (01:32:48) trapsize 2909
+\i (01:32:49) zoom in 1 
+\i (01:32:49) setwindow pcb
+\i (01:32:49) zoom in -2504.74 -1173.55
+\i (01:32:49) trapsize 1455
+\i (01:32:49) zoom out 1 
+\i (01:32:49) setwindow pcb
+\i (01:32:49) zoom out -3633.60 -1377.21
+\i (01:32:49) trapsize 2909
+\i (01:32:49) zoom out 1 
+\i (01:32:49) setwindow pcb
+\i (01:32:49) zoom out -3633.60 -1377.20
+\i (01:32:49) trapsize 5819
+\i (01:32:52) zoom in 1 
+\i (01:32:52) setwindow pcb
+\i (01:32:52) zoom in -5716.75 -1714.70
+\i (01:32:52) trapsize 2909
+\i (01:32:53) zoom out 1 
+\i (01:32:53) setwindow pcb
+\i (01:32:53) zoom out -5716.74 -1714.70
+\i (01:32:53) trapsize 5819
+\i (01:32:54) zoom in 1 
+\i (01:32:54) setwindow pcb
+\i (01:32:54) zoom in -2039.22 -1086.26
+\i (01:32:54) trapsize 2909
+\i (01:32:54) zoom in 1 
+\i (01:32:54) setwindow pcb
+\i (01:32:54) zoom in -2929.51 -1057.17
+\i (01:32:54) trapsize 1455
+\i (01:32:55) zoom in 1 
+\i (01:32:55) setwindow pcb
+\i (01:32:55) zoom in -2830.59 -1013.52
+\i (01:32:55) trapsize 727
+\i (01:32:56) zoom in 1 
+\i (01:32:56) setwindow pcb
+\i (01:32:56) zoom in -2702.57 -920.42
+\i (01:32:56) trapsize 364
+\i (01:32:56) zoom in 1 
+\i (01:32:56) setwindow pcb
+\i (01:32:56) zoom in -2701.84 -920.41
+\i (01:32:56) trapsize 182
+\i (01:32:56) zoom in 1 
+\i (01:32:56) setwindow pcb
+\i (01:32:56) zoom in -2691.29 -971.32
+\i (01:32:56) trapsize 91
+\i (01:32:57) zoom in 1 
+\i (01:32:57) setwindow pcb
+\i (01:32:57) zoom in -2691.29 -971.32
+\i (01:32:57) trapsize 45
+\i (01:32:57) zoom in 1 
+\i (01:32:57) setwindow pcb
+\i (01:32:57) zoom in -2691.28 -971.31
+\i (01:32:57) trapsize 23
+\i (01:32:58) zoom out 1 
+\i (01:32:58) setwindow pcb
+\i (01:32:58) zoom out -2691.28 -971.31
+\i (01:32:58) trapsize 45
+\i (01:32:58) zoom out 1 
+\i (01:32:58) setwindow pcb
+\i (01:32:58) zoom out -2691.28 -971.31
+\i (01:32:58) trapsize 91
+\i (01:32:58) zoom out 1 
+\i (01:32:58) setwindow pcb
+\i (01:32:58) zoom out -2691.29 -971.32
+\i (01:32:58) trapsize 182
+\i (01:32:58) zoom out 1 
+\i (01:32:58) setwindow pcb
+\i (01:32:58) zoom out -2691.29 -971.31
+\i (01:32:58) trapsize 364
+\i (01:32:59) zoom in 1 
+\i (01:32:59) setwindow pcb
+\i (01:32:59) zoom in -2804.76 -951.68
+\i (01:32:59) trapsize 182
+\i (01:32:59) zoom in 1 
+\i (01:32:59) setwindow pcb
+\i (01:32:59) zoom in -2804.75 -951.67
+\i (01:32:59) trapsize 91
+\i (01:33:00) zoom out 1 
+\i (01:33:00) setwindow pcb
+\i (01:33:00) zoom out -2804.75 -951.48
+\i (01:33:00) trapsize 182
+\i (01:33:00) zoom out 1 
+\i (01:33:00) setwindow pcb
+\i (01:33:00) zoom out -2804.74 -951.49
+\i (01:33:00) trapsize 364
+\i (01:33:00) zoom in 1 
+\i (01:33:00) setwindow pcb
+\i (01:33:00) zoom in -2816.38 -947.85
+\i (01:33:00) trapsize 182
+\i (01:33:01) zoom in 1 
+\i (01:33:01) setwindow pcb
+\i (01:33:01) zoom in -2816.38 -947.85
+\i (01:33:01) trapsize 91
+\i (01:33:01) zoom in 1 
+\i (01:33:01) setwindow pcb
+\i (01:33:01) zoom in -2816.38 -947.85
+\i (01:33:01) trapsize 45
+\i (01:33:01) zoom out 1 
+\i (01:33:01) setwindow pcb
+\i (01:33:01) zoom out -2816.37 -947.84
+\i (01:33:01) trapsize 91
+\i (01:33:01) zoom out 1 
+\i (01:33:01) setwindow pcb
+\i (01:33:01) zoom out -2816.38 -947.85
+\i (01:33:01) trapsize 182
+\i (01:33:01) zoom out 1 
+\i (01:33:01) setwindow pcb
+\i (01:33:01) zoom out -2816.37 -947.84
+\i (01:33:01) trapsize 364
+\i (01:33:01) zoom out 1 
+\i (01:33:01) setwindow pcb
+\i (01:33:01) zoom out -2816.37 -947.84
+\i (01:33:01) trapsize 727
+\i (01:33:02) zoom out 1 
+\i (01:33:02) setwindow pcb
+\i (01:33:02) zoom out -2816.38 -947.84
+\i (01:33:02) trapsize 1455
+\i (01:33:02) zoom out 1 
+\i (01:33:02) setwindow pcb
+\i (01:33:02) zoom out -2816.38 -947.85
+\i (01:33:02) trapsize 2909
+\i (01:33:04) zoom in 1 
+\i (01:33:04) setwindow pcb
+\i (01:33:04) zoom in -2519.61 -860.56
+\i (01:33:04) trapsize 1455
+\i (01:33:04) zoom in 1 
+\i (01:33:04) setwindow pcb
+\i (01:33:04) zoom in -2385.77 -854.74
+\i (01:33:04) trapsize 727
+\i (01:33:05) zoom in 1 
+\i (01:33:05) setwindow pcb
+\i (01:33:05) zoom in -2308.67 -862.01
+\i (01:33:05) trapsize 364
+\i (01:33:05) zoom in 1 
+\i (01:33:05) setwindow pcb
+\i (01:33:05) zoom in -2308.67 -862.00
+\i (01:33:05) trapsize 182
+\i (01:33:06) zoom in 1 
+\i (01:33:06) setwindow pcb
+\i (01:33:06) zoom in -2349.77 -1002.01
+\i (01:33:06) trapsize 91
+\i (01:33:06) zoom in 1 
+\i (01:33:06) setwindow pcb
+\i (01:33:06) zoom in -2349.59 -1002.01
+\i (01:33:06) trapsize 45
+\i (01:33:07) zoom in 1 
+\i (01:33:07) setwindow pcb
+\i (01:33:07) zoom in -2343.31 -994.64
+\i (01:33:07) trapsize 23
+\i (01:33:07) zoom out 1 
+\i (01:33:07) setwindow pcb
+\i (01:33:07) zoom out -2343.31 -994.64
+\i (01:33:07) trapsize 45
+\i (01:33:07) zoom out 1 
+\i (01:33:07) setwindow pcb
+\i (01:33:07) zoom out -2343.30 -994.63
+\i (01:33:07) trapsize 91
+\i (01:33:08) zoom out 1 
+\i (01:33:08) setwindow pcb
+\i (01:33:08) zoom out -2343.31 -994.63
+\i (01:33:08) trapsize 182
+\i (01:33:08) zoom out 1 
+\i (01:33:08) setwindow pcb
+\i (01:33:08) zoom out -2343.31 -994.64
+\i (01:33:08) trapsize 364
+\i (01:33:08) zoom out 1 
+\i (01:33:08) setwindow pcb
+\i (01:33:08) zoom out -2343.31 -994.63
+\i (01:33:08) trapsize 727
+\i (01:33:08) zoom out 1 
+\i (01:33:08) setwindow pcb
+\i (01:33:08) zoom out -2343.30 -994.63
+\i (01:33:08) trapsize 1455
+\i (01:33:08) zoom out 1 
+\i (01:33:08) setwindow pcb
+\i (01:33:08) zoom out -2343.31 -994.63
+\i (01:33:08) trapsize 2909
+\i (01:33:09) zoom out 1 
+\i (01:33:09) setwindow pcb
+\i (01:33:09) zoom out -2343.31 -994.64
+\i (01:33:09) trapsize 5819
+\i (01:33:09) zoom out 1 
+\i (01:33:09) setwindow pcb
+\i (01:33:09) zoom out -2343.30 -994.63
+\i (01:33:09) trapsize 11638
+\i (01:33:11) unrats all 
+\i (01:33:12) rfedit_appm 
+\i (01:33:12) prepopup -12840.55 12458.60
+\i (01:33:13) pick grid -14190.52 12691.35
+\t (01:33:13) last pick:  -14191.00 12691.00
+\i (01:33:13) open 
+\e (01:33:14) Do you want to save the changes you made to 038RT-8730CN_1027-1.brd?
+\i (01:33:14) fillin no 
+\i (01:33:16) fillin "038RT-8730CN_1027-2.brd"
+\t (01:33:16) Opening existing design...
+\i (01:33:17) trapsize 11755
+\d (01:33:17) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/8730CN/038RT-8730CN_1027-2.brd
+\i (01:33:17) rfedit_appm 
+\i (01:33:18) zoom in 1 
+\i (01:33:18) setwindow pcb
+\i (01:33:18) zoom in -1446.70 -670.02
+\i (01:33:18) trapsize 5877
+\i (01:33:19) zoom out 1 
+\i (01:33:19) setwindow pcb
+\i (01:33:19) zoom out -1446.70 -670.02
+\i (01:33:19) trapsize 11755
+\i (01:33:19) zoom out 1 
+\i (01:33:19) setwindow pcb
+\i (01:33:19) zoom out -1446.70 -670.01
+\i (01:33:19) trapsize 23510
+\i (01:33:19) zoom in 1 
+\i (01:33:19) setwindow pcb
+\i (01:33:19) zoom in 669.17 -199.82
+\i (01:33:19) trapsize 11755
+\i (01:33:22) open 
+\i (01:33:23) fillin "038RT-8730CN_1027-1.brd"
+\t (01:33:23) Opening existing design...
+\i (01:33:24) trapsize 11755
+\d (01:33:24) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/8730CN/038RT-8730CN_1027-1.brd
+\i (01:33:24) rfedit_appm 
+\i (01:33:25) zoom in 1 
+\i (01:33:25) setwindow pcb
+\i (01:33:25) zoom in 1068.83 1939.54
+\i (01:33:25) trapsize 5877
+\i (01:33:25) zoom out 1 
+\i (01:33:25) setwindow pcb
+\i (01:33:25) zoom out -4702.78 1551.64
+\i (01:33:25) trapsize 11755
+\i (01:33:26) zoom in 1 
+\i (01:33:26) setwindow pcb
+\i (01:33:26) zoom in 445.84 164.57
+\i (01:33:26) trapsize 5877
+\i (01:33:29) setwindow form.vf_vis
+\i (01:33:29) FORM vf_vis 13 etch_colorvisible 0 
+\i (01:33:30) FORM vf_vis 13 etch_colorvisible 1 
+\i (01:33:30) FORM vf_vis 13 etch_colorvisible 0 
+\i (01:33:31) FORM vf_vis 13 etch_colorvisible 1 
+\i (01:33:31) FORM vf_vis 13 etch_colorvisible 0 
+\i (01:33:32) setwindow pcb
+\i (01:33:32) zoom out 1 
+\i (01:33:32) setwindow pcb
+\i (01:33:32) zoom out 3314.01 1034.43
+\i (01:33:32) trapsize 11755
+\i (01:33:32) zoom in 1 
+\i (01:33:32) setwindow pcb
+\i (01:33:32) zoom in -2610.41 1081.45
+\i (01:33:32) trapsize 5877
+\i (01:33:34) unrats all 
+\i (01:33:34) rfedit_appm 
+\i (01:33:38) rats net 
+\i (01:33:47) setwindow form.find
+\i (01:33:47) FORM find name_type Net 
+\i (01:33:47) FORM find find_by_name  
+\i (01:33:50) setwindow form.findname
+\i (01:33:50) FORM findname namefilter *S0_DPS_F001 
+\i (01:33:52) FORM findname all_right  
+\i (01:33:54) FORM findname namefilter *S*_DPS_F001 
+\i (01:33:56) FORM findname all_right  
+\i (01:33:56) FORM findname select  
+\i (01:33:56) setwindow pcb
+\i (01:33:56) trapsize 11638
+\t (01:33:56) Ratsnest shown for net S0_DPS_F001
+\t (01:33:56) Ratsnest shown for net S1_DPS_F001
+\i (01:33:57) zoom in 1 
+\i (01:33:57) setwindow pcb
+\i (01:33:57) zoom in -1811.02 -3858.92
+\i (01:33:57) trapsize 5819
+\i (01:33:58) zoom in 1 
+\i (01:33:58) setwindow pcb
+\i (01:33:58) zoom in -2369.62 -4883.04
+\i (01:33:58) trapsize 2909
+\i (01:33:59) zoom out 1 
+\i (01:33:59) setwindow pcb
+\i (01:33:59) zoom out -2806.04 -4661.92
+\i (01:33:59) trapsize 5819
+\i (01:34:02) zoom in 1 
+\i (01:34:02) setwindow pcb
+\i (01:34:02) zoom in -2526.73 -4231.33
+\i (01:34:02) trapsize 2909
+\i (01:34:03) zoom out 1 
+\i (01:34:03) setwindow pcb
+\i (01:34:03) zoom out -2526.72 -4225.51
+\i (01:34:03) trapsize 5819
+\i (01:38:07) zoom out 1 
+\i (01:38:07) setwindow pcb
+\i (01:38:07) zoom out -4889.18 -873.85
+\i (01:38:07) trapsize 11638
+\i (01:38:08) zoom in 1 
+\i (01:38:08) setwindow pcb
+\i (01:38:08) zoom in -3096.98 1919.20
+\i (01:38:08) trapsize 5819
+\i (01:38:08) zoom in 1 
+\i (01:38:08) setwindow pcb
+\i (01:38:08) zoom in -3073.70 2396.35
+\i (01:38:08) trapsize 2909
+\i (01:38:09) zoom in 1 
+\i (01:38:09) setwindow pcb
+\i (01:38:09) zoom in -3073.70 2396.35
+\i (01:38:09) trapsize 1455
+\i (01:38:09) zoom out 1 
+\i (01:38:09) setwindow pcb
+\i (01:38:09) zoom out -3254.09 2061.77
+\i (01:38:09) trapsize 2909
+\i (01:38:09) zoom out 1 
+\i (01:38:09) setwindow pcb
+\i (01:38:09) zoom out -3254.08 2061.77
+\i (01:38:09) trapsize 5819
+\i (01:38:13) zoom out 1 
+\i (01:38:13) setwindow pcb
+\i (01:38:13) zoom out -3254.08 2061.76
+\i (01:38:13) trapsize 11638
+\i (01:38:14) zoom in 1 
+\i (01:38:14) setwindow pcb
+\i (01:38:14) zoom in -2672.19 -2104.53
+\i (01:38:14) trapsize 5819
+\i (01:38:14) zoom in 1 
+\i (01:38:14) setwindow pcb
+\i (01:38:14) zoom in -2800.20 -1243.33
+\i (01:38:14) trapsize 2909
+\i (01:38:15) zoom out 1 
+\i (01:38:15) setwindow pcb
+\i (01:38:15) zoom out -2800.20 -1243.33
+\i (01:38:15) trapsize 5819
+\i (01:38:15) zoom out 1 
+\i (01:38:15) setwindow pcb
+\i (01:38:15) zoom out -2800.19 -1243.33
+\i (01:38:15) trapsize 11638
+\i (01:38:15) zoom in 1 
+\i (01:38:15) setwindow pcb
+\i (01:38:15) zoom in -2800.19 -1243.34
+\i (01:38:15) trapsize 5819
+\i (01:38:16) zoom in 1 
+\i (01:38:16) setwindow pcb
+\i (01:38:16) zoom in -2800.19 -1243.33
+\i (01:38:16) trapsize 2909
+\i (01:38:19) zoom out 1 
+\i (01:38:19) setwindow pcb
+\i (01:38:19) zoom out -2800.19 -1243.33
+\i (01:38:19) trapsize 5819
+\i (01:38:19) zoom out 1 
+\i (01:38:19) setwindow pcb
+\i (01:38:19) zoom out -2800.18 -1243.33
+\i (01:38:19) trapsize 11638
+\i (01:38:20) zoom in 1 
+\i (01:38:20) setwindow pcb
+\i (01:38:20) zoom in -2125.20 -4711.37
+\i (01:38:20) trapsize 5819
+\i (01:38:21) zoom in 1 
+\i (01:38:21) setwindow pcb
+\i (01:38:21) zoom in -4243.26 -2558.40
+\i (01:38:21) trapsize 2909
+\i (01:39:38) zoom out 1 
+\i (01:39:38) setwindow pcb
+\i (01:39:38) zoom out -5121.91 -3454.50
+\i (01:39:38) trapsize 5819
+\i (01:39:38) zoom in 1 
+\i (01:39:38) setwindow pcb
+\i (01:39:38) zoom in -2817.64 -277.40
+\i (01:39:38) trapsize 2909
+\i (01:39:39) zoom out 1 
+\i (01:39:39) setwindow pcb
+\i (01:39:39) zoom out -2520.87 -1144.41
+\i (01:39:39) trapsize 5819
+\i (01:39:39) zoom out 1 
+\i (01:39:39) setwindow pcb
+\i (01:39:39) zoom out -2520.88 -1144.41
+\i (01:39:39) trapsize 11638
+\i (01:39:40) zoom in 1 
+\i (01:39:40) setwindow pcb
+\i (01:39:40) zoom in -2544.15 -3146.09
+\i (01:39:40) trapsize 5819
+\i (01:39:40) zoom in 1 
+\i (01:39:40) setwindow pcb
+\i (01:39:40) zoom in -3416.97 -2971.52
+\i (01:39:40) trapsize 2909
+\i (01:39:41) zoom out 1 
+\i (01:39:41) setwindow pcb
+\i (01:39:41) zoom out -3416.96 -2971.52
+\i (01:39:41) trapsize 5819
+\i (01:39:41) zoom out 1 
+\i (01:39:41) setwindow pcb
+\i (01:39:41) zoom out -3416.97 -2971.51
+\i (01:39:41) trapsize 11638
+\i (01:39:42) zoom in 1 
+\i (01:39:42) setwindow pcb
+\i (01:39:42) zoom in -2928.19 -550.88
+\i (01:39:42) trapsize 5819
+\i (01:39:42) zoom in 1 
+\i (01:39:42) setwindow pcb
+\i (01:39:42) zoom in -2870.00 -900.00
+\i (01:39:42) trapsize 2909
+\i (01:39:43) zoom out 1 
+\i (01:39:43) setwindow pcb
+\i (01:39:43) zoom out -2869.99 -900.00
+\i (01:39:43) trapsize 5819
+\i (01:39:43) zoom out 1 
+\i (01:39:43) setwindow pcb
+\i (01:39:43) zoom out -2870.00 -900.00
+\i (01:39:43) trapsize 11638
+\i (01:39:44) zoom in 1 
+\i (01:39:44) setwindow pcb
+\i (01:39:44) zoom in -2870.00 -900.01
+\i (01:39:44) trapsize 5819
+\i (01:39:44) zoom in 1 
+\i (01:39:44) setwindow pcb
+\i (01:39:44) zoom in -2870.00 -900.00
+\i (01:39:44) trapsize 2909
+\i (01:39:45) zoom out 1 
+\i (01:39:45) setwindow pcb
+\i (01:39:45) zoom out -2869.99 -900.00
+\i (01:39:45) trapsize 5819
+\i (01:42:07) zoom out 1 
+\i (01:42:07) setwindow pcb
+\i (01:42:07) zoom out -2835.09 -1900.85
+\i (01:42:07) trapsize 11638
+\i (01:42:07) zoom in 1 
+\i (01:42:07) setwindow pcb
+\i (01:42:07) zoom in -1601.49 -4368.03
+\i (01:42:07) trapsize 5819
+\i (01:42:08) zoom out 1 
+\i (01:42:08) setwindow pcb
+\i (01:42:08) zoom out -1601.49 -4368.03
+\i (01:42:08) trapsize 11638
+\i (01:42:08) zoom in 1 
+\i (01:42:08) setwindow pcb
+\i (01:42:08) zoom in -3510.07 2288.73
+\i (01:42:08) trapsize 5819
+\i (01:42:09) zoom out 1 
+\i (01:42:09) setwindow pcb
+\i (01:42:09) zoom out -3510.07 2288.73
+\i (01:42:09) trapsize 11638
+\i (01:42:11) zoom in 1 
+\i (01:42:11) setwindow pcb
+\i (01:42:11) zoom in -1322.18 7735.17
+\i (01:42:11) trapsize 5819
+\i (01:42:12) zoom out 1 
+\i (01:42:12) setwindow pcb
+\i (01:42:12) zoom out -1322.18 7735.17
+\i (01:42:12) trapsize 11638
+\i (01:42:18) zoom in 1 
+\i (01:42:18) setwindow pcb
+\i (01:42:18) zoom in -2788.52 1124.96
+\i (01:42:18) trapsize 5819
+\i (01:42:19) zoom in 1 
+\i (01:42:19) setwindow pcb
+\i (01:42:19) zoom in -2788.52 1124.96
+\i (01:42:19) trapsize 2909
+\i (01:42:19) zoom in 1 
+\i (01:42:19) setwindow pcb
+\i (01:42:19) zoom in -2648.87 1916.33
+\i (01:42:19) trapsize 1455
+\i (01:42:20) zoom out 1 
+\i (01:42:20) setwindow pcb
+\i (01:42:20) zoom out -2547.04 1872.69
+\i (01:42:20) trapsize 2909
+\i (01:42:20) zoom out 1 
+\i (01:42:20) setwindow pcb
+\i (01:42:20) zoom out -2547.04 1872.69
+\i (01:42:20) trapsize 5819
+\i (01:42:20) zoom in 1 
+\i (01:42:20) setwindow pcb
+\i (01:42:20) zoom in -3163.84 2245.09
+\i (01:42:20) trapsize 2909
+\i (01:42:21) zoom out 1 
+\i (01:42:21) setwindow pcb
+\i (01:42:21) zoom out -3163.84 2245.09
+\i (01:42:21) trapsize 5819
+\i (01:42:21) zoom out 1 
+\i (01:42:21) setwindow pcb
+\i (01:42:21) zoom out -3163.84 2245.09
+\i (01:42:21) trapsize 11638
+\i (01:42:21) zoom in 1 
+\i (01:42:21) setwindow pcb
+\i (01:42:21) zoom in -3326.76 3851.09
+\i (01:42:21) trapsize 5819
+\i (01:42:23) zoom in 1 
+\i (01:42:23) setwindow pcb
+\i (01:42:23) zoom in -2349.19 2291.64
+\i (01:42:23) trapsize 2909
+\i (01:42:24) zoom out 1 
+\i (01:42:24) setwindow pcb
+\i (01:42:24) zoom out -2349.19 2291.65
+\i (01:42:24) trapsize 5819
+\i (01:42:24) zoom out 1 
+\i (01:42:24) setwindow pcb
+\i (01:42:24) zoom out -2349.18 2291.64
+\i (01:42:24) trapsize 11638
+\i (01:42:24) zoom in 1 
+\i (01:42:24) setwindow pcb
+\i (01:42:24) zoom in -2349.19 2291.64
+\i (01:42:24) trapsize 5819
+\i (01:42:26) zoom out 1 
+\i (01:42:26) setwindow pcb
+\i (01:42:26) zoom out -2349.18 2291.64
+\i (01:42:26) trapsize 11638
+\i (01:42:26) zoom in 1 
+\i (01:42:26) setwindow pcb
+\i (01:42:26) zoom in -2814.69 336.51
+\i (01:42:26) trapsize 5819
+\i (01:43:55) zoom in 1 
+\i (01:43:55) setwindow pcb
+\i (01:43:55) zoom in -3512.95 -1001.82
+\i (01:43:55) trapsize 2909
+\i (01:43:55) zoom out 1 
+\i (01:43:55) setwindow pcb
+\i (01:43:55) zoom out -3512.94 -1001.81
+\i (01:43:55) trapsize 5819
+\i (01:43:56) zoom in 1 
+\i (01:43:56) setwindow pcb
+\i (01:43:56) zoom in -708.26 -582.86
+\i (01:43:56) trapsize 2909
+\i (01:43:57) zoom out 1 
+\i (01:43:57) setwindow pcb
+\i (01:43:57) zoom out -708.26 -582.86
+\i (01:43:57) trapsize 5819
+\i (01:43:58) zoom out 1 
+\i (01:43:58) setwindow pcb
+\i (01:43:58) zoom out -708.26 -582.85
+\i (01:43:58) trapsize 11638
+\i (01:43:58) zoom in 1 
+\i (01:43:58) setwindow pcb
+\i (01:43:58) zoom in 851.18 -1257.84
+\i (01:43:58) trapsize 5819
+\i (01:43:59) zoom in 1 
+\i (01:43:59) setwindow pcb
+\i (01:43:59) zoom in 2945.97 -315.18
+\i (01:43:59) trapsize 2909
+\i (01:44:00) zoom out 1 
+\i (01:44:00) setwindow pcb
+\i (01:44:00) zoom out 2556.11 -483.92
+\i (01:44:00) trapsize 5819
+\i (01:44:02) zoom out 1 
+\i (01:44:02) setwindow pcb
+\i (01:44:02) zoom out 2556.11 -483.93
+\i (01:44:02) trapsize 11638
+\i (01:44:03) zoom in 1 
+\i (01:44:03) setwindow pcb
+\i (01:44:03) zoom in 2253.53 -2066.65
+\i (01:44:03) trapsize 5819
+\i (01:44:04) zoom in 1 
+\i (01:44:04) setwindow pcb
+\i (01:44:04) zoom in 2253.53 -2066.65
+\i (01:44:04) trapsize 2909
+\i (01:44:04) zoom out 1 
+\i (01:44:04) setwindow pcb
+\i (01:44:04) zoom out 2253.53 -2066.64
+\i (01:44:04) trapsize 5819
+\i (01:44:05) zoom out 1 
+\i (01:44:05) setwindow pcb
+\i (01:44:05) zoom out 2253.54 -2066.65
+\i (01:44:05) trapsize 11638
+\i (01:44:05) zoom in 1 
+\i (01:44:05) setwindow pcb
+\i (01:44:05) zoom in 2253.54 -2066.65
+\i (01:44:05) trapsize 5819
+\i (01:44:05) zoom in 1 
+\i (01:44:05) setwindow pcb
+\i (01:44:05) zoom in 2241.90 -1275.29
+\i (01:44:05) trapsize 2909
+\i (01:44:07) zoom out 1 
+\i (01:44:07) setwindow pcb
+\i (01:44:07) zoom out 2241.91 -1275.28
+\i (01:44:07) trapsize 5819
+\i (01:44:07) zoom in 1 
+\i (01:44:07) setwindow pcb
+\i (01:44:07) zoom in 2346.64 -961.07
+\i (01:44:07) trapsize 2909
+\i (01:44:08) zoom in 1 
+\i (01:44:08) setwindow pcb
+\i (01:44:08) zoom in 2346.65 -961.06
+\i (01:44:08) trapsize 1455
+\i (01:44:09) zoom out 1 
+\i (01:44:09) setwindow pcb
+\i (01:44:09) zoom out 2346.65 -961.06
+\i (01:44:09) trapsize 2909
+\i (01:44:09) zoom in 1 
+\i (01:44:09) setwindow pcb
+\i (01:44:09) zoom in 2189.55 -1944.44
+\i (01:44:09) trapsize 1455
+\i (01:44:10) zoom out 1 
+\i (01:44:10) setwindow pcb
+\i (01:44:10) zoom out 2230.28 -1432.38
+\i (01:44:10) trapsize 2909
+\i (01:44:10) zoom out 1 
+\i (01:44:10) setwindow pcb
+\i (01:44:10) zoom out 2230.28 -1432.38
+\i (01:44:10) trapsize 5819
+\i (01:44:11) zoom out 1 
+\i (01:44:11) setwindow pcb
+\i (01:44:11) zoom out 1846.24 -2991.83
+\i (01:44:11) trapsize 11638
+\i (01:44:12) zoom in 1 
+\i (01:44:12) setwindow pcb
+\i (01:44:12) zoom in 1846.24 -2991.84
+\i (01:44:12) trapsize 5819
+\i (01:58:06) open 
+\e (01:58:06) Do you want to save the changes you made to 038RT-8730CN_1027-1.brd?
+\i (01:58:07) fillin no 
+\i (01:58:33) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10_20261008_V3\Initial Files\Ref_BRD\Ref_BRD\038RT-L8730A16Q-A100_Final_CC\038RT-L8730A16Q-A100_Final_CC.brd"
+\i (01:58:33) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10_20261008_V3\Initial Files\Ref_BRD\Ref_BRD\038RT-L8730A16Q-A100_Final_CC"
+\t (01:58:33) Opening existing design...
+\i (01:58:34) trapsize 16451
+\t (01:58:35)     Journal end - Tue Oct 27 17:24:43 2026

@@ -1,77 +1,226 @@
-\t (00:00:03) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:03)     Journal start - Fri Oct 23 18:40:54 2026
-\t (00:00:03)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=18768 CPUs=16
-\t (00:00:03) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:03) 
-\t (00:00:06) Opening existing design...
-\d (00:00:07) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/038RT-8730CN_1022-1.brd
-\i (00:00:08) trapsize 16187
-\i (00:00:08) trapsize 15809
-\i (00:00:08) trapsize 16252
-\i (00:00:08) trapsize 16436
-\i (00:00:09) trapsize 16200
-\i (00:00:09) trapsize 16200
-\i (00:00:10) generaledit 
-\i (00:00:10) open 
-\i (00:00:12) fillin "menu_cancel"
-\i (00:00:12) generaledit 
-\i (00:00:12) zoom in 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom in 4216.38 -7241.40
-\i (00:00:12) trapsize 8100
-\i (00:00:12) zoom in 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom in 4216.38 -7241.40
-\i (00:00:12) trapsize 4050
-\i (00:00:12) zoom in 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom in 4143.48 -7314.30
-\i (00:00:12) trapsize 2025
-\i (00:00:13) zoom out 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom out 4013.88 -7083.45
-\i (00:00:13) trapsize 4050
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 3916.68 -7674.75
-\i (00:00:13) trapsize 2025
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 3924.78 -7678.80
-\i (00:00:13) trapsize 1013
-\i (00:00:14) zoom out 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom out 4026.03 -7328.47
-\i (00:00:14) trapsize 2025
-\i (00:00:15) zoom in 1 
-\i (00:00:15) setwindow pcb
-\i (00:00:15) zoom in 3945.03 -7846.88
-\i (00:00:15) trapsize 1013
-\i (00:00:15) zoom out 1 
-\i (00:00:15) setwindow pcb
-\i (00:00:15) zoom out 3928.83 -7589.70
-\i (00:00:15) trapsize 2025
-\i (00:00:17) setwindow form.vf_vis
-\i (00:00:17) FORM vf_vis 3 etch_colorvisible 0 
-\i (00:00:18) FORM vf_vis 3 etch_colorvisible 1 
-\i (00:00:18) FORM vf_vis 3 etch_colorvisible 0 
-\i (00:00:19) FORM vf_vis plane_checkbox NO 
-\i (00:00:20) FORM vf_vis 3 etch_colorvisible 1 
-\i (00:00:21) FORM vf_vis 3 etch_colorvisible 0 
-\i (00:00:21) FORM vf_vis 5 etch_colorvisible 1 
-\i (00:00:23) FORM vf_vis 5 etch_colorvisible 0 
-\i (00:00:23) FORM vf_vis 7 etch_colorvisible 1 
-\i (00:00:24) FORM vf_vis 7 etch_colorvisible 0 
-\i (00:00:25) FORM vf_vis 11 etch_colorvisible 1 
-\i (00:00:26) FORM vf_vis 11 etch_colorvisible 0 
-\i (00:00:28) FORM vf_vis 26 etch_colorvisible 1 
-\i (00:00:29) FORM vf_vis 26 etch_colorvisible 0 
-\i (00:00:30) FORM vf_vis 28 etch_colorvisible 1 
-\i (00:00:31) FORM vf_vis 28 etch_colorvisible 0 
-\i (00:00:31) FORM vf_vis 30 etch_colorvisible 1 
-\i (00:00:34) FORM vf_vis 30 etch_colorvisible 0 
-\i (00:00:34) FORM vf_vis 32 etch_colorvisible 1 
-\i (00:00:35) FORM vf_vis 32 etch_colorvisible 0 
-\i (00:00:36) setwindow pcb
-\i (00:00:36) exit 
-\t (00:00:36)     Journal end - Fri Oct 23 18:41:27 2026
+\t (00:25:06) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:25:06)     Journal start - Tue Oct 27 11:40:19 2026
+\t (00:25:06)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=5212 CPUs=20
+\t (00:25:06) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:25:06) 
+\d (00:25:06) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/038RT-8730CN_1022.brd
+\i (00:25:06) rfedit_appm 
+\i (00:25:07) zoom out 1 
+\i (00:25:07) setwindow pcb
+\i (00:25:07) zoom out -1394.66 3340.59
+\i (00:25:07) trapsize 6270
+\i (00:25:07) zoom out 1 
+\i (00:25:07) setwindow pcb
+\i (00:25:07) zoom out -1394.66 3340.59
+\i (00:25:07) trapsize 12540
+\i (00:25:07) zoom out 1 
+\i (00:25:07) setwindow pcb
+\i (00:25:07) zoom out -1394.66 3340.60
+\i (00:25:07) trapsize 25080
+\i (00:25:08) zoom in 1 
+\i (00:25:08) setwindow pcb
+\i (00:25:08) zoom in -491.77 -2327.50
+\i (00:25:08) trapsize 12540
+\i (00:25:09) zoom out 1 
+\i (00:25:09) setwindow pcb
+\i (00:25:09) zoom out -1846.09 -1374.46
+\i (00:25:09) trapsize 25080
+\i (00:25:09) zoom in 1 
+\i (00:25:09) setwindow pcb
+\i (00:25:09) zoom in -2849.29 8206.14
+\i (00:25:09) trapsize 12540
+\i (00:25:09) zoom in 1 
+\i (00:25:09) setwindow pcb
+\i (00:25:09) zoom in -2849.29 8206.14
+\i (00:25:09) trapsize 6270
+\i (00:25:09) zoom in 1 
+\i (00:25:09) setwindow pcb
+\i (00:25:09) zoom in -3212.95 8018.04
+\i (00:25:09) trapsize 3135
+\i (00:25:09) zoom in 1 
+\i (00:25:09) setwindow pcb
+\i (00:25:09) zoom in -3212.95 8018.04
+\i (00:25:09) trapsize 1568
+\i (00:25:11) zoom out 1 
+\i (00:25:11) setwindow pcb
+\i (00:25:11) zoom out -2999.77 7811.13
+\i (00:25:11) trapsize 3135
+\i (00:25:11) zoom out 1 
+\i (00:25:11) setwindow pcb
+\i (00:25:11) zoom out -2999.76 7811.13
+\i (00:25:11) trapsize 6270
+\i (00:25:12) zoom out 1 
+\i (00:25:12) setwindow pcb
+\i (00:25:12) zoom out -2673.72 4124.36
+\i (00:25:12) trapsize 12540
+\i (00:25:12) zoom out 1 
+\i (00:25:12) setwindow pcb
+\i (00:25:12) zoom out -2673.72 4124.36
+\i (00:25:12) trapsize 25080
+\i (00:25:12) zoom in 1 
+\i (00:25:12) setwindow pcb
+\i (00:25:12) zoom in -2272.43 61.39
+\i (00:25:12) trapsize 12540
+\i (00:25:13) zoom in 1 
+\i (00:25:13) setwindow pcb
+\i (00:25:13) zoom in -2272.43 61.39
+\i (00:25:13) trapsize 6270
+\i (00:25:14) setwindow form.vf_vis
+\i (00:25:14) FORM vf_vis all_drc_visible YES 
+\i (00:25:15) setwindow pcb
+\i (00:25:15) zoom out 1 
+\i (00:25:15) setwindow pcb
+\i (00:25:15) zoom out -2147.03 2581.95
+\i (00:25:15) trapsize 12540
+\i (00:25:15) zoom in 1 
+\i (00:25:15) setwindow pcb
+\i (00:25:15) zoom in -3777.23 7848.76
+\i (00:25:15) trapsize 6270
+\i (00:25:15) zoom in 1 
+\i (00:25:15) setwindow pcb
+\i (00:25:15) zoom in -3777.23 7848.77
+\i (00:25:15) trapsize 3135
+\i (00:25:15) zoom in 1 
+\i (00:25:15) setwindow pcb
+\i (00:25:15) zoom in -3777.23 7848.77
+\i (00:25:15) trapsize 1568
+\i (00:25:16) zoom in 1 
+\i (00:25:16) setwindow pcb
+\i (00:25:16) zoom in -4485.74 8014.93
+\i (00:25:16) trapsize 784
+\i (00:25:16) zoom in 1 
+\i (00:25:16) setwindow pcb
+\i (00:25:16) zoom in -4485.74 8014.93
+\i (00:25:16) trapsize 392
+\i (00:25:16) zoom in 1 
+\i (00:25:16) setwindow pcb
+\i (00:25:16) zoom in -4395.61 8090.17
+\i (00:25:16) trapsize 196
+\i (00:25:16) zoom in 1 
+\i (00:25:16) setwindow pcb
+\i (00:25:16) zoom in -4395.22 8090.18
+\i (00:25:16) trapsize 98
+\i (00:25:17) zoom in 1 
+\i (00:25:17) setwindow pcb
+\i (00:25:17) zoom in -4382.29 8076.07
+\i (00:25:17) trapsize 49
+\i (00:25:17) zoom in 1 
+\i (00:25:17) setwindow pcb
+\i (00:25:17) zoom in -4382.29 8076.07
+\i (00:25:17) trapsize 24
+\i (00:25:17) zoom out 1 
+\i (00:25:17) setwindow pcb
+\i (00:25:17) zoom out -4381.61 8064.81
+\i (00:25:17) trapsize 49
+\i (00:25:17) zoom out 1 
+\i (00:25:17) setwindow pcb
+\i (00:25:17) zoom out -4381.60 8064.51
+\i (00:25:17) trapsize 98
+\i (00:25:17) zoom out 1 
+\i (00:25:17) setwindow pcb
+\i (00:25:17) zoom out -4381.61 8064.51
+\i (00:25:17) trapsize 196
+\i (00:25:17) zoom out 1 
+\i (00:25:17) setwindow pcb
+\i (00:25:17) zoom out -4381.60 8064.51
+\i (00:25:17) trapsize 392
+\i (00:25:18) zoom in 1 
+\i (00:25:18) setwindow pcb
+\i (00:25:18) zoom in -4401.20 8147.61
+\i (00:25:18) trapsize 196
+\i (00:25:18) zoom in 1 
+\i (00:25:18) setwindow pcb
+\i (00:25:18) zoom in -4401.20 8147.61
+\i (00:25:18) trapsize 98
+\i (00:25:18) zoom in 1 
+\i (00:25:18) setwindow pcb
+\i (00:25:18) zoom in -4395.90 8087.84
+\i (00:25:18) trapsize 49
+\i (00:25:18) zoom in 1 
+\i (00:25:18) setwindow pcb
+\i (00:25:18) zoom in -4395.60 8087.74
+\i (00:25:18) trapsize 24
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.71 8099.99
+\i (00:25:19) trapsize 49
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.71 8099.99
+\i (00:25:19) trapsize 98
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.70 8099.99
+\i (00:25:19) trapsize 196
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.71 8099.99
+\i (00:25:19) trapsize 392
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.70 8099.99
+\i (00:25:19) trapsize 784
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.71 8100.00
+\i (00:25:19) trapsize 1568
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.71 8100.00
+\i (00:25:19) trapsize 3136
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.72 8100.00
+\i (00:25:19) trapsize 6271
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.71 8099.99
+\i (00:25:19) trapsize 12542
+\i (00:25:19) zoom out 1 
+\i (00:25:19) setwindow pcb
+\i (00:25:19) zoom out -4397.72 8100.00
+\i (00:25:19) trapsize 25085
+\i (00:25:20) zoom in 1 
+\i (00:25:20) setwindow pcb
+\i (00:25:20) zoom in -534.66 2832.17
+\i (00:25:20) trapsize 12542
+\i (00:25:21) zoom out 1 
+\i (00:25:21) setwindow pcb
+\i (00:25:21) zoom out -810.59 3208.45
+\i (00:25:21) trapsize 25085
+\i (00:25:21) zoom in 1 
+\i (00:25:21) setwindow pcb
+\i (00:25:21) zoom in 2450.44 -7026.19
+\i (00:25:21) trapsize 12542
+\i (00:25:21) zoom in 1 
+\i (00:25:21) setwindow pcb
+\i (00:25:21) zoom in 2475.53 -7026.19
+\i (00:25:21) trapsize 6271
+\i (00:25:21) zoom in 1 
+\i (00:25:21) setwindow pcb
+\i (00:25:21) zoom in 2475.53 -7026.19
+\i (00:25:21) trapsize 3136
+\i (00:25:24) open 
+\i (00:25:26) fillin "038RT-8730CN_1019-6.brd"
+\t (00:25:26) Opening existing design...
+\i (00:25:27) trapsize 11755
+\d (00:25:28) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10_20261008_V3/038RT-8730CN_1019-6.brd
+\i (00:25:28) rfedit_appm 
+\i (00:25:29) zoom in 1 
+\i (00:25:29) setwindow pcb
+\i (00:25:29) zoom in -4549.97 8663.29
+\i (00:25:29) trapsize 5877
+\i (00:25:29) zoom in 1 
+\i (00:25:29) setwindow pcb
+\i (00:25:29) zoom in -4549.97 8663.29
+\i (00:25:29) trapsize 2939
+\i (00:25:30) zoom in 1 
+\i (00:25:30) setwindow pcb
+\i (00:25:30) zoom in -4914.36 7816.94
+\i (00:25:30) trapsize 1469
+\i (00:25:31) open 
+\i (00:25:36) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\8730CN\038RT-8730CN_1027-1.brd"
+\i (00:25:36) cd "D:\iTest\homeoffice\Test Hardware\KSMT\8730CN"
+\t (00:25:36) Opening existing design...
+\i (00:25:37) trapsize 11755
+\t (00:25:37)     Journal end - Tue Oct 27 11:40:50 2026
