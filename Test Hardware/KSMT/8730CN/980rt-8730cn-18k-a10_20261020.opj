@@ -48,7 +48,7 @@
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources" ".\980rt-8730cn-18k-a10_20261020.dsn"
-         "SCHEMATIC1" "P0003_S0_Power"))
+         "SCHEMATIC1" "X001_Assign_Rule"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -59,12 +59,34 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 1665 0 452")
-        (Scroll "1172 1590")
+        (Scroll "1229 1220")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\8730CN\980RT-8730CN-18K-A10_20261020.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P0003_S0_Power")))
+      (Page "P0003_S0_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1717 52 504")
+        (Scroll "-139 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\8730CN\980RT-8730CN-18K-A10_20261020.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "X001_Assign_Rule"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1743 78 530")
+        (Scroll "487 571")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\8730CN\980RT-8730CN-18K-A10_20261020.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S0098_128UR")))
   (PartMRUSelector)
   (MPSSessionName "Ashik-iTest"))
