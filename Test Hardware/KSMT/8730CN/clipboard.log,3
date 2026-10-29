@@ -1,0 +1,245 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Clipboard Paste Session                                          )
+(                                                                     )
+(    Drawing          : 038RT-8730CN_1029-12.brd                      )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Thu Oct 29 19:00:08 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Netname "S1_DPS_F002" for shape on layer BOUNDARY/L15_DPS at (-206.0 -2355.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S0_DPS_F004" for shape on layer BOUNDARY/L17_DPS at (-3584.0 -514.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S0_DPS_F001" for shape on layer BOUNDARY/L13_DPS at (-2368.0 -480.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S1_DPS_F006" for shape on layer BOUNDARY/L19_DPS at (-791.0 -2382.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S0_DPS_F002" for shape on layer BOUNDARY/L15_DPS at (-1777.0 -2375.0) d
+oes not exist.
+ Created shape on dummy net.
+Netname "S1_DPS_F004" for shape on layer BOUNDARY/L17_DPS at (-1908.0 -4459.0) d
+oes not exist.
+ Created shape on dummy net.
+Netname "S1_DPS_F001" for shape on layer BOUNDARY/L13_DPS at (-3560.0 -214.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S0_DPS_F006" for shape on layer BOUNDARY/L19_DPS at (-2242.0 -2336.0) d
+oes not exist.
+ Created shape on dummy net.
+Netname "S4_DPS_F002" for shape on layer BOUNDARY/L15_DPS at (771.0 5822.0) does
+ not exist.
+ Created shape on dummy net.
+Netname "S4_DPS_F002" for shape on layer BOUNDARY/TOP at (-5239.59 -305.48) does
+ not exist.
+ Created shape on dummy net.
+Netname "S5_DPS_F002" for shape on layer BOUNDARY/L15_DPS at (-5439.0 2712.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S4_ATX_VD0V9" for shape on layer BOUNDARY/L21_DPS at (-3040.0 1580.0) d
+oes not exist.
+ Created shape on dummy net.
+Netname "S5_DPS_F002" for shape on layer BOUNDARY/TOP at (-5239.59 2394.52) does
+ not exist.
+ Created shape on dummy net.
+Netname "S4_ATX_VD0V9" for shape on layer BOUNDARY/TOP at (-4185.0 1210.0) does 
+not exist.
+ Created shape on dummy net.
+Netname "S5_ATX_VD0V9" for shape on layer BOUNDARY/L21_DPS at (-4407.0 6078.0) d
+oes not exist.
+ Created shape on dummy net.
+Netname "S4_DPS_F004" for shape on layer BOUNDARY/L17_DPS at (-2579.0 1602.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S5_ATX_VD0V9" for shape on layer BOUNDARY/TOP at (-4185.0 2560.0) does 
+not exist.
+ Created shape on dummy net.
+Netname "S0_DPS_F001" for shape on layer BOUNDARY/TOP at (-3664.97 -2702.3) does
+ not exist.
+ Created shape on dummy net.
+Netname "S0_DPS_F004" for shape on layer BOUNDARY/TOP at (-3410.0 -2558.23) does
+ not exist.
+ Created shape on dummy net.
+Netname "S1_DPS_F001" for shape on layer BOUNDARY/TOP at (-3447.08 -214.15) does
+ not exist.
+ Created shape on dummy net.
+Netname "S1_DPS_F004" for shape on layer BOUNDARY/TOP at (-3265.0 -214.15) does 
+not exist.
+ Created shape on dummy net.
+Netname "S5_DPS_F004" for shape on layer BOUNDARY/L17_DPS at (-3493.0 2601.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S4_DPS_F001" for shape on layer BOUNDARY/L13_DPS at (-2157.0 1700.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S4_DPS_F001" for shape on layer BOUNDARY/TOP at (-3194.92 2501.15) does
+ not exist.
+ Created shape on dummy net.
+Netname "S5_DPS_F004" for shape on layer BOUNDARY/TOP at (-3377.0 2501.15) does 
+not exist.
+ Created shape on dummy net.
+Netname "S4_DPS_F004" for shape on layer BOUNDARY/TOP at (-3194.92 2136.93) does
+ not exist.
+ Created shape on dummy net.
+Netname "S4_DPS_F006" for shape on layer BOUNDARY/L19_DPS at (-2907.0 2533.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S4_DPS_F006" for shape on layer BOUNDARY/BOTTOM at (-2685.0 2385.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "SA_DPS_F005" for shape on layer BOUNDARY/L24_DPS at (-2275.0 -6211.0) d
+oes not exist.
+ Created shape on dummy net.
+Netname "S0_DPS_F006" for shape on layer BOUNDARY/BOTTOM at (-2364.4 -2380.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S0_DPS_F002" for shape on layer BOUNDARY/TOP at (-1458.91 -2610.14) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S5_DPS_F006" for shape on layer BOUNDARY/L19_DPS at (-1497.0 2465.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S5_DPS_F006" for shape on layer BOUNDARY/BOTTOM at (-1480.0 2655.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S1_DPS_F006" for shape on layer BOUNDARY/BOTTOM at (-789.6 -2380.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S5_DPS_F001" for shape on layer BOUNDARY/L13_DPS at (-982.0 2911.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S5_DPS_F001" for shape on layer BOUNDARY/TOP at (-726.92 2475.15) does 
+not exist.
+ Created shape on dummy net.
+Netname "S2_DPS_F004" for shape on layer BOUNDARY/L17_DPS at (1221.0 -4877.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S1_DPS_F002" for shape on layer BOUNDARY/TOP at (-18.91 -2610.14) does 
+not exist.
+ Created shape on dummy net.
+Netname "S2_ATX_VD0V9" for shape on layer BOUNDARY/L21_DPS at (-199.0 -624.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S6_ATX_VD0V9" for shape on layer BOUNDARY/L21_DPS at (-137.0 1696.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S2_DPS_F001" for shape on layer BOUNDARY/L13_DPS at (790.0 -4486.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S6_DPS_F004" for shape on layer BOUNDARY/L17_DPS at (1949.0 2378.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S6_DPS_F006" for shape on layer BOUNDARY/L19_DPS at (81.0 2405.0) does 
+not exist.
+ Created shape on dummy net.
+Netname "S6_DPS_F006" for shape on layer BOUNDARY/BOTTOM at (95.0 2655.0) does n
+ot exist.
+ Created shape on dummy net.
+Netname "S2_DPS_F006" for shape on layer BOUNDARY/L19_DPS at (762.0 -2416.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S2_DPS_F006" for shape on layer BOUNDARY/BOTTOM at (785.2 -2380.0) does
+ not exist.
+ Created shape on dummy net.
+Netname "S3_ATX_VD0V9" for shape on layer BOUNDARY/L21_DPS at (1520.0 -1076.0) d
+oes not exist.
+ Created shape on dummy net.
+Netname "S7_ATX_VD0V9" for shape on layer BOUNDARY/L21_DPS at (1388.0 1520.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S6_DPS_F001" for shape on layer BOUNDARY/L13_DPS at (800.0 2307.0) does
+ not exist.
+ Created shape on dummy net.
+Netname "S6_DPS_F002" for shape on layer BOUNDARY/L15_DPS at (2608.0 5910.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S6_DPS_F001" for shape on layer BOUNDARY/TOP at (1484.15 2609.92) does 
+not exist.
+ Created shape on dummy net.
+Netname "S2_DPS_F002" for shape on layer BOUNDARY/L15_DPS at (1408.0 -2368.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S2_DPS_F002" for shape on layer BOUNDARY/TOP at (1501.09 -2610.14) does
+ not exist.
+ Created shape on dummy net.
+Netname "S3_DPS_F004" for shape on layer BOUNDARY/L17_DPS at (2008.0 -424.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S7_DPS_F004" for shape on layer BOUNDARY/L17_DPS at (2022.0 1946.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S6_DPS_F004" for shape on layer BOUNDARY/TOP at (1810.0 2485.93) does n
+ot exist.
+ Created shape on dummy net.
+Netname "S3_DPS_F006" for shape on layer BOUNDARY/L19_DPS at (2360.0 -2471.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S3_DPS_F006" for shape on layer BOUNDARY/BOTTOM at (2360.0 -2380.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S3_DPS_F001" for shape on layer BOUNDARY/L13_DPS at (2364.0 -565.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S7_DPS_F001" for shape on layer BOUNDARY/L13_DPS at (2395.0 1852.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S7_DPS_F006" for shape on layer BOUNDARY/L19_DPS at (2242.0 2339.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S7_DPS_F006" for shape on layer BOUNDARY/BOTTOM at (2250.0 2575.0) does
+ not exist.
+ Created shape on dummy net.
+Netname "S3_DPS_F002" for shape on layer BOUNDARY/L15_DPS at (3226.0 -2383.0) do
+es not exist.
+ Created shape on dummy net.
+Netname "S3_DPS_F002" for shape on layer BOUNDARY/TOP at (3341.09 -2610.14) does
+ not exist.
+ Created shape on dummy net.
+Netname "S3_DPS_F001" for shape on layer BOUNDARY/TOP at (2812.17 -2212.92) does
+ not exist.
+ Created shape on dummy net.
+Netname "S3_DPS_F004" for shape on layer BOUNDARY/TOP at (3354.07 -1755.0) does 
+not exist.
+ Created shape on dummy net.
+Netname "S2_DPS_F001" for shape on layer BOUNDARY/TOP at (3317.92 -229.15) does 
+not exist.
+ Created shape on dummy net.
+Netname "S2_DPS_F004" for shape on layer BOUNDARY/TOP at (2916.0 193.93) does no
+t exist.
+ Created shape on dummy net.
+Netname "S7_DPS_F004" for shape on layer BOUNDARY/TOP at (3287.7 1854.07) does n
+ot exist.
+ Created shape on dummy net.
+Netname "S7_DPS_F002" for shape on layer BOUNDARY/L15_DPS at (3795.0 5927.0) doe
+s not exist.
+ Created shape on dummy net.
+Netname "S7_DPS_F001" for shape on layer BOUNDARY/TOP at (3362.08 2414.15) does 
+not exist.
+ Created shape on dummy net.
+Netname "S3_ATX_VD0V9" for shape on layer BOUNDARY/TOP at (4185.0 -2560.0) does 
+not exist.
+ Created shape on dummy net.
+Netname "S2_ATX_VD0V9" for shape on layer BOUNDARY/TOP at (4185.0 -1210.0) does 
+not exist.
+ Created shape on dummy net.
+Netname "S7_ATX_VD0V9" for shape on layer BOUNDARY/TOP at (4185.0 140.0) does no
+t exist.
+ Created shape on dummy net.
+Netname "S6_ATX_VD0V9" for shape on layer BOUNDARY/TOP at (4185.0 1490.0) does n
+ot exist.
+ Created shape on dummy net.
+Netname "S7_DPS_F002" for shape on layer BOUNDARY/TOP at (5279.51 -2450.74) does
+ not exist.
+ Created shape on dummy net.
+Netname "S6_DPS_F002" for shape on layer BOUNDARY/TOP at (5279.51 249.26) does n
+ot exist.
+ Created shape on dummy net.
+
+
+Clipboard Paste Session Completed at Oct 29 19:00:22 2026
