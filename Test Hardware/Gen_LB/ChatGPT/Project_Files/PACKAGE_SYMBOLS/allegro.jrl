@@ -1,0 +1,24 @@
+\t (00:00:08) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:08)     Journal start - Sat Nov 07 18:12:10 2026
+\t (00:00:08)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=35616 CPUs=16
+\t (00:00:08) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -ORCAD
+\t (00:00:08) 
+\t (00:00:12) Opening existing design...
+\d (00:00:12) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/PACKAGE_SYMBOLS/BASE_FOOTPRINT.dra
+\i (00:00:13) trapsize 1467
+\i (00:00:13) trapsize 1432
+\i (00:00:13) trapsize 1473
+\i (00:00:14) trapsize 1473
+\i (00:00:15) generaledit 
+\i (00:00:17) open 
+\i (00:00:20) fillin "menu_cancel"
+\i (00:00:20) generaledit 
+\i (00:00:26) enved 
+\i (00:00:28) generaledit 
+\i (00:00:31) setwindow form.prfedit
+\i (00:00:31) FORM prfedit treelist  Library Paths 
+\i (00:00:39) FORM prfedit cancel  
+\i (00:00:50) setwindow pcb
+\i (00:00:50) new 
+\i (00:01:30) newdrawfillin "test.brd" "Board"
+\t (00:01:30)     Journal end - Sat Nov 07 18:13:31 2026

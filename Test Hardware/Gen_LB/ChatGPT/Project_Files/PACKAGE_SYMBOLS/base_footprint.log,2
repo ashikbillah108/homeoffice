@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : BASE_FOOTPRINT.dra                            )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Sat Nov 07 17:03:35 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/PACKAGE_SYMBOLS
+    Name      = base_footprint.psm
+    User      = Ashik-HomeOffice
+    Machine   = ASHIK-HOMEOFFIC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
