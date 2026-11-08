@@ -1,0 +1,373 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  D10101       pins ADDED TO this new net
+                                 D101.01                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10102       pins ADDED TO this new net
+                                 D101.02                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10103       pins ADDED TO this new net
+                                 D101.03                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10104       pins ADDED TO this new net
+                                 D101.04                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10105       pins ADDED TO this new net
+                                 D101.05                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10106       pins ADDED TO this new net
+                                 D101.06                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10107       pins ADDED TO this new net
+                                 D101.07                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10108       pins ADDED TO this new net
+                                 D101.08                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10109       pins ADDED TO this new net
+                                 D101.09                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10110       pins ADDED TO this new net
+                                 D101.10                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10111       pins ADDED TO this new net
+                                 D101.11                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10112       pins ADDED TO this new net
+                                 D101.12                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10113       pins ADDED TO this new net
+                                 D101.13                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10114       pins ADDED TO this new net
+                                 D101.14                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10115       pins ADDED TO this new net
+                                 D101.15                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  D10116       pins ADDED TO this new net
+                                 D101.16                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DGND         pins ADDED TO this existing net (pins not previously on any net)
+                                 D101.A1                        
+                                 D101.A2                        
+                                 D101.A3                        
+                                 D101.A4                        
+                                 D101.A5                        
+                                 D101.A6                        
+                                 D101.A7                        
+                                 D101.A8                        
+                                 D101.A9                        
+                                 D101.A10                       
+                                 D101.A11                       
+                                 D101.A12                       
+                                 D101.A13                       
+                                 D101.A14                       
+                                 D101.A15                       
+                                 D101.A16                       
+                                 D101.B1                        
+                                 D101.B2                        
+                                 D101.B3                        
+                                 D101.B4                        
+                                 D101.B5                        
+                                 D101.B6                        
+                                 D101.B7                        
+                                 D101.B8                        
+                                 D101.B9                        
+                                 D101.B10                       
+                                 D101.B11                       
+                                 D101.B12                       
+                                 D101.B13                       
+                                 D101.B14                       
+                                 D101.B15                       
+                                 D101.B16                       
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ V93K_CH_PG_VG93K_F_G1D101_V93K_
+ V93K_PS1600_HD_PG_VG93K_F_HSM_1
+ V93K_PS1600_HD_PG_VG93K_F_HSM_2
+ V93K_PS1600_HD_PG_VG93K_F_HSM_3
+ V93K_PS1600_HD_PG_VG93K_F_HSM_4
+ V93K_PS1600_HD_PG_VG93K_F_HSM_5
+ V93K_PS1600_HD_PG_VG93K_F_HSM_6
+ V93K_PS1600_HD_PG_VG93K_F_HSM_7
+ V93K_PS1600_HD_PG_VG93K_F_HSM_8
+ V93K_PS1600_HD_PG_VG93K_F_HSM_9
+ V93K_PS1600_HD_PG_VG93K_F_HSM_G
+ V93K_PS1600_HD_PG_VG93K_F_HS_10
+ V93K_PS1600_HD_PG_VG93K_F_HS_11
+ V93K_PS1600_HD_PG_VG93K_F_HS_12
+ V93K_PS1600_HD_PG_VG93K_F_HS_13
+ V93K_PS1600_HD_PG_VG93K_F_HS_14
+ V93K_PS1600_HD_PG_VG93K_F_HS_15
+ V93K_PS1600_HD_PG_VG93K_F_HS_16
+ V93K_PS1600_HD_PG_VG93K_F_HS_17
+ V93K_PS1600_HD_PG_VG93K_F_HS_18
+ V93K_PS1600_HD_PG_VG93K_F_HS_19
+ V93K_PS1600_HD_PG_VG93K_F_HS_20
+ V93K_PS1600_HD_PG_VG93K_F_HS_21
+ V93K_PS1600_HD_PG_VG93K_F_HS_22
+ V93K_PS1600_HD_PG_VG93K_F_HS_23
+ V93K_PS1600_HD_PG_VG93K_F_HS_24
+ V93K_PS1600_HD_PG_VG93K_F_HS_25
+ V93K_PS1600_HD_PG_VG93K_F_HS_26
+ V93K_PS1600_HD_PG_VG93K_F_HS_27
+ V93K_PS1600_HD_PG_VG93K_F_HS_28
+ V93K_PS1600_HD_PG_VG93K_F_HS_29
+ V93K_PS1600_HD_PG_VG93K_F_HS_30
+ V93K_PS1600_HD_PG_VG93K_F_HS_31
+ V93K_PS1600_HD_PG_VG93K_F_HS_32
+ V93K_PS1600_HD_PG_VG93K_F_HS_33
+ V93K_PS1600_HD_PG_VG93K_F_HS_34
+ V93K_PS1600_HD_PG_VG93K_F_HS_35
+ V93K_PS1600_HD_PG_VG93K_F_HS_36
+ V93K_PS1600_HD_PG_VG93K_F_HS_37
+ V93K_PS1600_HD_PG_VG93K_F_HS_38
+ V93K_PS1600_HD_PG_VG93K_F_HS_39
+ V93K_PS1600_HD_PG_VG93K_F_HS_40
+ V93K_PS1600_HD_PG_VG93K_F_HS_41
+ V93K_PS1600_HD_PG_VG93K_F_HS_42
+ V93K_PS1600_HD_PG_VG93K_F_HS_43
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ V93K_PS1600_HD_PG_VG93K_F_HS_44
+ V93K_PS1600_HD_PG_VG93K_F_HS_45
+ V93K_PS1600_HD_PG_VG93K_F_HS_46
+ V93K_PS1600_HD_PG_VG93K_F_HS_47
+ V93K_PS1600_HD_PG_VG93K_F_HS_48
+ V93K_PS1600_HD_PG_VG93K_F_HS_49
+ V93K_PS1600_HD_PG_VG93K_F_HS_50
+ V93K_PS1600_HD_PG_VG93K_F_HS_51
+ V93K_PS1600_HD_PG_VG93K_F_HS_52
+ V93K_PS1600_HD_PG_VG93K_F_HS_53
+ V93K_PS1600_HD_PG_VG93K_F_HS_54
+ V93K_PS1600_HD_PG_VG93K_F_HS_55
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D101/D501           V93K_PS1600_HD_PG_VG93K_F_HSM_G 1450.00 -4600.0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D101                V93K_CH_PG_VG93K_F_G1D101_V93K_ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D102/D502           V93K_PS1600_HD_PG_VG93K_F_HSM_G 1450.00 -5400.0 V93K_PS1600_HD_PG_VG93K_F_HSM_1
+ D105/D505           V93K_PS1600_HD_PG_VG93K_F_HSM_1 4350.00 -4600.0 V93K_PS1600_HD_PG_VG93K_F_HSM_2
+ D106/D506           V93K_PS1600_HD_PG_VG93K_F_HSM_2 4350.00 -5400.0 V93K_PS1600_HD_PG_VG93K_F_HSM_3
+ D117/D517           V93K_PS1600_HD_PG_VG93K_F_HSM_3 -4350.0 -4600.0 V93K_PS1600_HD_PG_VG93K_F_HSM_4
+ D118/D518           V93K_PS1600_HD_PG_VG93K_F_HSM_4 -4350.0 -5400.0 V93K_PS1600_HD_PG_VG93K_F_HSM_5
+ D121/D521           V93K_PS1600_HD_PG_VG93K_F_HSM_5 -1450.0 -4600.0 V93K_PS1600_HD_PG_VG93K_F_HSM_6
+ D122/D522           V93K_PS1600_HD_PG_VG93K_F_HSM_6 -1450.0 -5400.0 V93K_PS1600_HD_PG_VG93K_F_HSM_7
+ D226/D626           V93K_PS1600_HD_PG_VG93K_F_HSM_7 -1450.0 5400.00 V93K_PS1600_HD_PG_VG93K_F_HSM_8
+ D227/D627           V93K_PS1600_HD_PG_VG93K_F_HSM_8 -1450.0 6200.00 V93K_PS1600_HD_PG_VG93K_F_HSM_9
+ D230/D630           V93K_PS1600_HD_PG_VG93K_F_HSM_9 -4350.0 5400.00 V93K_PS1600_HD_PG_VG93K_F_HS_10
+ D303/D703           V93K_PS1600_HD_PG_VG93K_F_HS_10 1450.00 -6600.0 V93K_PS1600_HD_PG_VG93K_F_HS_11
+ D304/D704           V93K_PS1600_HD_PG_VG93K_F_HS_11 1450.00 -7400.0 V93K_PS1600_HD_PG_VG93K_F_HS_12
+ D307/D707           V93K_PS1600_HD_PG_VG93K_F_HS_12 4350.00 -6600.0 V93K_PS1600_HD_PG_VG93K_F_HS_13
+ D308/D708           V93K_PS1600_HD_PG_VG93K_F_HS_13 4350.00 -7400.0 V93K_PS1600_HD_PG_VG93K_F_HS_14
+ D309/D709           V93K_PS1600_HD_PG_VG93K_F_HS_14 4350.00 5000.00 V93K_PS1600_HD_PG_VG93K_F_HS_15
+ D311/D711           V93K_PS1600_HD_PG_VG93K_F_HS_15 4350.00 6600.00 V93K_PS1600_HD_PG_VG93K_F_HS_16
+ D312/D712           V93K_PS1600_HD_PG_VG93K_F_HS_16 4350.00 7400.00 V93K_PS1600_HD_PG_VG93K_F_HS_17
+ D313/D713           V93K_PS1600_HD_PG_VG93K_F_HS_17 1450.00 5000.00 V93K_PS1600_HD_PG_VG93K_F_HS_18
+ D315/D715           V93K_PS1600_HD_PG_VG93K_F_HS_18 1450.00 6600.00 V93K_PS1600_HD_PG_VG93K_F_HS_19
+ D316/D716           V93K_PS1600_HD_PG_VG93K_F_HS_19 1450.00 7400.00 V93K_PS1600_HD_PG_VG93K_F_HS_20
+ D319/D719           V93K_PS1600_HD_PG_VG93K_F_HS_20 -4350.0 -6600.0 V93K_PS1600_HD_PG_VG93K_F_HS_21
+ D320/D720           V93K_PS1600_HD_PG_VG93K_F_HS_21 -4350.0 -7400.0 V93K_PS1600_HD_PG_VG93K_F_HS_22
+ D323/D723           V93K_PS1600_HD_PG_VG93K_F_HS_22 -1450.0 -6600.0 V93K_PS1600_HD_PG_VG93K_F_HS_23
+ D324/D724           V93K_PS1600_HD_PG_VG93K_F_HS_23 -1450.0 -7400.0 V93K_PS1600_HD_PG_VG93K_F_HS_24
+ D325/D725           V93K_PS1600_HD_PG_VG93K_F_HS_24 -10150. -5000.0 V93K_PS1600_HD_PG_VG93K_F_HS_25
+ D326/D726           V93K_PS1600_HD_PG_VG93K_F_HS_25 -10150. -5800.0 V93K_PS1600_HD_PG_VG93K_F_HS_26
+ D327/D727           V93K_PS1600_HD_PG_VG93K_F_HS_26 -10150. -6600.0 V93K_PS1600_HD_PG_VG93K_F_HS_27
+ D328/D728           V93K_PS1600_HD_PG_VG93K_F_HS_27 -10150. -7400.0 V93K_PS1600_HD_PG_VG93K_F_HS_28
+ D329/D729           V93K_PS1600_HD_PG_VG93K_F_HS_28 -7250.0 -5000.0 V93K_PS1600_HD_PG_VG93K_F_HS_29
+ D330/D730           V93K_PS1600_HD_PG_VG93K_F_HS_29 -7250.0 -5800.0 V93K_PS1600_HD_PG_VG93K_F_HS_30
+ D331/D731           V93K_PS1600_HD_PG_VG93K_F_HS_30 -7250.0 -6600.0 V93K_PS1600_HD_PG_VG93K_F_HS_31
+ D332/D732           V93K_PS1600_HD_PG_VG93K_F_HS_31 -7250.0 -7400.0 V93K_PS1600_HD_PG_VG93K_F_HS_32
+ D401/D801           V93K_PS1600_HD_PG_VG93K_F_HS_32 7250.00 -5000.0 V93K_PS1600_HD_PG_VG93K_F_HS_33
+ D402/D802           V93K_PS1600_HD_PG_VG93K_F_HS_33 7250.00 -5800.0 V93K_PS1600_HD_PG_VG93K_F_HS_34
+ D403/D803           V93K_PS1600_HD_PG_VG93K_F_HS_34 7250.00 -6600.0 V93K_PS1600_HD_PG_VG93K_F_HS_35
+ D404/D804           V93K_PS1600_HD_PG_VG93K_F_HS_35 7250.00 -7400.0 V93K_PS1600_HD_PG_VG93K_F_HS_36
+ D405/D805           V93K_PS1600_HD_PG_VG93K_F_HS_36 10150.0 -5000.0 V93K_PS1600_HD_PG_VG93K_F_HS_37
+ D406/D806           V93K_PS1600_HD_PG_VG93K_F_HS_37 10150.0 -5800.0 V93K_PS1600_HD_PG_VG93K_F_HS_38
+ D407/D807           V93K_PS1600_HD_PG_VG93K_F_HS_38 10150.0 -6600.0 V93K_PS1600_HD_PG_VG93K_F_HS_39
+ D408/D808           V93K_PS1600_HD_PG_VG93K_F_HS_39 10150.0 -7400.0 V93K_PS1600_HD_PG_VG93K_F_HS_40
+ D409/D809           V93K_PS1600_HD_PG_VG93K_F_HS_40 10150.0 5000.00 V93K_PS1600_HD_PG_VG93K_F_HS_41
+ D410/D810           V93K_PS1600_HD_PG_VG93K_F_HS_41 10150.0 5800.00 V93K_PS1600_HD_PG_VG93K_F_HS_42
+ D411/D811           V93K_PS1600_HD_PG_VG93K_F_HS_42 10150.0 6600.00 V93K_PS1600_HD_PG_VG93K_F_HS_43
+ D412/D812           V93K_PS1600_HD_PG_VG93K_F_HS_43 10150.0 7400.00 V93K_PS1600_HD_PG_VG93K_F_HS_44
+ D413/D813           V93K_PS1600_HD_PG_VG93K_F_HS_44 7250.00 5000.00 V93K_PS1600_HD_PG_VG93K_F_HS_45
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D414/D814           V93K_PS1600_HD_PG_VG93K_F_HS_45 7250.00 5800.00 V93K_PS1600_HD_PG_VG93K_F_HS_46
+ D415/D815           V93K_PS1600_HD_PG_VG93K_F_HS_46 7250.00 6600.00 V93K_PS1600_HD_PG_VG93K_F_HS_47
+ D416/D816           V93K_PS1600_HD_PG_VG93K_F_HS_47 7250.00 7400.00 V93K_PS1600_HD_PG_VG93K_F_HS_48
+ D417/D817           V93K_PS1600_HD_PG_VG93K_F_HS_48 -7250.0 5000.00 V93K_PS1600_HD_PG_VG93K_F_HS_49
+ D418/D818           V93K_PS1600_HD_PG_VG93K_F_HS_49 -7250.0 5800.00 V93K_PS1600_HD_PG_VG93K_F_HS_50
+ D419/D819           V93K_PS1600_HD_PG_VG93K_F_HS_50 -7250.0 6600.00 V93K_PS1600_HD_PG_VG93K_F_HS_51
+ D420/D820           V93K_PS1600_HD_PG_VG93K_F_HS_51 -7250.0 7400.00 V93K_PS1600_HD_PG_VG93K_F_HS_52
+ D421/D821           V93K_PS1600_HD_PG_VG93K_F_HS_52 -10150. 5000.00 V93K_PS1600_HD_PG_VG93K_F_HS_53
+ D422/D822           V93K_PS1600_HD_PG_VG93K_F_HS_53 -10150. 5800.00 V93K_PS1600_HD_PG_VG93K_F_HS_54
+ D423/D823           V93K_PS1600_HD_PG_VG93K_F_HS_54 -10150. 6600.00 V93K_PS1600_HD_PG_VG93K_F_HS_55
+ D424/D824           V93K_PS1600_HD_PG_VG93K_F_HS_55 -10150. 7400.00 V93K_PS1600_HD_PG_VG93K_F_HS_56
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D101.B9                        PRIM_FILE      .\pstchip.dat
+ D102/D502.D9   1450.00 -5400.0 PRIM_FILE      .\pstchip.dat
+ D105/D505.D9   4350.00 -4600.0 PRIM_FILE      .\pstchip.dat
+ D106/D506.D9   4350.00 -5400.0 PRIM_FILE      .\pstchip.dat
+ D117/D517.D9   -4350.0 -4600.0 PRIM_FILE      .\pstchip.dat
+ D118/D518.D9   -4350.0 -5400.0 PRIM_FILE      .\pstchip.dat
+ D121/D521.D9   -1450.0 -4600.0 PRIM_FILE      .\pstchip.dat
+ D122/D522.D9   -1450.0 -5400.0 PRIM_FILE      .\pstchip.dat
+ D226/D626.D9   -1450.0 5400.00 PRIM_FILE      .\pstchip.dat
+ D227/D627.D9   -1450.0 6200.00 PRIM_FILE      .\pstchip.dat
+ D230/D630.D9   -4350.0 5400.00 PRIM_FILE      .\pstchip.dat
+ D303/D703.D9   1450.00 -6600.0 PRIM_FILE      .\pstchip.dat
+ D304/D704.D9   1450.00 -7400.0 PRIM_FILE      .\pstchip.dat
+ D307/D707.D9   4350.00 -6600.0 PRIM_FILE      .\pstchip.dat
+ D308/D708.D9   4350.00 -7400.0 PRIM_FILE      .\pstchip.dat
+ D309/D709.D9   4350.00 5000.00 PRIM_FILE      .\pstchip.dat
+ D311/D711.D9   4350.00 6600.00 PRIM_FILE      .\pstchip.dat
+ D312/D712.D9   4350.00 7400.00 PRIM_FILE      .\pstchip.dat
+ D313/D713.D9   1450.00 5000.00 PRIM_FILE      .\pstchip.dat
+ D315/D715.D9   1450.00 6600.00 PRIM_FILE      .\pstchip.dat
+ D316/D716.D9   1450.00 7400.00 PRIM_FILE      .\pstchip.dat
+ D319/D719.D9   -4350.0 -6600.0 PRIM_FILE      .\pstchip.dat
+ D320/D720.D9   -4350.0 -7400.0 PRIM_FILE      .\pstchip.dat
+ D323/D723.D9   -1450.0 -6600.0 PRIM_FILE      .\pstchip.dat
+ D324/D724.D9   -1450.0 -7400.0 PRIM_FILE      .\pstchip.dat
+ D325/D725.D9   -10150. -5000.0 PRIM_FILE      .\pstchip.dat
+ D326/D726.D9   -10150. -5800.0 PRIM_FILE      .\pstchip.dat
+ D327/D727.D9   -10150. -6600.0 PRIM_FILE      .\pstchip.dat
+ D328/D728.D9   -10150. -7400.0 PRIM_FILE      .\pstchip.dat
+ D329/D729.D9   -7250.0 -5000.0 PRIM_FILE      .\pstchip.dat
+ D330/D730.D9   -7250.0 -5800.0 PRIM_FILE      .\pstchip.dat
+ D331/D731.D9   -7250.0 -6600.0 PRIM_FILE      .\pstchip.dat
+ D332/D732.D9   -7250.0 -7400.0 PRIM_FILE      .\pstchip.dat
+ D401/D801.D9   7250.00 -5000.0 PRIM_FILE      .\pstchip.dat
+ D402/D802.D9   7250.00 -5800.0 PRIM_FILE      .\pstchip.dat
+ D403/D803.D9   7250.00 -6600.0 PRIM_FILE      .\pstchip.dat
+ D404/D804.D9   7250.00 -7400.0 PRIM_FILE      .\pstchip.dat
+ D405/D805.D9   10150.0 -5000.0 PRIM_FILE      .\pstchip.dat
+ D406/D806.D9   10150.0 -5800.0 PRIM_FILE      .\pstchip.dat
+ D407/D807.D9   10150.0 -6600.0 PRIM_FILE      .\pstchip.dat
+ D408/D808.D9   10150.0 -7400.0 PRIM_FILE      .\pstchip.dat
+ D409/D809.D9   10150.0 5000.00 PRIM_FILE      .\pstchip.dat
+ D410/D810.D9   10150.0 5800.00 PRIM_FILE      .\pstchip.dat
+ D411/D811.D9   10150.0 6600.00 PRIM_FILE      .\pstchip.dat
+ D412/D812.D9   10150.0 7400.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:.../Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd              |
+|                                                    Sun Nov 08 16:35:35 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D413/D813.D9   7250.00 5000.00 PRIM_FILE      .\pstchip.dat
+ D414/D814.D9   7250.00 5800.00 PRIM_FILE      .\pstchip.dat
+ D415/D815.D9   7250.00 6600.00 PRIM_FILE      .\pstchip.dat
+ D416/D816.D9   7250.00 7400.00 PRIM_FILE      .\pstchip.dat
+ D417/D817.D9   -7250.0 5000.00 PRIM_FILE      .\pstchip.dat
+ D418/D818.D9   -7250.0 5800.00 PRIM_FILE      .\pstchip.dat
+ D419/D819.D9   -7250.0 6600.00 PRIM_FILE      .\pstchip.dat
+ D420/D820.D9   -7250.0 7400.00 PRIM_FILE      .\pstchip.dat
+ D421/D821.D9   -10150. 5000.00 PRIM_FILE      .\pstchip.dat
+ D422/D822.D9   -10150. 5800.00 PRIM_FILE      .\pstchip.dat
+ D423/D823.D9   -10150. 6600.00 PRIM_FILE      .\pstchip.dat
+ D424/D824.D9   -10150. 7400.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      48                                        |
+|       Comp definitions added:      57                                        |
+|       Components added      :       1                                        |
+|       Components deleted    :       1                                        |
+|       Components changed    :      56                                        |
+|       Slot property added   :      57                                        |
+|                                                                              |
+|   Total ECO changes reported:     220                                        |
+|------------------------------------------------------------------------------|

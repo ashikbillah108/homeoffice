@@ -1,0 +1,73 @@
+\t (00:35:20) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:35:20)     Journal start - Sun Nov 08 16:34:45 2026
+\t (00:35:20)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=28120 CPUs=20
+\t (00:35:20) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:35:20) 
+\d (00:35:20) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/EXTRACTED_TEMPLATE_LIB/pg_vg93k_f_g1d101.dra
+\i (00:35:20) rfedit_appm 
+\i (00:35:21) zoom in 1 
+\i (00:35:21) setwindow pcb
+\i (00:35:21) zoom in -1411.65 -119.61
+\i (00:35:21) trapsize 1056
+\i (00:35:23) zoom in 1 
+\i (00:35:23) setwindow pcb
+\i (00:35:23) zoom in -134.39 -151.28
+\i (00:35:23) trapsize 528
+\i (00:35:26) zoom out 1 
+\i (00:35:26) setwindow pcb
+\i (00:35:26) zoom out -134.39 -151.28
+\i (00:35:26) trapsize 1056
+\i (00:35:27) zoom in 1 
+\i (00:35:27) setwindow pcb
+\i (00:35:27) zoom in -1162.53 30.28
+\i (00:35:27) trapsize 528
+\i (00:35:28) zoom out 1 
+\i (00:35:28) setwindow pcb
+\i (00:35:28) zoom out -932.41 -11.94
+\i (00:35:28) trapsize 1056
+\i (00:35:28) zoom out 1 
+\i (00:35:28) setwindow pcb
+\i (00:35:28) zoom out -702.30 -11.95
+\i (00:35:28) trapsize 2111
+\i (00:35:28) zoom in 1 
+\i (00:35:28) setwindow pcb
+\i (00:35:28) zoom in -22.50 209.73
+\i (00:35:28) trapsize 1056
+\i (00:35:29) zoom in 1 
+\i (00:35:29) setwindow pcb
+\i (00:35:29) zoom in -1329.31 49.28
+\i (00:35:29) trapsize 528
+\i (00:35:29) zoom out 1 
+\i (00:35:29) setwindow pcb
+\i (00:35:29) zoom out -992.58 64.06
+\i (00:35:29) trapsize 1056
+\i (00:35:32) show element 
+\i (00:35:33) pick grid -3.50 -64.71
+\t (00:35:33) last pick:  0.00 -75.00
+\i (00:35:36) setwindow text
+\i (00:35:36) close 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom in 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom in -839.52 72.51
+\i (00:35:36) trapsize 528
+\i (00:35:37) zoom out 1 
+\i (00:35:37) setwindow pcb
+\i (00:35:37) zoom out -839.52 72.52
+\i (00:35:37) trapsize 1056
+\i (00:35:37) zoom in 1 
+\i (00:35:37) setwindow pcb
+\i (00:35:37) zoom in -1113.97 59.84
+\i (00:35:37) trapsize 528
+\i (00:35:38) zoom out 1 
+\i (00:35:38) setwindow pcb
+\i (00:35:38) zoom out -887.02 86.23
+\i (00:35:38) trapsize 1056
+\i (00:35:38) zoom out 1 
+\i (00:35:38) setwindow pcb
+\i (00:35:38) zoom out -660.07 86.23
+\i (00:35:38) trapsize 2111
+\i (00:35:39) exit 
+\e (00:35:39) Do you want to save the changes you made to pg_vg93k_f_g1d101.dra?
+\i (00:35:40) fillin no 
+\t (00:35:40)     Journal end - Sun Nov 08 16:35:06 2026

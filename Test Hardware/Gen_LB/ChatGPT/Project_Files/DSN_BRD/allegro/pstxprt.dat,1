@@ -1,0 +1,1770 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Nov-08-2026 at 16:35:34 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='GEN-LB-20261108';
+ POST_TIME='Aug  3 2015 18:16:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ 038RD-E200A0 'REF-CODE-PCB_PCB_CODE_REF-CODE-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS16772191@PAS.REF-CODE-PCB.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins16772191@pas.\ref-code-pcb.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page1_ins16772191@pas.\ref-code-pcb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 980RD-E200A0-1AG- 'REF-CODE-PCB_PCB_CODE_REF-CODE-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS16772223@PAS.REF-CODE-PCB.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins16772223@pas.\ref-code-pcb.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page1_ins16772223@pas.\ref-code-pcb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BGA15.6X5.5-P0.65-191LD 'REF-CODE-CHIP_CHIP_CODE_REF-COD':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS16772207@PAS.REF-CODE-CHIP.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins16772207@pas.\ref-code-chip.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page1_ins16772207@pas.\ref-code-chip.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB1 '0.1U-25-X-S6_C0603_0.1U-25-X-S6':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17353893@C.0.1U-25-X-S6.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17353893@c.\0.1u-25-x-s6.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17353893@c.\0.1u-25-x-s6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB10 '10U-25-X7R-SA_C1206_10U-25-X7R-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17362966@C.10U-25-X7R-SA.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17362966@c.\10u-25-x7r-sa.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17362966@c.\10u-25-x7r-sa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB11 '0.1U-25-X-S6_C0603_0.1U-25-X-S6':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17369011@C.0.1U-25-X-S6.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17369011@c.\0.1u-25-x-s6.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17369011@c.\0.1u-25-x-s6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB12 '10U-25-X7R-SA_C1206_10U-25-X7R-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17369021@C.10U-25-X7R-SA.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17369021@c.\10u-25-x7r-sa.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17369021@c.\10u-25-x7r-sa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB13 '0.1U-25-X-S6_C0603_0.1U-25-X-S6':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17371943@C.0.1U-25-X-S6.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17371943@c.\0.1u-25-x-s6.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17371943@c.\0.1u-25-x-s6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB14 '10U-25-X7R-SA_C1206_10U-25-X7R-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17371815@C.10U-25-X7R-SA.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17371815@c.\10u-25-x7r-sa.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17371815@c.\10u-25-x7r-sa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB15 '0.1U-25-X-S6_C0603_0.1U-25-X-S6':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377892@C.0.1U-25-X-S6.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377892@c.\0.1u-25-x-s6.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377892@c.\0.1u-25-x-s6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB16 '10U-25-X7R-SA_C1206_10U-25-X7R-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377902@C.10U-25-X7R-SA.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377902@c.\10u-25-x7r-sa.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377902@c.\10u-25-x7r-sa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB2 '10U-25-X7R-SA_C1206_10U-25-X7R-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17354641@C.10U-25-X7R-SA.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17354641@c.\10u-25-x7r-sa.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17354641@c.\10u-25-x7r-sa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB3 '0.1U-25-X-S6_C0603_0.1U-25-X-S6':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17343136@C.0.1U-25-X-S6.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17343136@c.\0.1u-25-x-s6.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17343136@c.\0.1u-25-x-s6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB4 '10U-25-X7R-SA_C1206_10U-25-X7R-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17344942@C.10U-25-X7R-SA.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17344942@c.\10u-25-x7r-sa.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17344942@c.\10u-25-x7r-sa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB5 '0.1U-25-X-S6_C0603_0.1U-25-X-S6':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348075@C.0.1U-25-X-S6.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348075@c.\0.1u-25-x-s6.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348075@c.\0.1u-25-x-s6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB6 '10U-25-X7R-SA_C1206_10U-25-X7R-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348915@C.10U-25-X7R-SA.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348915@c.\10u-25-x7r-sa.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348915@c.\10u-25-x7r-sa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB7 '0.1U-25-X-S6_C0603_0.1U-25-X-S6':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358837@C.0.1U-25-X-S6.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358837@c.\0.1u-25-x-s6.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358837@c.\0.1u-25-x-s6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB8 '10U-25-X7R-SA_C1206_10U-25-X7R-':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358847@C.10U-25-X7R-SA.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358847@c.\10u-25-x7r-sa.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358847@c.\10u-25-x7r-sa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CB9 '0.1U-25-X-S6_C0603_0.1U-25-X-S6':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17363616@C.0.1U-25-X-S6.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17363616@c.\0.1u-25-x-s6.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17363616@c.\0.1u-25-x-s6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CSDPS310 'V93K_CSDPS_DPS32_PG_VG93K_PF_DP':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348301@V93K_HIGH_DENSITY.V93K_CSDPS_DPS32.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348301@v93k_high_density.\v93k_csdps_dps32.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348301@v93k_high_density.\v93k_csdps_dps32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CSDPS314 'V93K_CSDPS_DPS32_PG_VG93K_PF__1':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17349309@V93K_HIGH_DENSITY.V93K_CSDPS_DPS32.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17349309@v93k_high_density.\v93k_csdps_dps32.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17349309@v93k_high_density.\v93k_csdps_dps32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CSDPS426 'V93K_CSDPS_A_PG_VG93K_PF_DPS32_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17359643@LIBRARY1.V93K_CSDPS_A.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17359643@library1.\v93k_csdps_a.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17359643@library1.\v93k_csdps_a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CSDPS427 'V93K_CSDPS_DPS32_PG_VG93K_PF__2':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358341@V93K_HIGH_DENSITY.V93K_CSDPS_DPS32.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358341@v93k_high_density.\v93k_csdps_dps32.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358341@v93k_high_density.\v93k_csdps_dps32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CSDPS430 'V93K_CSDPS_DPS32_PG_VG93K_PF__3':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17359073@V93K_HIGH_DENSITY.V93K_CSDPS_DPS32.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17359073@v93k_high_density.\v93k_csdps_dps32.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17359073@v93k_high_density.\v93k_csdps_dps32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D101 'V93K_CH_PG_VG93K_F_G1D101_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17481505@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17481505@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17481505@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D102/D502 'V93K_PS1600_HD_PG_VG93K_F_HSM_G':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17343392@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17343392@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17343392@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D103 'V93K_CH_PG_VG93K_F_G1D103_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17343284@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17343284@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17343284@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D104 'V93K_CH_PG_VG93K_F_G1D104_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17343992@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17343992@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17343992@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D105/D505 'V93K_PS1600_HD_PG_VG93K_F_HSM_1':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17344666@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17344666@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17344666@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D106/D506 'V93K_PS1600_HD_PG_VG93K_F_HSM_2':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17343530@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17343530@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17343530@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D107 'V93K_CH_PG_VG93K_F_G1D107_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17345178@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17345178@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17345178@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D108 'V93K_CH_PG_VG93K_F_G1D108_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17345286@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17345286@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17345286@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D109 'V93K_CH_PG_VG93K_F_G2D109_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348085@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348085@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348085@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D110 'V93K_CH_PG_VG93K_F_G2D110_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17349201@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17349201@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17349201@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D111 'V93K_CH_PG_VG93K_F_G2D111_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17350155@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17350155@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17350155@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D112 'V93K_CH_PG_VG93K_F_G2D112_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17350047@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17350047@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17350047@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D113 'V93K_CH_PG_VG93K_F_G2D113_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17349525@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17349525@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17349525@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D114 'V93K_CH_PG_VG93K_F_G2D114_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348807@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348807@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348807@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D115 'V93K_CH_PG_VG93K_F_G2D115_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348561@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348561@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348561@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D116 'V93K_CH_PG_VG93K_F_G2D116_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348443@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348443@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348443@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D117/D517 'V93K_PS1600_HD_PG_VG93K_F_HSM_3':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17354651@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17354651@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17354651@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D118/D518 'V93K_PS1600_HD_PG_VG93K_F_HSM_4':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17354789@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17354789@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17354789@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D119 'V93K_CH_PG_VG93K_F_G3D119_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17355035@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17355035@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17355035@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D120 'V93K_CH_PG_VG93K_F_G3D120_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17354927@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17354927@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17354927@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D121/D521 'V93K_PS1600_HD_PG_VG93K_F_HSM_5':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17354287@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17354287@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17354287@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D122/D522 'V93K_PS1600_HD_PG_VG93K_F_HSM_6':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17353903@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17353903@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17353903@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D123 'V93K_CH_PG_VG93K_F_G3D123_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17353647@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17353647@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17353647@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D124 'V93K_CH_PG_VG93K_F_G3D124_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17354179@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17354179@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17354179@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D125 'V93K_CH_PG_VG93K_F_G4D125_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17363114@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17363114@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17363114@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D126 'V93K_CH_PG_VG93K_F_G4D126_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17364442@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17364442@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17364442@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D127 'V93K_CH_PG_VG93K_F_G4D127_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17364226@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17364226@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17364226@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D128 'V93K_CH_PG_VG93K_F_G4D128_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17364334@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17364334@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17364334@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D129 'V93K_CH_PG_VG93K_F_G4D129_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17363902@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17363902@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17363902@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D130 'V93K_CH_PG_VG93K_F_G4D130_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17364010@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17364010@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17364010@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D131 'V93K_CH_PG_VG93K_F_G4D131_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17362858@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17362858@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17362858@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D132 'V93K_CH_PG_VG93K_F_G4D132_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17364118@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17364118@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17364118@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D201 'V93K_CH_PG_VG93K_F_G5D201_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17367373@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17367373@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17367373@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D202 'V93K_CH_PG_VG93K_F_G5D202_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17369031@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17369031@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17369031@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D203 'V93K_CH_PG_VG93K_F_G5D203_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17367599@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17367599@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17367599@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D204 'V93K_CH_PG_VG93K_F_G5D204_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17367481@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17367481@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17367481@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D205 'V93K_CH_PG_VG93K_F_G5D205_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17368691@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17368691@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17368691@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D206 'V93K_CH_PG_VG93K_F_G5D206_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17367923@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17367923@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17367923@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D207 'V93K_CH_PG_VG93K_F_G5D207_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17367707@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17367707@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17367707@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D208 'V93K_CH_PG_VG93K_F_G5D208_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17367815@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17367815@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17367815@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D209 'V93K_CH_PG_VG93K_F_G6D209_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17372061@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17372061@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17372061@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D210 'V93K_CH_PG_VG93K_F_G6D210_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17372769@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17372769@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17372769@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D211 'V93K_CH_PG_VG93K_F_G6D211_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17373261@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17373261@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17373261@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D212 'V93K_CH_PG_VG93K_F_G6D212_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17371953@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17371953@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17371953@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D213 'V93K_CH_PG_VG93K_F_G6D213_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17372661@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17372661@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17372661@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D214 'V93K_CH_PG_VG93K_F_G6D214_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17372553@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17372553@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17372553@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D215 'V93K_CH_PG_VG93K_F_G6D215_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17372169@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17372169@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17372169@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D216 'V93K_CH_PG_VG93K_F_G6D216_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17373153@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17373153@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17373153@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D217 'V93K_CH_PG_VG93K_F_G7D217_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17378030@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17378030@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17378030@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D218 'V93K_CH_PG_VG93K_F_G7D218_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377912@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377912@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377912@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D219 'V93K_CH_PG_VG93K_F_G7D219_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17376480@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17376480@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17376480@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D220 'V93K_CH_PG_VG93K_F_G7D220_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377676@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377676@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377676@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D221 'V93K_CH_PG_VG93K_F_G7D221_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17376834@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17376834@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17376834@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D222 'V93K_CH_PG_VG93K_F_G7D222_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377016@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377016@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377016@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D223 'V93K_CH_PG_VG93K_F_G7D223_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17378552@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17378552@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17378552@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D224 'V93K_CH_PG_VG93K_F_G7D224_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17376588@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17376588@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17376588@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D225 'V93K_CH_PG_VG93K_F_G8D225_ND_V9':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358857@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358857@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358857@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D226/D626 'V93K_PS1600_HD_PG_VG93K_F_HSM_7':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17359323@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17359323@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17359323@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D227/D627 'V93K_PS1600_HD_PG_VG93K_F_HSM_8':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358203@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358203@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358203@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D228 'V93K_CH_PG_VG93K_F_G8D228_ND_V9':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17359785@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17359785@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17359785@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D229 'V93K_CH_PG_VG93K_F_G8D229_ND_V9':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17359535@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17359535@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17359535@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D230/D630 'V93K_PS1600_HD_PG_VG93K_F_HSM_9':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358699@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358699@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358699@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D231 'V93K_CH_PG_VG93K_F_G8D231_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358483@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358483@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358483@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D232 'V93K_CH_PG_VG93K_F_G8D232_ND_V9':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358965@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358965@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358965@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D301 'V93K_CH_PG_VG93K_F_G1D301_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17344952@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17344952@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17344952@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D302 'V93K_CH_PG_VG93K_F_G1D302_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17343668@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17343668@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17343668@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D303/D703 'V93K_PS1600_HD_PG_VG93K_F_HS_10':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17344528@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17344528@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17344528@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D304/D704 'V93K_PS1600_HD_PG_VG93K_F_HS_11':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17344316@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17344316@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17344316@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D305 'V93K_CH_PG_VG93K_F_G1D305_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17345060@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17345060@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17345060@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D306 'V93K_CH_PG_VG93K_F_G1D306_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17344100@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17344100@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17344100@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D307/D707 'V93K_PS1600_HD_PG_VG93K_F_HS_12':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17343146@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17343146@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17343146@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D308/D708 'V93K_PS1600_HD_PG_VG93K_F_HS_13':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17344804@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17344804@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17344804@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D309/D709 'V93K_PS1600_HD_PG_VG93K_F_HS_14':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348669@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348669@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348669@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D311/D711 'V93K_PS1600_HD_PG_VG93K_F_HS_15':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348925@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348925@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348925@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D312/D712 'V93K_PS1600_HD_PG_VG93K_F_HS_16':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17349771@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17349771@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17349771@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D313/D713 'V93K_PS1600_HD_PG_VG93K_F_HS_17':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17349633@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17349633@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17349633@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D315/D715 'V93K_PS1600_HD_PG_VG93K_F_HS_18':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17349909@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17349909@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17349909@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D316/D716 'V93K_PS1600_HD_PG_VG93K_F_HS_19':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17349063@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17349063@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17349063@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D317 'V93K_CH_PG_VG93K_F_G3D317_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17355497@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17355497@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17355497@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D318 'V93K_CH_PG_VG93K_F_G3D318_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17355251@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17355251@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17355251@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D319/D719 'V93K_PS1600_HD_PG_VG93K_F_HS_20':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17355605@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17355605@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17355605@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D320/D720 'V93K_PS1600_HD_PG_VG93K_F_HS_21':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17355359@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17355359@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17355359@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D321 'V93K_CH_PG_VG93K_F_G3D321_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17354533@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17354533@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17354533@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D322 'V93K_CH_PG_VG93K_F_G3D322_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17354425@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17354425@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17354425@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D323/D723 'V93K_PS1600_HD_PG_VG93K_F_HS_22':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17353755@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17353755@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17353755@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D324/D724 'V93K_PS1600_HD_PG_VG93K_F_HS_23':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17354041@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17354041@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17354041@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D325/D725 'V93K_PS1600_HD_PG_VG93K_F_HS_24':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17363626@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17363626@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17363626@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D326/D726 'V93K_PS1600_HD_PG_VG93K_F_HS_25':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17363764@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17363764@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17363764@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D327/D727 'V93K_PS1600_HD_PG_VG93K_F_HS_26':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17362976@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17362976@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17362976@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D328/D728 'V93K_PS1600_HD_PG_VG93K_F_HS_27':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17362720@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17362720@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17362720@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D329/D729 'V93K_PS1600_HD_PG_VG93K_F_HS_28':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17362370@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17362370@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17362370@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D330/D730 'V93K_PS1600_HD_PG_VG93K_F_HS_29':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17363340@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17363340@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17363340@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D331/D731 'V93K_PS1600_HD_PG_VG93K_F_HS_30':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17362508@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17362508@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17362508@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D332/D732 'V93K_PS1600_HD_PG_VG93K_F_HS_31':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17363478@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17363478@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17363478@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D401/D801 'V93K_PS1600_HD_PG_VG93K_F_HS_32':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17368873@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17368873@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17368873@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D402/D802 'V93K_PS1600_HD_PG_VG93K_F_HS_33':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17367097@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17367097@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17367097@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D403/D803 'V93K_PS1600_HD_PG_VG93K_F_HS_34':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17368415@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17368415@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17368415@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D404/D804 'V93K_PS1600_HD_PG_VG93K_F_HS_35':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17368553@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17368553@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17368553@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D405/D805 'V93K_PS1600_HD_PG_VG93K_F_HS_36':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17368277@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17368277@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17368277@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D406/D806 'V93K_PS1600_HD_PG_VG93K_F_HS_37':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17369139@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17369139@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17369139@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D407/D807 'V93K_PS1600_HD_PG_VG93K_F_HS_38':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17367235@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17367235@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17367235@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D408/D808 'V93K_PS1600_HD_PG_VG93K_F_HS_39':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17368139@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17368139@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17368139@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D409/D809 'V93K_PS1600_HD_PG_VG93K_F_HS_40':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17373857@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17373857@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17373857@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D410/D810 'V93K_PS1600_HD_PG_VG93K_F_HS_41':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17372277@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17372277@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17372277@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D411/D811 'V93K_PS1600_HD_PG_VG93K_F_HS_42':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17372877@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17372877@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17372877@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D412/D812 'V93K_PS1600_HD_PG_VG93K_F_HS_43':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17373581@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17373581@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17373581@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D413/D813 'V93K_PS1600_HD_PG_VG93K_F_HS_44':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17373369@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17373369@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17373369@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D414/D814 'V93K_PS1600_HD_PG_VG93K_F_HS_45':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17373719@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17373719@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17373719@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D415/D815 'V93K_PS1600_HD_PG_VG93K_F_HS_46':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17373015@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17373015@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17373015@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D416/D816 'V93K_PS1600_HD_PG_VG93K_F_HS_47':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17372415@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17372415@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17372415@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D417/D817 'V93K_PS1600_HD_PG_VG93K_F_HS_48':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17376696@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17376696@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17376696@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D418/D818 'V93K_PS1600_HD_PG_VG93K_F_HS_49':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17378276@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17378276@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17378276@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D419/D819 'V93K_PS1600_HD_PG_VG93K_F_HS_50':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377124@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377124@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377124@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D420/D820 'V93K_PS1600_HD_PG_VG93K_F_HS_51':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377262@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377262@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377262@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D421/D821 'V93K_PS1600_HD_PG_VG93K_F_HS_52':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17378414@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17378414@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17378414@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D422/D822 'V93K_PS1600_HD_PG_VG93K_F_HS_53':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377538@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377538@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377538@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D423/D823 'V93K_PS1600_HD_PG_VG93K_F_HS_54':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17378138@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17378138@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17378138@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D424/D824 'V93K_PS1600_HD_PG_VG93K_F_HS_55':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377400@ELBRUS.V93K_PS1600_HD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377400@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377400@elbrus.\v93k_ps1600_hd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D425 'V93K_CH_PG_VG93K_F_G8D425_ND_V9':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17357987@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17357987@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17357987@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D428 'V93K_CH_PG_VG93K_F_G8D428_ND_V9':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17359893@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17359893@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17359893@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D429 'V93K_CH_PG_VG93K_F_G8D429_ND_V9':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17359215@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17359215@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17359215@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D431 'V93K_CH_PG_VG93K_F_G8D431_V93K_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17360001@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17360001@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17360001@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D432 'V93K_CH_PG_VG93K_F_G8D432_ND_V9':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358095@V93KLB_LIB.V93K_CH.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358095@v93klb_lib.\v93k_ch.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358095@v93klb_lib.\v93k_ch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DPS1 'V93K_DPS_PG_VG93K_F_G1DPS1_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17344208@V93KLB_LIB.V93K_DPS.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17344208@v93klb_lib.\v93k_dps.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17344208@v93klb_lib.\v93k_dps.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DPS2 'V93K_DPS_PG_VG93K_F_G2DPS2_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348193@V93KLB_LIB.V93K_DPS.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348193@v93klb_lib.\v93k_dps.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348193@v93klb_lib.\v93k_dps.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DPS3 'V93K_DPS_PG_VG93K_F_G3DPS3_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17355143@V93KLB_LIB.V93K_DPS.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17355143@v93klb_lib.\v93k_dps.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17355143@v93klb_lib.\v93k_dps.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DPS4 'V93K_DPS_PG_VG93K_F_G4DPS4_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17363222@V93KLB_LIB.V93K_DPS.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17363222@v93klb_lib.\v93k_dps.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17363222@v93klb_lib.\v93k_dps.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DPS5 'V93K_DPS_PG_VG93K_F_G5DPS5_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17368031@V93KLB_LIB.V93K_DPS.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17368031@v93klb_lib.\v93k_dps.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17368031@v93klb_lib.\v93k_dps.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DPS6 'V93K_DPS_PG_VG93K_F_G6DPS6_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17371835@V93KLB_LIB.V93K_DPS.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17371835@v93klb_lib.\v93k_dps.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17371835@v93klb_lib.\v93k_dps.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DPS7 'V93K_DPS_PG_VG93K_F_G7DPS7_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17377784@V93KLB_LIB.V93K_DPS.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17377784@v93klb_lib.\v93k_dps.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17377784@v93klb_lib.\v93k_dps.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DPS8 'V93K_DPS_PG_VG93K_F_G8DPS8_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17358591@V93KLB_LIB.V93K_DPS.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17358591@v93klb_lib.\v93k_dps.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17358591@v93klb_lib.\v93k_dps.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JG240711QQ02 'REF-CODE-SOCKET_SOCKET_CODE_REF':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS16772255@PAS.REF-CODE-SOCKET.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins16772255@pas.\ref-code-socket.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page1_ins16772255@pas.\ref-code-socket.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LOGO1 'LOGO_KT_KSMT_LOGO_KT_KSMT_LOGO_':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS16772303@LOGO_FINAL_FOOTPRINT.LOGO_KT_KSMT.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins16772303@logo_final_footprint.\logo_kt_ksmt.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page1_ins16772303@logo_final_footprint.\logo_kt_ksmt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LOGO2 'LOGO_RD_RAD_LOGO_RD_RAD_LOGO_RD':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS16772287@LOGO_FINAL_FOOTPRINT.LOGO_RD_RAD.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins16772287@logo_final_footprint.\logo_rd_rad.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page1_ins16772287@logo_final_footprint.\logo_rd_rad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RM85260 'REF-CODE-CHIP_CHIP_CODE_REF-COD':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS16772239@PAS.REF-CODE-CHIP.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins16772239@pas.\ref-code-chip.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page1_ins16772239@pas.\ref-code-chip.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SB1 'SHORT_DEFAULT_SHORT_SMALL_SHORT':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17345168@MT6253E.SHORT.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17345168@mt6253e.\short.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17345168@mt6253e.\short.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SB13 'SHORT_DEFAULT_SHORT_SMALL_SHORT':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17348551@MT6253E.SHORT.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17348551@mt6253e.\short.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17348551@mt6253e.\short.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SB14 'SHORT_DEFAULT_SHORT_SMALL_SHORT':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17353563@MT6253E.SHORT.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17353563@mt6253e.\short.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17353563@mt6253e.\short.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SB15 'SHORT_DEFAULT_SHORT_SMALL_SHORT':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17357977@MT6253E.SHORT.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17357977@mt6253e.\short.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17357977@mt6253e.\short.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SB16 'SHORT_DEFAULT_SHORT_SMALL_SHORT':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17363330@MT6253E.SHORT.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17363330@mt6253e.\short.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17363330@mt6253e.\short.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SB17 'SHORT_DEFAULT_SHORT_SMALL_SHORT':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17367589@MT6253E.SHORT.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17367589@mt6253e.\short.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17367589@mt6253e.\short.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SB18 'SHORT_DEFAULT_SHORT_SMALL_SHORT':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17371825@MT6253E.SHORT.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17371825@mt6253e.\short.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17371825@mt6253e.\short.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SB19 'SHORT_DEFAULT_SHORT_SMALL_SHORT':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17378020@MT6253E.SHORT.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17378020@mt6253e.\short.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17378020@mt6253e.\short.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SCREW1 'V93KMFHOLE_PG_VG93K_F_FULLOUTLI':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17343914@V93KLB_LIB.V93KMFHOLE.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17343914@v93klb_lib.\v93kmfhole.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17343914@v93klb_lib.\v93kmfhole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UTL1 'V93K_UTL_PG_VG93K_F_G3UTI1_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17353573@V93KLB_LIB.V93K_UTL.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17353573@v93klb_lib.\v93k_utl.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page11_ins17353573@v93klb_lib.\v93k_utl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UTL2 'V93K_UTL_PG_VG93K_F_G1UTI2_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17344454@V93KLB_LIB.V93K_UTL.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17344454@v93klb_lib.\v93k_utl.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page9_ins17344454@v93klb_lib.\v93k_utl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UTL3 'V93K_UTL_PG_VG93K_F_G2UTI3_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17349451@V93KLB_LIB.V93K_UTL.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17349451@v93klb_lib.\v93k_utl.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page10_ins17349451@v93klb_lib.\v93k_utl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UTL4 'V93K_UTL_PG_VG93K_F_G8UTI4_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17359461@V93KLB_LIB.V93K_UTL.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17359461@v93klb_lib.\v93k_utl.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page12_ins17359461@v93klb_lib.\v93k_utl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UTL5 'V93K_UTL_PG_VG93K_F_G4UTI5_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17362646@V93KLB_LIB.V93K_UTL.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17362646@v93klb_lib.\v93k_utl.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page13_ins17362646@v93klb_lib.\v93k_utl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UTL6 'V93K_UTL_PG_VG93K_F_G5UTI6_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17368799@V93KLB_LIB.V93K_UTL.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17368799@v93klb_lib.\v93k_utl.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page14_ins17368799@v93klb_lib.\v93k_utl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UTL7 'V93K_UTL_PG_VG93K_F_G6UTI7_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17373507@V93KLB_LIB.V93K_UTL.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17373507@v93klb_lib.\v93k_utl.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page15_ins17373507@v93klb_lib.\v93k_utl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UTL8 'V93K_UTL_PG_VG93K_F_G7UTI8_V93K':;
+
+SECTION_NUMBER 1
+ '@GEN-LB-20261108.SCHEMATIC1(SCH_1):INS17376942@V93KLB_LIB.V93K_UTL.NORMAL(CHIPS)':
+ C_PATH='@\gen-lb-20261108\.schematic1(sch_1):ins17376942@v93klb_lib.\v93k_utl.normal\(chips)',
+ P_PATH='@\gen-lb-20261108\.schematic1(sch_1):page16_ins17376942@v93klb_lib.\v93k_utl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

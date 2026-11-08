@@ -1,0 +1,482 @@
+{ Using PSTWRITER 16.6.0 d001Nov-08-2026 at 17:03:20 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.C17" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_4F".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B09" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_TRVB-".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.10" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32110".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.04" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30504".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A16" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_PGDS".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B06" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_2GRD".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A11" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_UW12".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.03" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30203".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.15" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30615".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.C09" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_VB+".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.04" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31804".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.03" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30603".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.A13" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_7F".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.05" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30605".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B07" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_6S".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.15" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30215".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B08" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_UW09".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B14" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_UW15".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A03" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_URW02".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.01" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32201".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.05" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30505".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B01" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_5GS".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A13" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_UW14".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.06" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30106".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.09" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30609".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C09" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_VB+".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A15" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_PDCS".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.13" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30213".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B15" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_8GS".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.16" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30516".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B16" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_PGRD".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.02" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32202".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A17" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_8F".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.11" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32211".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A04" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_URW04".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B10" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_UW11".
+#37 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C13" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_3F".
+#38 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.A07" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_6F".
+#39 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A01" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_URW00".
+#40 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.03" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30103".
+#41 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B12" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_UW13".
+#42 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.C03" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_1F".
+#43 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.14" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31814".
+#44 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.05" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30205".
+#45 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.07" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30607".
+#46 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.13" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32113".
+#47 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.04" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32104".
+#48 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.C06" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_2S".
+#49 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B08" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_UW09".
+#50 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.08" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30208".
+#51 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.A02" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_1GS".
+#52 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.01" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32101".
+#53 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A16" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_4GS".
+#54 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.12" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31812".
+#55 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A11" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_UW12".
+#56 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B15" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_PDCF".
+#57 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.A09" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_TR+".
+#58 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.12" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30212".
+#59 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.04" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30204".
+#60 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B17" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_8S".
+#61 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B15" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_PDCF".
+#62 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A06" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_2GS".
+#63 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.02" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32102".
+#64 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.14" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30214".
+#65 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.C02" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_1S".
+#66 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.13" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30613".
+#67 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B09" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_TRVB-".
+#68 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.12" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30512".
+#69 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.10" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31810".
+#70 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A16" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_PGDS".
+#71 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B12" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_3GRD".
+#72 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.12" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30112".
+#73 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.07" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32107".
+#74 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.A06" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_2GS".
+#75 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A04" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_URW04".
+#76 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.06" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32106".
+#77 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.01" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30101".
+#78 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C02" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_1S".
+#79 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B01" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_5GS".
+#80 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.12" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32212".
+#81 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.13" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30513".
+#82 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B16" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_4GRD".
+#83 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A06" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_URW06".
+#84 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A09" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_UW10".
+#85 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A01" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_URW00".
+#86 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.02" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30602".
+#87 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A12" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_3GS".
+#88 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.C16" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_4S".
+#89 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.01" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30201".
+#90 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.06" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30606".
+#91 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.C17" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_4F".
+#92 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B13" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_7S".
+#93 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A16" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_PGDS".
+#94 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.14" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30114".
+#95 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C12" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_3S".
+#96 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.06" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31806".
+#97 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.16" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31816".
+#98 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.13" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32213".
+#99 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.11" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31811".
+#100 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.13" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30113".
+#101 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.15" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32115".
+#102 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B02" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_1GRD".
+#103 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.15" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30115".
+#104 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_1F".
+#105 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.08" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32108".
+#106 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_5F".
+#107 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.C13" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_3F".
+#108 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B12" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_UW13".
+#109 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.07" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30507".
+#110 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B17" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_8S".
+#111 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.14" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30614".
+#112 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.11" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30611".
+#113 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A15" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_PDCS".
+#114 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.16" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30216".
+#115 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.A03" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_5F".
+#116 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B05" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_6GS".
+#117 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.15" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31815".
+#118 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.09" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30109".
+#119 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B05" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_6GS".
+#120 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.12" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32112".
+#121 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A09" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_UW10".
+#122 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B16" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_PGRD".
+#123 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.08" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30508".
+#124 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B11" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_7GS".
+#125 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B16" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_PGRD".
+#126 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.09" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32209".
+#127 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.02" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30102".
+#128 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B15" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_8GS".
+#129 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A09" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_UW10".
+#130 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B09" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_TRVB-".
+#131 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.05" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32105".
+#132 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.07" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30107".
+#133 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.C07" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_2F".
+#134 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B15" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_PDCF".
+#135 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.01" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31801".
+#136 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.03" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32203".
+#137 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.01" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30501".
+#138 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B05" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_URW05".
+#139 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_5S".
+#140 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.14" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32214".
+#141 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B08" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_UW09".
+#142 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.A03" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_5F".
+#143 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.06" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32206".
+#144 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C16" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_4S".
+#145 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.08" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32208".
+#146 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B15" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_8GS".
+#147 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.15" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32215".
+#148 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.06" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30506".
+#149 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A09" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_TR+".
+#150 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.02" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31802".
+#151 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.15" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30515".
+#152 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.09" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32109".
+#153 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B02" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_1GRD".
+#154 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A01" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_URW00".
+#155 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A11" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_UW12".
+#156 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B14" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_UW15".
+#157 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.09" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30509".
+#158 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B08" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_UW09".
+#159 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B12" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_UW13".
+#160 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.08" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30108".
+#161 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.11" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30111".
+#162 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B05" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_6GS".
+#163 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A16" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_PGDS".
+#164 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.08" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30608".
+#165 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.11" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30511".
+#166 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.03" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31803".
+#167 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C17" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_4F".
+#168 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B10" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_UW11".
+#169 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.05" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32205".
+#170 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.14" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30514".
+#171 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B17" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_8S".
+#172 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.02" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30202".
+#173 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B11" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_7GS".
+#174 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.16" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32216".
+#175 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.04" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30604".
+#176 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.A09" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_TR+".
+#177 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B10" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_UW11".
+#178 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B07" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_6S".
+#179 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.07" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31807".
+#180 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.07" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30207".
+#181 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C06" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_2S".
+#182 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A09" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_UW10".
+#183 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.05" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31805".
+#184 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A03" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_URW02".
+#185 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.06" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30206".
+#186 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.01" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30601".
+#187 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.16" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30616".
+#188 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B06" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_UW07".
+#189 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.16" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30116".
+#190 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A07" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_6F".
+#191 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.A02" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_1GS".
+#192 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.A07" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_6F".
+#193 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.04" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32204".
+#194 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.05" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30105".
+#195 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.07" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32207".
+#196 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A13" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (27.00, 10.10). Connecting pin to net "UT2_UW14".
+#197 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A02" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_1GS".
+#198 WARNING(ORCAP-36038): "No_connect" property on Pin "D322.10" ignored for D322: SCHEMATIC1, T03.GROUP3.U1 (11.00, 3.30). Connecting pin to net "D32210".
+#199 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.09" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31809".
+#200 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.03" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30503".
+#201 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.03" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32103".
+#202 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.10" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30210".
+#203 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B16" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_4GRD".
+#204 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A01" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_URW00".
+#205 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.02" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30502".
+#206 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.C07" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_2F".
+#207 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.11" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30211".
+#208 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A13" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_7F".
+#209 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.08" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31808".
+#210 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.10" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30110".
+#211 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C07" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_2F".
+#212 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B10" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (27.10, 10.20). Connecting pin to net "UT1_UW11".
+#213 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B15" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_PDCF".
+#214 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.14" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32114".
+#215 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B12" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (26.30, 2.20). Connecting pin to net "MSDPS7_3GRD".
+#216 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B02" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_URW01".
+#217 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.12" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30612".
+#218 WARNING(ORCAP-36038): "No_connect" property on Pin "D306.10" ignored for D306: SCHEMATIC1, T01.GROUP1.U2 (11.10, 3.30). Connecting pin to net "D30610".
+#219 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B14" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_UW15".
+#220 WARNING(ORCAP-36038): "No_connect" property on Pin "D302.09" ignored for D302: SCHEMATIC1, T01.GROUP1.U2 (11.10, 10.10). Connecting pin to net "D30209".
+#221 WARNING(ORCAP-36038): "No_connect" property on Pin "D318.13" ignored for D318: SCHEMATIC1, T03.GROUP3.U1 (11.00, 10.10). Connecting pin to net "D31813".
+#222 WARNING(ORCAP-36038): "No_connect" property on Pin "D305.10" ignored for D305: SCHEMATIC1, T01.GROUP1.U2 (4.90, 3.30). Connecting pin to net "D30510".
+#223 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.16" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32116".
+#224 WARNING(ORCAP-36038): "No_connect" property on Pin "D301.04" ignored for D301: SCHEMATIC1, T01.GROUP1.U2 (4.90, 10.10). Connecting pin to net "D30104".
+#225 WARNING(ORCAP-36038): "No_connect" property on Pin "D321.11" ignored for D321: SCHEMATIC1, T03.GROUP3.U1 (4.70, 3.30). Connecting pin to net "D32111".
+#226 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.C13" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_3F".
+#227 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A13" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_UW14".
+#228 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B03" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_URW03".
+#229 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.C09" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_VB+".
+#230 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.C02" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_1S".
+#231 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.C03" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_1F".
+#232 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B03" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_URW03".
+#233 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A06" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_URW06".
+#234 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B02" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_1GRD".
+#235 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A07" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_UW08".
+#236 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B06" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_2GRD".
+#237 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.C06" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_2S".
+#238 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B12" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_3GRD".
+#239 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.C12" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_3S".
+#240 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.A12" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_3GS".
+#241 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A07" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_UW08".
+#242 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.A17" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_8F".
+#243 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B07" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_6S".
+#244 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.A13" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_7F".
+#245 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B06" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_2GRD".
+#246 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A15" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_PDCS".
+#247 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B16" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_4GRD".
+#248 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.C12" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_3S".
+#249 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B02" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_URW01".
+#250 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.C16" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_4S".
+#251 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B05" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_URW05".
+#252 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B13" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_7S".
+#253 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.A12" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_3GS".
+#254 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.A16" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_4GS".
+#255 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B03" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_5S".
+#256 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B01" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_5GS".
+#257 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B16" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_PGRD".
+#258 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.A16" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_4GS".
+#259 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B11" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_7GS".
+#260 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B06" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_UW07".
+#261 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.B13" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_7S".
+#262 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.A06" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_2GS".
+#263 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A11" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_UW12".
+#264 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B12" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.50, 10.00). Connecting pin to net "UT4_UW13".
+#265 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS6.B03" ignored for DPS6: SCHEMATIC1, T07.GROUP6.U7 (26.40, 2.10). Connecting pin to net "MSDPS6_5S".
+#266 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS5.A17" ignored for DPS5: SCHEMATIC1, T06.GROUP5.U6 (26.10, 2.20). Connecting pin to net "MSDPS5_8F".
+#267 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A15" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.90, 10.30). Connecting pin to net "UT3_PDCS".
+#268 WARNING(ORCAP-36006): Part Name "REF-CODE-PCB_PCB_CODE_REF-CODE-PCB" is renamed to "REF-CODE-PCB_PCB_CODE_REF-CODE-".
+#269 WARNING(ORCAP-36006): Part Name "REF-CODE-CHIP_CHIP_CODE_REF-CODE-CHIP" is renamed to "REF-CODE-CHIP_CHIP_CODE_REF-COD".
+#270 WARNING(ORCAP-36006): Part Name "10U-25-X7R-SA_C1206_10U-25-X7R-SA" is renamed to "10U-25-X7R-SA_C1206_10U-25-X7R-".
+#271 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_DPS32_PG_VG93K_PF_DPS32_G2D310_V93K_CSDPS_DPS32" is renamed to "V93K_CSDPS_DPS32_PG_VG93K_PF_DP".
+#272 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_DPS32_PG_VG93K_PF_DPS32_G2D314_V93K_CSDPS_DPS32" is renamed to "V93K_CSDPS_DPS32_PG_VG93K_PF__1".
+#273 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_A_PG_VG93K_PF_DPS32_G8D426_V93K_CSDPS" is renamed to "V93K_CSDPS_A_PG_VG93K_PF_DPS32_".
+#274 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_DPS32_PG_VG93K_PF_DPS32_G8D427_ND_V93K_CSDPS_DPS32" is renamed to "V93K_CSDPS_DPS32_PG_VG93K_PF__2".
+#275 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_DPS32_PG_VG93K_PF_DPS32_G8D430_V93K_CSDPS_DPS32" is renamed to "V93K_CSDPS_DPS32_PG_VG93K_PF__3".
+#276 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D101_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D101_V93K_".
+#277 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D102_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D102_V93K_".
+#278 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D103_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D103_V93K_".
+#279 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D104_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D104_V93K_".
+#280 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D105_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D105_V93K_".
+#281 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D107_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D107_V93K_".
+#282 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D108_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D108_V93K_".
+#283 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D109_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D109_V93K_".
+#284 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D110_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D110_V93K_".
+#285 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D111_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D111_V93K_".
+#286 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D112_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D112_V93K_".
+#287 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D113_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D113_V93K_".
+#288 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D114_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D114_V93K_".
+#289 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D115_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D115_V93K_".
+#290 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D116_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D116_V93K_".
+#291 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G3D117_517_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_G".
+#292 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G3D118_518_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_1".
+#293 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D119_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D119_V93K_".
+#294 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D120_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D120_V93K_".
+#295 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G3D121_521_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_2".
+#296 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G3D122_522_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_3".
+#297 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D123_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D123_V93K_".
+#298 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D124_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D124_V93K_".
+#299 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D125_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D125_V93K_".
+#300 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D126_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D126_V93K_".
+#301 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D127_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D127_V93K_".
+#302 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D128_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D128_V93K_".
+#303 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D129_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D129_V93K_".
+#304 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D130_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D130_V93K_".
+#305 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D131_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D131_V93K_".
+#306 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D132_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D132_V93K_".
+#307 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G5D201_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G5D201_V93K_".
+#308 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G5D202_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G5D202_V93K_".
+#309 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G5D203_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G5D203_V93K_".
+#310 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G5D204_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G5D204_V93K_".
+#311 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G5D205_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G5D205_V93K_".
+#312 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G5D206_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G5D206_V93K_".
+#313 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G5D207_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G5D207_V93K_".
+#314 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G5D208_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G5D208_V93K_".
+#315 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G6D209_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G6D209_V93K_".
+#316 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G6D210_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G6D210_V93K_".
+#317 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G6D211_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G6D211_V93K_".
+#318 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G6D212_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G6D212_V93K_".
+#319 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G6D213_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G6D213_V93K_".
+#320 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G6D214_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G6D214_V93K_".
+#321 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G6D215_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G6D215_V93K_".
+#322 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G6D216_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G6D216_V93K_".
+#323 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D217_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D217_V93K_".
+#324 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D218_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D218_V93K_".
+#325 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D219_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D219_V93K_".
+#326 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D220_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D220_V93K_".
+#327 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D221_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D221_V93K_".
+#328 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D222_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D222_V93K_".
+#329 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D223_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D223_V93K_".
+#330 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D224_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D224_V93K_".
+#331 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D225_ND_V93K_CH_ND" is renamed to "V93K_CH_PG_VG93K_F_G8D225_ND_V9".
+#332 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G8D226_626_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_4".
+#333 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G8D227_627_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_5".
+#334 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D228_ND_V93K_CH_ND" is renamed to "V93K_CH_PG_VG93K_F_G8D228_ND_V9".
+#335 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D229_ND_V93K_CH_ND" is renamed to "V93K_CH_PG_VG93K_F_G8D229_ND_V9".
+#336 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G8D230_630_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_6".
+#337 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D231_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D231_V93K_".
+#338 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D232_ND_V93K_CH_ND" is renamed to "V93K_CH_PG_VG93K_F_G8D232_ND_V9".
+#339 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D301_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D301_V93K_".
+#340 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D302_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D302_V93K_".
+#341 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G1D303_703_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_7".
+#342 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G1D304_704_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_8".
+#343 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D305_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D305_V93K_".
+#344 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D306_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D306_V93K_".
+#345 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G1D307_707_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HSM_9".
+#346 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G1D308_708_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_10".
+#347 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G2D309_709_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_11".
+#348 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G2D311_711_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_12".
+#349 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G2D312_712_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_13".
+#350 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G2D313_713_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_14".
+#351 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G2D315_715_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_15".
+#352 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G2D316_716_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_16".
+#353 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D317_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D317_V93K_".
+#354 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D318_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D318_V93K_".
+#355 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G3D319_719_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_17".
+#356 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G3D320_720_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_18".
+#357 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D321_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D321_V93K_".
+#358 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D322_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D322_V93K_".
+#359 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G3D323_723_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_19".
+#360 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G3D324_724_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_20".
+#361 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G4D325_725_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_21".
+#362 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G4D326_726_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_22".
+#363 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G4D327_727_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_23".
+#364 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G4D328_728_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_24".
+#365 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G4D329_729_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_25".
+#366 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G4D330_730_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_26".
+#367 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G4D331_731_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_27".
+#368 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G4D332_732_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_28".
+#369 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G5D401_801_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_29".
+#370 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G5D402_802_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_30".
+#371 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G5D403_803_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_31".
+#372 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G5D404_804_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_32".
+#373 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G5D405_805_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_33".
+#374 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G5D406_806_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_34".
+#375 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G5D407_807_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_35".
+#376 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G5D408_808_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_36".
+#377 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G6D409_809_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_37".
+#378 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G6D410_810_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_38".
+#379 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G6D411_811_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_39".
+#380 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G6D412_812_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_40".
+#381 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G6D413_813_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_41".
+#382 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G6D414_814_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_42".
+#383 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G6D415_815_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_43".
+#384 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G6D416_816_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_44".
+#385 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G7D417_817_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_45".
+#386 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G7D418_818_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_46".
+#387 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G7D419_819_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_47".
+#388 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G7D420_820_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_48".
+#389 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G7D421_821_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_49".
+#390 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G7D422_822_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_50".
+#391 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G7D423_823_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_51".
+#392 WARNING(ORCAP-36006): Part Name "V93K_PS1600_HD_PG_VG93K_F_HSM_G7D424_824_ND_V93K_PS1600 HD" is renamed to "V93K_PS1600_HD_PG_VG93K_F_HS_52".
+#393 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D425_ND_V93K_CH_ND" is renamed to "V93K_CH_PG_VG93K_F_G8D425_ND_V9".
+#394 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D428_ND_V93K_CH_ND" is renamed to "V93K_CH_PG_VG93K_F_G8D428_ND_V9".
+#395 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D429_ND_V93K_CH_ND" is renamed to "V93K_CH_PG_VG93K_F_G8D429_ND_V9".
+#396 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D431_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D431_V93K_".
+#397 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D432_ND_V93K_CH_ND" is renamed to "V93K_CH_PG_VG93K_F_G8D432_ND_V9".
+#398 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G1DPS1_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G1DPS1_V93K".
+#399 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G2DPS2_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G2DPS2_V93K".
+#400 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G3DPS3_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G3DPS3_V93K".
+#401 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G4DPS4_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G4DPS4_V93K".
+#402 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G5DPS5_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G5DPS5_V93K".
+#403 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G6DPS6_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G6DPS6_V93K".
+#404 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G7DPS7_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G7DPS7_V93K".
+#405 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G8DPS8_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G8DPS8_V93K".
+#406 WARNING(ORCAP-36006): Part Name "REF-CODE-SOCKET_SOCKET_CODE_REF-CODE-SOCKET" is renamed to "REF-CODE-SOCKET_SOCKET_CODE_REF".
+#407 WARNING(ORCAP-36006): Part Name "LOGO_KT_KSMT_LOGO_KT_KSMT_LOGO_KT_KSMT" is renamed to "LOGO_KT_KSMT_LOGO_KT_KSMT_LOGO_".
+#408 WARNING(ORCAP-36006): Part Name "LOGO_RD_RAD_LOGO_RD_RAD_LOGO_RD_RAD" is renamed to "LOGO_RD_RAD_LOGO_RD_RAD_LOGO_RD".
+#409 WARNING(ORCAP-36006): Part Name "V93KMFHOLE_PG_VG93K_F_FULLOUTLINE_V93KMFHOLE" is renamed to "V93KMFHOLE_PG_VG93K_F_FULLOUTLI".
+#410 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G3UTI1_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G3UTI1_V93K".
+#411 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G1UTI2_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G1UTI2_V93K".
+#412 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G2UTI3_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G2UTI3_V93K".
+#413 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G8UTI4_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G8UTI4_V93K".
+#414 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G4UTI5_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G4UTI5_V93K".
+#415 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G5UTI6_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G5UTI6_V93K".
+#416 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G6UTI7_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G6UTI7_V93K".
+#417 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G7UTI8_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G7UTI8_V93K".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\DSN_BRD\allegro/pstchip.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\DSN_BRD\allegro/pstchip.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\DSN_BRD\allegro/pstxprt.dat
+#575 ERROR(SPCODD-575): Reference designator value D117/D517 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D118/D518 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D121/D521 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D122/D522 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D226/D626 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D227/D627 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D230/D630 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D303/D703 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D304/D704 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D307/D707 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D308/D708 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D309/D709 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D311/D711 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D312/D712 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D313/D713 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D315/D715 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D316/D716 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D319/D719 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D320/D720 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D323/D723 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D324/D724 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D325/D725 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D326/D726 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D327/D727 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D328/D728 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D329/D729 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D330/D730 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D331/D731 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D332/D732 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D401/D801 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D402/D802 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D403/D803 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D404/D804 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D405/D805 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D406/D806 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D407/D807 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D408/D808 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D409/D809 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D410/D810 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D411/D811 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D412/D812 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D413/D813 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D414/D814 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D415/D815 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D416/D816 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D417/D817 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D418/D818 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D419/D819 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D420/D820 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D421/D821 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D422/D822 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D423/D823 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      #575 ERROR(SPCODD-575): Reference designator value D424/D824 has an invalid character. The list of invalid characters in reference designators is as follows: space, tab, asterisk, comma, semicolon, colon, backslash, the equal sign, double quotes, single quotes and braces. Update the reference designator in Design Entry HDL and then run Packager.
+      
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\DSN_BRD\allegro/pstxnet.dat
+packaging the design view...
