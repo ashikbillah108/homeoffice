@@ -1,120 +1,19 @@
-\t (01:00:20) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (01:00:20)     Journal start - Sun Nov 08 17:35:57 2026
-\t (01:00:20)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=29196 CPUs=20
-\t (01:00:20) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -mpssession Ashik-iTest D:\iTest\homeoffice\Test Hardware\Gen_LB\ChatGPT\Project_Files\DSN_BRD\GEN-LB-20261108-1.brd
-\t (01:00:20) 
-\d (01:00:20) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108.brd
-\i (01:00:21) rfedit_appm 
-\i (01:00:21) zoom out 1 
-\i (01:00:21) setwindow pcb
-\i (01:00:21) zoom out -4487.60 -805.19
-\i (01:00:21) trapsize 21472
-\i (01:00:21) zoom in 1 
-\i (01:00:21) setwindow pcb
-\i (01:00:21) zoom in 1696.28 -6860.23
-\i (01:00:21) trapsize 10736
-\i (01:00:21) zoom in 1 
-\i (01:00:21) setwindow pcb
-\i (01:00:21) zoom in 1696.28 -6860.23
-\i (01:00:21) trapsize 5368
-\i (01:00:22) zoom in 1 
-\i (01:00:22) setwindow pcb
-\i (01:00:22) zoom in 901.83 -5099.54
-\i (01:00:22) trapsize 2684
-\i (01:00:26) setwindow form.mini
-\i (01:00:26) FORM mini class PACKAGE GEOMETRY 
-\i (01:00:28) FORM mini subclass SILKSCREEN_BOTTOM 
-\i (01:00:28) FORM mini subcolor 1 
-\i (01:00:29) setwindow pcb
-\i (01:00:29) zoom in 1 
-\i (01:00:29) setwindow pcb
-\i (01:00:29) zoom in 42.95 -4959.97
-\i (01:00:29) trapsize 1342
-\i (01:00:29) zoom in 1 
-\i (01:00:29) setwindow pcb
-\i (01:00:29) zoom in 453.60 -4466.11
-\i (01:00:29) trapsize 671
-\i (01:00:31) zoom out 1 
-\i (01:00:31) setwindow pcb
-\i (01:00:31) zoom out 417.37 -4674.12
-\i (01:00:31) trapsize 1342
-\i (01:00:31) zoom out 1 
-\i (01:00:31) setwindow pcb
-\i (01:00:31) zoom out 417.36 -4674.12
-\i (01:00:31) trapsize 2684
-\i (01:00:32) zoom in 1 
-\i (01:00:32) setwindow pcb
-\i (01:00:32) zoom in 358.32 -5049.87
-\i (01:00:32) trapsize 1342
-\i (01:00:32) zoom out 1 
-\i (01:00:32) setwindow pcb
-\i (01:00:32) zoom out 473.73 -4966.66
-\i (01:00:32) trapsize 2684
-\i (01:01:12) xhilite 
-\i (01:01:12) xrefdes D313/D713 
-\i (01:01:12) xname_flush 
-\i (01:01:12) trapsize 1173
-\t (01:01:12) Symbol "D313/D713" highlighted.
-\i (01:01:12) done 
-\i (01:01:12) rfedit_appm 
-\i (01:01:14) zoom out 1 
-\i (01:01:14) setwindow pcb
-\i (01:01:14) zoom out 2097.63 4772.25
-\i (01:01:14) trapsize 2346
-\i (01:01:14) zoom out 1 
-\i (01:01:14) setwindow pcb
-\i (01:01:14) zoom out 2097.63 4772.26
-\i (01:01:14) trapsize 4693
-\i (01:01:14) zoom out 1 
-\i (01:01:14) setwindow pcb
-\i (01:01:14) zoom out 2097.63 4772.25
-\i (01:01:14) trapsize 9386
-\i (01:01:14) zoom out 1 
-\i (01:01:14) setwindow pcb
-\i (01:01:14) zoom out 2097.64 4772.25
-\i (01:01:14) trapsize 18772
-\i (01:01:15) zoom in 1 
-\i (01:01:15) setwindow pcb
-\i (01:01:15) zoom in -6199.58 -6528.47
-\i (01:01:15) trapsize 9386
-\i (01:01:15) zoom in 1 
-\i (01:01:15) setwindow pcb
-\i (01:01:15) zoom in -6199.58 -6528.47
-\i (01:01:15) trapsize 4693
-\i (01:01:16) zoom out 1 
-\i (01:01:16) setwindow pcb
-\i (01:01:16) zoom out -5871.07 -3515.57
-\i (01:01:16) trapsize 9386
-\i (01:01:16) zoom in 1 
-\i (01:01:16) setwindow pcb
-\i (01:01:16) zoom in -3787.38 -6368.91
-\i (01:01:16) trapsize 4693
-\i (01:01:20) xdehilite 
-\i (01:01:20) xrefdes D313/D713 
-\i (01:01:20) xname_flush 
-\t (01:01:20) Symbol "D313/D713" dehighlighted.
-\i (01:01:20) done 
-\i (01:01:20) xhilite 
-\i (01:01:20) xrefdes D113 
-\i (01:01:20) xname_flush 
-\i (01:01:20) trapsize 1159
-\t (01:01:20) Symbol "D113" highlighted.
-\i (01:01:20) done 
-\i (01:01:20) rfedit_appm 
-\i (01:01:21) xdehilite 
-\i (01:01:21) xrefdes D113 
-\i (01:01:21) xname_flush 
-\t (01:01:21) Symbol "D113" dehighlighted.
-\i (01:01:21) done 
-\i (01:01:21) rfedit_appm 
-\i (01:01:34) xhilite 
-\i (01:01:34) xrefdes D113 
-\i (01:01:34) xname_flush 
-\i (01:01:34) trapsize 1159
-\t (01:01:34) Symbol "D113" highlighted.
-\i (01:01:34) done 
-\i (01:01:34) rfedit_appm 
-\i (01:03:21) exit 
-\e (01:03:21) Do you want to save the changes you made to GEN-LB-20261108.brd?
-\i (01:03:22) fillin no 
-\t (01:03:22)     Journal end - Sun Nov 08 17:38:59 2026
+\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:00)     Journal start - Mon Nov 09 09:21:43 2026
+\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=8992 CPUs=20
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108-1.brd
+\i (00:00:02) trapsize 10611
+\i (00:00:02) trapsize 10421
+\i (00:00:02) trapsize 10644
+\i (00:00:02) trapsize 10736
+\i (00:00:02) trapsize 10736
+\i (00:00:02) rfedit_appm 
+\i (00:00:05) open 
+\i (00:00:16) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10\038RT-8730CN_1109.brd"
+\i (00:00:16) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10"
+\t (00:00:16) Opening existing design...
+\i (00:00:17) trapsize 3078
+\t (00:00:17)     Journal end - Mon Nov 09 09:22:00 2026

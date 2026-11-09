@@ -41,18 +41,20 @@
       (Type "Report")
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
-  (PartMRUSelector)
+  (PartMRUSelector
+    (LOADBOARD_CONNECTOR
+      (FullPartName "LOADBOARD_CONNECTORD.Normal")
+      (LibraryName
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\LIB\LOADBOARD_CONNECTORS.OLB")
+      (DeviceIndex "3")))
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\gen-lb-20261108.dsn")
       (Path "Design Resources" ".\gen-lb-20261108.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "d:\itest\homeoffice\test hardware\gen_lb\chatgpt\project_files\lib\loadboard_connectors.olb")
-      (Path "Outputs")
-      (Select "Design Resources" ".\gen-lb-20261108.dsn" "SCHEMATIC1"
-         "T02.GROUP2.U3"))
+      (Path "Design Resources" "Library" "..\lib\loadboard_connectors.olb")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

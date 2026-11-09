@@ -1,20 +1,43 @@
-\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:00)     Journal start - Sun Nov 08 13:36:22 2026
-\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=28980 CPUs=20
-\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:00) 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/PACKAGE_SYMBOLS/BASE_FOOTPRINT.dra
-\i (00:00:03) trapsize 1123
-\i (00:00:03) trapsize 1103
-\i (00:00:03) trapsize 1127
-\i (00:00:03) trapsize 995
-\i (00:00:03) trapsize 1077
-\i (00:00:03) rfedit_appm 
-\i (00:00:04) trapsize 1471
-\i (00:00:05) trapsize 1077
-\i (00:00:06) new 
-\e (00:00:06) Do you want to save the changes you made to BASE_FOOTPRINT.dra?
-\i (00:00:07) fillin no 
-\i (00:00:19) newdrawfillin "test.brd" "Board"
-\t (00:00:19)     Journal end - Sun Nov 08 13:36:41 2026
+\t (00:00:22) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:22)     Journal start - Mon Nov 09 09:59:46 2026
+\t (00:00:22)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=11936 CPUs=20
+\t (00:00:22) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:22) 
+\d (00:00:22) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/PACKAGE_SYMBOLS/BASE_FOOTPRINT.dra
+\i (00:00:22) rfedit_appm 
+\i (00:00:24) show measure 
+\i (00:00:26) pick grid -1640.64 77.52
+\t (00:00:26) last pick:  -1640.50 77.50
+\i (00:00:28) pick grid 1666.48 73.21
+\t (00:00:28) last pick:  1666.50 73.00
+\i (00:00:38) pick grid -1827.96 45.22
+\t (00:00:38) last pick:  -1828.00 45.00
+\i (00:00:40) pick grid 1812.89 60.29
+\t (00:00:40) last pick:  1813.00 60.50
+\i (00:00:42) pick grid -1840.88 318.66
+\t (00:00:42) last pick:  -1841.00 318.50
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out -359.56 -124.87
+\i (00:00:45) trapsize 2153
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -359.57 -124.87
+\i (00:00:46) trapsize 2703
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in -1978.38 183.78
+\i (00:00:46) trapsize 1351
+\i (00:00:47) prepopup -1837.84 472.97
+\i (00:00:47) done 
+\i (00:00:47) rfedit_appm 
+\i (00:00:51) prmed 
+\i (00:00:53) setwindow form.prmedit
+\i (00:00:53) FORM prmedit design  
+\i (00:00:56) FORM prmedit cancel  
+\i (00:00:56) setwindow pcb
+\i (00:00:56) rfedit_appm 
+\i (00:01:10) exit 
+\e (00:01:10) Do you want to save the changes you made to BASE_FOOTPRINT.dra?
+\i (00:01:11) fillin no 
+\t (00:01:11)     Journal end - Mon Nov 09 10:00:35 2026

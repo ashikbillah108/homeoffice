@@ -1,70 +1,26 @@
-\t (00:59:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:59:00)     Journal start - Sun Nov 08 17:34:36 2026
-\t (00:59:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=29196 CPUs=20
-\t (00:59:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -mpssession Ashik-iTest D:\iTest\homeoffice\Test Hardware\Gen_LB\ChatGPT\Project_Files\DSN_BRD\GEN-LB-20261108-1.brd
-\t (00:59:00) 
-\d (00:59:00) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/PACKAGE_SYMBOLS/BASE_FOOTPRINT.dra
-\i (00:59:00) rfedit_appm 
-\i (00:59:00) trapsize 1471
-\i (00:59:01) trapsize 1077
-\i (00:59:02) zoom out 1 
-\i (00:59:02) setwindow pcb
-\i (00:59:02) zoom out -47.37 -34.44
-\i (00:59:02) trapsize 2153
-\i (00:59:02) zoom out 1 
-\i (00:59:02) setwindow pcb
-\i (00:59:02) zoom out -47.37 -34.45
-\i (00:59:02) trapsize 2703
-\i (00:59:02) zoom in 1 
-\i (00:59:02) setwindow pcb
-\i (00:59:02) zoom in -1664.86 -113.51
-\i (00:59:02) trapsize 1351
-\i (00:59:02) zoom in 1 
-\i (00:59:02) setwindow pcb
-\i (00:59:02) zoom in -1664.86 -113.51
-\i (00:59:02) trapsize 676
-\i (00:59:03) zoom out 1 
-\i (00:59:03) setwindow pcb
-\i (00:59:03) zoom out -1991.88 -67.56
-\i (00:59:03) trapsize 1351
-\i (00:59:04) zoom in 1 
-\i (00:59:04) setwindow pcb
-\i (00:59:04) zoom in 1724.33 186.49
-\i (00:59:04) trapsize 676
-\i (00:59:04) zoom out 1 
-\i (00:59:04) setwindow pcb
-\i (00:59:04) zoom out 1716.23 217.58
-\i (00:59:04) trapsize 1351
-\i (00:59:05) zoom in 1 
-\i (00:59:05) setwindow pcb
-\i (00:59:05) zoom in -1521.61 150.00
-\i (00:59:05) trapsize 676
-\i (00:59:07) zoom in 1 
-\i (00:59:07) setwindow pcb
-\i (00:59:07) zoom in -1651.34 66.22
-\i (00:59:07) trapsize 338
-\i (00:59:08) zoom out 1 
-\i (00:59:08) setwindow pcb
-\i (00:59:08) zoom out -1774.99 60.14
-\i (00:59:08) trapsize 676
-\e (00:59:27) Command not found: xhilite
-\i (00:59:27) xname_flush 
-\i (00:59:27) done 
-\i (00:59:27) rfedit_appm 
-\e (00:59:28) Command not found: xdehilite
-\i (00:59:28) xname_flush 
-\i (00:59:28) done 
-\i (00:59:28) rfedit_appm 
-\i (01:00:04) open 
-\e (01:00:04) Do you want to save the changes you made to BASE_FOOTPRINT.dra?
-\i (01:00:05) fillin no 
-\i (01:00:20) fillin "D:\iTest\homeoffice\Test Hardware\Gen_LB\ChatGPT\Project_Files\DSN_BRD\GEN-LB-20261108.brd"
-\i (01:00:20) cd "D:\iTest\homeoffice\Test Hardware\Gen_LB\ChatGPT\Project_Files\DSN_BRD"
-\t (01:00:20) Opening existing design...
-\i (01:00:20) trapsize 9401
-\i (01:00:20) trapsize 9227
-\i (01:00:20) trapsize 9401
-\i (01:00:20) trapsize 9473
-\i (01:00:20) trapsize 10736
-\i (01:00:20) trapsize 10736
-\t (01:00:20)     Journal end - Sun Nov 08 17:35:57 2026
+\t (00:00:01) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:01)     Journal start - Mon Nov 09 11:24:16 2026
+\t (00:00:01)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=3964 CPUs=20
+\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/PACKAGE_SYMBOLS/BASE_FOOTPRINT.dra
+\i (00:00:04) trapsize 1123
+\i (00:00:04) trapsize 1103
+\i (00:00:04) trapsize 1127
+\i (00:00:04) trapsize 995
+\i (00:00:04) trapsize 1077
+\i (00:00:05) rfedit_appm 
+\i (00:00:43) open 
+\e (00:00:43) Do you want to save the changes you made to BASE_FOOTPRINT.dra?
+\i (00:00:43) fillin no 
+\i (00:00:58) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10\038RT-8730CN_1109-1.brd"
+\i (00:00:58) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10"
+\t (00:00:58) Opening existing design...
+\i (00:00:59) trapsize 10293
+\i (00:00:59) trapsize 10102
+\i (00:00:59) trapsize 10293
+\i (00:00:59) trapsize 10372
+\i (00:00:59) trapsize 11755
+\i (00:00:59) trapsize 11755
+\t (00:00:59)     Journal end - Mon Nov 09 11:25:14 2026
