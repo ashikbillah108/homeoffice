@@ -1,0 +1,706 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 2CA12.2                        
+                                 2CA13.2                        
+                                 2CA14.2                        
+                                 2SH21.2                        
+                                 2SH23.2                        
+                                 2SH25.2                        
+                                 3CA12.2                        
+                                 3CA13.2                        
+                                 3CA14.2                        
+                                 3SH21.2                        
+                                 3SH23.2                        
+                                 3SH25.2                        
+                                 4CA12.2                        
+                                 4CA13.2                        
+                                 4CA14.2                        
+                                 4SH21.2                        
+                                 4SH23.2                        
+                                 4SH25.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199259    net RENAMED (to net name listed on right)           N19323188    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199302    net RENAMED (to net name listed on right)           N19323231    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199304    net RENAMED (to net name listed on right)           N19323233    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199305    net RENAMED (to net name listed on right)           N19323234    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199306    net RENAMED (to net name listed on right)           N19323235    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199318    net RENAMED (to net name listed on right)           N19323247    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199319    net RENAMED (to net name listed on right)           N19323248    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199320    net RENAMED (to net name listed on right)           N19323249    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199321    net RENAMED (to net name listed on right)           N19323250    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199323    net RENAMED (to net name listed on right)           N19323252    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199330    net RENAMED (to net name listed on right)           N19323259    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199331    net RENAMED (to net name listed on right)           N19323260    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199332    net RENAMED (to net name listed on right)           N19323261    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N19199334    net RENAMED (to net name listed on right)           N19323263    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199341    net RENAMED (to net name listed on right)           N19323270    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199342    net RENAMED (to net name listed on right)           N19323271    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199343    net RENAMED (to net name listed on right)           N19323272    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199463    net RENAMED (to net name listed on right)           N19323392    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199473    net RENAMED (to net name listed on right)           N19323402    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19199475    net RENAMED (to net name listed on right)           N19323404    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19200862    net RENAMED (to net name listed on right)           N19324791    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19200865    net RENAMED (to net name listed on right)           N19324794    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19200913    net RENAMED (to net name listed on right)           N19324842    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19200914    net RENAMED (to net name listed on right)           N19324843    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201316    net RENAMED (to net name listed on right)           N19325245    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201318    net RENAMED (to net name listed on right)           N19325247    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201556    net RENAMED (to net name listed on right)           N19325485    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201559    net RENAMED (to net name listed on right)           N19325488    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201562    net RENAMED (to net name listed on right)           N19325491    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201565    net RENAMED (to net name listed on right)           N19325494    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201568    net RENAMED (to net name listed on right)           N19325497    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201571    net RENAMED (to net name listed on right)           N19325500    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201581    net RENAMED (to net name listed on right)           N19325510    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19201583    net RENAMED (to net name listed on right)           N19325512    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203612    net RENAMED (to net name listed on right)           N19327796    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203655    net RENAMED (to net name listed on right)           N19327839    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N19203657    net RENAMED (to net name listed on right)           N19327841    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203658    net RENAMED (to net name listed on right)           N19327842    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203659    net RENAMED (to net name listed on right)           N19327843    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203671    net RENAMED (to net name listed on right)           N19327855    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203672    net RENAMED (to net name listed on right)           N19327856    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203673    net RENAMED (to net name listed on right)           N19327857    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203674    net RENAMED (to net name listed on right)           N19327858    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203676    net RENAMED (to net name listed on right)           N19327860    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203683    net RENAMED (to net name listed on right)           N19327867    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203684    net RENAMED (to net name listed on right)           N19327868    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203685    net RENAMED (to net name listed on right)           N19327869    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203687    net RENAMED (to net name listed on right)           N19327871    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203694    net RENAMED (to net name listed on right)           N19327878    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203695    net RENAMED (to net name listed on right)           N19327879    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203696    net RENAMED (to net name listed on right)           N19327880    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203816    net RENAMED (to net name listed on right)           N19328000    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203826    net RENAMED (to net name listed on right)           N19328010    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19203828    net RENAMED (to net name listed on right)           N19328012    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205215    net RENAMED (to net name listed on right)           N19329399    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205218    net RENAMED (to net name listed on right)           N19329402    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205266    net RENAMED (to net name listed on right)           N19329450    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205267    net RENAMED (to net name listed on right)           N19329451    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205669    net RENAMED (to net name listed on right)           N19329853    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N19205671    net RENAMED (to net name listed on right)           N19329855    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205909    net RENAMED (to net name listed on right)           N19330093    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205912    net RENAMED (to net name listed on right)           N19330096    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205915    net RENAMED (to net name listed on right)           N19330099    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205918    net RENAMED (to net name listed on right)           N19330102    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205921    net RENAMED (to net name listed on right)           N19330105    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205924    net RENAMED (to net name listed on right)           N19330108    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205934    net RENAMED (to net name listed on right)           N19330118    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19205936    net RENAMED (to net name listed on right)           N19330120    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19207965    net RENAMED (to net name listed on right)           N19332404    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208008    net RENAMED (to net name listed on right)           N19332447    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208010    net RENAMED (to net name listed on right)           N19332449    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208011    net RENAMED (to net name listed on right)           N19332450    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208012    net RENAMED (to net name listed on right)           N19332451    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208024    net RENAMED (to net name listed on right)           N19332463    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208025    net RENAMED (to net name listed on right)           N19332464    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208026    net RENAMED (to net name listed on right)           N19332465    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208027    net RENAMED (to net name listed on right)           N19332466    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208029    net RENAMED (to net name listed on right)           N19332468    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208036    net RENAMED (to net name listed on right)           N19332475    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208037    net RENAMED (to net name listed on right)           N19332476    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208038    net RENAMED (to net name listed on right)           N19332477    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208040    net RENAMED (to net name listed on right)           N19332479    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N19208047    net RENAMED (to net name listed on right)           N19332486    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208048    net RENAMED (to net name listed on right)           N19332487    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208049    net RENAMED (to net name listed on right)           N19332488    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208169    net RENAMED (to net name listed on right)           N19332608    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208179    net RENAMED (to net name listed on right)           N19332618    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19208181    net RENAMED (to net name listed on right)           N19332620    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19209568    net RENAMED (to net name listed on right)           N19334007    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19209571    net RENAMED (to net name listed on right)           N19334010    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19209619    net RENAMED (to net name listed on right)           N19334058    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19209620    net RENAMED (to net name listed on right)           N19334059    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210022    net RENAMED (to net name listed on right)           N19334461    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210024    net RENAMED (to net name listed on right)           N19334463    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210262    net RENAMED (to net name listed on right)           N19334701    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210265    net RENAMED (to net name listed on right)           N19334704    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210268    net RENAMED (to net name listed on right)           N19334707    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210271    net RENAMED (to net name listed on right)           N19334710    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210274    net RENAMED (to net name listed on right)           N19334713    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210277    net RENAMED (to net name listed on right)           N19334716    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210287    net RENAMED (to net name listed on right)           N19334726    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19210289    net RENAMED (to net name listed on right)           N19334728    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DPS_F10   pins MOVED FROM this net (to net name listed on right)
+                                 K55.9           -4325.0 2000.00
+                                                            S1_VDD_IOB_BOOST_09
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DPS_F14   pins ADDED TO this existing net (pins not previously on any net)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 TP_VCC_I2C_FLASH_18.1                 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_F10   pins MOVED FROM this net (to net name listed on right)
+                                 2K55.9          8684.24 11531.6
+                                                            S2_VDD_IOB_BOOST_09
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_F12   pins ADDED TO this new net
+                                 2CA12.1                        
+                                 2SH22.2                        
+                                 2TP_S1_V25.1                   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_F13   pins ADDED TO this new net
+                                 2CA13.1                        
+                                 2SH24.2                        
+                                 2TP_VDD_EFUSE_POWER.1                 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_F14   pins ADDED TO this new net
+                                 2CA14.1                        
+                                 2SH26.2                        
+                                 2TP_VCC_I2C_FLASH_18.1                 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_FS12  pins ADDED TO this new net
+                                 2SH22.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_FS13  pins ADDED TO this new net
+                                 2SH24.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_FS14  pins ADDED TO this new net
+                                 2SH26.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_GS12  pins ADDED TO this new net
+                                 2SH21.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_GS13  pins ADDED TO this new net
+                                 2SH23.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_DPS_GS14  pins ADDED TO this new net
+                                 2SH25.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_V25       pins MOVED FROM this net (to net name listed on right)
+                                 2R52.2          5964.20 13453.2
+                                                                     S2_DPS_F12
+                                 2R53.1          6532.00 13453.2
+                                                                     S2_DPS_F12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S2_VCC_I2C_FLASH_18 pins MOVED FROM this net (to net name listed on right)
+                                 2C1.1            844.08 13559.6
+                                                                     S2_DPS_F14
+                                 2R69.1          7572.88 13453.2
+                                                                     S2_DPS_F14
+                                 2R70.1          7659.62 13453.2
+                                                                     S2_DPS_F14
+                                 2R71.1          7746.36 13453.2
+                                                                     S2_DPS_F14
+                                 2R72.1          4536.98 13453.2
+                                                                     S2_DPS_F14
+                                 2R73.1          7833.10 13453.2
+                                                                     S2_DPS_F14
+                                 2R74.1          7919.84 13453.2
+                                                                     S2_DPS_F14
+                                 2R147.2         -367.82 13453.2
+                                                                     S2_DPS_F14
+                                 2R148.2         -281.08 13453.2
+                                                                     S2_DPS_F14
+                                 2U5.8           10041.7 11946.5
+                                                                     S2_DPS_F14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_VDD_EFUSE_POWER pins MOVED FROM this net (to net name listed on right)
+                                 2K48.4          5372.54 12279.3
+                                                                     S2_DPS_F13
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_DPS_F10   pins MOVED FROM this net (to net name listed on right)
+                                 3K55.9          -7056.8 12145.9
+                                                            S3_VDD_IOB_BOOST_09
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_DPS_F12   pins ADDED TO this new net
+                                 3CA12.1                        
+                                 3SH22.2                        
+                                 3TP_S1_V25.1                   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_DPS_F13   pins ADDED TO this new net
+                                 3CA13.1                        
+                                 3SH24.2                        
+                                 3TP_VDD_EFUSE_POWER.1                 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_DPS_F14   pins ADDED TO this new net
+                                 3CA14.1                        
+                                 3SH26.2                        
+                                 3TP_VCC_I2C_FLASH_18.1                 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S3_DPS_FS12  pins ADDED TO this new net
+                                 3SH22.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_DPS_FS13  pins ADDED TO this new net
+                                 3SH24.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_DPS_FS14  pins ADDED TO this new net
+                                 3SH26.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_DPS_GS12  pins ADDED TO this new net
+                                 3SH21.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_DPS_GS13  pins ADDED TO this new net
+                                 3SH23.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_DPS_GS14  pins ADDED TO this new net
+                                 3SH25.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_V25       pins MOVED FROM this net (to net name listed on right)
+                                 3R52.2          6137.68 13453.2
+                                                                     S3_DPS_F12
+                                 3R53.1          6705.48 13453.2
+                                                                     S3_DPS_F12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_VCC_I2C_FLASH_18 pins MOVED FROM this net (to net name listed on right)
+                                 3C1.1            497.12 13559.6
+                                                                     S3_DPS_F14
+                                 3R69.1          8006.58 13453.2
+                                                                     S3_DPS_F14
+                                 3R70.1          8093.32 13453.2
+                                                                     S3_DPS_F14
+                                 3R71.1          8180.06 13453.2
+                                                                     S3_DPS_F14
+                                 3R72.1          4710.46 13453.2
+                                                                     S3_DPS_F14
+                                 3R73.1          8266.80 13453.2
+                                                                     S3_DPS_F14
+                                 3R74.1          8353.54 13453.2
+                                                                     S3_DPS_F14
+                                 3R147.2         -194.34 13453.2
+                                                                     S3_DPS_F14
+                                 3R148.2         -107.60 13453.2
+                                                                     S3_DPS_F14
+                                 3U5.8           9608.52 11946.5
+                                                                     S3_DPS_F14
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S3_VDD_EFUSE_POWER pins MOVED FROM this net (to net name listed on right)
+                                 3K48.4          2312.63 12279.3
+                                                                     S3_DPS_F13
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_F10   pins MOVED FROM this net (to net name listed on right)
+                                 4K55.9          -10049. 12145.9
+                                                            S4_VDD_IOB_BOOST_09
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_F12   pins ADDED TO this new net
+                                 4CA12.1                        
+                                 4SH22.2                        
+                                 4TP_S1_V25.1                   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_F13   pins ADDED TO this new net
+                                 4CA13.1                        
+                                 4SH24.2                        
+                                 4TP_VDD_EFUSE_POWER.1                 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_F14   pins ADDED TO this new net
+                                 4CA14.1                        
+                                 4SH26.2                        
+                                 4TP_VCC_I2C_FLASH_18.1                 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_FS12  pins ADDED TO this new net
+                                 4SH22.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_FS13  pins ADDED TO this new net
+                                 4SH24.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_FS14  pins ADDED TO this new net
+                                 4SH26.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_GS12  pins ADDED TO this new net
+                                 4SH21.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_GS13  pins ADDED TO this new net
+                                 4SH23.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_DPS_GS14  pins ADDED TO this new net
+                                 4SH25.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_V25       pins MOVED FROM this net (to net name listed on right)
+                                 4R52.2          6311.16 13453.2
+                                                                     S4_DPS_F12
+                                 4R53.1          6878.96 13453.2
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                     S4_DPS_F12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_VCC_I2C_FLASH_18 pins MOVED FROM this net (to net name listed on right)
+                                 4C1.1            150.16 13559.6
+                                                                     S4_DPS_F14
+                                 4R69.1          8440.28 13453.2
+                                                                     S4_DPS_F14
+                                 4R70.1          8527.02 13453.2
+                                                                     S4_DPS_F14
+                                 4R71.1          8613.76 13453.2
+                                                                     S4_DPS_F14
+                                 4R72.1          4883.94 13453.2
+                                                                     S4_DPS_F14
+                                 4R73.1          8700.50 13453.2
+                                                                     S4_DPS_F14
+                                 4R74.1          8787.24 13453.2
+                                                                     S4_DPS_F14
+                                 4R147.2          -20.86 13453.2
+                                                                     S4_DPS_F14
+                                 4R148.2           65.88 13453.2
+                                                                     S4_DPS_F14
+                                 4U5.8           9175.32 11946.5
+                                                                     S4_DPS_F14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_VDD_EFUSE_POWER pins MOVED FROM this net (to net name listed on right)
+                                 4K48.4          -747.28 12279.3
+                                                                     S4_DPS_F13
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CU/887904-WFBGA75-10X3.5_SK_WFB
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ TP_VDD_EFUSE_POWER1 TP01_TP_040_T_TP01    -3950.0 3250.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2CA12               2.2U-10-X-S4-MU_C0402_NC/2.2U-1 
+ 2CA13               2.2U-10-X-S4-MU_C0402_NC/2.2U-1 
+ 2CA14               2.2U-10-X-S4-MU_C0402_NC/2.2U-1 
+ 2SH21               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 2SH22               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 2SH23               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 2SH24               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 2SH25               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 2SH26               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 2TP_S1_V25          TP01_TP_040_T_TP01    
+ 2TP_VCC_I2C_FLASH_18 TP01_TP_040_T_TP01    
+ 2TP_VDD_EFUSE_POWER TP01_TP_040_T_TP01    
+ 3CA12               2.2U-10-X-S4-MU_C0402_NC/2.2U-1 
+ 3CA13               2.2U-10-X-S4-MU_C0402_NC/2.2U-1 
+ 3CA14               2.2U-10-X-S4-MU_C0402_NC/2.2U-1 
+ 3SH21               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 3SH22               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 3SH23               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 3SH24               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 3SH25               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 3SH26               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 3TP_S1_V25          TP01_TP_040_T_TP01    
+ 3TP_VCC_I2C_FLASH_18 TP01_TP_040_T_TP01    
+ 3TP_VDD_EFUSE_POWER TP01_TP_040_T_TP01    
+ 4CA12               2.2U-10-X-S4-MU_C0402_NC/2.2U-1 
+ 4CA13               2.2U-10-X-S4-MU_C0402_NC/2.2U-1 
+ 4CA14               2.2U-10-X-S4-MU_C0402_NC/2.2U-1 
+ 4SH21               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 4SH22               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 4SH23               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 4SH24               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 4SH25               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 4SH26               SHORT_DEFAULT_SHORT_SMALL_SHORT 
+ 4TP_S1_V25          TP01_TP_040_T_TP01    
+ 4TP_VCC_I2C_FLASH_18 TP01_TP_040_T_TP01    
+ 4TP_VDD_EFUSE_POWER TP01_TP_040_T_TP01    
+ TP_VCC_I2C_FLASH_18 TP01_TP_040_T_TP01    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SITE1               CU/887904-WFBGA75-10X3.5_SK_WFB -2362.2    0.00 CU/887904-WFBGA75-10X3.5X0.636_
+ SITE2               CU/887904-WFBGA75-10X3.5_SK_WFB -787.40    0.00 CU/887904-WFBGA75-10X3.5X0.636_
+ SITE3               CU/887904-WFBGA75-10X3.5_SK_WFB  787.40    0.00 CU/887904-WFBGA75-10X3.5X0.636_
+ SITE4               CU/887904-WFBGA75-10X3.5_SK_WFB 2362.20    0.00 CU/887904-WFBGA75-10X3.5X0.636_
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2CA12.2                        PRIM_FILE      .\pstchip.dat
+ 2CA13.2                        PRIM_FILE      .\pstchip.dat
+ 2CA14.2                        PRIM_FILE      .\pstchip.dat
+ 2SH21.2                        PRIM_FILE      .\pstchip.dat
+ 2SH22.2                        PRIM_FILE      .\pstchip.dat
+ 2SH23.2                        PRIM_FILE      .\pstchip.dat
+ 2SH24.2                        PRIM_FILE      .\pstchip.dat
+ 2SH25.2                        PRIM_FILE      .\pstchip.dat
+ 2SH26.2                        PRIM_FILE      .\pstchip.dat
+ 2TP_S1_V25.1                   PRIM_FILE      .\pstchip.dat
+ 2TP_VCC_I2C_FLASH_18.1                 PRIM_FILE      .\pstchip.dat
+ 2TP_VDD_EFUSE_POWER.1                 PRIM_FILE      .\pstchip.dat
+ 3CA12.2                        PRIM_FILE      .\pstchip.dat
+ 3CA13.2                        PRIM_FILE      .\pstchip.dat
+ 3CA14.2                        PRIM_FILE      .\pstchip.dat
+ 3SH21.2                        PRIM_FILE      .\pstchip.dat
+ 3SH22.2                        PRIM_FILE      .\pstchip.dat
+ 3SH23.2                        PRIM_FILE      .\pstchip.dat
+ 3SH24.2                        PRIM_FILE      .\pstchip.dat
+ 3SH25.2                        PRIM_FILE      .\pstchip.dat
+ 3SH26.2                        PRIM_FILE      .\pstchip.dat
+ 3TP_S1_V25.1                   PRIM_FILE      .\pstchip.dat
+ 3TP_VCC_I2C_FLASH_18.1                 PRIM_FILE      .\pstchip.dat
+ 3TP_VDD_EFUSE_POWER.1                 PRIM_FILE      .\pstchip.dat
+ 4CA12.2                        PRIM_FILE      .\pstchip.dat
+ 4CA13.2                        PRIM_FILE      .\pstchip.dat
+ 4CA14.2                        PRIM_FILE      .\pstchip.dat
+ 4SH21.2                        PRIM_FILE      .\pstchip.dat
+ 4SH22.2                        PRIM_FILE      .\pstchip.dat
+ 4SH23.2                        PRIM_FILE      .\pstchip.dat
+ 4SH24.2                        PRIM_FILE      .\pstchip.dat
+ 4SH25.2                        PRIM_FILE      .\pstchip.dat
+ 4SH26.2                        PRIM_FILE      .\pstchip.dat
+ 4TP_S1_V25.1                   PRIM_FILE      .\pstchip.dat
+ 4TP_VCC_I2C_FLASH_18.1                 PRIM_FILE      .\pstchip.dat
+ 4TP_VDD_EFUSE_POWER.1                 PRIM_FILE      .\pstchip.dat
+ SITE1.A3       -2362.2    0.00 PRIM_FILE      .\pstchip.dat
+ SITE1.NUT4     -2362.2    0.00 PRIM_FILE      .\pstchip.dat
+ SITE2.A3       -787.40    0.00 PRIM_FILE      .\pstchip.dat
+ SITE2.NUT4     -787.40    0.00 PRIM_FILE      .\pstchip.dat
+ SITE3.A3        787.40    0.00 PRIM_FILE      .\pstchip.dat
+ SITE3.NUT4      787.40    0.00 PRIM_FILE      .\pstchip.dat
+ SITE4.A3       2362.20    0.00 PRIM_FILE      .\pstchip.dat
+ SITE4.NUT4     2362.20    0.00 PRIM_FILE      .\pstchip.dat
+ TP_VCC_I2C_FLASH_18.1                 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  D:.../KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd            |
+|                                                    Wed Nov 11 08:51:06 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     209                                        |
+|       Comp definitions added:       1                                        |
+|       Components added      :      37                                        |
+|       Components deleted    :       1                                        |
+|       Components changed    :       4                                        |
+|       Slot property added   :      45                                        |
+|                                                                              |
+|   Total ECO changes reported:     297                                        |
+|------------------------------------------------------------------------------|

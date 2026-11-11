@@ -1,0 +1,80 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : 887904-1111.brd                               )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Wed Nov 11 08:51:06 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980HX-887904-KAG-A10\WORK IN PROGRESS\allegro'
+Design Directory:            'D:/iTest/homeoffice/Test Hardware/KSMT/980HX-887904-KAG-A10/Work In Progress'
+Old design name:             'D:/iTest/homeoffice/Test Hardware/KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111.brd'
+New design name:             'D:/iTest/homeoffice/Test Hardware/KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1111-1.brd'
+
+CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980HX-887904-KAG-A10\WORK IN PROGRESS\allegro D:\iTest\homeoffice\Test Hardware\KSMT\980HX-887904-KAG-A10\Work In Progress\887904-1111.brd D:\iTest\homeoffice\Test Hardware\KSMT\980HX-887904-KAG-A10\Work In Progress\887904-1111-1.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980HX-887904-KAG-A10/WORK IN PROGRESS/allegro/pstchip.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980HX-887904-KAG-A10/WORK IN PROGRESS/allegro/pstchip.dat (00:00:00.03)
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980HX-887904-KAG-A10/WORK IN PROGRESS/allegro/pstxprt.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980HX-887904-KAG-A10/WORK IN PROGRESS/allegro/pstxprt.dat (00:00:00.02)
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980HX-887904-KAG-A10/WORK IN PROGRESS/allegro/pstxnet.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980HX-887904-KAG-A10/WORK IN PROGRESS/allegro/pstxnet.dat (00:00:00.03)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/PACKAGE_SYMBOLS/ 
+           D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/EXTRACTED_TEMPLATE_LIB/ 
+
+PADPATH =  D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/PADSTACK/ 
+           D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/EXTRACTED_TEMPLATE_LIB/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Nov 11 8:51:06 2026
+   DESIGN NAME : '980HX-887904-KAG-A10_ALLSITE_1111B'
+   PACKAGING ON Aug  3 2015 18:16:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:58
+elapsed time  0:00:01
+

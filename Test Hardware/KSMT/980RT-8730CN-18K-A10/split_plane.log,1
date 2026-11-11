@@ -2,13 +2,13 @@
 (                                                                     )
 (    Split Plane Create                                               )
 (                                                                     )
-(    Drawing          : 038RT-8730CN_1109-3.brd                       )
+(    Drawing          : 038RT-8730CN_1111-2.brd                       )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Mon Nov 09 16:22:06 2026                      )
+(    Date/Time        : Wed Nov 11 11:43:58 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Creating Dynamic split plane on layer "L17_DPS"
+Creating Dynamic split plane on layer "L23_USER_CBIT"
 
 Split Plane Session Completed.
