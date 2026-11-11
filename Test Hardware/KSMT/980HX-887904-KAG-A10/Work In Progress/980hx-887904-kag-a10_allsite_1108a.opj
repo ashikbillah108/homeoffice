@@ -17,8 +17,7 @@
       (Path "Design Resources" ".\980hx-887904-kag-a10_allsite_1108a.dsn")
       (Path "Design Resources" ".\980hx-887904-kag-a10_allsite_1108a.dsn"
          "SCHEMATIC1")
-      (Select "Design Resources" ".\980hx-887904-kag-a10_allsite_1108a.dsn"
-         "SCHEMATIC1" "X01-ASSIGN RULE"))
+      (Select "Design Resources" ".\980hx-887904-kag-a10_allsite_1108a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -28,45 +27,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1847 182 634")
-        (Scroll "150 221")
-        (Zoom "76")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1434 52 255")
+        (Scroll "-12 22")
+        (Zoom "120")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980HX-887904-KAG-A10\WORK IN PROGRESS\980HX-887904-KAG-A10_ALLSITE_1108A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P0013_S1_POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1873 208 660")
-        (Scroll "-224 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980HX-887904-KAG-A10\WORK IN PROGRESS\980HX-887904-KAG-A10_ALLSITE_1108A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P0012_S1_FLASH_I2C"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1665 0 452")
-        (Scroll "2609 1234")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980HX-887904-KAG-A10\WORK IN PROGRESS\980HX-887904-KAG-A10_ALLSITE_1108A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P0011_S1_DUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1691 26 478")
-        (Scroll "-99 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980HX-887904-KAG-A10\WORK IN PROGRESS\980HX-887904-KAG-A10_ALLSITE_1108A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "X01-ASSIGN RULE")))
-  (MPSSessionName "Ashik-iTest"))
+      (Page "P0014-S1_PWR-OUT")))
+  (MPSSessionName "Ashik-HomeOffice"))

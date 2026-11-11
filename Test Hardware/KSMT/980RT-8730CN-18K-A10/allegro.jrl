@@ -1,19 +1,21 @@
-\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:00)     Journal start - Tue Nov 10 12:31:52 2026
-\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=26772 CPUs=20
-\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:00) 
-\t (00:00:00) Opening existing design...
-\d (00:00:01) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1109-3.brd
-\i (00:00:01) trapsize 11619
-\i (00:00:01) trapsize 11410
-\i (00:00:01) trapsize 11654
-\i (00:00:01) trapsize 11755
-\i (00:00:01) trapsize 11755
-\i (00:00:02) rfedit_appm 
-\i (00:00:03) open 
-\i (00:00:13) fillin "C:\Users\Ashik-iTest\Downloads\20260823_RXTX\20260823\8880F5-0823_RXTX.brd"
-\i (00:00:13) cd "C:\Users\Ashik-iTest\Downloads\20260823_RXTX\20260823"
-\t (00:00:13) Opening existing design...
-\i (00:00:14) trapsize 11059
-\t (00:00:14)     Journal end - Tue Nov 10 12:32:05 2026
+\t (00:00:05) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:05)     Journal start - Wed Nov 11 07:10:34 2026
+\t (00:00:05)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=25480 CPUs=16
+\t (00:00:05) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:05) 
+\t (00:00:09) Opening existing design...
+\w (00:00:11) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Maximum Crosstalk, Maximum Peak Crosstalk, Embedded Layers present.  [help]
+\i (00:00:36) fillin confirm
+\d (00:00:36) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd
+\i (00:00:37) trapsize 15735
+\i (00:00:37) trapsize 15368
+\i (00:00:37) trapsize 15798
+\i (00:00:37) trapsize 16200
+\i (00:00:37) trapsize 16200
+\i (00:00:38) generaledit 
+\i (00:00:39) open 
+\i (00:00:45) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980HX-887904-KAG-A10\Work In Progress\887904-1110.brd"
+\i (00:00:45) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980HX-887904-KAG-A10\Work In Progress"
+\t (00:00:45) Opening existing design...
+\i (00:00:45) trapsize 14741
+\t (00:00:45)     Journal end - Wed Nov 11 07:11:14 2026

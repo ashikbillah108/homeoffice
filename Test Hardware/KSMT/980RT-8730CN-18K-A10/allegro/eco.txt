@@ -1,0 +1,1493 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N24989916    pins MOVED FROM this net (to net name listed on right)
+                                 K5.6            -1622.0 -167.84
+                                                                        S0_HSDP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N24989920    pins MOVED FROM this net (to net name listed on right)
+                                 K5.4            -1747.9  -81.23
+                                                                    S0_LPC_CH35
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25003725    pins MOVED FROM this net (to net name listed on right)
+                                 K7.6            -3664.0 -1504.2
+                                                                    S0_LPC_CH34
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25003728    pins ADDED TO this existing net (pins not previously on any net)
+                                 K7.7            -3664.0 -1590.8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27439769    pins MOVED FROM this net (to net name listed on right)
+                                 1K5.6            -47.21 -167.84
+                                                                        S1_HSDP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27439771    pins MOVED FROM this net (to net name listed on right)
+                                 1K5.4           -173.19  -81.23
+                                                                    S0_LPC_CH37
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27439931    pins MOVED FROM this net (to net name listed on right)
+                                 1K7.6           -3664.0 -154.23
+                                                                    S0_LPC_CH36
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27439932    pins ADDED TO this existing net (pins not previously on any net)
+                                 1K7.7           -3664.0 -240.85
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27448699    pins MOVED FROM this net (to net name listed on right)
+                                 2K5.6           1527.59 -167.84
+                                                                        S2_HSDP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27448701    pins MOVED FROM this net (to net name listed on right)
+                                 2K5.4           1401.61  -81.23
+                                                                    S3_LPC_CH35
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27448861    pins MOVED FROM this net (to net name listed on right)
+                                 2K7.6           3664.01 -1195.7
+                                                                    S3_LPC_CH34
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27448862    pins ADDED TO this existing net (pins not previously on any net)
+                                 2K7.7           3664.01 -1109.1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N27457628    pins MOVED FROM this net (to net name listed on right)
+                                 3K5.6           3102.39 -167.84
+                                                                        S3_HSDP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27457630    pins MOVED FROM this net (to net name listed on right)
+                                 3K5.4           2976.41  -81.23
+                                                                    S3_LPC_CH37
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27457790    pins MOVED FROM this net (to net name listed on right)
+                                 3K7.6           3664.01 -2545.7
+                                                                    S3_LPC_CH36
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27457791    pins ADDED TO this existing net (pins not previously on any net)
+                                 3K7.7           3664.01 -2459.1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27466557    pins MOVED FROM this net (to net name listed on right)
+                                 4K5.6           -1622.0 2194.36
+                                                                        S4_HSDP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27466559    pins MOVED FROM this net (to net name listed on right)
+                                 4K5.4           -1747.9 2280.97
+                                                                    S2_LPC_CH03
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27466719    pins MOVED FROM this net (to net name listed on right)
+                                 4K7.6           -3664.0 1195.77
+                                                                    S2_LPC_CH02
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27466720    pins ADDED TO this existing net (pins not previously on any net)
+                                 4K7.7           -3664.0 1109.15
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27475487    pins MOVED FROM this net (to net name listed on right)
+                                 5K5.6            -47.21 2194.36
+                                                                        S5_HSDP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27475489    pins MOVED FROM this net (to net name listed on right)
+                                 5K5.4           -173.19 2280.97
+                                                                    S2_LPC_CH01
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27475649    pins MOVED FROM this net (to net name listed on right)
+                                 5K7.6           -3664.0 2545.77
+                                                                    S2_LPC_CH00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27475650    pins ADDED TO this existing net (pins not previously on any net)
+                                 5K7.7           -3664.0 2459.15
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N27484417    pins MOVED FROM this net (to net name listed on right)
+                                 6K5.6           1527.59 2194.36
+                                                                        S6_HSDP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27484419    pins MOVED FROM this net (to net name listed on right)
+                                 6K5.4           1401.61 2280.97
+                                                                    S1_LPC_CH03
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27484579    pins MOVED FROM this net (to net name listed on right)
+                                 6K7.6           3664.01 1504.23
+                                                                    S1_LPC_CH02
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27484580    pins ADDED TO this existing net (pins not previously on any net)
+                                 6K7.7           3664.01 1590.85
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27493347    pins MOVED FROM this net (to net name listed on right)
+                                 7K5.6           3102.39 2194.36
+                                                                        S7_HSDP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27493349    pins MOVED FROM this net (to net name listed on right)
+                                 7K5.4           2976.41 2280.97
+                                                                    S1_LPC_CH01
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27493509    pins MOVED FROM this net (to net name listed on right)
+                                 7K7.6           3664.01  154.23
+                                                                    S1_LPC_CH00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27493510    pins ADDED TO this existing net (pins not previously on any net)
+                                 7K7.7           3664.01  240.85
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_HSDM      pins MOVED FROM this net (to net name listed on right)
+                                 K5.8            -1622.0 -380.44
+                                                                          UR_46
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_HSDP      pins MOVED FROM this net (to net name listed on right)
+                                 K5.2            -1747.9 -254.46
+                                                                      N24989916
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH01  pins MOVED FROM this net (to net name listed on right)
+                                 5K3.5           -3896.4 1661.93
+                                                                    S0_LPC_CH00
+                                 P2.N4           -3917.3 7696.85
+                                                                    S0_LPC_CH00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH20  pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 5K1.4           -3896.4 2087.91
+                                                                    S0_LPC_CH00
+                                 P2.Q5           -3681.1 7775.59
+                                                                    S0_LPC_CH00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH30  pins MOVED FROM this net (to net name listed on right)
+                                 5K39.3          -1036.9 5203.24
+                                                                    S0_LPC_CH08
+                                 P2.S1           -3523.6 7460.63
+                                                                    S0_LPC_CH08
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH31  pins MOVED FROM this net (to net name listed on right)
+                                 5K6.5           -1185.1 5289.85
+                                                                    S0_LPC_CH00
+                                 P2.S3           -3523.6 7618.11
+                                                                    S0_LPC_CH00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH34  pins MOVED FROM this net (to net name listed on right)
+                                 K5.3            -1747.9 -167.84
+                                                                        S0_HSDM
+                                 K7.2            -3789.9 -1590.8
+                                                                      N25003725
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 K5.5            -1622.0  -81.23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH35  pins MOVED FROM this net (to net name listed on right)
+                                 K5.7            -1622.0 -254.46
+                                                                      N24989920
+                                 K7.8            -3664.0 -1716.8
+                                                                           UR_7
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 K7.3            -3789.9 -1504.2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH36  pins MOVED FROM this net (to net name listed on right)
+                                 1K5.3           -173.19 -167.84
+                                                                        S1_HSDM
+                                 1K7.2           -3789.9 -240.85
+                                                                      N27439931
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 1K5.5            -47.21  -81.23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH37  pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 1K5.7            -47.21 -254.46
+                                                                      N27439771
+                                 1K7.8           -3664.0 -366.83
+                                                                           UR_7
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 1K7.3           -3789.9 -154.23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH46  pins MOVED FROM this net (to net name listed on right)
+                                 1K39.3          -1227.0 -5416.4
+                                                                    S0_LPC_CH38
+                                 P8.X6           -3129.9 -7933.0
+                                                                    S0_LPC_CH38
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH47  pins MOVED FROM this net (to net name listed on right)
+                                 1C21.1          -589.61 -1457.7
+                                                                    S0_LPC_CH45
+                                 P8.X8           -3129.9 -7775.5
+                                                                    S0_LPC_CH45
+                                 SITE1.48        -649.60 -1417.3
+                                                                    S0_LPC_CH45
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH50  pins MOVED FROM this net (to net name listed on right)
+                                 P8.W1           -3208.6 -8326.7
+                                                                   S0_LPC_CH123
+                                 SITE1.66        -551.18 -1139.7
+                                                                   S0_LPC_CH123
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH54  pins MOVED FROM this net (to net name listed on right)
+                                 1C18.2          -589.61 -1403.7
+                                                                    S0_LPC_CH41
+                                 P8.W9           -3208.6 -7696.8
+                                                                    S0_LPC_CH41
+                                 SITE1.50        -622.05 -1417.3
+                                                                    S0_LPC_CH41
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH68  pins MOVED FROM this net (to net name listed on right)
+                                 5K39.6          -911.00 5203.24
+                                                                    S0_LPC_CH07
+                                 P2.T2           -3444.8 7539.37
+                                                                    S0_LPC_CH07
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH74  pins MOVED FROM this net (to net name listed on right)
+                                 P2.U1           -3366.1 7460.63
+                                                                    S0_LPC_CH06
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE5.7         -1023.6 1263.78
+                                                                    S0_LPC_CH06
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH75  pins MOVED FROM this net (to net name listed on right)
+                                 P2.U3           -3366.1 7618.11
+                                                                    S0_LPC_CH12
+                                 SITE5.8         -1023.6 1250.00
+                                                                    S0_LPC_CH12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH80  pins MOVED FROM this net (to net name listed on right)
+                                 P2.V2           -3287.4 7539.37
+                                                                    S0_LPC_CH19
+                                 SITE5.10        -1023.6 1222.44
+                                                                    S0_LPC_CH19
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH81  pins MOVED FROM this net (to net name listed on right)
+                                 5C21.1          -589.61  904.48
+                                                                    S0_LPC_CH25
+                                 P2.V4           -3287.4 7696.85
+                                                                    S0_LPC_CH25
+                                 SITE5.48        -649.60  944.88
+                                                                    S0_LPC_CH25
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH82  pins MOVED FROM this net (to net name listed on right)
+                                 4K2.4           -3896.4  461.93
+                                                                    S0_LPC_CH69
+                                 P2.V6           -3287.4 7854.33
+                                                                    S0_LPC_CH69
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH86  pins MOVED FROM this net (to net name listed on right)
+                                 5C18.2          -589.61  958.48
+                                                                    S0_LPC_CH18
+                                 P2.W1           -3208.6 7460.63
+                                                                    S0_LPC_CH18
+                                 SITE5.50        -622.05  944.88
+                                                                    S0_LPC_CH18
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH122 pins MOVED FROM this net (to net name listed on right)
+                                 1K3.5           -3896.4 -1038.0
+                                                                   S0_LPC_CH104
+                                 P8.Q9           -3681.1 -7696.8
+                                                                   S0_LPC_CH104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S0_LPC_CH127 pins MOVED FROM this net (to net name listed on right)
+                                 1K2.4           -3896.4 -888.07
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                   S0_LPC_CH104
+                                 P8.P8           -3759.8 -7775.5
+                                                                   S0_LPC_CH104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HSDM      pins MOVED FROM this net (to net name listed on right)
+                                 1K5.8            -47.21 -380.44
+                                                                          UR_46
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HSDP      pins MOVED FROM this net (to net name listed on right)
+                                 1K5.2           -173.19 -254.46
+                                                                      N27439769
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH00  pins MOVED FROM this net (to net name listed on right)
+                                 7K5.3           2976.41 2194.36
+                                                                        S7_HSDM
+                                 7K7.2           3789.99  240.85
+                                                                      N27493509
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 7K5.5           3102.39 2280.97
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH01  pins MOVED FROM this net (to net name listed on right)
+                                 7K5.7           3102.39 2107.74
+                                                                      N27493349
+                                 7K7.8           3664.01  366.83
+                                                                          UR_33
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 7K7.3           3789.99  154.23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH02  pins MOVED FROM this net (to net name listed on right)
+                                 6K5.3           1401.61 2194.36
+                                                                        S6_HSDM
+                                 6K7.2           3789.99 1590.85
+                                                                      N27484579
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 6K5.5           1527.59 2280.97
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH03  pins MOVED FROM this net (to net name listed on right)
+                                 6K5.7           1527.59 2107.74
+                                                                      N27484419
+                                 6K7.8           3664.01 1716.83
+                                                                          UR_33
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 6K7.3           3789.99 1504.23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH28  pins MOVED FROM this net (to net name listed on right)
+                                 2K4.5           5822.53 -1172.8
+                                                                   S1_LPC_CH126
+                                 P5.E10          3562.99 8169.29
+                                                                   S1_LPC_CH126
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH32  pins MOVED FROM this net (to net name listed on right)
+                                 2K9.4           1788.95 -2043.1
+                                                                   S1_LPC_CH126
+                                 P10.M2          4192.91 -8248.0
+                                                                   S1_LPC_CH126
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH48  pins MOVED FROM this net (to net name listed on right)
+                                 2K1.5           3896.48 -863.89
+                                                                    S1_LPC_CH35
+                                 P10.K10         4035.43 -7618.1
+                                                                    S1_LPC_CH35
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH59  pins MOVED FROM this net (to net name listed on right)
+                                 3K3.5           3896.48 -1661.9
+                                                                    S1_LPC_CH55
+                                 P10.I8          3877.95 -7775.5
+                                                                    S1_LPC_CH55
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH60  pins MOVED FROM this net (to net name listed on right)
+                                 3K6.4           4142.46 -5503.0
+                                                                    S1_LPC_CH54
+                                 P10.I10         3877.95 -7618.1
+                                                                    S1_LPC_CH54
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH92  pins MOVED FROM this net (to net name listed on right)
+                                 6K4.5           5822.53 1527.19
+                                                                    S0_LPC_CH79
+                                 P5.K2           4035.43 7539.37
+                                                                    S0_LPC_CH79
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH96  pins MOVED FROM this net (to net name listed on right)
+                                 7K15.7          5199.30 1133.92
+                                                                    S1_LPC_CH94
+                                 P10.H5          3799.21 -8011.8
+                                                                    S1_LPC_CH94
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_LPC_CH98  pins MOVED FROM this net (to net name listed on right)
+                                 3K2.4           3896.48 -1811.9
+                                                                    S1_LPC_CH54
+                                 P10.H9          3799.21 -7696.8
+                                                                    S1_LPC_CH54
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH99  pins MOVED FROM this net (to net name listed on right)
+                                 3K6.5           4016.48 -5503.0
+                                                                   S1_LPC_CH123
+                                 P10.H11         3799.21 -7539.3
+                                                                   S1_LPC_CH123
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH120 pins MOVED FROM this net (to net name listed on right)
+                                 3C17.2          2559.99 -1369.9
+                                                                   S1_LPC_CH119
+                                 P10.D5          3484.25 -8011.8
+                                                                   S1_LPC_CH119
+                                 SITE3.49        2513.77 -1417.3
+                                                                   S1_LPC_CH119
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_LPC_CH125 pins MOVED FROM this net (to net name listed on right)
+                                 P10.C4          3405.51 -8090.5
+                                                                   S1_LPC_CH104
+                                 SITE3.7         2125.98 -1098.4
+                                                                   S1_LPC_CH104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_HSDM      pins MOVED FROM this net (to net name listed on right)
+                                 2K5.8           1527.59 -380.44
+                                                                          UR_46
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_HSDP      pins MOVED FROM this net (to net name listed on right)
+                                 2K5.2           1401.61 -254.46
+                                                                      N27448699
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH00  pins MOVED FROM this net (to net name listed on right)
+                                 5K5.3           -173.19 2194.36
+                                                                        S5_HSDM
+                                 5K7.2           -3789.9 2459.15
+                                                                      N27475649
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 5K5.5            -47.21 2280.97
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH01  pins MOVED FROM this net (to net name listed on right)
+                                 5K5.7            -47.21 2107.74
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                      N27475489
+                                 5K7.8           -3664.0 2333.17
+                                                                          UR_33
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 5K7.3           -3789.9 2545.77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH02  pins MOVED FROM this net (to net name listed on right)
+                                 4K5.3           -1747.9 2194.36
+                                                                        S4_HSDM
+                                 4K7.2           -3789.9 1109.15
+                                                                      N27466719
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 4K5.5           -1622.0 2280.97
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH03  pins MOVED FROM this net (to net name listed on right)
+                                 4K5.7           -1622.0 2107.74
+                                                                      N27466559
+                                 4K7.8           -3664.0  983.17
+                                                                          UR_33
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 4K7.3           -3789.9 1195.77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH04  pins MOVED FROM this net (to net name listed on right)
+                                 5K16.2          -4749.3 2396.83
+                                                                    S0_LPC_CH06
+                                 P2.A10          -4940.9 8169.29
+                                                                    S0_LPC_CH06
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH17  pins MOVED FROM this net (to net name listed on right)
+                                 5K34.2          -6099.3 1726.10
+                                                                    S0_LPC_CH52
+                                 P2.C12          -4783.4 8326.77
+                                                                    S0_LPC_CH52
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH20  pins MOVED FROM this net (to net name listed on right)
+                                 4K39.6          -4831.0 5203.24
+                                                                    S2_LPC_CH14
+                                 P2.D5           -4704.7 7775.59
+                                                                    S2_LPC_CH14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH22  pins MOVED FROM this net (to net name listed on right)
+                                 5K34.7          -6099.3 1852.08
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                    S2_LPC_CH05
+                                 P2.D9           -4704.7 8090.55
+                                                                    S2_LPC_CH05
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH28  pins MOVED FROM this net (to net name listed on right)
+                                 5K35.7          -6099.3 1566.08
+                                                                    S0_LPC_CH77
+                                 P2.E10          -4625.9 8169.29
+                                                                    S0_LPC_CH77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH29  pins MOVED FROM this net (to net name listed on right)
+                                 4K34.7          -6099.3  502.08
+                                                                    S0_LPC_CH51
+                                 P2.E12          -4625.9 8326.77
+                                                                    S0_LPC_CH51
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH47  pins MOVED FROM this net (to net name listed on right)
+                                 K15.2           -5199.3 -2609.9
+                                                                    S2_LPC_CH41
+                                 P8.K8           -4153.5 -7775.5
+                                                                    S2_LPC_CH41
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH51  pins MOVED FROM this net (to net name listed on right)
+                                 1K11.2          -5649.3 -1259.9
+                                                                    S0_LPC_CH83
+                                 P8.J3           -4232.2 -8169.2
+                                                                    S0_LPC_CH83
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH53  pins MOVED FROM this net (to net name listed on right)
+                                 K10.2           -4632.2 -2323.9
+                                                                    S2_LPC_CH41
+                                 P8.J7           -4232.2 -7854.3
+                                                                    S2_LPC_CH41
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH59  pins MOVED FROM this net (to net name listed on right)
+                                 K11.2           -5649.3 -2609.9
+                                                                   S0_LPC_CH105
+                                 P8.I8           -4311.0 -7775.5
+                                                                   S0_LPC_CH105
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH61  pins MOVED FROM this net (to net name listed on right)
+                                 1K35.2          -6099.3 -1259.9
+                                                                   S2_LPC_CH105
+                                 P8.I12          -4311.0 -7460.6
+                                                                   S2_LPC_CH105
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S2_LPC_CH63  pins MOVED FROM this net (to net name listed on right)
+                                 1K15.2          -5199.3 -1259.9
+                                                                    S2_LPC_CH56
+                                 P8.H3           -4389.7 -8169.2
+                                                                    S2_LPC_CH56
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH65  pins MOVED FROM this net (to net name listed on right)
+                                 4K11.7          -5649.3  216.08
+                                                                    S0_LPC_CH14
+                                 P2.F7           -4547.2 7933.07
+                                                                    S0_LPC_CH14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH84  pins MOVED FROM this net (to net name listed on right)
+                                 4J4.4           -6030.0 3745.32
+                                                                    S2_LPC_CH74
+                                 4R37.1          -6030.0 3825.63
+                                                                    S2_LPC_CH74
+                                 P2.I10          -4311.0 8169.29
+                                                                    S2_LPC_CH74
+                                 SITE4.57        -2125.9 1098.42
+                                                                    S2_LPC_CH74
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH88  pins MOVED FROM this net (to net name listed on right)
+                                 5J4.7           -2095.0 3755.32
+                                                                    S0_LPC_CH08
+                                 5R41.1          -2095.0 3835.63
+                                                                    S0_LPC_CH08
+                                 P2.J5           -4232.2 7775.59
+                                                                    S0_LPC_CH08
+                                 SITE5.18        -1023.6 1112.20
+                                                                    S0_LPC_CH08
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH89  pins MOVED FROM this net (to net name listed on right)
+                                 4K15.2          -5199.3   90.10
+                                                                    S0_LPC_CH15
+                                 P2.J7           -4232.2 7933.07
+                                                                    S0_LPC_CH15
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH97  pins MOVED FROM this net (to net name listed on right)
+                                 K14.2           -4632.2 -2609.9
+                                                                   S2_LPC_CH110
+                                 P8.H7           -4389.7 -7854.3
+                                                                   S2_LPC_CH110
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH98  pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 K11.7           -5649.3 -2483.9
+                                                                   S0_LPC_CH105
+                                 P8.H9           -4389.7 -7696.8
+                                                                   S0_LPC_CH105
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH108 pins MOVED FROM this net (to net name listed on right)
+                                 K12.2           -5199.3 -2323.9
+                                                                   S0_LPC_CH105
+                                 P8.F5           -4547.2 -8011.8
+                                                                   S0_LPC_CH105
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH109 pins MOVED FROM this net (to net name listed on right)
+                                 K36.2           -6099.3 -1984.0
+                                                                   S2_LPC_CH103
+                                 P8.F7           -4547.2 -7854.3
+                                                                   S2_LPC_CH103
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH115 pins MOVED FROM this net (to net name listed on right)
+                                 K36.7           -6099.3 -1858.0
+                                                                   S0_LPC_CH105
+                                 P8.E8           -4625.9 -7775.5
+                                                                   S0_LPC_CH105
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH119 pins MOVED FROM this net (to net name listed on right)
+                                 1J4.1           -5925.0 -3868.5
+                                                                   S0_LPC_CH123
+                                 1R34.1          -5925.0 -3948.8
+                                                                   S0_LPC_CH123
+                                 P8.D3           -4704.7 -8169.2
+                                                                   S0_LPC_CH123
+                                 SITE1.71        -551.18 -1070.8
+                                                                   S0_LPC_CH123
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH120 pins MOVED FROM this net (to net name listed on right)
+                                 1J4.3           -5725.0 -3868.5
+                                                                   S0_LPC_CH111
+                                 1R36.1          -5725.0 -3948.8
+                                                                   S0_LPC_CH111
+                                 P8.D5           -4704.7 -8011.8
+                                                                   S0_LPC_CH111
+                                 SITE1.68        -551.18 -1112.2
+                                                                   S0_LPC_CH111
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH125 pins MOVED FROM this net (to net name listed on right)
+                                 1J4.2           -5825.0 -3868.5
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                   S0_LPC_CH116
+                                 1R35.1          -5825.0 -3948.8
+                                                                   S0_LPC_CH116
+                                 P8.C4           -4783.4 -8090.5
+                                                                   S0_LPC_CH116
+                                 SITE1.69        -551.18 -1098.4
+                                                                   S0_LPC_CH116
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S2_LPC_CH126 pins MOVED FROM this net (to net name listed on right)
+                                 1J4.4           -5625.0 -3868.5
+                                                                   S0_LPC_CH104
+                                 1R37.1          -5625.0 -3948.8
+                                                                   S0_LPC_CH104
+                                 P8.C6           -4783.4 -7933.0
+                                                                   S0_LPC_CH104
+                                 SITE1.57        -551.18 -1263.7
+                                                                   S0_LPC_CH104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_HSDM      pins MOVED FROM this net (to net name listed on right)
+                                 3K5.8           3102.39 -380.44
+                                                                          UR_46
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_HSDP      pins MOVED FROM this net (to net name listed on right)
+                                 3K5.2           2976.41 -254.46
+                                                                      N27457628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH00  pins MOVED FROM this net (to net name listed on right)
+                                 7J4.5           6550.00 3735.32
+                                                                    S0_LPC_CH28
+                                 7R39.1          6550.00 3815.63
+                                                                    S0_LPC_CH28
+                                 P5.N2           4271.65 7539.37
+                                                                    S0_LPC_CH28
+                                 SITE7.58        2598.42 1112.20
+                                                                    S0_LPC_CH28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH01  pins MOVED FROM this net (to net name listed on right)
+                                 7J4.6           6450.00 3735.32
+                                                                    S1_LPC_CH93
+                                 7R40.1          6450.00 3815.63
+                                                                    S1_LPC_CH93
+                                 P5.N4           4271.65 7696.85
+                                                                    S1_LPC_CH93
+                                 SITE7.17        2125.98 1125.98
+                                                                    S1_LPC_CH93
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S3_LPC_CH07  pins MOVED FROM this net (to net name listed on right)
+                                 7J4.4           6650.00 3735.32
+                                                                    S1_LPC_CH17
+                                 7R37.1          6650.00 3815.63
+                                                                    S1_LPC_CH17
+                                 P5.O3           4350.39 7618.11
+                                                                    S1_LPC_CH17
+                                 SITE7.57        2598.42 1098.42
+                                                                    S1_LPC_CH17
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH12  pins MOVED FROM this net (to net name listed on right)
+                                 7J4.3           6750.00 3735.32
+                                                                    S1_LPC_CH22
+                                 7R36.1          6750.00 3815.63
+                                                                    S1_LPC_CH22
+                                 P5.P2           4429.13 7539.37
+                                                                    S1_LPC_CH22
+                                 SITE7.68        2598.42 1250.00
+                                                                    S1_LPC_CH22
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH15  pins MOVED FROM this net (to net name listed on right)
+                                 5K14.7          -4632.2 1566.08
+                                                                    S2_LPC_CH76
+                                 P5.P8           4429.13 8011.81
+                                                                    S2_LPC_CH76
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH17  pins MOVED FROM this net (to net name listed on right)
+                                 6J4.4           1915.00 3750.32
+                                                                    S1_LPC_CH18
+                                 6R37.1          1915.00 3830.63
+                                                                    S1_LPC_CH18
+                                 P5.P12          4429.13 8326.77
+                                                                    S1_LPC_CH18
+                                 SITE6.57        1023.62 1098.42
+                                                                    S1_LPC_CH18
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH20  pins MOVED FROM this net (to net name listed on right)
+                                 7K1.4           3896.48  612.09
+                                                                    S1_LPC_CH69
+                                 P5.Q5           4507.87 7775.59
+                                                                    S1_LPC_CH69
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH25  pins MOVED FROM this net (to net name listed on right)
+                                 7K2.5           3896.48  762.09
+                                                                    S0_LPC_CH28
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 P5.R4           4586.61 7696.85
+                                                                    S0_LPC_CH28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH31  pins MOVED FROM this net (to net name listed on right)
+                                 7K2.4           3896.48  888.07
+                                                                    S1_LPC_CH75
+                                 P5.S3           4665.35 7618.11
+                                                                    S1_LPC_CH75
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH34  pins MOVED FROM this net (to net name listed on right)
+                                 2K5.3           1401.61 -167.84
+                                                                        S2_HSDM
+                                 2K7.2           3789.99 -1109.1
+                                                                      N27448861
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 2K5.5           1527.59  -81.23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH35  pins MOVED FROM this net (to net name listed on right)
+                                 2K5.7           1527.59 -254.46
+                                                                      N27448701
+                                 2K7.8           3664.01 -983.17
+                                                                           UR_7
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 2K7.3           3789.99 -1195.7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH36  pins MOVED FROM this net (to net name listed on right)
+                                 3K5.3           2976.41 -167.84
+                                                                        S3_HSDM
+                                 3K7.2           3789.99 -2459.1
+                                                                      N27457790
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 3K5.5           3102.39  -81.23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH37  pins MOVED FROM this net (to net name listed on right)
+                                 3K5.7           3102.39 -254.46
+                                                                      N27457630
+                                 3K7.8           3664.01 -2333.1
+                                                                           UR_7
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 3K7.3           3789.99 -2545.7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  17  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S3_LPC_CH44  pins MOVED FROM this net (to net name listed on right)
+                                 1K9.4            214.15 -2043.1
+                                                                    S0_LPC_CH41
+                                 P10.X2          5059.06 -8248.0
+                                                                    S0_LPC_CH41
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH45  pins MOVED FROM this net (to net name listed on right)
+                                 3K16.2          4749.30 -2396.8
+                                                                    S1_LPC_CH49
+                                 P10.X4          5059.06 -8090.5
+                                                                    S1_LPC_CH49
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH47  pins MOVED FROM this net (to net name listed on right)
+                                 3K36.7          6099.30 -2191.9
+                                                                    S3_LPC_CH32
+                                 P10.X8          5059.06 -7775.5
+                                                                    S3_LPC_CH32
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH48  pins MOVED FROM this net (to net name listed on right)
+                                 2J4.1           5290.00 -3678.5
+                                                                   S1_LPC_CH127
+                                 2R34.1          5290.00 -3758.8
+                                                                   S1_LPC_CH127
+                                 P10.X10         5059.06 -7618.1
+                                                                   S1_LPC_CH127
+                                 SITE2.71        1023.62 -1070.8
+                                                                   S1_LPC_CH127
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH49  pins MOVED FROM this net (to net name listed on right)
+                                 2J4.2           5390.00 -3678.5
+                                                                   S1_LPC_CH122
+                                 2R35.1          5390.00 -3758.8
+                                                                   S1_LPC_CH122
+                                 P10.X12         5059.06 -7460.6
+                                                                   S1_LPC_CH122
+                                 SITE2.69        1023.62 -1098.4
+                                                                   S1_LPC_CH122
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH53  pins MOVED FROM this net (to net name listed on right)
+                                 3K36.2          6099.30 -2065.9
+                                                                    S3_LPC_CH33
+                                 P10.W7          4980.31 -7854.3
+                                                                    S3_LPC_CH33
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH54  pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  18  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 3K13.7          5649.30 -1852.0
+                                                                   S3_LPC_CH111
+                                 P10.W9          4980.31 -7696.8
+                                                                   S3_LPC_CH111
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH58  pins MOVED FROM this net (to net name listed on right)
+                                 2K36.2          6099.30 -715.95
+                                                                    S3_LPC_CH46
+                                 P10.V6          4901.57 -7933.0
+                                                                    S3_LPC_CH46
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH61  pins MOVED FROM this net (to net name listed on right)
+                                 P10.V12         4901.57 -7460.6
+                                                                    S1_LPC_CH49
+                                 SITE3.67        2598.42 -1125.9
+                                                                    S1_LPC_CH49
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH62  pins MOVED FROM this net (to net name listed on right)
+                                 2K34.2          6099.30 -376.10
+                                                                    S3_LPC_CH46
+                                 P10.U1          4822.83 -8326.7
+                                                                    S3_LPC_CH46
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH64  pins MOVED FROM this net (to net name listed on right)
+                                 2K12.2          5199.30 -376.10
+                                                                   S3_LPC_CH114
+                                 P5.S5           4665.35 7775.59
+                                                                   S3_LPC_CH114
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH69  pins MOVED FROM this net (to net name listed on right)
+                                 2K10.7          4632.20 -502.08
+                                                                   S3_LPC_CH126
+                                 P5.T4           4744.09 7696.85
+                                                                   S3_LPC_CH126
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH72  pins MOVED FROM this net (to net name listed on right)
+                                 5K12.7          -5199.3 1852.08
+                                                                    S2_LPC_CH05
+                                 P5.T10          4744.09 8169.29
+                                                                    S2_LPC_CH05
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH79  pins MOVED FROM this net (to net name listed on right)
+                                 5K18.5          -4922.5 2191.93
+                                                                    S2_LPC_CH90
+                                 P5.U11          4822.83 8248.03
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  19  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                    S2_LPC_CH90
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH84  pins MOVED FROM this net (to net name listed on right)
+                                 6K15.7          5199.30 2483.92
+                                                                    S1_LPC_CH95
+                                 P5.V10          4901.57 8169.29
+                                                                    S1_LPC_CH95
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH87  pins MOVED FROM this net (to net name listed on right)
+                                 6K3.5           3896.48 2388.07
+                                                                    S1_LPC_CH19
+                                 P5.W3           4980.31 7618.11
+                                                                    S1_LPC_CH19
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH89  pins MOVED FROM this net (to net name listed on right)
+                                 6K1.5           3896.48 1836.11
+                                                                    S1_LPC_CH25
+                                 P5.W7           4980.31 7933.07
+                                                                    S1_LPC_CH25
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH92  pins MOVED FROM this net (to net name listed on right)
+                                 6K3.4           3896.48 2514.05
+                                                                    S1_LPC_CH13
+                                 P5.X2           5059.06 7539.37
+                                                                    S1_LPC_CH13
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH96  pins MOVED FROM this net (to net name listed on right)
+                                 2K13.7          5649.30 -502.08
+                                                                   S3_LPC_CH101
+                                 P10.U5          4822.83 -8011.8
+                                                                   S3_LPC_CH101
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH98  pins MOVED FROM this net (to net name listed on right)
+                                 3K11.7          5649.30 -1566.0
+                                                                   S3_LPC_CH111
+                                 P10.U9          4822.83 -7696.8
+                                                                   S3_LPC_CH111
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH104 pins MOVED FROM this net (to net name listed on right)
+                                 3K11.2          5649.30 -1440.1
+                                                                    S1_LPC_CH97
+                                 P10.T10         4744.09 -7618.1
+                                                                    S1_LPC_CH97
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH105 pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  20  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 3J4.2           2610.00 -3683.5
+                                                                    S1_LPC_CH55
+                                 3R35.1          2610.00 -3763.8
+                                                                    S1_LPC_CH55
+                                 P10.T12         4744.09 -7460.6
+                                                                    S1_LPC_CH55
+                                 SITE3.69        2598.42 -1098.4
+                                                                    S1_LPC_CH55
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH116 pins MOVED FROM this net (to net name listed on right)
+                                 3K15.2          5199.30 -1440.1
+                                                                    S1_LPC_CH97
+                                 P10.R10         4586.61 -7618.1
+                                                                    S1_LPC_CH97
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH117 pins MOVED FROM this net (to net name listed on right)
+                                 3J4.3           2710.00 -3683.5
+                                                                    S1_LPC_CH61
+                                 3R36.1          2710.00 -3763.8
+                                                                    S1_LPC_CH61
+                                 P10.R12         4586.61 -7460.6
+                                                                    S1_LPC_CH61
+                                 SITE3.68        2598.42 -1112.2
+                                                                    S1_LPC_CH61
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH123 pins MOVED FROM this net (to net name listed on right)
+                                 2K3.4           3896.48 -185.95
+                                                                    S1_LPC_CH36
+                                 P10.Q11         4507.87 -7539.3
+                                                                    S1_LPC_CH36
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S3_LPC_CH127 pins MOVED FROM this net (to net name listed on right)
+                                 2K3.5           3896.48 -311.93
+                                                                    S1_LPC_CH43
+                                 P10.P8          4429.13 -7775.5
+                                                                    S1_LPC_CH43
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_HSDM      pins MOVED FROM this net (to net name listed on right)
+                                 4K5.8           -1622.0 1981.76
+                                                                          UR_41
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S4_HSDP      pins MOVED FROM this net (to net name listed on right)
+                                 4K5.2           -1747.9 2107.74
+                                                                      N27466557
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  21  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S5_HSDM      pins MOVED FROM this net (to net name listed on right)
+                                 5K5.8            -47.21 1981.76
+                                                                          UR_41
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S5_HSDP      pins MOVED FROM this net (to net name listed on right)
+                                 5K5.2           -173.19 2107.74
+                                                                      N27475487
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S6_HSDM      pins MOVED FROM this net (to net name listed on right)
+                                 6K5.8           1527.59 1981.76
+                                                                          UR_41
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S6_HSDP      pins MOVED FROM this net (to net name listed on right)
+                                 6K5.2           1401.61 2107.74
+                                                                      N27484417
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S7_HSDM      pins MOVED FROM this net (to net name listed on right)
+                                 7K5.8           3102.39 1981.76
+                                                                          UR_41
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S7_HSDP      pins MOVED FROM this net (to net name listed on right)
+                                 7K5.2           2976.41 2107.74
+                                                                      N27493347
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_3         pins MOVED FROM this net (to net name listed on right)
+                                 1K2.8           -3597.2 -762.09
+                                                                          UR_10
+                                 2K2.8           3597.27 -587.91
+                                                                          UR_10
+                                 3K2.8           3597.27 -1937.9
+                                                                          UR_10
+                                 K2.8            -3597.2 -2112.0
+                                                                          UR_10
+                                 SW1.2           -5824.9 -4936.4
+                                                                          UR_10
+                                 U7.14           -1191.1 -3317.4
+                                                                          UR_10
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_4         pins MOVED FROM this net (to net name listed on right)
+                                 1K3.8           -3597.2 -1038.0
+                                                                           UR_1
+                                 2K3.8           3597.27 -311.93
+                                                                           UR_1
+                                 3K3.8           3597.27 -1661.9
+                                                                           UR_1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  22  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 K3.8            -3597.2 -2388.0
+                                                                           UR_1
+                                 SW1.3           -5724.9 -4936.4
+                                                                           UR_1
+                                 U7.12           -1191.1 -3368.5
+                                                                           UR_1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_8         pins MOVED FROM this net (to net name listed on right)
+                                 1K14.8          -4506.2 -1133.9
+                                                                           UR_0
+                                 2K14.8          4506.22 -216.08
+                                                                           UR_0
+                                 3K14.8          4506.22 -1566.0
+                                                                           UR_0
+                                 K14.8           -4506.2 -2483.9
+                                                                           UR_0
+                                 SW2.6           -6575.0 -4368.5
+                                                                           UR_0
+                                 U5.18           -499.00 -3250.8
+                                                                           UR_0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_9         pins MOVED FROM this net (to net name listed on right)
+                                 1K15.8          -5073.3 -1133.9
+                                                                          UR_13
+                                 2K15.8          5073.32 -216.08
+                                                                          UR_13
+                                 3K15.8          5073.32 -1566.0
+                                                                          UR_13
+                                 K15.8           -5073.3 -2483.9
+                                                                          UR_13
+                                 SW2.7           -6475.0 -4368.5
+                                                                          UR_13
+                                 U5.17           -524.59 -3250.8
+                                                                          UR_13
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_22        pins MOVED FROM this net (to net name listed on right)
+                                 4K1.8           -3597.2  863.89
+                                                                          UR_21
+                                 4SW1.1          -2675.0 4265.32
+                                                                          UR_21
+                                 5K1.8           -3597.2 2213.89
+                                                                          UR_21
+                                 6K1.8           3597.27 1836.11
+                                                                          UR_21
+                                 7K1.8           3597.27  486.11
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  23  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                          UR_21
+                                 U6.9              75.41 -3435.1
+                                                                          UR_21
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_23        pins MOVED FROM this net (to net name listed on right)
+                                 4K2.8           -3597.2  587.91
+                                                                          UR_20
+                                 4SW1.2          -2775.0 4265.32
+                                                                          UR_20
+                                 5K2.8           -3597.2 1937.91
+                                                                          UR_20
+                                 6K2.8           3597.27 2112.09
+                                                                          UR_20
+                                 7K2.8           3597.27  762.09
+                                                                          UR_20
+                                 U6.8             101.00 -3435.1
+                                                                          UR_20
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_40        pins MOVED FROM this net (to net name listed on right)
+                                 4K6.8           -5105.1 4990.64
+                                                                          UR_21
+                                 4SW1.6          -3175.0 4265.32
+                                                                          UR_21
+                                 5K6.8           -1185.1 4990.64
+                                                                          UR_21
+                                 6K6.8           4509.88 4990.64
+                                                                          UR_21
+                                 7K6.8           6049.88 4990.64
+                                                                          UR_21
+                                 U9.18            101.00 -3850.8
+                                                                          UR_21
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_52        pins MOVED FROM this net (to net name listed on right)
+                                 4K35.8          -5973.3  216.08
+                                                                          UR_21
+                                 4SW4.8          2745.00 4758.19
+                                                                          UR_21
+                                 5K35.8          -5973.3 1566.08
+                                                                          UR_21
+                                 6K35.8          5973.32 2483.92
+                                                                          UR_21
+                                 7K35.8          5973.32 1133.92
+                                                                          UR_21
+                                 U10.12          -591.13 -3968.5
+                                                                          UR_21
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  24  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  UR_54        pins MOVED FROM this net (to net name listed on right)
+                                 4K22.8          -3241.1 1129.51
+                                                                          UR_48
+                                 4SW3.5          -1890.0 4833.19
+                                                                          UR_48
+                                 5K22.8          -1666.3 1129.51
+                                                                          UR_48
+                                 6K22.8           -91.52 1129.51
+                                                                          UR_48
+                                 7K22.8          1483.28 1129.51
+                                                                          UR_48
+                                 U10.9           -524.59 -4035.1
+                                                                          UR_48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_55        pins MOVED FROM this net (to net name listed on right)
+                                 4K21.8          -2914.0 1463.79
+                                                                          UR_15
+                                 4SW3.4          -1790.0 4833.19
+                                                                          UR_15
+                                 5K21.8          -1339.2 1463.79
+                                                                          UR_15
+                                 6K21.8           235.52 1463.79
+                                                                          UR_15
+                                 7K21.8          1810.32 1463.79
+                                                                          UR_15
+                                 U10.8           -499.00 -4035.1
+                                                                          UR_15
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_59        pins MOVED FROM this net (to net name listed on right)
+                                 1K22.8          -1666.3 -1232.6
+                                                                          UR_56
+                                 2K22.8           -91.52 -1232.6
+                                                                          UR_56
+                                 3K22.8          1483.28 -1232.6
+                                                                          UR_56
+                                 K22.8           -3241.1 -1232.6
+                                                                          UR_56
+                                 SW3.5           -6675.0 -4936.4
+                                                                          UR_56
+                                 U12.14          -1191.1 -3917.4
+                                                                          UR_56
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_60        pins MOVED FROM this net (to net name listed on right)
+                                 1K21.8          -1339.2 -898.41
+                                                                          UR_57
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  25  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 2K21.8           235.52 -898.41
+                                                                          UR_57
+                                 3K21.8          1810.32 -898.41
+                                                                          UR_57
+                                 K21.8           -2914.0 -898.41
+                                                                          UR_57
+                                 SW3.4           -6775.0 -4936.4
+                                                                          UR_57
+                                 U12.12          -1191.1 -3968.5
+                                                                          UR_57
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_64        pins MOVED FROM this net (to net name listed on right)
+                                 4K20.8          -2627.9 1996.58
+                                                                          UR_21
+                                 4SW3.3          -1690.0 4833.19
+                                                                          UR_21
+                                 5K20.8          -1053.1 1996.58
+                                                                          UR_21
+                                 6K20.8           521.61 1996.58
+                                                                          UR_21
+                                 7K20.8          2096.41 1996.58
+                                                                          UR_21
+                                 U13.18          -1099.0 -4450.8
+                                                                          UR_21
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_66        pins MOVED FROM this net (to net name listed on right)
+                                 4K18.8          -4623.3  841.93
+                                                                          UR_51
+                                 4SW3.1          -1490.0 4833.19
+                                                                          UR_51
+                                 5K18.8          -4623.3 2191.93
+                                                                          UR_51
+                                 6K18.8          4623.32 1858.07
+                                                                          UR_51
+                                 7K18.8          4623.32  508.07
+                                                                          UR_51
+                                 U13.15          -1191.1 -4491.8
+                                                                          UR_51
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_67        pins MOVED FROM this net (to net name listed on right)
+                                 4K31.8          -6420.0  525.79
+                                                                          UR_50
+                                 4SW4.4          3145.00 4758.19
+                                                                          UR_50
+                                 5K31.8          -6420.0 1875.79
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  26  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                          UR_50
+                                 6K31.8          6420.00 2174.21
+                                                                          UR_50
+                                 7K31.8          6420.00  824.21
+                                                                          UR_50
+                                 U13.14          -1191.1 -4517.4
+                                                                          UR_50
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UR_94        pins MOVED FROM this net (to net name listed on right)
+                                 4K34.8          -5973.3  502.08
+                                                                          UR_20
+                                 4SW4.7          2845.00 4758.19
+                                                                          UR_20
+                                 5K34.8          -5973.3 1852.08
+                                                                          UR_20
+                                 6K34.8          5973.32 2197.92
+                                                                          UR_20
+                                 7K34.8          5973.32  847.92
+                                                                          UR_20
+                                 U16.9            675.41 -4635.1
+                                                                          UR_20
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  27  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1K5                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ -110.20 -238.71 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 1K7                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ -3727.0 -225.10 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 2K5                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ 1464.60 -238.71 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 2K7                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ 3727.00 -1124.9 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 3K5                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ 3039.40 -238.71 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 3K7                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ 3727.00 -2474.9 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 4K5                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ -1685.0 2123.49 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 4K7                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ -3727.0 1124.90 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 5K5                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ -110.20 2123.49 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 5K7                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ -3727.0 2474.90 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 6K5                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ 1464.60 2123.49 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 6K7                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ 3727.00 1575.10 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 7K5                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ 3039.40 2123.49 CU/RF303-12-A-V2_EX_RL_RF303_12
+ 7K7                 CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ 3727.00  225.10 CU/RF303-12-A-V2_EX_RL_RF303_12
+ K5                  CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ -1685.0 -238.71 CU/RF303-12-A-V2_EX_RL_RF303_12
+ K7                  CU/UA2-12NJ-A-V2_RL_NECUA2_12V_ -3727.0 -1575.1 CU/RF303-12-A-V2_EX_RL_RF303_12
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  28  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd         |
+|                                                    Tue Nov 10 21:21:18 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1K5.8          -110.20 -238.71 PRIM_FILE      .\pstchip.dat
+ 1K7.8          -3727.0 -225.10 PRIM_FILE      .\pstchip.dat
+ 2K5.8          1464.60 -238.71 PRIM_FILE      .\pstchip.dat
+ 2K7.8          3727.00 -1124.9 PRIM_FILE      .\pstchip.dat
+ 3K5.8          3039.40 -238.71 PRIM_FILE      .\pstchip.dat
+ 3K7.8          3727.00 -2474.9 PRIM_FILE      .\pstchip.dat
+ 4K5.8          -1685.0 2123.49 PRIM_FILE      .\pstchip.dat
+ 4K7.8          -3727.0 1124.90 PRIM_FILE      .\pstchip.dat
+ 5K5.8          -110.20 2123.49 PRIM_FILE      .\pstchip.dat
+ 5K7.8          -3727.0 2474.90 PRIM_FILE      .\pstchip.dat
+ 6K5.8          1464.60 2123.49 PRIM_FILE      .\pstchip.dat
+ 6K7.8          3727.00 1575.10 PRIM_FILE      .\pstchip.dat
+ 7K5.8          3039.40 2123.49 PRIM_FILE      .\pstchip.dat
+ 7K7.8          3727.00  225.10 PRIM_FILE      .\pstchip.dat
+ K5.8           -1685.0 -238.71 PRIM_FILE      .\pstchip.dat
+ K7.8           -3727.0 -1575.1 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     403                                        |
+|       Components changed    :      16                                        |
+|       Slot property added   :      16                                        |
+|                                                                              |
+|   Total ECO changes reported:     435                                        |
+|------------------------------------------------------------------------------|

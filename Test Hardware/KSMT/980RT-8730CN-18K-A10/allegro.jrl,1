@@ -1,19 +1,1371 @@
 \t (00:00:04) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:04)     Journal start - Tue Nov 10 11:31:17 2026
-\t (00:00:04)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=4736 CPUs=20
+\t (00:00:04)     Journal start - Wed Nov 11 00:36:13 2026
+\t (00:00:04)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=7640 CPUs=16
 \t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
 \t (00:00:04) 
-\t (00:00:06) Opening existing design...
-\d (00:00:07) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1109-3.brd
-\i (00:00:07) trapsize 11619
-\i (00:00:07) trapsize 11410
-\i (00:00:07) trapsize 11654
-\i (00:00:07) trapsize 11755
-\i (00:00:07) trapsize 11755
-\i (00:00:08) rfedit_appm 
-\i (00:00:09) open 
-\i (00:00:15) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980HX-887904-KAG-A10\Work In Progress\887904-1109-1.brd"
-\i (00:00:15) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980HX-887904-KAG-A10\Work In Progress"
-\t (00:00:15) Opening existing design...
-\i (00:00:15) trapsize 10738
-\t (00:00:15)     Journal end - Tue Nov 10 11:31:28 2026
+\t (00:00:05) Opening existing design...
+\w (00:00:06) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Maximum Crosstalk, Maximum Peak Crosstalk, Embedded Layers present.  [help]
+\i (00:00:07) fillin confirm
+\d (00:00:07) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd
+\i (00:00:08) trapsize 15735
+\i (00:00:08) trapsize 15368
+\i (00:00:08) trapsize 15798
+\i (00:00:08) trapsize 16200
+\i (00:00:08) trapsize 16200
+\i (00:00:09) generaledit 
+\i (00:00:11) setwindow form.vf_vis
+\i (00:00:11) FORM vf_vis all_all_visible YES 
+\i (00:00:11) FORM vf_vis all_all_visible NO 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) rats all 
+\i (00:00:15) generaledit 
+\i (00:00:15) rats all 
+\i (00:00:16) generaledit 
+\i (00:00:16) unrats all 
+\i (00:00:16) generaledit 
+\i (00:00:17) open 
+\i (00:00:19) fillin "038RT-8730CN_1110-1.brd"
+\t (00:00:19) Opening existing design...
+\w (00:00:20) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Maximum Crosstalk, Maximum Peak Crosstalk, Embedded Layers present.  [help]
+\i (00:00:21) fillin confirm
+\i (00:00:21) trapsize 16200
+\d (00:00:21) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110-1.brd
+\i (00:00:22) generaledit 
+\i (00:00:23) setwindow form.vf_vis
+\i (00:00:23) FORM vf_vis all_all_visible YES 
+\i (00:00:24) FORM vf_vis all_all_visible NO 
+\i (00:00:25) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:26) FORM vf_vis 1 all_colorvisible NO 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) rats all 
+\i (00:00:28) generaledit 
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -4677.42 8537.40
+\i (00:00:29) trapsize 8100
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out -3948.42 7403.40
+\i (00:00:29) trapsize 16200
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -3073.62 1441.80
+\i (00:00:30) trapsize 8100
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -3089.82 1441.80
+\i (00:00:30) trapsize 4050
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -3089.82 1441.80
+\i (00:00:30) trapsize 2025
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out -3065.52 1332.45
+\i (00:00:32) trapsize 4050
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out -3065.52 1316.25
+\i (00:00:32) trapsize 8100
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in -1494.12 4945.05
+\i (00:00:34) trapsize 4050
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in -1494.12 4945.05
+\i (00:00:34) trapsize 2025
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in -1494.12 4945.05
+\i (00:00:34) trapsize 1012
+\i (00:00:36) setwindow form.vf_vis
+\i (00:00:36) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -1700.67 4947.07
+\i (00:00:37) trapsize 506
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -1700.67 4947.07
+\i (00:00:37) trapsize 253
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -1696.62 4829.12
+\i (00:00:37) trapsize 127
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -1696.37 4831.14
+\i (00:00:37) trapsize 63
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -1707.00 4828.86
+\i (00:00:38) trapsize 127
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -1707.01 4828.87
+\i (00:00:38) trapsize 253
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -1707.01 4828.87
+\i (00:00:38) trapsize 506
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in -1168.36 4983.77
+\i (00:00:38) trapsize 253
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -1194.17 4988.83
+\i (00:00:39) trapsize 506
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -1194.17 4988.84
+\i (00:00:39) trapsize 1013
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -1194.17 4988.84
+\i (00:00:39) trapsize 2025
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in -1161.77 5025.29
+\i (00:00:40) trapsize 1013
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in -1161.77 5025.30
+\i (00:00:40) trapsize 506
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -1344.02 4773.19
+\i (00:00:46) trapsize 1013
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -1346.05 4765.09
+\i (00:00:46) trapsize 2025
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -1350.09 4761.03
+\i (00:00:46) trapsize 4050
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -1350.09 4761.04
+\i (00:00:46) trapsize 8100
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in -4573.91 8017.26
+\i (00:00:47) trapsize 4050
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in -4663.01 8033.46
+\i (00:00:47) trapsize 2025
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in -4942.46 8175.21
+\i (00:00:47) trapsize 1013
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in -4942.46 8175.22
+\i (00:00:47) trapsize 506
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in -5002.19 8154.97
+\i (00:00:48) trapsize 253
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out -4968.27 8166.62
+\i (00:00:49) trapsize 506
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out -4968.28 8166.62
+\i (00:00:49) trapsize 1013
+\i (00:00:50) pick grid -4909.54 8150.42
+\t (00:00:50) last pick:  -4910.00 8150.00
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in -4974.34 8160.55
+\i (00:00:50) trapsize 506
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in -4974.34 8160.55
+\i (00:00:50) trapsize 253
+\i (00:00:51) prepopup -5001.17 8165.61
+\i (00:00:51) pick grid -5044.20 8185.36
+\t (00:00:51) last pick:  -5044.00 8185.00
+\i (00:00:52) assign color 
+\i (00:00:53) pick grid -4914.10 8153.46
+\t (00:00:53) last pick:  -4914.00 8153.00
+\t (00:00:53) Net "S0_Lpc_Ch06" assigned color.
+\i (00:00:53) prepopup -5041.67 8169.66
+\i (00:00:54) done 
+\i (00:00:54) generaledit 
+\i (00:00:54) pick grid -5061.42 8194.47
+\t (00:00:54) last pick:  -5061.00 8194.00
+\i (00:00:55) show element 
+\i (00:00:56) pick grid -4935.87 8169.66
+\t (00:00:56) last pick:  -4936.00 8170.00
+\i (00:01:11) xNet S0_Lpc_Ch06 
+\i (00:01:11) xname_flush 
+\i (00:01:11) trapsize 6827
+\i (00:01:11) xNet S0_Lpc_Ch06 
+\i (00:01:11) xname_flush 
+\i (00:01:11) trapsize 6827
+\i (00:01:19) xNet S0_Lpc_Ch06 
+\i (00:01:19) xname_flush 
+\i (00:01:19) trapsize 6827
+\i (00:01:23) xNet S0_Lpc_Ch06 
+\i (00:01:23) xname_flush 
+\i (00:01:24) trapsize 6827
+\i (00:01:56) xNet S0_Lpc_Ch06 
+\i (00:01:56) xname_flush 
+\i (00:01:56) trapsize 6827
+\i (00:02:10) xNet S0_Lpc_Ch06 
+\i (00:02:10) xname_flush 
+\i (00:02:10) trapsize 6827
+\i (00:02:13) xNet S0_Lpc_Ch06 
+\i (00:02:13) xname_flush 
+\i (00:02:13) trapsize 6827
+\i (00:02:39) xname_flush 
+\i (00:02:44) xname_flush 
+\i (00:02:52) xname_flush 
+\i (00:02:53) xname_flush 
+\i (00:02:58) xNet S0_Lpc_Ch06 
+\i (00:02:58) xname_flush 
+\i (00:02:58) trapsize 6827
+\i (00:03:01) xNet S0_Lpc_Ch06 
+\i (00:03:01) xname_flush 
+\i (00:03:01) trapsize 6827
+\i (00:03:15) xNet S0_Lpc_Ch06 
+\i (00:03:15) xname_flush 
+\i (00:03:15) trapsize 6827
+\i (00:03:32) xname_flush 
+\i (00:03:48) xNet S0_Lpc_Ch12 
+\i (00:03:48) xname_flush 
+\i (00:03:48) trapsize 6170
+\i (00:07:33) setwindow text
+\i (00:07:33) close 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) zoom out 1 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) zoom out -4219.91 4451.44
+\i (00:07:41) trapsize 12340
+\i (00:07:41) zoom out 1 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) zoom out -4170.55 4451.44
+\i (00:07:41) trapsize 24680
+\i (00:07:42) zoom in 1 
+\i (00:07:42) setwindow pcb
+\i (00:07:42) zoom in -4516.06 -1422.37
+\i (00:07:42) trapsize 12340
+\i (00:07:42) zoom in 1 
+\i (00:07:42) setwindow pcb
+\i (00:07:42) zoom in -4516.06 -1150.88
+\i (00:07:42) trapsize 6170
+\i (00:07:43) zoom in 1 
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom in -3615.24 2477.06
+\i (00:07:43) trapsize 3085
+\i (00:07:43) zoom in 1 
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom in -3633.75 2581.95
+\i (00:07:43) trapsize 1542
+\i (00:07:43) zoom in 1 
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom in -3633.75 2585.03
+\i (00:07:43) trapsize 771
+\i (00:07:44) zoom in 1 
+\i (00:07:44) setwindow pcb
+\i (00:07:44) zoom in -3764.86 2578.86
+\i (00:07:44) trapsize 386
+\i (00:07:44) zoom in 1 
+\i (00:07:44) setwindow pcb
+\i (00:07:44) zoom in -3769.48 2554.18
+\i (00:07:44) trapsize 193
+\i (00:07:46) setwindow form.vf_vis
+\i (00:07:46) FORM vf_vis 1 etch_colorvisible 0 
+\i (00:07:47) FORM vf_vis all_etch_visible YES 
+\i (00:07:47) FORM vf_vis all_etch_visible NO 
+\i (00:07:48) FORM vf_vis 2 etch_colorvisible 1 
+\i (00:07:48) FORM vf_vis 2 etch_colorvisible 0 
+\i (00:07:49) FORM vf_vis 3 etch_colorvisible 1 
+\i (00:07:49) FORM vf_vis 3 etch_colorvisible 0 
+\i (00:07:49) FORM vf_vis 5 etch_colorvisible 1 
+\i (00:07:50) setwindow pcb
+\i (00:07:50) zoom out 1 
+\i (00:07:50) setwindow pcb
+\i (00:07:50) zoom out -3636.83 2520.24
+\i (00:07:50) trapsize 386
+\i (00:07:50) zoom out 1 
+\i (00:07:50) setwindow pcb
+\i (00:07:50) zoom out -3636.84 2520.25
+\i (00:07:50) trapsize 771
+\i (00:07:52) add connect 
+\t (00:07:52) Pick first element.
+\i (00:07:53) zoom in 1 
+\i (00:07:53) setwindow pcb
+\i (00:07:53) zoom in -3797.25 2467.81
+\i (00:07:53) trapsize 386
+\i (00:07:53) zoom in 1 
+\i (00:07:53) setwindow pcb
+\i (00:07:53) zoom in -3797.25 2467.81
+\i (00:07:53) trapsize 193
+\i (00:07:53) pick grid -3890.18 2516.79
+\t (00:07:53) last pick:  -3890.00 2517.00
+\t (00:07:53) last pick:  -3889.80 2517.00
+\t (00:07:53) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:07:54) last pick:  -3889.80 2517.00
+\i (00:07:54) zoom out 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom out -3879.38 2469.36
+\i (00:07:54) trapsize 386
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out -3879.39 2470.13
+\i (00:07:55) trapsize 771
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out -3686.58 2450.07
+\i (00:07:56) trapsize 1542
+\i (00:07:56) zoom in 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom in -3816.15 2573.47
+\i (00:07:56) trapsize 771
+\i (00:07:57) zoom in 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom in -3777.58 2490.18
+\i (00:07:57) trapsize 386
+\i (00:07:58) zoom in 1 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom in -3793.77 2519.49
+\i (00:07:58) trapsize 193
+\i (00:07:59) prepopup -3759.07 2548.80
+\i (00:08:00) cancel 
+\i (00:08:01) zoom in 1 
+\i (00:08:01) setwindow pcb
+\i (00:08:01) zoom in -3712.41 2534.15
+\i (00:08:01) trapsize 96
+\i (00:08:01) generaledit 
+\i (00:08:02) zoom in 1 
+\i (00:08:02) setwindow pcb
+\i (00:08:02) zoom in -3687.93 2542.63
+\i (00:08:02) trapsize 48
+\i (00:08:03) zoom out 1 
+\i (00:08:03) setwindow pcb
+\i (00:08:03) zoom out -3699.30 2535.11
+\i (00:08:03) trapsize 96
+\i (00:08:04) zoom out 1 
+\i (00:08:04) setwindow pcb
+\i (00:08:04) zoom out -3699.30 2535.12
+\i (00:08:04) trapsize 193
+\i (00:08:04) zoom in 1 
+\i (00:08:04) setwindow pcb
+\i (00:08:04) zoom in -3698.92 2455.68
+\i (00:08:04) trapsize 96
+\i (00:08:05) zoom in 1 
+\i (00:08:05) setwindow pcb
+\i (00:08:05) zoom in -3698.92 2455.68
+\i (00:08:05) trapsize 48
+\i (00:08:05) zoom out 1 
+\i (00:08:05) setwindow pcb
+\i (00:08:05) zoom out -3695.73 2468.99
+\i (00:08:05) trapsize 96
+\i (00:08:05) zoom out 1 
+\i (00:08:05) setwindow pcb
+\i (00:08:05) zoom out -3695.74 2468.80
+\i (00:08:05) trapsize 193
+\i (00:08:05) zoom out 1 
+\i (00:08:05) setwindow pcb
+\i (00:08:05) zoom out -3695.74 2468.41
+\i (00:08:05) trapsize 386
+\i (00:08:05) zoom out 1 
+\i (00:08:05) setwindow pcb
+\i (00:08:05) zoom out -3695.73 2467.63
+\i (00:08:05) trapsize 771
+\i (00:08:06) zoom in 1 
+\i (00:08:06) setwindow pcb
+\i (00:08:06) zoom in -3701.89 2504.65
+\i (00:08:06) trapsize 386
+\i (00:08:09) zoom in 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom in -3672.59 2503.11
+\i (00:08:09) trapsize 193
+\i (00:08:09) zoom in 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom in -3662.95 2532.03
+\i (00:08:09) trapsize 96
+\i (00:08:10) zoom out 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom out -3662.36 2532.61
+\i (00:08:10) trapsize 193
+\i (00:08:10) zoom in 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom in -3679.33 2465.13
+\i (00:08:10) trapsize 96
+\i (00:08:11) zoom in 1 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) zoom in -3679.33 2465.13
+\i (00:08:11) trapsize 48
+\i (00:08:11) zoom in 1 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) zoom in -3679.33 2465.13
+\i (00:08:11) trapsize 24
+\i (00:08:11) zoom out 1 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) zoom out -3679.33 2465.13
+\i (00:08:11) trapsize 48
+\i (00:08:12) zoom out 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom out -3679.33 2465.13
+\i (00:08:12) trapsize 96
+\i (00:08:12) zoom out 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom out -3679.33 2465.13
+\i (00:08:12) trapsize 193
+\i (00:08:12) zoom out 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom out -3679.34 2465.14
+\i (00:08:12) trapsize 386
+\i (00:08:13) zoom out 1 
+\i (00:08:13) setwindow pcb
+\i (00:08:13) zoom out -3679.33 2465.91
+\i (00:08:13) trapsize 771
+\i (00:08:13) zoom out 1 
+\i (00:08:13) setwindow pcb
+\i (00:08:13) zoom out -3679.33 2465.91
+\i (00:08:13) trapsize 1543
+\i (00:08:14) zoom in 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom in -3642.32 2413.46
+\i (00:08:14) trapsize 771
+\i (00:08:14) zoom in 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom in -3674.71 2455.11
+\i (00:08:14) trapsize 386
+\i (00:08:15) zoom in 1 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) zoom in -3729.47 2536.09
+\i (00:08:15) trapsize 193
+\i (00:08:15) zoom in 1 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) zoom in -3729.47 2536.09
+\i (00:08:15) trapsize 96
+\i (00:08:16) zoom out 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom out -3772.85 2550.74
+\i (00:08:16) trapsize 193
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in -3792.91 2449.71
+\i (00:08:16) trapsize 96
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in -3792.52 2448.37
+\i (00:08:16) trapsize 48
+\i (00:08:17) zoom out 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom out -3791.26 2463.89
+\i (00:08:17) trapsize 96
+\i (00:08:17) zoom out 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom out -3791.27 2463.89
+\i (00:08:17) trapsize 193
+\i (00:08:17) zoom out 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom out -3791.26 2463.89
+\i (00:08:17) trapsize 386
+\i (00:08:17) zoom out 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom out -3790.49 2462.35
+\i (00:08:17) trapsize 771
+\i (00:08:17) zoom in 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom in -3779.70 2414.53
+\i (00:08:17) trapsize 386
+\i (00:08:18) zoom in 1 
+\i (00:08:18) setwindow pcb
+\i (00:08:18) zoom in -3805.14 2487.03
+\i (00:08:18) trapsize 193
+\i (00:08:20) setwindow form.vf_vis
+\i (00:08:20) FORM vf_vis 5 etch_colorvisible 0 
+\i (00:08:20) FORM vf_vis 1 etch_colorvisible 1 
+\i (00:08:21) FORM vf_vis 1 etch_colorvisible 0 
+\i (00:08:23) FORM vf_vis 36 etch_colorvisible 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out -3752.70 2463.12
+\i (00:08:24) trapsize 386
+\i (00:08:24) zoom out 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out -3752.69 2463.13
+\i (00:08:24) trapsize 771
+\i (00:08:24) zoom out 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out -3752.70 2463.13
+\i (00:08:24) trapsize 1543
+\i (00:08:24) zoom in 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom in -3879.18 2386.01
+\i (00:08:24) trapsize 771
+\i (00:08:33) open 
+\e (00:08:33) Do you want to save the changes you made to 038RT-8730CN_1110-1.brd?
+\i (00:08:34) fillin no 
+\i (00:08:35) fillin "038RT-8730CN_1110.brd"
+\t (00:08:35) Opening existing design...
+\w (00:08:37) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Maximum Crosstalk, Maximum Peak Crosstalk, Embedded Layers present.  [help]
+\i (00:08:37) fillin confirm
+\i (00:08:38) trapsize 16200
+\d (00:08:38) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd
+\i (00:08:38) generaledit 
+\i (00:08:39) zoom in 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom in -2474.22 664.20
+\i (00:08:39) trapsize 8100
+\i (00:08:39) zoom in 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom in -2474.22 664.20
+\i (00:08:39) trapsize 4050
+\i (00:08:39) zoom in 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom in -2474.22 664.20
+\i (00:08:39) trapsize 2025
+\i (00:08:40) zoom in 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in -3061.47 1312.20
+\i (00:08:40) trapsize 1012
+\i (00:08:40) zoom out 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom out -2692.92 840.37
+\i (00:08:40) trapsize 2025
+\i (00:08:40) zoom out 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom out -2692.92 840.38
+\i (00:08:40) trapsize 4050
+\i (00:08:41) zoom in 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in -3381.42 2014.88
+\i (00:08:41) trapsize 2025
+\i (00:08:42) zoom in 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom in -4159.02 2642.63
+\i (00:08:42) trapsize 1012
+\i (00:08:42) zoom in 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom in -4159.02 2642.63
+\i (00:08:42) trapsize 506
+\i (00:08:46) zoom in 1 
+\i (00:08:46) setwindow pcb
+\i (00:08:46) zoom in -3815.79 2543.40
+\i (00:08:46) trapsize 253
+\i (00:08:46) zoom in 1 
+\i (00:08:46) setwindow pcb
+\i (00:08:46) zoom in -3815.79 2543.40
+\i (00:08:46) trapsize 127
+\i (00:08:47) zoom out 1 
+\i (00:08:47) setwindow pcb
+\i (00:08:47) zoom out -3825.66 2531.50
+\i (00:08:47) trapsize 253
+\i (00:08:47) zoom out 1 
+\i (00:08:47) setwindow pcb
+\i (00:08:47) zoom out -3826.18 2530.49
+\i (00:08:47) trapsize 506
+\i (00:08:51) setwindow form.vf_vis
+\i (00:08:51) FORM vf_vis 36 etch_colorvisible 1 
+\i (00:08:53) FORM vf_vis 1 etch_colorvisible 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) open 
+\i (00:10:03) fillin "038RT-8730CN_1110-1.brd"
+\t (00:10:03) Opening existing design...
+\w (00:10:05) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Maximum Crosstalk, Maximum Peak Crosstalk, Embedded Layers present.  [help]
+\i (00:10:06) fillin confirm
+\i (00:10:06) trapsize 16200
+\d (00:10:06) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110-1.brd
+\i (00:10:06) generaledit 
+\i (00:10:09) rats all 
+\i (00:10:09) generaledit 
+\i (00:10:11) setwindow form.vf_vis
+\i (00:10:11) FORM vf_vis all_drc_visible YES 
+\i (00:10:11) FORM vf_vis all_all_visible YES 
+\i (00:10:12) FORM vf_vis all_all_visible NO 
+\i (00:10:13) setwindow pcb
+\i (00:10:13) zoom in 1 
+\i (00:10:13) setwindow pcb
+\i (00:10:13) zoom in -5131.02 8861.40
+\i (00:10:13) trapsize 8100
+\i (00:10:13) zoom in 1 
+\i (00:10:13) setwindow pcb
+\i (00:10:13) zoom in -5131.02 8861.40
+\i (00:10:13) trapsize 4050
+\i (00:10:13) zoom in 1 
+\i (00:10:13) setwindow pcb
+\i (00:10:13) zoom in -4717.92 8626.50
+\i (00:10:13) trapsize 2025
+\i (00:10:14) zoom in 1 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) zoom in -4977.12 8031.15
+\i (00:10:14) trapsize 1012
+\i (00:10:16) assign color 
+\i (00:10:17) pick grid -4861.69 8128.35
+\t (00:10:17) last pick:  -4862.00 8128.00
+\t (00:10:17) Net "S0_Lpc_Ch06" assigned color.
+\i (00:10:17) prepopup -4841.44 8219.48
+\i (00:10:17) done 
+\i (00:10:18) generaledit 
+\i (00:10:18) show element 
+\i (00:10:19) pick grid -4892.07 8144.55
+\t (00:10:19) last pick:  -4892.00 8145.00
+\i (00:10:31) xNet S0_Lpc_Ch06 
+\i (00:10:31) xname_flush 
+\i (00:10:31) trapsize 6827
+\i (00:10:31) xNet S0_Lpc_Ch06 
+\i (00:10:31) xname_flush 
+\i (00:10:31) trapsize 6827
+\i (00:10:38) xNet S0_Lpc_Ch06 
+\i (00:10:38) xname_flush 
+\i (00:10:38) trapsize 6827
+\i (00:10:44) xNet S0_Lpc_Ch06 
+\i (00:10:44) xname_flush 
+\i (00:10:44) trapsize 6827
+\i (00:10:47) xNet S0_Lpc_Ch06 
+\i (00:10:47) xname_flush 
+\i (00:10:47) trapsize 6827
+\i (00:11:01) xNet S0_Lpc_Ch06 
+\i (00:11:01) xname_flush 
+\i (00:11:01) trapsize 6827
+\i (00:11:07) xname_flush 
+\i (00:11:27) xname_flush 
+\i (00:11:46) xname_flush 
+\i (00:11:52) xNet S0_Lpc_Ch06 
+\i (00:11:52) xname_flush 
+\i (00:11:52) trapsize 6827
+\i (00:11:58) xNet S0_Lpc_Ch06 
+\i (00:11:58) xname_flush 
+\i (00:11:59) trapsize 6827
+\i (00:12:26) xNet S0_Lpc_Ch06 
+\i (00:12:26) xname_flush 
+\i (00:12:26) trapsize 6827
+\i (00:12:50) xNet S0_Lpc_Ch06 
+\i (00:12:50) xname_flush 
+\i (00:12:50) trapsize 6827
+\i (00:12:57) xNet S0_Lpc_Ch06 
+\i (00:12:57) xname_flush 
+\i (00:12:57) trapsize 6827
+\i (00:13:23) xNet S0_Lpc_Ch06 
+\i (00:13:23) xname_flush 
+\i (00:13:23) trapsize 6827
+\i (00:14:09) xname_flush 
+\i (00:14:28) setwindow text
+\i (00:14:28) close 
+\i (00:14:28) setwindow pcb
+\i (00:14:28) zoom out 1 
+\i (00:14:28) setwindow pcb
+\i (00:14:28) zoom out -3930.00 6792.23
+\i (00:14:28) trapsize 13654
+\i (00:14:29) zoom in 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom in -4558.08 7993.79
+\i (00:14:29) trapsize 6827
+\i (00:14:29) zoom in 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom in -4558.08 8034.75
+\i (00:14:29) trapsize 3414
+\i (00:14:29) zoom in 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom in -4558.07 8034.75
+\i (00:14:29) trapsize 1707
+\i (00:14:30) assign color 
+\i (00:14:30) drag_start grid -4981.35 8082.54
+\i (00:14:30) drag_stop -4841.39 8222.49
+\t (00:14:30) Net "S0_Lpc_Ch06" assigned color.
+\i (00:14:32) setwindow form.mini
+\i (00:14:32) FORM mini color1 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) drag_start grid -5066.69 8116.67
+\i (00:14:33) drag_stop -4858.46 8232.73
+\t (00:14:33) Net "S0_Lpc_Ch06" assigned color.
+\i (00:14:33) zoom in 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom in -4974.52 7966.48
+\i (00:14:33) trapsize 853
+\i (00:14:34) prepopup -4938.68 7916.98
+\i (00:14:34) done 
+\i (00:14:34) generaledit 
+\i (00:14:34) zoom in 1 
+\i (00:14:34) setwindow pcb
+\i (00:14:34) zoom in -4752.64 7817.99
+\i (00:14:34) trapsize 427
+\i (00:14:37) cns show 
+\i (00:14:38) show element 
+\i (00:14:39) pick grid -4733.02 7800.93
+\t (00:14:39) last pick:  -4733.00 7801.00
+\i (00:14:47) xNet S2_Lpc_Ch14 
+\i (00:14:47) xname_flush 
+\i (00:14:47) trapsize 7001
+\i (00:14:47) xNet S2_Lpc_Ch14 
+\i (00:14:47) xname_flush 
+\i (00:14:47) trapsize 7001
+\i (00:14:50) xNet S2_Lpc_Ch14 
+\i (00:14:50) xname_flush 
+\i (00:14:50) trapsize 7001
+\i (00:15:04) xNet S2_Lpc_Ch14 
+\i (00:15:04) xname_flush 
+\i (00:15:04) trapsize 7001
+\i (00:15:08) xname_flush 
+\i (00:15:20) setwindow text
+\i (00:15:20) close 
+\i (00:15:21) setwindow pcb
+\i (00:15:21) zoom in 1 
+\i (00:15:21) setwindow pcb
+\i (00:15:21) zoom in -4493.83 8093.67
+\i (00:15:21) trapsize 3501
+\i (00:15:21) zoom in 1 
+\i (00:15:21) setwindow pcb
+\i (00:15:21) zoom in -4493.83 8093.67
+\i (00:15:21) trapsize 1750
+\i (00:15:21) zoom in 1 
+\i (00:15:21) setwindow pcb
+\i (00:15:21) zoom in -4493.83 8093.67
+\i (00:15:21) trapsize 875
+\i (00:15:21) zoom in 1 
+\i (00:15:21) setwindow pcb
+\i (00:15:21) zoom in -4493.83 8093.67
+\i (00:15:21) trapsize 438
+\i (00:15:22) assign color 
+\i (00:15:23) drag_start grid -4798.39 7747.98
+\i (00:15:23) drag_stop -4721.37 7833.75
+\t (00:15:23) Net "S2_Lpc_Ch14" assigned color.
+\i (00:15:24) zoom out 1 
+\i (00:15:24) setwindow pcb
+\i (00:15:24) zoom out -4831.64 7829.37
+\i (00:15:24) trapsize 875
+\i (00:15:24) zoom out 1 
+\i (00:15:24) setwindow pcb
+\i (00:15:24) zoom out -4836.90 7824.12
+\i (00:15:24) trapsize 1750
+\i (00:15:24) zoom out 1 
+\i (00:15:24) setwindow pcb
+\i (00:15:24) zoom out -4836.89 7824.11
+\i (00:15:24) trapsize 3501
+\i (00:15:24) zoom in 1 
+\i (00:15:24) setwindow pcb
+\i (00:15:24) zoom in -4367.81 8020.16
+\i (00:15:24) trapsize 1750
+\i (00:15:24) zoom in 1 
+\i (00:15:24) setwindow pcb
+\i (00:15:24) zoom in -4367.81 8020.16
+\i (00:15:24) trapsize 875
+\i (00:15:25) prepopup -4327.55 8202.20
+\i (00:15:25) done 
+\i (00:15:25) generaledit 
+\i (00:15:26) zoom out 1 
+\i (00:15:26) setwindow pcb
+\i (00:15:26) zoom out -4189.27 8221.46
+\i (00:15:26) trapsize 1750
+\i (00:15:26) zoom out 1 
+\i (00:15:26) setwindow pcb
+\i (00:15:26) zoom out -4189.27 8221.45
+\i (00:15:26) trapsize 3501
+\i (00:15:26) zoom out 1 
+\i (00:15:26) setwindow pcb
+\i (00:15:26) zoom out -4189.27 8221.45
+\i (00:15:26) trapsize 7001
+\i (00:15:26) zoom out 1 
+\i (00:15:26) setwindow pcb
+\i (00:15:26) zoom out -4189.27 8207.45
+\i (00:15:26) trapsize 14003
+\i (00:15:26) zoom out 1 
+\i (00:15:26) setwindow pcb
+\i (00:15:26) zoom out -4189.26 8207.46
+\i (00:15:26) trapsize 28005
+\i (00:15:27) zoom in 1 
+\i (00:15:27) setwindow pcb
+\i (00:15:27) zoom in -4413.30 -8371.74
+\i (00:15:27) trapsize 14003
+\i (00:15:27) zoom in 1 
+\i (00:15:27) setwindow pcb
+\i (00:15:27) zoom in -4441.31 -8371.74
+\i (00:15:27) trapsize 7001
+\i (00:15:27) zoom in 1 
+\i (00:15:27) setwindow pcb
+\i (00:15:27) zoom in -4441.31 -8371.73
+\i (00:15:27) trapsize 3501
+\i (00:15:27) zoom in 1 
+\i (00:15:27) setwindow pcb
+\i (00:15:27) zoom in -4441.30 -8371.73
+\i (00:15:27) trapsize 1750
+\i (00:15:27) zoom in 1 
+\i (00:15:27) setwindow pcb
+\i (00:15:27) zoom in -4605.83 -7811.62
+\i (00:15:27) trapsize 875
+\i (00:15:28) zoom in 1 
+\i (00:15:28) setwindow pcb
+\i (00:15:28) zoom in -4604.08 -7811.62
+\i (00:15:28) trapsize 438
+\i (00:15:29) zoom out 1 
+\i (00:15:29) setwindow pcb
+\i (00:15:29) zoom out -4502.56 -7929.76
+\i (00:15:29) trapsize 875
+\i (00:15:29) zoom out 1 
+\i (00:15:29) setwindow pcb
+\i (00:15:29) zoom out -4502.56 -7929.77
+\i (00:15:29) trapsize 1750
+\i (00:15:29) zoom out 1 
+\i (00:15:29) setwindow pcb
+\i (00:15:29) zoom out -4502.56 -7933.26
+\i (00:15:29) trapsize 3501
+\i (00:15:29) zoom out 1 
+\i (00:15:29) setwindow pcb
+\i (00:15:29) zoom out -4502.55 -7940.27
+\i (00:15:29) trapsize 7001
+\i (00:15:29) zoom out 1 
+\i (00:15:29) setwindow pcb
+\i (00:15:29) zoom out -4488.55 -7926.26
+\i (00:15:29) trapsize 14003
+\i (00:15:29) zoom out 1 
+\i (00:15:29) setwindow pcb
+\i (00:15:29) zoom out -4488.54 -7954.26
+\i (00:15:29) trapsize 28005
+\i (00:15:30) zoom out 1 
+\i (00:15:30) setwindow pcb
+\i (00:15:30) zoom out -4488.55 -7954.27
+\i (00:15:30) trapsize 56011
+\i (00:15:30) zoom in 1 
+\i (00:15:30) setwindow pcb
+\i (00:15:30) zoom in -4855.31 9073.01
+\i (00:15:30) trapsize 28005
+\i (00:15:30) zoom in 1 
+\i (00:15:30) setwindow pcb
+\i (00:15:30) zoom in -4855.31 9185.03
+\i (00:15:30) trapsize 14003
+\i (00:15:31) zoom in 1 
+\i (00:15:31) setwindow pcb
+\i (00:15:31) zoom in -4463.23 7644.74
+\i (00:15:31) trapsize 7001
+\i (00:15:31) zoom in 1 
+\i (00:15:31) setwindow pcb
+\i (00:15:31) zoom in -4463.23 7644.74
+\i (00:15:31) trapsize 3501
+\i (00:15:31) zoom in 1 
+\i (00:15:31) setwindow pcb
+\i (00:15:31) zoom in -4568.25 8008.82
+\i (00:15:31) trapsize 1750
+\i (00:15:32) zoom in 1 
+\i (00:15:32) setwindow pcb
+\i (00:15:32) zoom in -4403.72 7984.31
+\i (00:15:32) trapsize 875
+\i (00:15:34) show element 
+\i (00:15:35) pick grid -4424.72 8126.09
+\t (00:15:35) last pick:  -4425.00 8126.00
+\i (00:15:38) setwindow text
+\i (00:15:38) close 
+\i (00:15:39) setwindow pcb
+\i (00:15:39) prepopup -4127.17 8262.62
+\i (00:15:39) done 
+\i (00:15:39) generaledit 
+\i (00:15:45) xhilite 
+\i (00:15:45) xNet S0_Lpc_Ch77 
+\i (00:15:45) xname_flush 
+\i (00:15:45) trapsize 6626
+\t (00:15:45) Net "S0_Lpc_Ch77" highlighted.
+\i (00:15:45) done 
+\i (00:15:45) xdehilite 
+\i (00:15:45) xNet S0_Lpc_Ch77 
+\i (00:15:45) xname_flush 
+\t (00:15:45) Net "S0_Lpc_Ch77" dehighlighted.
+\i (00:15:45) done 
+\i (00:15:46) xhilite 
+\i (00:15:46) xNet S0_Lpc_Ch77 
+\i (00:15:46) xname_flush 
+\i (00:15:46) trapsize 6626
+\t (00:15:46) Net "S0_Lpc_Ch77" highlighted.
+\i (00:15:46) done 
+\i (00:15:46) generaledit 
+\i (00:15:48) xdehilite 
+\i (00:15:48) xNet S0_Lpc_Ch77 
+\i (00:15:48) xname_flush 
+\t (00:15:48) Net "S0_Lpc_Ch77" dehighlighted.
+\i (00:15:48) done 
+\i (00:15:48) xhilite 
+\i (00:15:48) xNet S0_Lpc_Ch77 
+\i (00:15:48) xname_flush 
+\i (00:15:49) trapsize 6626
+\t (00:15:49) Net "S0_Lpc_Ch77" highlighted.
+\i (00:15:49) done 
+\i (00:15:49) generaledit 
+\i (00:16:03) xdehilite 
+\i (00:16:03) xNet S0_Lpc_Ch77 
+\i (00:16:03) xname_flush 
+\t (00:16:03) Net "S0_Lpc_Ch77" dehighlighted.
+\i (00:16:03) done 
+\i (00:16:03) xhilite 
+\i (00:16:03) xNet S0_Lpc_Ch77 
+\i (00:16:03) xname_flush 
+\i (00:16:03) trapsize 6626
+\t (00:16:03) Net "S0_Lpc_Ch77" highlighted.
+\i (00:16:03) done 
+\i (00:16:04) generaledit 
+\i (00:16:23) xdehilite 
+\i (00:16:24) xNet S0_Lpc_Ch77 
+\i (00:16:24) xname_flush 
+\t (00:16:24) Net "S0_Lpc_Ch77" dehighlighted.
+\i (00:16:24) done 
+\i (00:16:24) generaledit 
+\i (00:16:24) xhilite 
+\i (00:16:24) xNet S0_Lpc_Ch77 
+\i (00:16:24) xname_flush 
+\i (00:16:25) trapsize 6626
+\t (00:16:25) Net "S0_Lpc_Ch77" highlighted.
+\i (00:16:25) done 
+\i (00:16:25) generaledit 
+\i (00:16:28) xhilite 
+\i (00:16:29) xname_flush 
+\i (00:16:29) done 
+\i (00:16:29) generaledit 
+\i (00:16:34) zoom in 1 
+\i (00:16:34) setwindow pcb
+\i (00:16:34) zoom in -4252.31 8158.48
+\i (00:16:34) trapsize 3313
+\i (00:16:34) zoom in 1 
+\i (00:16:34) setwindow pcb
+\i (00:16:34) zoom in -4245.68 8158.48
+\i (00:16:34) trapsize 1656
+\i (00:16:35) assign color 
+\i (00:16:35) drag_start grid -4470.96 8088.91
+\i (00:16:36) drag_stop -4199.30 8198.24
+\t (00:16:36) Net "S0_Lpc_Ch77" assigned color.
+\i (00:16:36) zoom in 1 
+\i (00:16:36) setwindow pcb
+\i (00:16:36) zoom in -4080.04 8135.29
+\i (00:16:36) trapsize 828
+\i (00:16:36) prepopup -4075.07 8128.67
+\i (00:16:37) done 
+\i (00:16:37) generaledit 
+\i (00:16:37) zoom out 1 
+\i (00:16:37) setwindow pcb
+\i (00:16:37) zoom out -4363.29 7986.22
+\i (00:16:37) trapsize 1656
+\i (00:16:37) zoom out 1 
+\i (00:16:37) setwindow pcb
+\i (00:16:37) zoom out -4363.29 7979.59
+\i (00:16:37) trapsize 3313
+\i (00:16:37) zoom out 1 
+\i (00:16:37) setwindow pcb
+\i (00:16:37) zoom out -4356.66 7972.97
+\i (00:16:37) trapsize 6626
+\i (00:16:37) zoom in 1 
+\i (00:16:37) setwindow pcb
+\i (00:16:37) zoom in -4210.90 8092.23
+\i (00:16:37) trapsize 3313
+\i (00:16:37) zoom in 1 
+\i (00:16:37) setwindow pcb
+\i (00:16:37) zoom in -4210.90 8092.23
+\i (00:16:37) trapsize 1656
+\i (00:16:38) zoom in 1 
+\i (00:16:38) setwindow pcb
+\i (00:16:38) zoom in -4210.90 8092.23
+\i (00:16:38) trapsize 828
+\i (00:16:38) zoom out 1 
+\i (00:16:38) setwindow pcb
+\i (00:16:38) zoom out -4126.42 8069.05
+\i (00:16:38) trapsize 1656
+\i (00:16:38) zoom out 1 
+\i (00:16:38) setwindow pcb
+\i (00:16:38) zoom out -4126.41 8065.73
+\i (00:16:38) trapsize 3313
+\i (00:16:42) show element 
+\i (00:16:42) zoom in 1 
+\i (00:16:42) setwindow pcb
+\i (00:16:42) zoom in -3914.38 7953.10
+\i (00:16:42) trapsize 1656
+\i (00:16:42) zoom in 1 
+\i (00:16:42) setwindow pcb
+\i (00:16:42) zoom in -3914.38 7953.10
+\i (00:16:42) trapsize 828
+\i (00:16:43) pick grid -3955.79 7984.57
+\t (00:16:43) last pick:  -3956.00 7985.00
+\i (00:16:51) xNet S0_Lpc_Ch15 
+\i (00:16:51) xname_flush 
+\i (00:16:51) trapsize 7676
+\i (00:16:51) xNet S0_Lpc_Ch15 
+\i (00:16:51) xname_flush 
+\i (00:16:51) trapsize 7676
+\i (00:16:58) xNet S0_Lpc_Ch15 
+\i (00:16:58) xname_flush 
+\i (00:16:58) trapsize 7676
+\i (00:17:28) xNet S0_Lpc_Ch15 
+\i (00:17:28) xname_flush 
+\i (00:17:28) trapsize 7676
+\i (00:17:34) xname_flush 
+\i (00:17:46) zoom in 1 
+\i (00:17:46) setwindow pcb
+\i (00:17:46) zoom in -4107.38 8378.06
+\i (00:17:46) trapsize 3838
+\i (00:17:46) zoom in 1 
+\i (00:17:46) setwindow pcb
+\i (00:17:46) zoom in -4107.38 8378.06
+\i (00:17:46) trapsize 1919
+\i (00:17:46) zoom in 1 
+\i (00:17:46) setwindow pcb
+\i (00:17:46) zoom in -4107.37 8320.49
+\i (00:17:46) trapsize 960
+\i (00:17:46) zoom in 1 
+\i (00:17:46) setwindow pcb
+\i (00:17:46) zoom in -4090.10 8195.75
+\i (00:17:46) trapsize 480
+\i (00:17:47) prepopup -3916.42 8200.55
+\i (00:17:47) done 
+\i (00:17:47) generaledit 
+\i (00:17:48) assign color 
+\i (00:17:48) drag_start grid -4021.97 7929.00
+\i (00:17:48) drag_stop -4017.18 8002.89
+\t (00:17:48) Net "S0_Lpc_Ch15" assigned color.
+\i (00:17:49) zoom out 1 
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom out -4068.03 8095.96
+\i (00:17:49) trapsize 960
+\i (00:17:49) zoom out 1 
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom out -4068.03 8095.96
+\i (00:17:49) trapsize 1919
+\i (00:17:49) zoom out 1 
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom out -4068.03 8095.97
+\i (00:17:49) trapsize 3838
+\i (00:17:49) zoom in 1 
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom in -4083.39 7612.36
+\i (00:17:49) trapsize 1919
+\i (00:17:49) zoom in 1 
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom in -4110.26 8134.36
+\i (00:17:49) trapsize 960
+\i (00:17:49) zoom in 1 
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom in -4110.26 8134.36
+\i (00:17:49) trapsize 480
+\i (00:17:50) prepopup -4225.40 8021.13
+\i (00:17:51) done 
+\i (00:17:51) generaledit 
+\i (00:17:52) show element 
+\i (00:17:57) pick grid -4362.62 7915.58
+\t (00:17:57) last pick:  -4363.00 7916.00
+\i (00:18:01) setwindow text
+\i (00:18:01) close 
+\i (00:18:06) setwindow pcb
+\i (00:18:06) xNet S0_Lpc_Ch07 
+\i (00:18:06) xname_flush 
+\i (00:18:06) trapsize 6292
+\i (00:18:07) xNet S0_Lpc_Ch07 
+\i (00:18:07) xname_flush 
+\i (00:18:07) trapsize 6292
+\i (00:18:10) xNet S0_Lpc_Ch07 
+\i (00:18:10) xname_flush 
+\i (00:18:10) trapsize 6292
+\i (00:18:34) xname_flush 
+\i (00:18:43) xNet S0_Lpc_Ch14 
+\i (00:18:43) xname_flush 
+\i (00:18:43) trapsize 7466
+\i (00:18:56) xname_flush 
+\i (00:19:02) zoom in 1 
+\i (00:19:02) setwindow pcb
+\i (00:19:02) zoom in -4722.30 8260.94
+\i (00:19:02) trapsize 3733
+\i (00:19:02) zoom in 1 
+\i (00:19:02) setwindow pcb
+\i (00:19:02) zoom in -4722.30 8260.95
+\i (00:19:02) trapsize 1866
+\i (00:19:03) zoom in 1 
+\i (00:19:03) setwindow pcb
+\i (00:19:03) zoom in -4304.20 8078.04
+\i (00:19:03) trapsize 933
+\i (00:19:03) zoom in 1 
+\i (00:19:03) setwindow pcb
+\i (00:19:03) zoom in -4304.19 7986.59
+\i (00:19:03) trapsize 467
+\i (00:19:03) zoom in 1 
+\i (00:19:03) setwindow pcb
+\i (00:19:03) zoom in -4305.13 7984.73
+\i (00:19:03) trapsize 233
+\i (00:19:03) zoom out 1 
+\i (00:19:03) setwindow pcb
+\i (00:19:03) zoom out -4306.07 7970.73
+\i (00:19:03) trapsize 467
+\i (00:19:03) zoom out 1 
+\i (00:19:03) setwindow pcb
+\i (00:19:03) zoom out -4304.20 7967.01
+\i (00:19:03) trapsize 933
+\i (00:19:03) zoom out 1 
+\i (00:19:03) setwindow pcb
+\i (00:19:03) zoom out -4298.60 7957.67
+\i (00:19:03) trapsize 1866
+\i (00:19:03) zoom out 1 
+\i (00:19:03) setwindow pcb
+\i (00:19:03) zoom out -4279.93 7927.81
+\i (00:19:03) trapsize 3733
+\i (00:19:04) zoom in 1 
+\i (00:19:04) setwindow pcb
+\i (00:19:04) zoom in -4518.84 8084.59
+\i (00:19:04) trapsize 1866
+\i (00:19:04) zoom in 1 
+\i (00:19:04) setwindow pcb
+\i (00:19:04) zoom in -4403.12 7995.00
+\i (00:19:04) trapsize 933
+\i (00:19:05) prepopup -4348.99 8024.86
+\i (00:19:05) pick grid -4276.20 8026.73
+\t (00:19:05) last pick:  -4276.00 8027.00
+\i (00:19:06) assign color 
+\i (00:19:07) drag_start grid -4378.86 7899.81
+\i (00:19:07) drag_stop -4360.19 8008.06
+\t (00:19:07) Net "S0_Lpc_Ch14" assigned color.
+\i (00:19:07) zoom out 1 
+\i (00:19:07) setwindow pcb
+\i (00:19:07) zoom out -4836.15 7968.87
+\i (00:19:07) trapsize 1866
+\i (00:19:07) zoom out 1 
+\i (00:19:07) setwindow pcb
+\i (00:19:07) zoom out -4836.15 7968.87
+\i (00:19:07) trapsize 3733
+\i (00:19:07) zoom in 1 
+\i (00:19:07) setwindow pcb
+\i (00:19:07) zoom in -3410.14 7677.69
+\i (00:19:07) trapsize 1866
+\i (00:19:08) prepopup -3604.26 7905.40
+\i (00:19:08) done 
+\i (00:19:08) generaledit 
+\i (00:19:09) zoom in 1 
+\i (00:19:09) setwindow pcb
+\i (00:19:09) zoom in -4085.82 7729.95
+\i (00:19:09) trapsize 933
+\i (00:19:09) zoom in 1 
+\i (00:19:09) setwindow pcb
+\i (00:19:09) zoom in -4083.95 7735.55
+\i (00:19:09) trapsize 467
+\i (00:19:10) show element 
+\i (00:19:11) pick grid -3962.62 7778.49
+\t (00:19:11) last pick:  -3963.00 7778.00
+\i (00:19:20) xNet S0_Lpc_Ch08 
+\i (00:19:20) xname_flush 
+\i (00:19:20) trapsize 6440
+\i (00:19:20) xNet S0_Lpc_Ch08 
+\i (00:19:20) xname_flush 
+\i (00:19:20) trapsize 6440
+\i (00:19:23) xNet S0_Lpc_Ch08 
+\i (00:19:23) xname_flush 
+\i (00:19:23) trapsize 6440
+\i (00:19:55) xNet S0_Lpc_Ch08 
+\i (00:19:55) xname_flush 
+\i (00:19:55) trapsize 6440
+\i (00:20:00) xname_flush 
+\i (00:20:12) zoom in 1 
+\i (00:20:12) setwindow pcb
+\i (00:20:12) zoom in -3895.81 7971.35
+\i (00:20:12) trapsize 3220
+\i (00:20:12) zoom in 1 
+\i (00:20:12) setwindow pcb
+\i (00:20:12) zoom in -3895.81 7971.35
+\i (00:20:12) trapsize 1610
+\i (00:20:12) zoom out 1 
+\i (00:20:12) setwindow pcb
+\i (00:20:12) zoom out -3483.62 7797.46
+\i (00:20:12) trapsize 3220
+\i (00:20:13) zoom in 1 
+\i (00:20:13) setwindow pcb
+\i (00:20:13) zoom in -3973.10 7855.42
+\i (00:20:13) trapsize 1610
+\i (00:20:13) zoom in 1 
+\i (00:20:13) setwindow pcb
+\i (00:20:13) zoom in -3973.10 7855.42
+\i (00:20:13) trapsize 805
+\i (00:20:13) zoom in 1 
+\i (00:20:13) setwindow pcb
+\i (00:20:13) zoom in -3932.84 7784.58
+\i (00:20:13) trapsize 403
+\i (00:20:13) zoom in 1 
+\i (00:20:13) setwindow pcb
+\i (00:20:13) zoom in -3932.03 7784.59
+\i (00:20:13) trapsize 201
+\i (00:20:13) prepopup -3914.72 7804.31
+\i (00:20:14) done 
+\i (00:20:14) generaledit 
+\i (00:20:15) assign color 
+\i (00:20:15) drag_start grid -3911.90 7772.11
+\i (00:20:15) drag_stop -3905.46 7787.01
+\t (00:20:15) Net "S0_Lpc_Ch08" assigned color.
+\i (00:20:16) zoom out 1 
+\i (00:20:16) setwindow pcb
+\i (00:20:16) zoom out -3973.49 7792.64
+\i (00:20:16) trapsize 403
+\i (00:20:16) zoom out 1 
+\i (00:20:16) setwindow pcb
+\i (00:20:16) zoom out -3973.48 7792.65
+\i (00:20:16) trapsize 805
+\i (00:20:16) zoom out 1 
+\i (00:20:16) setwindow pcb
+\i (00:20:16) zoom out -3975.09 7792.64
+\i (00:20:16) trapsize 1610
+\i (00:20:16) zoom out 1 
+\i (00:20:16) setwindow pcb
+\i (00:20:16) zoom out -3975.09 7792.65
+\i (00:20:16) trapsize 3220
+\i (00:20:16) zoom in 1 
+\i (00:20:16) setwindow pcb
+\i (00:20:16) zoom in -3878.48 7947.22
+\i (00:20:16) trapsize 1610
+\i (00:20:17) zoom in 1 
+\i (00:20:17) setwindow pcb
+\i (00:20:17) zoom in -3810.85 7789.43
+\i (00:20:17) trapsize 805
+\i (00:20:17) zoom in 1 
+\i (00:20:17) setwindow pcb
+\i (00:20:17) zoom in -3806.01 7782.99
+\i (00:20:17) trapsize 403
+\i (00:20:18) prepopup -3751.26 7798.29
+\i (00:20:19) done 
+\i (00:20:19) generaledit 
+\i (00:20:20) show element 
+\i (00:20:21) pick grid -3696.52 7772.53
+\t (00:20:21) last pick:  -3697.00 7773.00
+\i (00:20:31) xNet S0_Lpc_Ch00 
+\i (00:20:31) xname_flush 
+\i (00:20:31) trapsize 6436
+\i (00:20:31) xNet S0_Lpc_Ch00 
+\i (00:20:31) xname_flush 
+\i (00:20:31) trapsize 6436
+\i (00:20:37) xNet S0_Lpc_Ch00 
+\i (00:20:37) xname_flush 
+\i (00:20:37) trapsize 6436
+\i (00:21:20) xNet S3_Lpc_Ch10 
+\i (00:21:20) xname_flush 
+\i (00:21:20) trapsize 6954
+\i (00:21:27) xNet S0_Lpc_Ch00 
+\i (00:21:27) xname_flush 
+\i (00:21:27) trapsize 6436
+\i (00:21:48) xNet S0_Lpc_Ch00 
+\i (00:21:48) xname_flush 
+\i (00:21:48) trapsize 6436
+\i (00:21:56) xname_flush 
+\i (00:22:34) zoom in 1 
+\i (00:22:34) setwindow pcb
+\i (00:22:34) zoom in -3859.67 7753.46
+\i (00:22:34) trapsize 3218
+\i (00:22:34) zoom in 1 
+\i (00:22:34) setwindow pcb
+\i (00:22:34) zoom in -3859.67 7753.46
+\i (00:22:34) trapsize 1609
+\i (00:22:34) zoom in 1 
+\i (00:22:34) setwindow pcb
+\i (00:22:34) zoom in -3859.67 7753.47
+\i (00:22:34) trapsize 804
+\i (00:22:35) zoom in 1 
+\i (00:22:35) setwindow pcb
+\i (00:22:35) zoom in -3774.39 7743.82
+\i (00:22:35) trapsize 402
+\i (00:22:35) zoom out 1 
+\i (00:22:35) setwindow pcb
+\i (00:22:35) zoom out -3730.94 7628.78
+\i (00:22:35) trapsize 804
+\i (00:22:36) zoom in 1 
+\i (00:22:36) setwindow pcb
+\i (00:22:36) zoom in -3674.63 7825.08
+\i (00:22:36) trapsize 402
+\i (00:22:37) prepopup -3673.82 7818.64
+\i (00:22:37) done 
+\i (00:22:37) generaledit 
+\i (00:22:38) assign color 
+\i (00:22:39) drag_start grid -3683.48 7767.96
+\i (00:22:39) drag_stop -3644.06 7803.36
+\t (00:22:39) Net "S0_Lpc_Ch00" assigned color.
+\i (00:22:39) prepopup -3609.46 7804.16
+\i (00:22:40) done 
+\i (00:22:40) generaledit 
+\i (00:22:41) show element 
+\i (00:22:42) pick grid -3518.56 7697.97
+\t (00:22:42) last pick:  -3519.00 7698.00
+\i (00:22:50) xNet S0_Lpc_Ch25 
+\i (00:22:50) xname_flush 
+\i (00:22:50) trapsize 6569
+\i (00:22:50) xNet S0_Lpc_Ch25 
+\i (00:22:50) xname_flush 
+\i (00:22:50) trapsize 6569
+\i (00:22:55) xNet S0_Lpc_Ch25 
+\i (00:22:55) xname_flush 
+\i (00:22:55) trapsize 6569
+\i (00:23:26) xname_flush 
+\i (00:23:48) zoom in 1 
+\i (00:23:48) setwindow pcb
+\i (00:23:48) zoom in -3609.98 7897.42
+\i (00:23:48) trapsize 3285
+\i (00:23:49) zoom in 1 
+\i (00:23:49) setwindow pcb
+\i (00:23:49) zoom in -3609.97 7884.28
+\i (00:23:49) trapsize 1642
+\i (00:23:49) zoom in 1 
+\i (00:23:49) setwindow pcb
+\i (00:23:49) zoom in -2841.34 7562.38
+\i (00:23:49) trapsize 821
+\i (00:23:49) zoom out 1 
+\i (00:23:49) setwindow pcb
+\i (00:23:49) zoom out -2752.66 7545.95
+\i (00:23:49) trapsize 1642
+\i (00:23:49) zoom out 1 
+\i (00:23:49) setwindow pcb
+\i (00:23:49) zoom out -2752.66 7545.96
+\i (00:23:49) trapsize 3285
+\i (00:23:49) zoom in 1 
+\i (00:23:49) setwindow pcb
+\i (00:23:49) zoom in -3435.88 7821.88
+\i (00:23:49) trapsize 1642
+\i (00:23:49) zoom in 1 
+\i (00:23:49) setwindow pcb
+\i (00:23:49) zoom in -3435.88 7821.88
+\i (00:23:49) trapsize 821
+\i (00:23:50) zoom out 1 
+\i (00:23:50) setwindow pcb
+\i (00:23:50) zoom out -3186.24 7634.65
+\i (00:23:50) trapsize 1642
+\i (00:23:50) zoom in 1 
+\i (00:23:50) setwindow pcb
+\i (00:23:50) zoom in -3550.86 7766.05
+\i (00:23:50) trapsize 821
+\i (00:23:50) zoom in 1 
+\i (00:23:50) setwindow pcb
+\i (00:23:50) zoom in -3550.86 7766.05
+\i (00:23:50) trapsize 411
+\i (00:23:51) prepopup -3490.91 7782.48
+\i (00:23:52) done 
+\i (00:23:52) generaledit 
+\i (00:23:53) assign color 
+\i (00:23:54) drag_start grid -3463.81 7670.80
+\i (00:23:54) drag_stop -3436.71 7742.24
+\t (00:23:54) Net "S0_Lpc_Ch25" assigned color.
+\i (00:23:54) prepopup -3453.96 7807.11
+\i (00:23:54) done 
+\i (00:23:55) generaledit 
+\i (00:23:55) show element 
+\i (00:23:56) pick grid -3518.01 7585.39
+\t (00:23:56) last pick:  -3518.00 7585.00
+\i (00:24:07) xNet S0_Lpc_Ch19 
+\i (00:24:07) xname_flush 
+\i (00:24:07) trapsize 6172
+\i (00:24:07) xNet S0_Lpc_Ch19 
+\i (00:24:07) xname_flush 
+\i (00:24:07) trapsize 6172
+\i (00:24:10) xNet S0_Lpc_Ch19 
+\i (00:24:10) xname_flush 
+\i (00:24:10) trapsize 6172
+\i (00:24:22) xNet S0_Lpc_Ch19 
+\i (00:24:22) xname_flush 
+\i (00:24:22) trapsize 6172
+\i (00:24:41) xNet S0_Lpc_Ch19 
+\i (00:24:41) xname_flush 
+\i (00:24:41) trapsize 6172
+\i (00:24:42) xNet S0_Lpc_Ch19 
+\i (00:24:42) xname_flush 
+\i (00:24:42) trapsize 6172
+\i (00:24:59) xname_flush 
+\i (06:34:03) setwindow text
+\i (06:34:03) close 
+\i (06:34:04) setwindow pcb
+\i (06:34:04) exit 
+\e (06:34:04) Do you want to save the changes you made to 038RT-8730CN_1110-1.brd?
+\i (06:34:05) fillin no 
+\t (06:34:05)     Journal end - Wed Nov 11 07:10:15 2026
