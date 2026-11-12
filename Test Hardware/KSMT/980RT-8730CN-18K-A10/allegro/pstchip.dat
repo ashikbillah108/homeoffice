@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Nov-11-2026 at 10:03:50}
+{ Using PSTWRITER 16.6.0 d001Nov-12-2026 at 17:15:23}
 primitive 'REF-CODE-PCB_PCB_CODE_REF-CODE-';
   pin
     '1':
@@ -501,7 +501,7 @@ primitive 'CU/UA2-12NJ-A-V2_RL_NECUA2_12V_';
     VALUE='CU/UA2-12NJ-A-V2';
   end_body;
 end_primitive;
-primitive 'L2.2U-1.15A-S2.0X1.6-TDK_IND_VL';
+primitive 'CU/L2.2U-1.5A-S2.0X1.6-TDK_IND_';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -511,9 +511,9 @@ primitive 'L2.2U-1.15A-S2.0X1.6-TDK_IND_VL';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='L2.2U-1.15A-S2.0X1.6-TDK';
-    JEDEC_TYPE='IND_VL252012E';
-    VALUE='L2.2U-1.15A-S2.0X1.6-TDK';
+    PART_NAME='CU/L2.2U-1.5A-S2.0X1.6-TDK';
+    JEDEC_TYPE='IND_201610';
+    VALUE='L2.2U-1.15A-S2.0X1.6-CT';
   end_body;
 end_primitive;
 primitive '0-5-S2_R0201_0-5-S2';

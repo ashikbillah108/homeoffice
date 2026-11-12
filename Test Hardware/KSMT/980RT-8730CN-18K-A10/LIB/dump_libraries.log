@@ -3,12 +3,12 @@
 (    Dump Library Log                                                 )
 (                                                                     )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Tue Nov 10 21:19:41 2026                      )
+(    Date/Time        : Thu Nov 12 16:57:38 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-*** file: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1110.brd ***
+*** file: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1112-1.brd ***
 
 
 
@@ -1074,8 +1074,6 @@
 
   c1210 being dumped.
 
-  rl_rf303_12v_v2 being dumped.
-
   c0402 being dumped.
 
   c0603 being dumped.
@@ -1134,10 +1132,10 @@
 ERRORs reported:                           0
 
 Number of padstacks dumped:              319
-Number of package symbols dumped:         66
+Number of package symbols dumped:         65
 Number of shape symbols dumped:          159
 Number of flash symbols dumped:            7
 
-Total number of symbols dumped:          232
+Total number of symbols dumped:          231
 *****************************************************
 

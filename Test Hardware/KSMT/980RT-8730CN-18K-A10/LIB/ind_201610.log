@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : IND_201610.dra                                )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Thu Nov 12 17:14:48 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/LIB
+    Name      = ind_201610.psm
+    User      = Ashik-iTest
+    Machine   = D-ASHIK-ITEST
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

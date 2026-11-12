@@ -44,12 +44,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\980rt-8730cn-18k-a10_20261110.dsn")
-      (Path "Design Resources" ".\980rt-8730cn-18k-a10_20261110.dsn"
+      (Path "Design Resources"
+         "d:\itest\homeoffice\test hardware\ksmt\980rt-8730cn-18k-a10\980rt-8730cn-18k-a10_20261110.dsn")
+      (Path "Design Resources"
+         "d:\itest\homeoffice\test hardware\ksmt\980rt-8730cn-18k-a10\980rt-8730cn-18k-a10_20261110.dsn"
          "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\980rt-8730cn-18k-a10_20261110.dsn"
-         "SCHEMATIC1" "P0001_S0_DUT1"))
+      (Select "Design Resources"
+         "d:\itest\homeoffice\test hardware\ksmt\980rt-8730cn-18k-a10\980rt-8730cn-18k-a10_20261110.dsn"
+         "SCHEMATIC1" "P0052_S5_Function-test"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -67,4 +70,4 @@
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980RT-8730CN-18K-A10\980RT-8730CN-18K-A10_20261110.DSN")
       (Schematic "SCHEMATIC1")
       (Page "P0001_S0_DUT1")))
-  (MPSSessionName "Ashik-HomeOffice"))
+  (MPSSessionName "Ashik-iTest"))

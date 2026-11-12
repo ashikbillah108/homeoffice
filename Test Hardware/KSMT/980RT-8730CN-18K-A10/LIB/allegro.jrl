@@ -1,0 +1,32 @@
+\t (00:03:21) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:03:21)     Journal start - Thu Nov 12 17:14:28 2026
+\t (00:03:21)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=25236 CPUs=20
+\t (00:03:21) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:03:21) 
+\d (00:03:21) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/LIB/ind_vl252012e.dra
+\i (00:03:22) trapsize 1466
+\i (00:03:23) zoom in 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom in -98.82 -63.64
+\i (00:03:23) trapsize 733
+\i (00:03:23) zoom in 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom in -622.23 -63.63
+\i (00:03:23) trapsize 367
+\i (00:03:24) zoom out 1 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -376.66 -37.98
+\i (00:03:24) trapsize 733
+\i (00:03:24) zoom out 1 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom out -66.57 -33.57
+\i (00:03:24) trapsize 1466
+\i (00:03:25) zoom in 1 
+\i (00:03:25) setwindow pcb
+\i (00:03:25) zoom in 15.53 50.72
+\i (00:03:25) trapsize 733
+\i (00:03:28) save_as 
+\i (00:03:40) fillin "IND_201610.dra"
+\t (00:03:41) Symbol 'ind_201610.psm' created.
+\i (00:03:46) exit 
+\t (00:03:46)     Journal end - Thu Nov 12 17:14:54 2026

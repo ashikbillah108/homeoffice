@@ -1,0 +1,21 @@
+\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:00)     Journal start - Thu Nov 12 15:45:25 2026
+\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=19072 CPUs=20
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/980K2-260817_261112-1.brd
+\i (00:00:04) trapsize 11742
+\i (00:00:04) trapsize 11531
+\i (00:00:04) trapsize 11778
+\i (00:00:04) trapsize 11879
+\i (00:00:04) trapsize 11879
+\i (00:00:05) placementedit 
+\i (00:00:06) open 
+\e (00:00:06) Do you want to save the changes you made to 980K2-260817_261112-1.brd?
+\i (00:00:07) fillin no 
+\i (00:00:14) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10\038RT-8730CN_1112.brd"
+\i (00:00:14) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10"
+\t (00:00:14) Opening existing design...
+\i (00:00:15) trapsize 11755
+\t (00:00:15)     Journal end - Thu Nov 12 15:45:40 2026
