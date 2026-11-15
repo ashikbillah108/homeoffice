@@ -2,13 +2,13 @@
 (                                                                     )
 (    Split Plane Create                                               )
 (                                                                     )
-(    Drawing          : 038RT-8730CN_1112-1.brd                       )
+(    Drawing          : 038RT-8730CN_1115-1.brd                       )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Thu Nov 12 16:55:12 2026                      )
+(    Date/Time        : Sun Nov 15 15:50:22 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Creating Dynamic split plane on layer "L32_SIGNAL"
+Creating Dynamic split plane on layer "L11_SIGNAL"
 
 Split Plane Session Completed.
