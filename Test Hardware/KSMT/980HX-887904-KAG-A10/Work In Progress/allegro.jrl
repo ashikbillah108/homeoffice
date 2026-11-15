@@ -1,19 +1,21 @@
-\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:00)     Journal start - Thu Nov 12 15:00:08 2026
-\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=21988 CPUs=20
-\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:00) 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1112.brd
-\i (00:00:03) trapsize 10611
-\i (00:00:03) trapsize 10421
-\i (00:00:03) trapsize 10644
-\i (00:00:03) trapsize 10736
-\i (00:00:04) trapsize 10736
-\i (00:00:04) generaledit 
-\i (00:00:29) open 
-\i (00:00:36) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress\980K2-260817_261112.brd"
-\i (00:00:36) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress"
-\t (00:00:36) Opening existing design...
-\i (00:00:36) trapsize 11888
-\t (00:00:36)     Journal end - Thu Nov 12 15:00:44 2026
+\t (00:00:02) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:02)     Journal start - Fri Nov 13 00:53:04 2026
+\t (00:00:02)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=22752 CPUs=16
+\t (00:00:02) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980HX-887904-KAG-A10/Work In Progress/887904-1112.brd
+\i (00:00:05) trapsize 13858
+\i (00:00:05) trapsize 13535
+\i (00:00:05) trapsize 13914
+\i (00:00:06) trapsize 14268
+\i (00:00:06) trapsize 14741
+\i (00:00:07) placementedit 
+\i (00:00:08) open 
+\i (00:00:15) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10\038RT-8730CN_1112-3.brd"
+\i (00:00:15) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10"
+\t (00:00:15) Opening existing design...
+\w (00:00:16) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Maximum Crosstalk, Maximum Peak Crosstalk, Embedded Layers present.  [help]
+\i (00:00:18) fillin confirm
+\i (00:00:18) trapsize 16140
+\t (00:00:18)     Journal end - Fri Nov 13 00:53:20 2026
