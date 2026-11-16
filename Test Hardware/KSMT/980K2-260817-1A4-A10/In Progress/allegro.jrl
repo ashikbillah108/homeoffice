@@ -1,20 +1,21 @@
-\t (00:00:01) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:01)     Journal start - Sun Nov 15 11:19:39 2026
-\t (00:00:01)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=31652 CPUs=20
-\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:01) 
-\t (00:00:04) Opening existing design...
-\d (00:00:04) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/980K2-260817_261115-1_RoutingTask.brd
-\i (00:00:05) trapsize 11742
-\i (00:00:05) trapsize 11531
-\i (00:00:05) trapsize 11778
-\i (00:00:05) trapsize 11879
-\i (00:00:05) trapsize 11879
-\i (00:00:05) placementedit 
-\i (00:19:29) open 
-\i (00:19:35) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10\038RT-8730CN_1113-1.brd"
-\i (00:19:35) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10"
-\t (00:19:35) Opening existing design...
-\w (00:19:36) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability then what is saved in the design.
-\i (00:19:36) trapsize 12190
-\t (00:19:37)     Journal end - Sun Nov 15 11:39:15 2026
+\t (00:00:03) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:03)     Journal start - Mon Nov 16 10:19:05 2026
+\t (00:00:03)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=16268 CPUs=20
+\t (00:00:03) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/980K2-260817_261115-1_RoutingTask.brd
+\i (00:00:06) trapsize 11742
+\i (00:00:06) trapsize 11531
+\i (00:00:06) trapsize 11778
+\i (00:00:06) trapsize 12142
+\i (00:00:06) trapsize 12142
+\i (00:00:07) placementedit 
+\i (00:00:11) open 
+\i (00:00:18) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10\038RT-8730CN_1115-2.brd"
+\i (00:00:18) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10"
+\t (00:00:18) Opening existing design...
+\w (00:00:19) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Maximum Crosstalk, Maximum Peak Crosstalk, Embedded Layers present.  [help]
+\i (00:00:20) fillin confirm
+\i (00:00:20) trapsize 11755
+\t (00:00:20)     Journal end - Mon Nov 16 10:19:22 2026

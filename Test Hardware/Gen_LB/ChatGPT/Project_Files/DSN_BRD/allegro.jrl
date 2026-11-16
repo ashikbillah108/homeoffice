@@ -1,19 +1,21 @@
-\t (00:00:00) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:00)     Journal start - Mon Nov 09 09:21:43 2026
-\t (00:00:00)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=8992 CPUs=20
-\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:00) 
-\t (00:00:01) Opening existing design...
-\d (00:00:01) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108-1.brd
-\i (00:00:02) trapsize 10611
-\i (00:00:02) trapsize 10421
-\i (00:00:02) trapsize 10644
-\i (00:00:02) trapsize 10736
-\i (00:00:02) trapsize 10736
-\i (00:00:02) rfedit_appm 
-\i (00:00:05) open 
-\i (00:00:16) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10\038RT-8730CN_1109.brd"
-\i (00:00:16) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10"
-\t (00:00:16) Opening existing design...
-\i (00:00:17) trapsize 3078
-\t (00:00:17)     Journal end - Mon Nov 09 09:22:00 2026
+\t (00:00:03) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:03)     Journal start - Mon Nov 16 10:12:28 2026
+\t (00:00:03)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=24056 CPUs=20
+\t (00:00:03) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/DSN_BRD/GEN-LB-20261108-1.brd
+\i (00:00:06) trapsize 10611
+\i (00:00:06) trapsize 10421
+\i (00:00:06) trapsize 10644
+\i (00:00:07) trapsize 10973
+\i (00:00:07) trapsize 10973
+\i (00:00:07) placementedit 
+\i (00:00:14) open 
+\i (00:00:22) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10\038RT-8730CN_1115-2.brd"
+\i (00:00:22) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980RT-8730CN-18K-A10"
+\t (00:00:22) Opening existing design...
+\w (00:00:23) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Maximum Crosstalk, Maximum Peak Crosstalk, Embedded Layers present.  [help]
+\i (00:00:25) fillin confirm
+\i (00:00:25) trapsize 11755
+\t (00:00:25)     Journal end - Mon Nov 16 10:12:50 2026

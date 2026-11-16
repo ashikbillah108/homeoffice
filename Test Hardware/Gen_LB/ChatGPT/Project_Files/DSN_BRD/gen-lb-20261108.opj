@@ -54,12 +54,69 @@
       (Path "Design Resources" ".\gen-lb-20261108.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" "..\lib\loadboard_connectors.olb")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\gen-lb-20261108.dsn" "SCHEMATIC1"
+         "A_001V93K_TESTConfig"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 409"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 409"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1769 104 556")
+        (Scroll "-94 80")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\DSN_BRD\GEN-LB-20261108.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "A_001V93K_TESTConfig"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1743 78 530")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\DSN_BRD\GEN-LB-20261108.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T01.GROUP1.U2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1769 104 556")
+        (Scroll "0 845")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\DSN_BRD\GEN-LB-20261108.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T08.GROUP7.U8"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1821 156 608")
+        (Scroll "1162 520")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\DSN_BRD\GEN-LB-20261108.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T07.GROUP6.U7"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1847 182 634")
+        (Scroll "79 108")
+        (Zoom "62")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\GEN_LB\CHATGPT\PROJECT_FILES\DSN_BRD\GEN-LB-20261108.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "T04.GROUP8.U4")))
   (ISPCBBASICLICENSE "false")
   (MPSSessionName "Ashik-iTest"))

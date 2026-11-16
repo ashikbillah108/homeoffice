@@ -1,22 +1,94 @@
-\t (00:00:05) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:05)     Journal start - Sun Nov 15 10:54:32 2026
-\t (00:00:05)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=30200 CPUs=20
-\t (00:00:05) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:05) 
-\t (00:00:06) Opening existing design...
-\w (00:00:07) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability then what is saved in the design.
-\d (00:00:07) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1113-1.brd
-\i (00:00:07) trapsize 12049
-\i (00:00:07) trapsize 11832
-\i (00:00:07) trapsize 12086
-\i (00:00:07) trapsize 12190
-\i (00:00:07) trapsize 12190
-\i (00:00:08) placementedit 
-\i (00:00:09) trapsize 17569
-\i (00:00:10) trapsize 12190
-\i (00:00:11) open 
-\i (00:00:24) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress\980K2-260817_261112-1.brd"
-\i (00:00:24) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress"
-\t (00:00:24) Opening existing design...
-\i (00:00:24) trapsize 11879
-\t (00:00:24)     Journal end - Sun Nov 15 10:54:52 2026
+\t (00:00:23) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:23)     Journal start - Mon Nov 16 10:40:09 2026
+\t (00:00:23)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=15992 CPUs=20
+\t (00:00:23) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:23) 
+\d (00:00:23) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/038RT-8730CN_1116.brd
+\i (00:00:23) placementedit 
+\i (00:00:25) setwindow form.vf_vis
+\i (00:00:25) FORM vf_vis all_all_visible YES 
+\i (00:00:25) FORM vf_vis all_all_visible NO 
+\i (00:00:26) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -3057.11 -129.30
+\i (00:00:29) trapsize 5877
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -3057.10 -129.30
+\i (00:00:29) trapsize 2939
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -2892.54 1263.64
+\i (00:00:29) trapsize 1469
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -2889.60 1263.65
+\i (00:00:29) trapsize 735
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -2889.60 1263.65
+\i (00:00:29) trapsize 367
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -2896.95 1076.31
+\i (00:00:30) trapsize 184
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -2905.76 1101.29
+\i (00:00:30) trapsize 92
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2905.76 1101.47
+\i (00:00:31) trapsize 184
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2905.77 1101.48
+\i (00:00:31) trapsize 367
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2905.76 1101.48
+\i (00:00:31) trapsize 735
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2905.76 1101.48
+\i (00:00:31) trapsize 1469
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2905.77 1101.48
+\i (00:00:31) trapsize 2939
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2905.78 1101.47
+\i (00:00:31) trapsize 5877
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2905.78 1101.48
+\i (00:00:31) trapsize 11755
+\i (00:00:33) zoom fit 
+\i (00:00:33) trapsize 11755
+\i (00:00:35) setwindow form.vf_vis
+\i (00:00:35) FORM vf_vis 1 drc_colorvisible 0 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) add connect 
+\t (00:00:39) Pick first element.
+\i (00:00:39) pick grid -16551.62 1281.27
+\t (00:00:39) last pick:  -16552.00 1281.00
+\t (00:00:39) last pick:  -16552.00 1281.00
+\i (00:00:40) prepopup -16669.17 5865.65
+\i (00:00:40) done 
+\i (00:00:40) placementedit 
+\i (00:00:42) save 
+\i (00:00:43) fillin yes 
+\i (00:00:43) placementedit 
+\i (00:00:47) setwindow form.mini
+\i (00:00:47) FORM mini class BOARD GEOMETRY 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) reports 'Etch Length by Net Report' 
+\i (00:00:51) reports "Etch Length by Net Report"
+\i (00:00:51) placementedit 
+\i (00:01:14) exit 
+\i (00:01:14) setwindow text
+\i (00:01:14) close 
+\t (00:01:14)     Journal end - Mon Nov 16 10:41:00 2026
