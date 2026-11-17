@@ -1,0 +1,235 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Tue Nov 17 16:28:27 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/980K2-260817_261115-1_RoutingTask.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  SQ064_060_041 being dumped.
+
+  FD_RD040_M100 being dumped.
+
+  SK_SQ3P3_MM being dumped.
+
+  016X030H being dumped.
+
+  RD040_B being dumped.
+
+  PG040_B being dumped.
+
+  NPTH_OB87X98 being dumped.
+
+  NPTH126 being dumped.
+
+  050X110V being dumped.
+
+  SQ040_B being dumped.
+
+  030X075V being dumped.
+
+  044X054V being dumped.
+
+  045X075V being dumped.
+
+  RD060_040 being dumped.
+
+  SHORT_1 being dumped.
+
+  SK_NPTH1P61MM being dumped.
+
+  PG_DX_NPTH134 being dumped.
+
+  SK_0P3MM being dumped.
+
+  SQ0P8_MM being dumped.
+
+  R0201_012X014V_M014X016 being dumped.
+
+  0402_SQ024 being dumped.
+
+  022X040H_M018X036 being dumped.
+
+  VRD018_010P01_M2 being dumped.
+
+  PG_DXV_NPTH120 being dumped.
+
+  PG_SC_NPTH182_550X500 being dumped.
+
+  SK_VRD020_010P01 being dumped.
+
+  RE4P5X15MM being dumped.
+
+  1P3X1P8MMV being dumped.
+
+  RD002 being dumped.
+
+  TP040 being dumped.
+
+  SQ035 being dumped.
+
+  RE1P5X1P7MM being dumped.
+
+  VRD011P8_004P01_M2 being dumped.
+
+  VRD011P8_006P01_M2 being dumped.
+
+  RE0P45X1P05_M0P45X1P05MM being dumped.
+
+  M5_RD434_276 being dumped.
+
+  RD040_032_022 being dumped.
+
+  PG040_032_022 being dumped.
+
+  M3_RD276_169 being dumped.
+
+  RD064_060_041 being dumped.
+
+  SQ040_032_022 being dumped.
+
+  PG_DX_NPTH180X122 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  p_sq024 being dumped.
+
+  m_sq028 being dumped.
+
+  paste_r0201_012x014v being dumped.
+
+  ate_clearance being dumped.
+
+  pg_550x500_smb being dumped.
+
+  pg_550x500_bot being dumped.
+
+  pogo_pad being dumped.
+
+  p_sh being dumped.
+
+  pogo_pad_s being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  thrr4x050x036x020x0 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  pg_ltxdx_f_x1_vi100_sl01_v3 being dumped.
+
+  pg_ltxdx_f_x1_vi100_sl02_v3 being dumped.
+
+  pg_ltxdx_f_x1_fpvi_sl10_v3 being dumped.
+
+  sk_qfn5x5_64p_0p5mm_jg_260817 being dumped.
+
+  pg_ltxdx_f_x1_vi100_sl17_v3 being dumped.
+
+  pg_ltxdx_f_x1_vi100_sl18_v3 being dumped.
+
+  rl_g3vm_4p_vson4 being dumped.
+
+  pg_ltxdx_f_x1_fpvi_sl09_v3 being dumped.
+
+  pg_ltxdx_f_x1_pmvi_sl05_v3 being dumped.
+
+  pg_ltxdx_f_x1_pmvi_sl14_v3 being dumped.
+
+  so8_206x127mm being dumped.
+
+  led_0603 being dumped.
+
+  pg_ltxdx_f_x1_pg400nd_sl11_v3 being dumped.
+
+  pg_ltxdx_f_x1_pg400nd_sl03_v3 being dumped.
+
+  pg_ltxdx_f_x1_pg400nd_sl12_v3 being dumped.
+
+  pg_ltxdx_f_x1_pg400nd_sl04_v3 being dumped.
+
+  pg_ltxdx_f_x1_pg400nd_sl15_v3 being dumped.
+
+  pg_ltxdx_f_x1_pg400nd_sl16_v3 being dumped.
+
+  pg_ltxdx_f_x1_pg400nd_sl07_v3 being dumped.
+
+  pg_ltxdx_f_x1_pg400nd_sl08_v3 being dumped.
+
+  pg_ltxdx_f_x1_pg400nd_sl19_v3 being dumped.
+
+  tp_040_t being dumped.
+
+  pcb_code being dumped.
+
+  fd_040_v2 being dumped.
+
+  ind_16p5x15p5mm being dumped.
+
+  tp_060_040 being dumped.
+
+  sc70 being dumped.
+
+  c1210 being dumped.
+
+  c0402 being dumped.
+
+  c0603 being dumped.
+
+  chip_code being dumped.
+
+  c0805 being dumped.
+
+  r0201 being dumped.
+
+  r0402 being dumped.
+
+  default_short_small being dumped.
+
+  r0603 being dumped.
+
+  socket_base_190x178mm_t50516 being dumped.
+
+  pg_ltxdx_f_x1_outline_td_cohu being dumped.
+
+  pg_ltxdx_f_x1_gx1_sl13_v2 being dumped.
+
+  rl_necua2_5v_v3 being dumped.
+
+  pg_ltxdx_f_x1_gx1_sl06_v2 being dumped.
+
+  fuse_1206_h1p05mm being dumped.
+
+  pg_ltxdx_f_x1_sdu_sl00_v3 being dumped.
+
+  rl_g3vm201dr_200v being dumped.
+
+  sot23_8p_0p65mm_h1p3mm being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               42
+Number of package symbols dumped:         45
+Number of shape symbols dumped:            9
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:           55
+*****************************************************
+

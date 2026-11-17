@@ -1,0 +1,86 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : 980K2-260817_261115-1_RoutingTask.brd         )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Tue Nov 17 16:29:33 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980K2-260817-1A4-A10\IN PROGRESS\allegro'
+Design Directory:            'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress'
+Old design name:             'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/980K2-260817_261115-1_RoutingTask.brd'
+New design name:             'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/980K2-260817_261117.brd'
+
+CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980K2-260817-1A4-A10\IN PROGRESS\allegro D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress\980K2-260817_261115-1_RoutingTask.brd D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress\980K2-260817_261117.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980K2-260817-1A4-A10/IN PROGRESS/allegro/pstchip.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980K2-260817-1A4-A10/IN PROGRESS/allegro/pstchip.dat (00:00:00.05)
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980K2-260817-1A4-A10/IN PROGRESS/allegro/pstxprt.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980K2-260817-1A4-A10/IN PROGRESS/allegro/pstxprt.dat (00:00:00.04)
+Starting to read D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980K2-260817-1A4-A10/IN PROGRESS/allegro/pstxnet.dat 
+   Finished reading D:/ITEST/HOMEOFFICE/TEST HARDWARE/KSMT/980K2-260817-1A4-A10/IN PROGRESS/allegro/pstxnet.dat (00:00:00.08)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOCKET_BASE_208X178MM_260817' used by RefDes SKB1 for device 'CU/HT7048-KT28-AA01_SOCKET_BASE' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/LIB/ 
+           D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/EXTRACTED_TEMPLATE_LIB/ 
+           D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/LIB/ 
+
+PADPATH =  D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/LIB/ 
+           D:/iTest/homeoffice/Test Hardware/Gen_LB/ChatGPT/Project_Files/EXTRACTED_TEMPLATE_LIB/ 
+           D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/LIB/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Nov 17 16:29:33 2026
+   DESIGN NAME : '980K2-260817-1A4-A10_C10_AS_1117A'
+   PACKAGING ON Aug  3 2015 18:16:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+  1 warnings detected
+
+cpu time      0:01:28
+elapsed time  0:00:01
+
