@@ -1,0 +1,746 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_0A_9G_1_DCH081+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.J29        393.70  236.22
+                                                                         D11006
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0A_9G_1_DCH081- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.J28        362.20  236.22
+                                                                         D11008
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0A_9G_1_DCH083+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.P31        456.69   78.74
+                                                                         D30902
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0A_9G_1_DCH083- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.P32        488.19   78.74
+                                                                         D30904
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0A_9G_DCH081+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AH2       -456.69 -362.20
+                                                                         D12910
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0A_9G_DCH081- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AJ2       -456.69 -393.70
+                                                                         D12912
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0A_9G_DCH083+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL2       -456.69 -456.69
+                                                                         D12914
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0A_9G_DCH083- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM2       -456.69 -488.19
+                                                                         D12916
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0B_9G_1_DCH082+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM19        78.74 -488.19
+                                                                         D12106
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0B_9G_1_DCH082- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL19        78.74 -456.69
+                                                                         D12108
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0B_9G_1_DCH084+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL31       456.69 -456.69
+                                                                         D10110
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0B_9G_1_DCH084- pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE1.AM31       456.69 -488.19
+                                                                         D10112
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0B_9G_DCH082+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.B2        -456.69  456.69
+                                                                         D12502
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0B_9G_DCH082- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.B1        -488.19  456.69
+                                                                         D12504
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0B_9G_DCH084+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.P2        -456.69   78.74
+                                                                         D12606
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0B_9G_DCH084- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.P1        -488.19   78.74
+                                                                         D12608
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH151+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AD1       -488.19 -236.22
+                                                                         D12902
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH151- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AD2       -456.69 -236.22
+                                                                         D12904
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH152+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.P5        -362.20   78.74
+                                                                         D31710
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH152- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.P4        -393.70   78.74
+                                                                         D31712
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH153+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AB2       -456.69 -173.23
+                                                                         D12614
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH153- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AB1       -488.19 -173.23
+                                                                         D12616
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH154+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.M5        -362.20  141.73
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                         D31706
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH154- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.M4        -393.70  141.73
+                                                                         D31708
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH155+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.Y1        -488.19 -110.24
+                                                                         D12610
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH155- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.Y2        -456.69 -110.24
+                                                                         D12612
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH156+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.T5        -362.20   15.75
+                                                                         D31714
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH156- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.T4        -393.70   15.75
+                                                                         D31716
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH157+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AF2       -456.69 -299.21
+                                                                         D12906
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH157- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AF1       -488.19 -299.21
+                                                                         D12908
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH158+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.V5        -362.20  -47.24
+                                                                         D32102
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_0_9G_DCH158- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.V4        -393.70  -47.24
+                                                                         D32104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH110 pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AC27       330.71 -204.72
+                                                                         D30504
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH151+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.P29        393.70   78.74
+                                                                         D30514
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_1_9G_DCH151- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.P28        362.20   78.74
+                                                                         D30516
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH152+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AD31       456.69 -236.22
+                                                                         D10506
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH152- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AD32       488.19 -236.22
+                                                                         D10508
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH153+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.T29        393.70   15.75
+                                                                         D30510
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH153- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.T28        362.20   15.75
+                                                                         D30512
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH154+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AF32       488.19 -299.21
+                                                                         D10502
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH154- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AF31       456.69 -299.21
+                                                                         D10504
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH155+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.V29        393.70  -47.24
+                                                                         D30506
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH155- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.V28        362.20  -47.24
+                                                                         D30508
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH156+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AB32       488.19 -173.23
+                                                                         D10510
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH156- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AB31       456.69 -173.23
+                                                                         D10512
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH157+ pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE1.M29        393.70  141.73
+                                                                         D11002
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH157- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.M28        362.20  141.73
+                                                                         D11004
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH158+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.Y31        456.69 -110.24
+                                                                         D10514
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_1_9G_DCH158- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.Y32        488.19 -110.24
+                                                                         D10516
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AA_9G_1_DCH065+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.B31        456.69  456.69
+                                                                         D31306
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AA_9G_1_DCH065- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.B32        488.19  456.69
+                                                                         D31308
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AA_9G_DCH065+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM14       -78.74 -488.19
+                                                                         D12102
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AA_9G_DCH065- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL14       -78.74 -456.69
+                                                                         D12104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AB_9G_1_DCH066+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AH31       456.69 -362.20
+                                                                         D10114
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AB_9G_1_DCH066- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AJ31       456.69 -393.70
+                                                                         D10116
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AB_9G_DCH066+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.J4        -393.70  236.22
+                                                                         D31702
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_AB_9G_DCH066- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.J5        -362.20  236.22
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                         D31704
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_BA_9G_1_DCH067+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.B28        362.20  456.69
+                                                                         D31310
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_BA_9G_1_DCH067- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.B29        393.70  456.69
+                                                                         D31312
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_BA_9G_DCH067+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AJ9       -236.22 -393.70
+                                                                         D32114
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_BA_9G_DCH067- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AH9       -236.22 -362.20
+                                                                         D32116
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_BB_9G_1_DCH068+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL26       299.21 -456.69
+                                                                         D10102
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_BB_9G_1_DCH068- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM26       299.21 -488.19
+                                                                         D10104
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_BB_9G_DCH068+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.J1        -488.19  236.22
+                                                                         D12514
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_BB_9G_DCH068- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.J2        -456.69  236.22
+                                                                         D12516
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_CA_9G_1_DCH069+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.G31        456.69  299.21
+                                                                         D30914
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_CA_9G_1_DCH069- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.G32        488.19  299.21
+                                                                         D30916
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_CA_9G_DCH069+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM9       -236.22 -488.19
+                                                                         D11710
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_CA_9G_DCH069- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL9       -236.22 -456.69
+                                                                         D11712
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_CB_9G_1_DCH070+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AH26       299.21 -362.20
+                                                                         D30110
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_CB_9G_1_DCH070- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AJ26       299.21 -393.70
+                                                                         D30112
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_CB_9G_DCH070+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.D4        -393.70  393.70
+                                                                         D11414
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_CB_9G_DCH070- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.D5        -362.20  393.70
+                                                                         D11416
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DA_9G_1_DCH071+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.G28        362.20  299.21
+                                                                         D11010
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DA_9G_1_DCH071- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.G29        393.70  299.21
+                                                                         D11012
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DA_9G_DCH071+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AJ4       -393.70 -393.70
+                                                                         D32106
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DA_9G_DCH071- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AH4       -393.70 -362.20
+                                                                         D32108
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DB_9G_1_DCH072+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL21       141.73 -456.69
+                                                                         D12110
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DB_9G_1_DCH072- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM21       141.73 -488.19
+                                                                         D12112
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DB_9G_DCH072+ pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE1.D1        -488.19  393.70
+                                                                         D12506
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DB_9G_DCH072- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.D2        -456.69  393.70
+                                                                         D12508
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DCH014    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AG19        78.74 -330.71
+                                                                         D10103
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DCH020    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AG12      -141.73 -330.71
+                                                                         D30102
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_DCH049    pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AG17        15.75 -330.71
+                                                                         D10101
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_EA_9G_1_DCH073+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.M32        488.19  141.73
+                                                                         D30906
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_EA_9G_1_DCH073- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.M31        456.69  141.73
+                                                                         D30908
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_EA_9G_DCH073+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM4       -393.70 -488.19
+                                                                         D11702
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_EA_9G_DCH073- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL4       -393.70 -456.69
+                                                                         D11704
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_EB_9G_1_DCH074+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM29       393.70 -488.19
+                                                                         D10106
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_EB_9G_1_DCH074- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL29       393.70 -456.69
+                                                                         D10108
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_EB_9G_DCH074+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.M2        -456.69  141.73
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                         D12602
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_EB_9G_DCH074- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.M1        -488.19  141.73
+                                                                         D12604
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_FA_9G_1_DCH075+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.D32        488.19  393.70
+                                                                         D31302
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_FA_9G_1_DCH075- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.D31        456.69  393.70
+                                                                         D31304
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_FA_9G_DCH075+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL12      -141.73 -456.69
+                                                                         D11714
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_FA_9G_DCH075- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM12      -141.73 -488.19
+                                                                         D11716
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_FB_9G_1_DCH076+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AJ29       393.70 -393.70
+                                                                         D30114
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_FB_9G_1_DCH076- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AH29       393.70 -362.20
+                                                                         D30116
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_FB_9G_DCH076+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.G5        -362.20  299.21
+                                                                         D31414
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_FB_9G_DCH076- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.G4        -393.70  299.21
+                                                                         D31416
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_GA_9G_1_DCH077+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.D29        393.70  393.70
+                                                                         D11014
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_GA_9G_1_DCH077- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.D28        362.20  393.70
+                                                                         D11016
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_GA_9G_DCH077+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AH7       -299.21 -362.20
+                                                                         D32110
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_GA_9G_DCH077- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AJ7       -299.21 -393.70
+                                                                         D32112
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_GB_9G_1_DCH078+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM24       236.22 -488.19
+                                                                         D12114
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_GB_9G_1_DCH078- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL24       236.22 -456.69
+                                                                         D12116
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_GB_9G_DCH078+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.G2        -456.69  299.21
+                                                                         D12510
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_GB_9G_DCH078- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.G1        -488.19  299.21
+                                                                         D12512
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HA_9G_1_DCH079+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.J32        488.19  236.22
+                                                                         D30910
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HA_9G_1_DCH079- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.J31        456.69  236.22
+                                                                         D30912
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HA_9G_DCH079+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AL7       -299.21 -456.69
+                                                                         D11706
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HA_9G_DCH079- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AM7       -299.21 -488.19
+                                                                         D11708
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HB_9G_1_DCH080+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.AJ24       236.22 -393.70
+                                                                         D30106
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HB_9G_1_DCH080- pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SITE1.AH24       236.22 -362.20
+                                                                         D30108
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HB_9G_DCH080+ pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.B5        -362.20  456.69
+                                                                         D31314
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_HB_9G_DCH080- pins MOVED FROM this net (to net name listed on right)
+                                 SITE1.B4        -393.70  456.69
+                                                                         D31316
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH001+ pins MOVED FROM this net (to net name listed on right)
+                                 R118.2          2046.38 2506.81
+                                                                         D10905
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH001- pins MOVED FROM this net (to net name listed on right)
+                                 R117.2          2046.38 2428.19
+                                                                         D10907
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH002+ pins MOVED FROM this net (to net name listed on right)
+                                 R124.2          2130.00 2506.81
+                                                                         D10902
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH002- pins MOVED FROM this net (to net name listed on right)
+                                 R123.2          2130.00 2428.19
+                                                                         D10904
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH003+ pins MOVED FROM this net (to net name listed on right)
+                                 R126.2          1446.38 2506.81
+                                                                         D10901
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH003- pins MOVED FROM this net (to net name listed on right)
+                                 R125.2          1446.38 2428.19
+                                                                         D10903
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH004+ pins MOVED FROM this net (to net name listed on right)
+                                 R128.2          1530.00 2506.81
+                                                                         D10906
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH004- pins MOVED FROM this net (to net name listed on right)
+                                 R127.2          1530.00 2428.19
+                                                                         D10908
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH005+ pins MOVED FROM this net (to net name listed on right)
+                                 R130.2           846.38 2428.19
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                         D10910
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH005- pins MOVED FROM this net (to net name listed on right)
+                                 R129.2           846.38 2506.81
+                                                                         D10912
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH006+ pins MOVED FROM this net (to net name listed on right)
+                                 R132.2           930.00 2428.19
+                                                                         D10913
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH006- pins MOVED FROM this net (to net name listed on right)
+                                 R131.2           930.00 2506.81
+                                                                         D10915
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH007+ pins MOVED FROM this net (to net name listed on right)
+                                 R134.2           246.38 2428.19
+                                                                         D10914
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH007- pins MOVED FROM this net (to net name listed on right)
+                                 R133.2           246.38 2506.81
+                                                                         D10916
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH008+ pins MOVED FROM this net (to net name listed on right)
+                                 R136.2           330.00 2428.19
+                                                                         D10909
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH008- pins MOVED FROM this net (to net name listed on right)
+                                 R135.2           330.00 2506.81
+                                                                         D10911
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH009+ pins MOVED FROM this net (to net name listed on right)
+                                 R138.2          -353.62 2428.19
+                                                                         D11302
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH009- pins MOVED FROM this net (to net name listed on right)
+                                 R137.2          -353.62 2506.81
+                                                                         D11304
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH010+ pins MOVED FROM this net (to net name listed on right)
+                                 R140.2          -270.00 2428.19
+                                                                         D11305
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH010- pins MOVED FROM this net (to net name listed on right)
+                                 R139.2          -270.00 2506.81
+                                                                         D11307
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  S1_PCIE_DCH011+ pins MOVED FROM this net (to net name listed on right)
+                                 R141.2          -953.62 2428.19
+                                                                         D11306
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH011- pins MOVED FROM this net (to net name listed on right)
+                                 R142.2          -953.62 2506.81
+                                                                         D11308
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH012+ pins MOVED FROM this net (to net name listed on right)
+                                 R144.2          -870.00 2428.19
+                                                                         D11301
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH012- pins MOVED FROM this net (to net name listed on right)
+                                 R143.2          -870.00 2506.81
+                                                                         D11303
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH013+ pins MOVED FROM this net (to net name listed on right)
+                                 R145.2          -1553.6 2428.19
+                                                                         D11310
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH013- pins MOVED FROM this net (to net name listed on right)
+                                 R146.2          -1553.6 2506.81
+                                                                         D11312
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH014+ pins MOVED FROM this net (to net name listed on right)
+                                 R148.2          -1470.0 2428.19
+                                                                         D11313
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH014- pins MOVED FROM this net (to net name listed on right)
+                                 R147.2          -1470.0 2506.81
+                                                                         D11315
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH015+ pins MOVED FROM this net (to net name listed on right)
+                                 R149.2          -2153.6 2428.19
+                                                                         D11314
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH015- pins MOVED FROM this net (to net name listed on right)
+                                 R150.2          -2153.6 2506.81
+                                                                         D11316
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH016+ pins MOVED FROM this net (to net name listed on right)
+                                 R152.2          -2070.0 2428.19
+                                                                         D11309
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  S1_PCIE_DCH016- pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  D:.../Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd    |
+|                                                    Wed Nov 18 11:41:52 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R151.2          -2070.0 2506.81
+                                                                         D11311
+|------------------------------------------------------------------------------|
+|       Nets changed          :     148                                        |
+|                                                                              |
+|   Total ECO changes reported:     148                                        |
+|------------------------------------------------------------------------------|

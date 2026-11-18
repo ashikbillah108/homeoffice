@@ -1,0 +1,481 @@
+{ Using PSTWRITER 16.6.0 d001Nov-18-2026 at 11:41:49 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B05" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW05".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A01" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW00".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A16" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_PGDS".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B17" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_4F".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C17" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_4F".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A17" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_4F".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A15" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_PDCS".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C12" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_3S".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B06" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_UW07".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B03" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW03".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B16" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_4GRD".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B03" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_URW03".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B08" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_UW09".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C12" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_3S".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B16" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_PGRD".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "K15.6" ignored for K15: SCHEMATIC1, P0014_S1_CH (109.22, 373.38). Connecting pin to net "N20412556".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "K15.4" ignored for K15: SCHEMATIC1, P0014_S1_CH (109.22, 373.38). Connecting pin to net "N20412563".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C02" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_1S".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B15" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_PDCF".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B13" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_3F".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C13" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_3F".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A13" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_3F".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B16" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_PGRD".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A06" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_2GS".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A09" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_UW10".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A16" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_4GS".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "K16.6" ignored for K16: SCHEMATIC1, P0014_S1_CH (109.22, 505.46). Connecting pin to net "N20412610".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B10" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW11".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "D227.04" ignored for D227: SCHEMATIC1, T04.GROUP8.U4 (15.00, 10.10). Connecting pin to net "D227_4_TRIG".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A01" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_URW00".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "K16.4" ignored for K16: SCHEMATIC1, P0014_S1_CH (109.22, 505.46). Connecting pin to net "N20412613".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B14" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW15".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B15" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_PDCF".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.C3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_GS4".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A15" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_PDCS".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A09" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW10".
+#37 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C09" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_VB+".
+#38 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.A1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_DS1-".
+#39 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.C3" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_GS2".
+#40 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A11" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW12".
+#41 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.D1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_PS1".
+#42 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A07" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_UW08".
+#43 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C07" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_2F".
+#44 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B07" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_2F".
+#45 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A07" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_2F".
+#46 WARNING(ORCAP-36038): "No_connect" property on Pin "D228.04" ignored for D228: SCHEMATIC1, T04.GROUP8.U4 (21.20, 10.10). Connecting pin to net "D228_4_TRIG".
+#47 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B08" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW09".
+#48 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1F".
+#49 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1F".
+#50 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1F".
+#51 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B02" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_URW01".
+#52 WARNING(ORCAP-36038): "No_connect" property on Pin "K7.2" ignored for K7: SCHEMATIC1, P0014_S1_CH (147.32, 243.84). Connecting pin to net "S1_DCH063".
+#53 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A04" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW04".
+#54 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B02" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1GRD".
+#55 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B06" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_2GRD".
+#56 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A16" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_4GS".
+#57 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#58 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#59 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#60 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_5" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#61 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_6" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#62 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_11" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#63 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_12" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#64 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_15" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#65 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_16" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#66 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_4" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#67 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_10" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#68 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_8" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#69 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_9" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#70 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_14" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#71 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_3" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#72 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_17" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#73 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_7" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#74 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_13" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#75 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P2_18" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P2".
+#76 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A09" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_UW10".
+#77 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B12" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_3GRD".
+#78 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B02" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW01".
+#79 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A12" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_3GS".
+#80 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C02" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1S".
+#81 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.D4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_DUT_CAP_ON_3".
+#82 WARNING(ORCAP-36038): "No_connect" property on Pin "K12.5" ignored for K12: SCHEMATIC1, P0014_S1_CH (320.04, 58.42). Connecting pin to net "N20118014".
+#83 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.A2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_CMON2".
+#84 WARNING(ORCAP-36038): "No_connect" property on Pin "K12.6" ignored for K12: SCHEMATIC1, P0014_S1_CH (320.04, 58.42). Connecting pin to net "N20117866".
+#85 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C16" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_4S".
+#86 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C17" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_4F".
+#87 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B17" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_4F".
+#88 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A17" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_4F".
+#89 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.B4" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_GANG_IN".
+#90 WARNING(ORCAP-36038): "No_connect" property on Pin "K8.6" ignored for K8: SCHEMATIC1, P0011_S1_POWER (96.52, 513.08). Connecting pin to net "S1_VCC18V_VQPS".
+#91 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C16" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_4S".
+#92 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B15" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_PDCF".
+#93 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B10" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_UW11".
+#94 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C06" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_2S".
+#95 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B14" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_UW15".
+#96 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B10" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_UW11".
+#97 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B08" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_UW09".
+#98 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.B1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_DS1+".
+#99 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A15" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_PDCS".
+#100 WARNING(ORCAP-36038): "No_connect" property on Pin "K8.5" ignored for K8: SCHEMATIC1, P0011_S1_POWER (96.52, 513.08). Connecting pin to net "S1_DPS31".
+#101 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.C4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_SAFETY_LINE".
+#102 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A16" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_PGDS".
+#103 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.D4" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_DUT_CAP_ON_1".
+#104 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B14" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_UW15".
+#105 WARNING(ORCAP-36038): "No_connect" property on Pin "OSC1.1" ignored for OSC1: SCHEMATIC1, P0014_S1_CH (205.74, 256.54). Connecting pin to net "N19585599".
+#106 WARNING(ORCAP-36038): "No_connect" property on Pin "K9.6" ignored for K9: SCHEMATIC1, P0014_S1_CH (335.28, 223.52). Connecting pin to net "N19585599".
+#107 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.C4" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UT1_UP5V".
+#108 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A03" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_URW02".
+#109 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A06" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_URW06".
+#110 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.A1" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_DS3-".
+#111 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.D3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_PS4".
+#112 WARNING(ORCAP-36038): "No_connect" property on Pin "K10.5" ignored for K10: SCHEMATIC1, P0014_S1_CH (721.36, 20.32). Connecting pin to net "N19756906".
+#113 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A11" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_UW12".
+#114 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A11" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_UW12".
+#115 WARNING(ORCAP-36038): "No_connect" property on Pin "K17.5" ignored for K17: SCHEMATIC1, P0014_S1_CH (698.50, 353.06). Connecting pin to net "N20439735".
+#116 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B12" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_UW13".
+#117 WARNING(ORCAP-36038): "No_connect" property on Pin "K18.4" ignored for K18: SCHEMATIC1, P0014_S1_CH (477.52, 373.38). Connecting pin to net "N20440379".
+#118 WARNING(ORCAP-36038): "No_connect" property on Pin "K20.6" ignored for K20: SCHEMATIC1, P0014_S1_CH (477.52, 505.46). Connecting pin to net "N20440395".
+#119 WARNING(ORCAP-36038): "No_connect" property on Pin "K20.4" ignored for K20: SCHEMATIC1, P0014_S1_CH (477.52, 505.46). Connecting pin to net "N20440397".
+#120 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A01" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_URW00".
+#121 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A16" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_PGDS".
+#122 WARNING(ORCAP-36038): "No_connect" property on Pin "K17.6" ignored for K17: SCHEMATIC1, P0014_S1_CH (698.50, 353.06). Connecting pin to net "N20439607".
+#123 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B05" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_URW05".
+#124 WARNING(ORCAP-36038): "No_connect" property on Pin "K11.5" ignored for K11: SCHEMATIC1, P0014_S1_CH (721.36, 165.10). Connecting pin to net "N19757144".
+#125 WARNING(ORCAP-36038): "No_connect" property on Pin "K19.6" ignored for K19: SCHEMATIC1, P0014_S1_CH (698.50, 485.14). Connecting pin to net "N20439954".
+#126 WARNING(ORCAP-36038): "No_connect" property on Pin "K18.6" ignored for K18: SCHEMATIC1, P0014_S1_CH (477.52, 373.38). Connecting pin to net "N20440363".
+#127 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.A16" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_PGDS".
+#128 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.C1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_GS1".
+#129 WARNING(ORCAP-36038): "No_connect" property on Pin "K19.5" ignored for K19: SCHEMATIC1, P0014_S1_CH (698.50, 485.14). Connecting pin to net "N20440076".
+#130 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.C2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_CMON1".
+#131 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B15" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_PDCF".
+#132 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.A4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_DUT_CAP_ON_4".
+#133 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.D3" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_PS2".
+#134 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL1.B12" ignored for UTL1: SCHEMATIC1, T03.GROUP3.U1 (26.10, 10.30). Connecting pin to net "UT1_UW13".
+#135 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#136 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_1" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#137 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_2" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#138 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_5" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#139 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_6" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#140 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_11" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#141 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_12" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#142 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_15" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#143 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_16" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#144 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#145 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_10" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#146 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_8" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#147 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_9" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#148 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_14" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#149 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#150 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_17" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#151 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_7" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#152 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_13" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#153 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P3_18" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P3".
+#154 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.A3" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_DS2-".
+#155 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.B3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_DS4+".
+#156 WARNING(ORCAP-36038): "No_connect" property on Pin "K10.6" ignored for K10: SCHEMATIC1, P0014_S1_CH (721.36, 20.32). Connecting pin to net "N19572428".
+#157 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#158 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_1" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#159 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_2" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#160 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_5" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#161 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_6" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#162 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_11" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#163 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_12" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#164 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_15" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#165 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_16" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#166 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#167 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_10" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#168 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_8" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#169 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_9" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#170 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_14" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#171 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#172 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_17" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#173 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_18" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#174 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_7" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#175 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.P4_13" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_P4".
+#176 WARNING(ORCAP-36038): "No_connect" property on Pin "K11.6" ignored for K11: SCHEMATIC1, P0014_S1_CH (721.36, 165.10). Connecting pin to net "N19572509".
+#177 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A04" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_URW04".
+#178 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A07" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW08".
+#179 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A09" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_UW10".
+#180 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A15" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_PDCS".
+#181 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.A13" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_UW14".
+#182 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B10" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_UW11".
+#183 WARNING(ORCAP-36038): "No_connect" property on Pin "K14.6" ignored for K14: SCHEMATIC1, P0014_S1_CH (330.20, 485.14). Connecting pin to net "N20409913".
+#184 WARNING(ORCAP-36038): "No_connect" property on Pin "K14.5" ignored for K14: SCHEMATIC1, P0014_S1_CH (330.20, 485.14). Connecting pin to net "N20410040".
+#185 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A06" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_2GS".
+#186 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B08" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_UW09".
+#187 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A01" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_URW00".
+#188 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.B1" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_DS3+".
+#189 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A13" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_UW14".
+#190 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.A2" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_CMON4".
+#191 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C06" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_2S".
+#192 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B16" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_PGRD".
+#193 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B02" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_1GRD".
+#194 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.B3" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_DS2+".
+#195 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.A3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_DS4-".
+#196 WARNING(ORCAP-36038): "No_connect" property on Pin "K9.2" ignored for K9: SCHEMATIC1, P0014_S1_CH (335.28, 223.52). Connecting pin to net "DGND".
+#197 WARNING(ORCAP-36038): "No_connect" property on Pin "K8.7" ignored for K8: SCHEMATIC1, P0011_S1_POWER (96.52, 513.08). Connecting pin to net "DGND".
+#198 WARNING(ORCAP-36038): "No_connect" property on Pin "K8.2" ignored for K8: SCHEMATIC1, P0011_S1_POWER (96.52, 513.08). Connecting pin to net "DGND".
+#199 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#200 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#201 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_11" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#202 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_12" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#203 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_8" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#204 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_9" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#205 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_3" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#206 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_4" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#207 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_7" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#208 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#209 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_6" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#210 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_10" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#211 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_13" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#212 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G1_5" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#213 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#214 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_11" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#215 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_12" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#216 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_8" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#217 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#218 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_9" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#219 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_3" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#220 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_4" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#221 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_7" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#222 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#223 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_6" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#224 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_10" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#225 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_5" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#226 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.G2_13" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "DGND".
+#227 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#228 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_1" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#229 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_11" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#230 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_12" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#231 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_8" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#232 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_9" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#233 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#234 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#235 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_7" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#236 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_2" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#237 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_6" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#238 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_10" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#239 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_13" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#240 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G4_5" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#241 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_1" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#242 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_11" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#243 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_12" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#244 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_8" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#245 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#246 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_9" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#247 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_3" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#248 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#249 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_7" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#250 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_2" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#251 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_6" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#252 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_10" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#253 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_5" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#254 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.G3_13" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "DGND".
+#255 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B01" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#256 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A05" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#257 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B05" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#258 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C05" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#259 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A11" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#260 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B11" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#261 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C11" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#262 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A15" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#263 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B15" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#264 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C15" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#265 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A01" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#266 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C01" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "DGND".
+#267 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B05" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "DGND".
+#268 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B11" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "DGND".
+#269 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B15" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "DGND".
+#270 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B01" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "DGND".
+#271 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B06" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_2GRD".
+#272 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A06" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW06".
+#273 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A07" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_2F".
+#274 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B07" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_2F".
+#275 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C07" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_2F".
+#276 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B09" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_TRVB-".
+#277 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.D1" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_PS3".
+#278 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C13" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_3F".
+#279 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B13" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_3F".
+#280 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A13" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_3F".
+#281 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A03" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_1F".
+#282 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B03" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_1F".
+#283 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C03" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_1F".
+#284 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.C1" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_GS3".
+#285 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#286 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_1" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#287 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#288 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_5" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#289 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_6" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#290 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_11" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#291 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_12" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#292 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_15" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#293 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_16" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#294 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_4" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#295 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_10" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#296 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_8" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#297 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_9" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#298 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_14" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#299 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_3" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#300 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_17" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#301 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_18" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#302 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_7" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#303 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.P1_13" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_P1".
+#304 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C09" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_VB+".
+#305 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.C2" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_CMON3".
+#306 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B12" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW13".
+#307 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A03" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW02".
+#308 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.A4" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UHC430B_DUT_CAP_ON_2".
+#309 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A13" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW14".
+#310 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.A11" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_UW12".
+#311 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A09" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_TR+".
+#312 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B09" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_TRVB-".
+#313 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B06" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW07".
+#314 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A02" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_1GS".
+#315 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A09" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_TR+".
+#316 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B12" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_3GRD".
+#317 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B16" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_PGRD".
+#318 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B16" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_4GRD".
+#319 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A12" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_3GS".
+#320 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.B4" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UHC230A_GANG_OUT".
+#321 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL2.B12" ignored for UTL2: SCHEMATIC1, T01.GROUP1.U2 (26.10, 10.30). Connecting pin to net "UT2_UW13".
+#322 WARNING(ORCAP-36038): "No_connect" property on Pin "K13.6" ignored for K13: SCHEMATIC1, P0014_S1_CH (330.20, 353.06). Connecting pin to net "N20403655".
+#323 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.D2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UDBGND".
+#324 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC430.B2" ignored for UHC430: SCHEMATIC1, T04.GROUP8.U4 (12.50, 15.20). Connecting pin to net "UDBGND".
+#325 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.D2" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UDBGND".
+#326 WARNING(ORCAP-36038): "No_connect" property on Pin "UHC230.B2" ignored for UHC230: SCHEMATIC1, T04.GROUP8.U4 (8.00, 15.20). Connecting pin to net "UDBGND".
+#327 WARNING(ORCAP-36038): "No_connect" property on Pin "K13.5" ignored for K13: SCHEMATIC1, P0014_S1_CH (330.20, 353.06). Connecting pin to net "N20403914".
+#328 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A02" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1GS".
+#329 WARNING(ORCAP-36006): Part Name "REF-CODE-PCB_PCB_CODE_REF-CODE-PCB" is renamed to "REF-CODE-PCB_PCB_CODE_REF-CODE-".
+#330 WARNING(ORCAP-36006): Part Name "BD120-3A-S8-MU_FB0805_BD120-3A-S8-MU" is renamed to "BD120-3A-S8-MU_FB0805_BD120-3A-".
+#331 WARNING(ORCAP-36006): Part Name "BD100-3A-S6-TDK_FB0603_BD100-3A-S6-TDK" is renamed to "BD100-3A-S6-TDK_FB0603_BD100-3A".
+#332 WARNING(ORCAP-36006): Part Name "BD120-2.5A-S6_FB0603_BD120-2.5A-S6" is renamed to "BD120-2.5A-S6_FB0603_BD120-2.5A".
+#333 WARNING(ORCAP-36006): Part Name "0.1U-25-X7R-S4-MU_C0201_UNBGA_0.1U-25-X5R-S2-MU-1" is renamed to "0.1U-25-X7R-S4-MU_C0201_UNBGA_0".
+#334 WARNING(ORCAP-36006): Part Name "0.1U-25-X7R-S4-MU_C0402_0.1U-25-X7R-S4-MU" is renamed to "0.1U-25-X7R-S4-MU_C0402_0.1U-25".
+#335 WARNING(ORCAP-36006): Part Name "1U-25-X7R-S6-YA_C0603_1U-25-X7R-S6-YA" is renamed to "1U-25-X7R-S6-YA_C0603_1U-25-X7R".
+#336 WARNING(ORCAP-36006): Part Name "4.7U-25-X7R-S8-TY_C0805_4.7U-25-X7R-S8-TY" is renamed to "4.7U-25-X7R-S8-TY_C0805_4.7U-25".
+#337 WARNING(ORCAP-36006): Part Name "10U-25-X7R-SA_C1206_10U-25-X7R-SA" is renamed to "10U-25-X7R-SA_C1206_10U-25-X7R-".
+#338 WARNING(ORCAP-36006): Part Name "22U-25-X7R-SB-MU_C1210_22U-25-X7R-SB-MU" is renamed to "22U-25-X7R-SB-MU_C1210_22U-25-X".
+#339 WARNING(ORCAP-36006): Part Name "0.1U-16-X7R-S2-PPI_C0201_0.22U-16-X7R-S2-PPI" is renamed to "0.1U-16-X7R-S2-PPI_C0201_0.22U-".
+#340 WARNING(ORCAP-36006): Part Name "0.1U-10-X5R-S2-WA_C0201_NC/0.1U-16-X7R-S2-PPI" is renamed to "0.1U-10-X5R-S2-WA_C0201_NC/0.1U".
+#341 WARNING(ORCAP-36006): Part Name "0.1U-10-X5R-S2-WA_C0201_0.22U-16-X7R-S2-PPI" is renamed to "0.1U-10-X5R-S2-WA_C0201_0.22U-1".
+#342 WARNING(ORCAP-36006): Part Name "47U-10-X7R-SB-MU_C1210_47U-10-X7R-SB-MU" is renamed to "47U-10-X7R-SB-MU_C1210_47U-10-X".
+#343 WARNING(ORCAP-36006): Part Name "0.47U-25-X5R-S6-SS_C0603_0.47U-25-X5R-S6-SS" is renamed to "0.47U-25-X5R-S6-SS_C0603_0.47U-".
+#344 WARNING(ORCAP-36006): Part Name "10U-25-X-S6-MU_C0603_10U-25-X-S6-MU" is renamed to "10U-25-X-S6-MU_C0603_10U-25-X-S".
+#345 WARNING(ORCAP-36006): Part Name "470U-4-T-SD-LOESR_CODE_D_470U-4-T-SD-LOESR" is renamed to "470U-4-T-SD-LOESR_CODE_D_470U-4".
+#346 WARNING(ORCAP-36006): Part Name "0.22U-25-X8R-S6-TDK_C0603_0.22U-25-X8R-S6-TDK" is renamed to "0.22U-25-X8R-S6-TDK_C0603_0.22U".
+#347 WARNING(ORCAP-36006): Part Name "10U-25-X-S6-MU_C0603_NC/10U-25-X-S6-MU" is renamed to "10U-25-X-S6-MU_C0603_NC/10U-25-".
+#348 WARNING(ORCAP-36006): Part Name "470U-4-T-SD-LOESR_CODE_D_NC/470U-4-T-SD-LOESR" is renamed to "470U-4-T-SD-LOESR_CODE_D_NC/470".
+#349 WARNING(ORCAP-36006): Part Name "22U-25-X-S8-MU_C0805_NC/22U-25-X-S8-MU" is renamed to "22U-25-X-S8-MU_C0805_NC/22U-25-".
+#350 WARNING(ORCAP-36006): Part Name "1U-25-X7R-S6-YA_C0603_NC/1U-25-X7R-S6-YA" is renamed to "1U-25-X7R-S6-YA_C0603_NC/1U-25-".
+#351 WARNING(ORCAP-36006): Part Name "0.1U-25-X7R-S4-MU_C0402_NC/0.1U-25-X7R-S4-MU" is renamed to "0.1U-25-X7R-S4-MU_C0402_NC/0.1U".
+#352 WARNING(ORCAP-36006): Part Name "4.7U-25-X7R-S8-TY_C0805_NC/4.7U-25-X7R-S8-TY" is renamed to "4.7U-25-X7R-S8-TY_C0805_NC/4.7U".
+#353 WARNING(ORCAP-36006): Part Name "10U-25-X7R-SA_C1206_NC/10U-25-X7R-SA" is renamed to "10U-25-X7R-SA_C1206_NC/10U-25-X".
+#354 WARNING(ORCAP-36006): Part Name "22U-25-X7R-SB-MU_C1210_NC/22U-25-X7R-SB-MU" is renamed to "22U-25-X7R-SB-MU_C1210_NC/22U-2".
+#355 WARNING(ORCAP-36006): Part Name "0.01U-25-X-S2-MU_C0201_0.01U-25-X-S2-MU" is renamed to "0.01U-25-X-S2-MU_C0201_0.01U-25".
+#356 WARNING(ORCAP-36006): Part Name "0.1U-10-X-S2-MU_C0201_0.1U-10-X-S2-MU" is renamed to "0.1U-10-X-S2-MU_C0201_0.1U-10-X".
+#357 WARNING(ORCAP-36006): Part Name "10U-10-X-S6-MU_C0603_10U-10-X-S6-MU" is renamed to "10U-10-X-S6-MU_C0603_10U-10-X-S".
+#358 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_DPS32_PG_VG93K_PF_DPS32_G8D225_V93K_CSDPS_DPS32" is renamed to "V93K_CSDPS_DPS32_PG_VG93K_PF_DP".
+#359 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_A_PG_VG93K_PF_DPS32_G8D226_V93K_CSDPS" is renamed to "V93K_CSDPS_A_PG_VG93K_PF_DPS32_".
+#360 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_DPS32_PG_VG93K_PF_DPS32_G8D229_V93K_CSDPS_DPS32" is renamed to "V93K_CSDPS_DPS32_PG_VG93K_PF__1".
+#361 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_DPS32_PG_VG93K_PF_DPS32_G8D425_V93K_CSDPS_DPS32" is renamed to "V93K_CSDPS_DPS32_PG_VG93K_PF__2".
+#362 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_A_PG_VG93K_PF_DPS32_G8D426_V93K_CSDPS" is renamed to "V93K_CSDPS_A_PG_VG93K_PF_DPS3_1".
+#363 WARNING(ORCAP-36006): Part Name "V93K_CSDPS_DPS32_PG_VG93K_PF_DPS32_G8D429_V93K_CSDPS_DPS32" is renamed to "V93K_CSDPS_DPS32_PG_VG93K_PF__3".
+#364 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D101_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D101_V93K_".
+#365 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D102_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D102_V93K_".
+#366 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D103_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D103_V93K_".
+#367 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D104_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D104_V93K_".
+#368 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D105_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D105_V93K_".
+#369 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D106_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D106_V93K_".
+#370 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D107_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D107_V93K_".
+#371 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D108_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D108_V93K_".
+#372 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D109_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D109_V93K_".
+#373 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D110_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D110_V93K_".
+#374 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D111_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D111_V93K_".
+#375 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D112_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D112_V93K_".
+#376 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D113_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D113_V93K_".
+#377 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D114_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D114_V93K_".
+#378 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D115_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D115_V93K_".
+#379 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D116_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D116_V93K_".
+#380 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D117_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D117_V93K_".
+#381 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D118_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D118_V93K_".
+#382 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D119_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D119_V93K_".
+#383 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D120_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D120_V93K_".
+#384 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D121_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D121_V93K_".
+#385 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D122_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D122_V93K_".
+#386 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D123_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D123_V93K_".
+#387 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D124_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D124_V93K_".
+#388 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D125_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D125_V93K_".
+#389 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D126_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D126_V93K_".
+#390 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D127_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D127_V93K_".
+#391 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D128_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D128_V93K_".
+#392 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D129_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D129_V93K_".
+#393 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D130_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D130_V93K_".
+#394 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D131_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D131_V93K_".
+#395 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G4D132_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G4D132_V93K_".
+#396 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D217_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D217_V93K_".
+#397 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D218_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D218_V93K_".
+#398 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D219_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D219_V93K_".
+#399 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D220_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D220_V93K_".
+#400 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D221_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D221_V93K_".
+#401 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D222_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D222_V93K_".
+#402 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D223_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D223_V93K_".
+#403 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G7D224_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G7D224_V93K_".
+#404 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D227_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D227_V93K_".
+#405 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D228_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D228_V93K_".
+#406 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D231_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D231_V93K_".
+#407 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D232_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D232_V93K_".
+#408 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D301_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D301_V93K_".
+#409 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D302_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D302_V93K_".
+#410 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D303_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D303_V93K_".
+#411 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D304_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D304_V93K_".
+#412 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D305_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D305_V93K_".
+#413 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D306_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D306_V93K_".
+#414 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D307_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D307_V93K_".
+#415 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G1D308_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G1D308_V93K_".
+#416 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D309_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D309_V93K_".
+#417 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D310_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D310_V93K_".
+#418 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D311_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D311_V93K_".
+#419 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D312_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D312_V93K_".
+#420 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D313_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D313_V93K_".
+#421 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D314_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D314_V93K_".
+#422 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D315_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D315_V93K_".
+#423 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G2D316_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G2D316_V93K_".
+#424 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D317_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D317_V93K_".
+#425 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D318_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D318_V93K_".
+#426 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D319_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D319_V93K_".
+#427 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D320_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D320_V93K_".
+#428 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D321_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D321_V93K_".
+#429 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D322_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D322_V93K_".
+#430 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G3D323_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G3D323_V93K_".
+#431 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D427_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D427_V93K_".
+#432 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D428_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D428_V93K_".
+#433 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D431_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D431_V93K_".
+#434 WARNING(ORCAP-36006): Part Name "V93K_CH_PG_VG93K_F_G8D432_V93K_CH" is renamed to "V93K_CH_PG_VG93K_F_G8D432_V93K_".
+#435 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G1DPS1_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G1DPS1_V93K".
+#436 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G2DPS2_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G2DPS2_V93K".
+#437 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G3DPS3_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G3DPS3_V93K".
+#438 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G4DPS4_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G4DPS4_V93K".
+#439 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G7DPS7_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G7DPS7_V93K".
+#440 WARNING(ORCAP-36006): Part Name "V93K_DPS_PG_VG93K_F_G8DPS8_V93K_DPS" is renamed to "V93K_DPS_PG_VG93K_F_G8DPS8_V93K".
+#441 WARNING(ORCAP-36006): Part Name "REF-CODE-CHIP_CHIP_CODE_REF-CODE-CHIP" is renamed to "REF-CODE-CHIP_CHIP_CODE_REF-COD".
+#442 WARNING(ORCAP-36006): Part Name "SGRF303-5-A_RL_SGRF303_5V_SGRF303-5-A" is renamed to "SGRF303-5-A_RL_SGRF303_5V_SGRF3".
+#443 WARNING(ORCAP-36006): Part Name "UA2-5NJ-A-V3_RL_NECUA2_5V_V3_UA2-5NJ-A-V3" is renamed to "UA2-5NJ-A-V3_RL_NECUA2_5V_V3_UA".
+#444 WARNING(ORCAP-36006): Part Name "712D-5-V2_RL_712D_5V_V2_NC/712D-5-V2" is renamed to "712D-5-V2_RL_712D_5V_V2_NC/712D".
+#445 WARNING(ORCAP-36006): Part Name "2911-05-321-A-V2_RL_COTO2911_5V_RLPIN_NC/2911-05-321-A-V2" is renamed to "2911-05-321-A-V2_RL_COTO2911_5V".
+#446 WARNING(ORCAP-36006): Part Name "LOGO_KT_KSMT_LOGO_KT_KSMT_LOGO_KT_KSMT" is renamed to "LOGO_KT_KSMT_LOGO_KT_KSMT_LOGO_".
+#447 WARNING(ORCAP-36006): Part Name "LOGO_FY_FARADAY_LOGO_FY_FARADAY_LOGO_FY_FARADAY" is renamed to "LOGO_FY_FARADAY_LOGO_FY_FARADAY".
+#448 WARNING(ORCAP-36006): Part Name "V93K-TOUCHSENSOR-FY_V93K_TOUCHSENSOR_FY_V93K-TOUCHSENSOR-FY" is renamed to "V93K-TOUCHSENSOR-FY_V93K_TOUCHS".
+#449 WARNING(ORCAP-36006): Part Name "OSC25M-S5032-AKER-15P_OSC_3P2X5_4P_AKER_OSC25M-S5032-AKER-15P" is renamed to "OSC25M-S5032-AKER-15P_OSC_3P2X5".
+#450 WARNING(ORCAP-36006): Part Name "OSC100M-S2520-SITIME-1.8V_OSC_2P5X2MM_6P_SIT9501_OSC100M-S2520-SITIME-1.8V" is renamed to "OSC100M-S2520-SITIME-1.8V_OSC_2".
+#451 WARNING(ORCAP-36006): Part Name "REF-CODE-SOCKET_SOCKET_CODE_REF-CODE-SOCKET" is renamed to "REF-CODE-SOCKET_SOCKET_CODE_REF".
+#452 WARNING(ORCAP-36006): Part Name "33-1-S4-YA-V2_R0402_33-1-S4-YA-V2" is renamed to "33-1-S4-YA-V2_R0402_33-1-S4-YA-".
+#453 WARNING(ORCAP-36006): Part Name "200-0.1-S2-PAN_R0201_200-0.1-S2-PAN" is renamed to "200-0.1-S2-PAN_R0201_200-0.1-S2".
+#454 WARNING(ORCAP-36006): Part Name "4.7K-1-S4-WA_R0402_NC/4.7K-1-S4-WA" is renamed to "4.7K-1-S4-WA_R0402_NC/4.7K-1-S4".
+#455 WARNING(ORCAP-36006): Part Name "470-1-S4_R0402_UNBGA_V2_470-1-S4" is renamed to "470-1-S4_R0402_UNBGA_V2_470-1-S".
+#456 WARNING(ORCAP-36006): Part Name "SMA-32K10K-400L5_V2_SMA_32K10K_400L5_5P_V2_SMA-32K10K-400L5_V2" is renamed to "SMA-32K10K-400L5_V2_SMA_32K10K_".
+#457 WARNING(ORCAP-36006): Part Name "FY-V93KMFHOLE_PG_VG93K_F_3-4OUTLINE_FY_FY-V93KMFHOLE" is renamed to "FY-V93KMFHOLE_PG_VG93K_F_3-4OUT".
+#458 WARNING(ORCAP-36006): Part Name "AS003A_SK_BGA1024P_0P8MM_WW_71117890_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11)_AS003A" is renamed to "AS003A_SK_BGA1024P_0P8MM_WW_711".
+#459 WARNING(ORCAP-36006): Part Name "LMKDB1102REY-VQFN20_VQFN3X3_20P_0P4MM_EP_TI_LMKDB1102REY-VQFN20" is renamed to "LMKDB1102REY-VQFN20_VQFN3X3_20P".
+#460 WARNING(ORCAP-36006): Part Name "AT24C04C-SSHM-SO8_SO8_215X127MM_AT24C04C-SSHM-SO8" is renamed to "AT24C04C-SSHM-SO8_SO8_215X127MM".
+#461 WARNING(ORCAP-36006): Part Name "UHC4A_PG_VG93K_PF_UHC4_G8D230_A34_V2_UHC4A" is renamed to "UHC4A_PG_VG93K_PF_UHC4_G8D230_A".
+#462 WARNING(ORCAP-36006): Part Name "UHC4B_PG_VG93K_PF_UHC4_G8D430_B12_V2_UHC4B" is renamed to "UHC4B_PG_VG93K_PF_UHC4_G8D430_B".
+#463 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G3UTI1_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G3UTI1_V93K".
+#464 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G1UTI2_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G1UTI2_V93K".
+#465 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G2UTI3_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G2UTI3_V93K".
+#466 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G8UTI4_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G8UTI4_V93K".
+#467 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G4UTI5_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G4UTI5_V93K".
+#468 WARNING(ORCAP-36006): Part Name "V93K_UTL_PG_VG93K_F_G7UTI8_V93K_UTL" is renamed to "V93K_UTL_PG_VG93K_F_G7UTI8_V93K".
+#469 WARNING(ORCAP-36006): Part Name "0.1U-50-X-S4-TDK_C0402_0.1U-50-X-S4-TDK" is renamed to "0.1U-50-X-S4-TDK_C0402_0.1U-50-".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\allegro/pstchip.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\allegro/pstchip.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\allegro/pstxprt.dat
+
+Loading... D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\allegro/pstxnet.dat
+packaging the design view...
