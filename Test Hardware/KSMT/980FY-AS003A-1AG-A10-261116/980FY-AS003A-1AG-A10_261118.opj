@@ -45,67 +45,25 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\980fy-as003a-1ag-a10_261118.dsn")
       (Path "Design Resources" ".\980fy-as003a-1ag-a10_261118.dsn" "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\980fy-as003a-1ag-a10_261118.dsn"
+         "SCHEMATIC1" "A0001_V93K_TESTConfig"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 409"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 409"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1847 130 458")
-        (Scroll "0 624")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1691 26 478")
+        (Scroll "0 150")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\980FY-AS003A-1AG-A10_261118.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "T03.GROUP3.U1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 1873 156 484")
-        (Scroll "0 524")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\980FY-AS003A-1AG-A10_261118.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "T01.GROUP1.U2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1717 0 328")
-        (Scroll "0 614")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\980FY-AS003A-1AG-A10_261118.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "T05.GROUP4.U5"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1743 26 354")
-        (Scroll "0 824")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\980FY-AS003A-1AG-A10_261118.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "T02.GROUP2.U3"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1769 52 380")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\980FY-AS003A-1AG-A10_261118.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P0013_S1_PCIE")))
+      (Page "A0001_V93K_TESTConfig")))
   (MPSSessionName "Ashik-iTest")
   (ISPCBBASICLICENSE "false"))

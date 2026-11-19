@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : AS003A_20261118.brd                           )
+(    Drawing          : AS003A_20261119_RW-4.brd                      )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Wed Nov 18 11:41:52 2026                      )
+(    Date/Time        : Thu Nov 19 18:09:03 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,10 +19,10 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\allegro'
 Design Directory:            'D:/iTest/homeoffice/Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116'
-Old design name:             'D:/iTest/homeoffice/Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118.brd'
-New design name:             'D:/iTest/homeoffice/Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261118-1.brd'
+Old design name:             'D:/iTest/homeoffice/Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261119_RW-4.brd'
+New design name:             'D:/iTest/homeoffice/Test Hardware/KSMT/980FY-AS003A-1AG-A10-261116/AS003A_20261119_RW-5.brd'
 
-CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\allegro D:\iTest\homeoffice\Test Hardware\KSMT\980FY-AS003A-1AG-A10-261116\AS003A_20261118.brd D:\iTest\homeoffice\Test Hardware\KSMT\980FY-AS003A-1AG-A10-261116\AS003A_20261118-1.brd
+CmdLine: netrev.exe -y 1 -z -i D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980FY-AS003A-1AG-A10-261116\allegro D:\iTest\homeoffice\Test Hardware\KSMT\980FY-AS003A-1AG-A10-261116\AS003A_20261119_RW-4.brd D:\iTest\homeoffice\Test Hardware\KSMT\980FY-AS003A-1AG-A10-261116\AS003A_20261119_RW-5.brd
 
 ------ Preparing to read pst files ------
 
@@ -54,8 +54,8 @@ PADPATH =  D:/iTest/homeoffice/Test Hardware/KSMT/980RT-8730CN-18K-A10/LIB/
 ------ Summary Statistics ------
 
 
-netrev run on Nov 18 11:41:52 2026
-   DESIGN NAME : '980FY-AS003A-1AG-A10_261118'
+netrev run on Nov 19 18:09:03 2026
+   DESIGN NAME : '980FY-AS003A-1AG-A10_261119'
    PACKAGING ON Aug  3 2015 18:16:55
 
    COMPILE 'logic'
@@ -79,6 +79,6 @@ netrev run on Nov 18 11:41:52 2026
  No oversight detected
  No warning detected
 
-cpu time      0:06:22
-elapsed time  0:00:04
+cpu time      0:15:03
+elapsed time  0:00:08
 

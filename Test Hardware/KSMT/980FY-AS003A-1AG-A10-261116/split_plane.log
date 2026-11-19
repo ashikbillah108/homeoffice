@@ -2,13 +2,13 @@
 (                                                                     )
 (    Split Plane Create                                               )
 (                                                                     )
-(    Drawing          : AS003A_20261118-1.brd                         )
+(    Drawing          : AS003A_20261119_RW-3.brd                      )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Wed Nov 18 11:50:45 2026                      )
+(    Date/Time        : Thu Nov 19 14:08:50 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Creating Dynamic split plane on layer "L07_DIG"
+Creating Dynamic split plane on layer "L34_DIG"
 
 Split Plane Session Completed.
