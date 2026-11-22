@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : AS003A_20261118-4.brd                         )
+(    Drawing          : AS003A_20261119_RW.brd                        )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Wed Nov 18 15:38:26 2026                      )
+(    Date/Time        : Thu Nov 19 10:40:54 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,8 +20,8 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  3557
+ ..... Total number of DRC errors  4007
 
- ..... DRC update completed, total CPU time   0:00:03
+ ..... DRC update completed, total CPU time   0:00:02
  *************************************************************************
 

@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Nov-20-2026 at 17:09:17 }
+{ Using PSTWRITER 16.6.0 d001Nov-22-2026 at 16:39:24 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B05" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW05".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A01" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW00".
@@ -45,13 +45,13 @@
 #43 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.C07" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_2F".
 #44 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.B07" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_2F".
 #45 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS4.A07" ignored for DPS4: SCHEMATIC1, T05.GROUP4.U5 (26.20, 2.10). Connecting pin to net "GPDPS4_2F".
-#46 WARNING(ORCAP-36038): "No_connect" property on Pin "D228.04" ignored for D228: SCHEMATIC1, T04.GROUP8.U4 (21.20, 10.10). Connecting pin to net "D228_4_TRIG".
-#47 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B08" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW09".
-#48 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1F".
-#49 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1F".
-#50 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1F".
-#51 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B02" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_URW01".
-#52 WARNING(ORCAP-36038): "No_connect" property on Pin "K7.2" ignored for K7: SCHEMATIC1, P0014_S1_CH (147.32, 243.84). Connecting pin to net "S1_DCH063".
+#46 WARNING(ORCAP-36038): "No_connect" property on Pin "K7.2" ignored for K7: SCHEMATIC1, P0014_S1_CH (147.32, 243.84). Connecting pin to net "D13214".
+#47 WARNING(ORCAP-36038): "No_connect" property on Pin "D228.04" ignored for D228: SCHEMATIC1, T04.GROUP8.U4 (21.20, 10.10). Connecting pin to net "D228_4_TRIG".
+#48 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.B08" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_UW09".
+#49 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.C03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1F".
+#50 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1F".
+#51 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.A03" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1F".
+#52 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL4.B02" ignored for UTL4: SCHEMATIC1, T04.GROUP8.U4 (27.00, 10.30). Connecting pin to net "UT4_URW01".
 #53 WARNING(ORCAP-36038): "No_connect" property on Pin "UTL3.A04" ignored for UTL3: SCHEMATIC1, T02.GROUP2.U3 (26.10, 10.30). Connecting pin to net "UT3_URW04".
 #54 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B02" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_1GRD".
 #55 WARNING(ORCAP-36038): "No_connect" property on Pin "DPS7.B06" ignored for DPS7: SCHEMATIC1, T08.GROUP7.U8 (25.90, 2.20). Connecting pin to net "GPDPS7_2GRD".
