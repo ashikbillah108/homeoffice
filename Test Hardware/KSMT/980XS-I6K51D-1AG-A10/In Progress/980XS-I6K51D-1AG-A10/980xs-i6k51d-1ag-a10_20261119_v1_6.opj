@@ -1,0 +1,110 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn")
+      (Path "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "A001-V93K_TESTConfig")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "A002-History")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0011_S1_POWER")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0012_S1_USB/AUD/FLASH/XTAL")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0013_S1_MIPI")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0021_S2_POWER")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0022_S2_USB/AUD/FLASH/XTAL")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0023_S2_MIPI")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0031_S3_POWER")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0032_S3_USB/AUD/FLASH/XTAL")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0033_S3_MIPI")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0041_S4_POWER")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0042_S4_USB/AUD/FLASH/XTAL")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0043_S4_MIPI")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0051_S5_POWER")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0052_S5_USB/AUD/FLASH/XTAL")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0053_S5_MIPI")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0061_S6_POWER")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0062_S6_USB/AUD/FLASH/XTAL")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0063_S6_MIPI")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0071_S7_POWER")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0072_S7_USB/AUD/FLASH/XTAL")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0073_S7_MIPI")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0081_S8_POWER")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0082_S8_USB/AUD/FLASH/XTAL")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "P0083_S8_MIPI")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "S500_Ubit_Buffer")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "S501-Support Circuits")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "T01.GROUP1.U2")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "T02.GROUP2.U3")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "T03.GROUP3.U1")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "T04.GROUP8.U4")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "T05.GROUP4.U5")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "T06.GROUP5.U6")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "T07.GROUP6.U7")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "T08.GROUP7.U8")
+      (Select "Design Resources" ".\980xs-i6k51d-1ag-a10_20261119_v1_6.dsn"
+         "SCHEMATIC1" "Z01-Design rule"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 271"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1434 52 255")
+        (Scroll "811 877")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ITEST\HOMEOFFICE\TEST HARDWARE\KSMT\980XS-I6K51D-1AG-A10\IN PROGRESS\980XS-I6K51D-1AG-A10\980XS-I6K51D-1AG-A10_20261119_V1_6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S501-Support Circuits"))))

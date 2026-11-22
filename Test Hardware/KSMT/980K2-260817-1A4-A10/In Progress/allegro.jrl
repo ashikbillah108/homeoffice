@@ -1,21 +1,48 @@
-\t (00:00:06) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
-\t (00:00:06)     Journal start - Wed Nov 18 09:13:46 2026
-\t (00:00:06)         Host=D-ASHIK-ITEST User=Ashik-iTest Pid=20536 CPUs=20
-\t (00:00:06) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:06) 
-\t (00:00:08) Opening existing design...
-\d (00:00:08) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/980K2-260817_261117-1.brd
-\i (00:00:08) trapsize 11488
-\i (00:00:08) trapsize 11281
-\i (00:00:08) trapsize 11523
-\i (00:00:09) trapsize 11879
-\i (00:00:09) trapsize 11879
-\i (00:00:09) placementedit 
-\i (00:00:10) trapsize 17290
-\i (00:00:11) trapsize 11879
-\i (00:00:13) open 
-\i (00:00:21) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980FY-AS003A-1AG-A10-261116\AS003A_20261117-2.brd"
-\i (00:00:21) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980FY-AS003A-1AG-A10-261116"
-\t (00:00:21) Opening existing design...
-\i (00:00:21) trapsize 10736
-\t (00:00:21)     Journal end - Wed Nov 18 09:14:00 2026
+\t (00:00:16) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:16)     Journal start - Fri Nov 20 17:10:22 2026
+\t (00:00:16)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=21516 CPUs=16
+\t (00:00:16) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:16) 
+\d (00:00:16) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/980K2-260817_261120-1.brd
+\i (00:00:17) placementedit 
+\i (00:00:18) setwindow form.vf_vis
+\i (00:00:18) FORM vf_vis 1 etch_colorvisible 1 
+\i (00:00:18) FORM vf_vis 1 etch_colorvisible 0 
+\i (00:00:19) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:19) FORM vf_vis 1 all_colorvisible NO 
+\i (00:00:20) FORM vf_vis 2 etch_colorvisible 1 
+\i (00:00:23) FORM vf_vis colorview_list Film: L01_TOP 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -1064.16 -311.06
+\i (00:00:23) trapsize 8186
+\i (00:00:24) setwindow form.vf_vis
+\i (00:00:24) FORM vf_vis 1 etch_colorvisible 0 
+\i (00:00:25) FORM vf_vis 2 etch_colorvisible 1 
+\i (00:00:25) FORM vf_vis 2 etch_colorvisible 0 
+\i (00:00:26) FORM vf_vis 3 etch_colorvisible 1 
+\i (00:00:26) FORM vf_vis 3 etch_colorvisible 0 
+\i (00:00:26) FORM vf_vis 4 etch_colorvisible 1 
+\i (00:00:27) FORM vf_vis 4 etch_colorvisible 0 
+\i (00:00:28) FORM vf_vis plane_checkbox NO 
+\i (00:00:29) FORM vf_vis plane_checkbox YES 
+\i (00:00:31) FORM vf_vis 30 etch_colorvisible 1 
+\i (00:00:32) FORM vf_vis 30 etch_colorvisible 0 
+\i (00:00:32) FORM vf_vis 29 etch_colorvisible 1 
+\i (00:00:33) FORM vf_vis 29 etch_colorvisible 0 
+\i (00:00:33) FORM vf_vis 29 etch_colorvisible 1 
+\i (00:00:34) FORM vf_vis 29 etch_colorvisible 0 
+\i (00:00:34) FORM vf_vis 28 etch_colorvisible 1 
+\i (00:00:34) FORM vf_vis 28 etch_colorvisible 0 
+\i (00:00:35) FORM vf_vis all_etch_visible YES 
+\i (00:00:37) FORM vf_vis all_etch_visible NO 
+\i (00:00:39) FORM vf_vis all_etch_visible_pln YES 
+\i (00:00:41) FORM vf_vis 2 etch_colorvisible 0 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) open 
+\i (00:00:50) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980FY-AS003A-1AG-A10-261116\AS003A_20261120-1.brd"
+\i (00:00:50) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980FY-AS003A-1AG-A10-261116"
+\t (00:00:50) Opening existing design...
+\i (00:00:50) trapsize 14796
+\t (00:00:51)     Journal end - Fri Nov 20 17:10:56 2026

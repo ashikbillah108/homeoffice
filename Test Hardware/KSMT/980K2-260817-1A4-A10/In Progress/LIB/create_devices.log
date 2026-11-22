@@ -2,14 +2,15 @@
 (                                                                     )
 (    Create_devices LOG file                                          )
 (                                                                     )
-(    Drawing          : 980K2-260817_261115-1_RoutingTask.brd         )
+(    Drawing          : 980K2-260817_261120.brd                       )
 (    Software Version : 16.6-2015S060                                 )
-(    Date/Time        : Tue Nov 17 16:28:28 2026                      )
+(    Date/Time        : Fri Nov 20 16:20:55 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
+Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/LIB/cuht7048-kt28-aa01_socket_base.txt': written successfully.
 Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/LIB/diamondx_slot8_pmvix_pg_ltxdx_f.txt': written successfully.
 Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/LIB/diamondx_slot8_pmvix_pg_ltxdx_1.txt': written successfully.
 Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/LIB/cu260817-qfn32-5x5_sk_qfn5x5_6.txt': written successfully.
@@ -68,5 +69,5 @@ Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Prog
 Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/LIB/ref-code-chip_chip_code_ref-cod.txt': written successfully.
 Device file 'D:/iTest/homeoffice/Test Hardware/KSMT/980K2-260817-1A4-A10/In Progress/LIB/tp03-d_tp_060_040_tp03-d.txt': written successfully.
 
-  Created device files: 57
+  Created device files: 58
 

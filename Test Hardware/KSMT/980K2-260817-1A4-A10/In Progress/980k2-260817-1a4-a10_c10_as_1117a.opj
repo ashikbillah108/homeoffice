@@ -13,9 +13,9 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Input Board File"
-       "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress\980K2-260817_261115-1_RoutingTask.brd")
+       "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress\980K2-260817_261120.brd")
     ("Allegro Netlist Output Board File"
-       "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress\980K2-260817_261117.brd")
+       "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress\980K2-260817_261120-1.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -52,4 +52,6 @@
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 409"))
-      (Tab 0))))
+      (Tab 0)))
+  (MPSSessionName "Ashik-HomeOffice")
+  (PartMRUSelector))

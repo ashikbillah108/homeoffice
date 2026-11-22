@@ -1,0 +1,19 @@
+\t (00:00:03) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:00:03)     Journal start - Fri Nov 20 15:47:17 2026
+\t (00:00:03)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=13176 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:04) Opening existing design...
+\d (00:00:05) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980XS-I6K51D-1AG-A10/In Progress/980XS-I6K51D-1AG-A10/980XS-I6K51D-11120_placement.brd
+\i (00:00:05) trapsize 14371
+\i (00:00:05) trapsize 14036
+\i (00:00:05) trapsize 14429
+\i (00:00:06) trapsize 14796
+\i (00:00:06) trapsize 14796
+\i (00:00:07) placementedit 
+\i (00:00:08) open 
+\i (00:00:18) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress\980K2-260817_261117-1.brd"
+\i (00:00:18) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980K2-260817-1A4-A10\In Progress"
+\t (00:00:18) Opening existing design...
+\i (00:00:19) trapsize 16311
+\t (00:00:19)     Journal end - Fri Nov 20 15:47:34 2026

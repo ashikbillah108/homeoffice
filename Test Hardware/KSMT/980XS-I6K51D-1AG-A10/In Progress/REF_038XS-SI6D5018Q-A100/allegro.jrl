@@ -1,0 +1,104 @@
+\t (00:28:37) allegro 16.6-2015 S060 (v16-6-112ET) Windows 32
+\t (00:28:37)     Journal start - Fri Nov 20 10:25:25 2026
+\t (00:28:37)         Host=ASHIK-HOMEOFFIC User=Ashik-HomeOffice Pid=8116 CPUs=16
+\t (00:28:37) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:28:37) 
+\d (00:28:37) Design opened: D:/iTest/homeoffice/Test Hardware/KSMT/980XS-I6K51D-1AG-A10/In Progress/REF_038XS-SI6D5018Q-A100/REF_038XS-SI6D5018Q-A100.brd
+\i (00:28:37) placementedit 
+\i (00:28:37) zoom out 1 
+\i (00:28:37) setwindow pcb
+\i (00:28:37) zoom out -10078.70 -7887.10
+\i (00:28:37) trapsize 7376
+\i (00:28:37) zoom out 1 
+\i (00:28:37) setwindow pcb
+\i (00:28:37) zoom out -10137.71 -7916.61
+\i (00:28:38) trapsize 14752
+\i (00:28:38) zoom out 1 
+\i (00:28:38) setwindow pcb
+\i (00:28:38) zoom out -10137.71 -7916.60
+\i (00:28:38) trapsize 29503
+\i (00:28:39) setwindow form.vf_vis
+\i (00:28:39) FORM vf_vis all_etch_visible YES 
+\i (00:28:40) FORM vf_vis all_etch_visible NO 
+\i (00:28:41) setwindow pcb
+\i (00:28:41) zoom in 1 
+\i (00:28:41) setwindow pcb
+\i (00:28:41) zoom in 365.49 521.35
+\i (00:28:41) trapsize 14752
+\i (00:28:41) zoom in 1 
+\i (00:28:41) setwindow pcb
+\i (00:28:41) zoom in 365.49 521.36
+\i (00:28:41) trapsize 7376
+\i (00:28:42) zoom in 1 
+\i (00:28:42) setwindow pcb
+\i (00:28:42) zoom in -2761.87 1701.50
+\i (00:28:42) trapsize 3688
+\i (00:28:42) zoom in 1 
+\i (00:28:42) setwindow pcb
+\i (00:28:42) zoom in -2761.86 1701.50
+\i (00:28:42) trapsize 1844
+\i (00:28:44) setwindow form.mini
+\i (00:28:44) FORM mini subcolor 1 
+\i (00:28:45) FORM mini subclass ASSEMBLY_BOTTOM 
+\i (00:28:45) FORM mini subcolor 1 
+\i (00:28:46) setwindow pcb
+\i (00:28:46) zoom out 1 
+\i (00:28:46) setwindow pcb
+\i (00:28:46) zoom out -2367.26 1152.00
+\i (00:28:46) trapsize 3688
+\i (00:28:46) zoom out 1 
+\i (00:28:46) setwindow pcb
+\i (00:28:46) zoom out -2868.81 1078.25
+\i (00:28:46) trapsize 7376
+\i (00:28:47) zoom in 1 
+\i (00:28:47) setwindow pcb
+\i (00:28:47) zoom in -2175.49 2051.86
+\i (00:28:47) trapsize 3688
+\i (00:28:47) zoom in 1 
+\i (00:28:47) setwindow pcb
+\i (00:28:47) zoom in -2175.49 2059.24
+\i (00:28:47) trapsize 1844
+\i (00:28:49) zoom out 1 
+\i (00:28:49) setwindow pcb
+\i (00:28:49) zoom out -2175.49 2055.56
+\i (00:28:49) trapsize 3688
+\i (00:28:49) zoom in 1 
+\i (00:28:49) setwindow pcb
+\i (00:28:49) zoom in -3311.38 890.17
+\i (00:28:49) trapsize 1844
+\i (00:28:49) zoom in 1 
+\i (00:28:49) setwindow pcb
+\i (00:28:49) zoom in -3311.38 890.18
+\i (00:28:49) trapsize 922
+\i (00:28:50) zoom in 1 
+\i (00:28:50) setwindow pcb
+\i (00:28:50) zoom in -3088.26 1048.76
+\i (00:28:50) trapsize 461
+\i (00:28:50) zoom in 1 
+\i (00:28:50) setwindow pcb
+\i (00:28:50) zoom in -3109.47 1081.03
+\i (00:28:50) trapsize 230
+\i (00:28:50) zoom in 1 
+\i (00:28:50) setwindow pcb
+\i (00:28:50) zoom in -3110.39 1090.72
+\i (00:28:50) trapsize 115
+\i (00:28:51) zoom out 1 
+\i (00:28:51) setwindow pcb
+\i (00:28:51) zoom out -3107.62 1090.72
+\i (00:28:51) trapsize 230
+\i (00:28:51) zoom out 1 
+\i (00:28:51) setwindow pcb
+\i (00:28:51) zoom out -3107.63 1090.72
+\i (00:28:51) trapsize 461
+\i (00:28:55) setwindow form.vf_vis
+\i (00:28:55) FORM vf_vis 1 etch_colorvisible 1 
+\i (00:28:56) FORM vf_vis all_etch_visible NO 
+\i (00:28:57) FORM vf_vis all_etch_visible YES 
+\i (00:28:57) FORM vf_vis all_etch_visible NO 
+\i (00:28:59) setwindow pcb
+\i (00:28:59) open 
+\i (00:29:02) fillin "D:\iTest\homeoffice\Test Hardware\KSMT\980XS-I6K51D-1AG-A10\In Progress\980XS-I6K51D-1AG-A10\980XS-I6K51D-1119-2.brd"
+\i (00:29:02) cd "D:\iTest\homeoffice\Test Hardware\KSMT\980XS-I6K51D-1AG-A10\In Progress\980XS-I6K51D-1AG-A10"
+\t (00:29:02) Opening existing design...
+\i (00:29:03) trapsize 14752
+\t (00:29:03)     Journal end - Fri Nov 20 10:25:51 2026
